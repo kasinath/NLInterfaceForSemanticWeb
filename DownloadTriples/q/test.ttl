@@ -1,0 +1,3 @@
+# this is a complete turtle document
+@prefix doc: <http://example.org/#ns> .
+<http://example.org/path> a doc:Document .

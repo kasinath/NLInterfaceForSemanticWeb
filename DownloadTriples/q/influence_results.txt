@@ -1,0 +1,1801 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Conan_O\\u0027Brien>	dbo:influenced	dbr:Pete_Holmes ,
+		dbr:Dat_Phan ,
+		dbr:Meena_Dimian ;
+	dbo:influencedBy	dbr:Johnny_Carson ,
+		dbr:Rodney_Dangerfield ,
+		dbr:Jonathan_Winters ,
+		dbr:David_Letterman ,
+		dbr:Bob_Newhart .
+dbr:Dave_Sim	dbo:influenced	dbr:Troy_Little ,
+		dbr:Silly_Daddy ,
+		dbr:Neil_Gaiman ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Robert_E._Howard> .
+<http://dbpedia.org/resource/David_Smith_(sculptor)>	dbo:influenced	<http://dbpedia.org/resource/Tim_Scott_(artist)> ,
+		<http://dbpedia.org/resource/David_Hayes_(sculptor)> ,
+		dbr:Peter_Hide ,
+		dbr:Lawrence_James_Beck ,
+		<http://dbpedia.org/resource/Mark_Lindquist_(sculptor)> ,
+		<http://dbpedia.org/resource/Robert_Murray_(artist)> ,
+		<http://dbpedia.org/resource/James_Kelsey_(sculptor)> ,
+		dbr:John_Van_Alstine ,
+		dbr:Robert_Willms ,
+		dbr:Anthony_Caro ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Thomas_Furlong_(artist)> ,
+		<http://dbpedia.org/resource/John_D._Graham> ,
+		dbr:Jan_Matulka ,
+		dbr:Wilhelmina_Weber_Furlong .
+dbr:Eddie_Izzard	dbo:influenced	dbr:Lewis_Costello ,
+		dbr:Hugh_Dennis ,
+		dbr:Harry_Hill ,
+		dbr:Dara_\xc3\x93_Briain ,
+		dbr:Arj_Barker ,
+		dbr:Sean_Lock ;
+	dbo:influencedBy	dbr:Lenny_Bruce ,
+		dbr:Jerry_Sadowitz ,
+		dbr:Billy_Connolly ,
+		dbr:Richard_Pryor .
+dbr:Eug\xc3\xa8ne_Delacroix	dbo:influenced	dbr:Paul_C\xc3\xa9zanne ,
+		dbr:Adolphe_Monticelli ,
+		dbr:Purvis_Young ,
+		dbr:Ignace_Schott ,
+		dbr:Camille_Pissarro ;
+	dbo:influencedBy	dbr:Ovid .
+dbr:George_Lopez	dbo:influenced	dbr:Preacher_Moss ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Paul_Mooney_(comedian)> ,
+		dbr:Chris_Rock ,
+		<http://dbpedia.org/resource/Cheech_&_Chong> ,
+		dbr:Richard_Pryor .
+dbr:Jack_Dee	dbo:influenced	dbr:Jack_Whitehall ;
+	dbo:influencedBy	dbr:Larry_David .
+dbr:Kay_Nielsen	dbo:influenced	dbr:John_Blanche ;
+	dbo:influencedBy	<http://dbpedia.org/resource/John_Bauer_(illustrator)> .
+dbr:Morrissey	dbo:influenced	dbr:Jen_Kirkman ;
+	dbo:influencedBy	dbr:Jack_Kerouac .
+<http://dbpedia.org/resource/Robert_Williams_(artist)>	dbo:influenced	dbr:Jason_Freeny ;
+	dbo:influencedBy	dbr:Ed_Roth .
+dbr:Alfred_Stieglitz	dbo:influenced	dbr:Minor_White ,
+		<http://dbpedia.org/resource/C._Cameron_Macauley> ,
+		dbr:Oscar_Florianus_Bluemner ,
+		dbr:Andreas_Heumann ;
+	dbo:influencedBy	dbr:Charles_Sheeler ,
+		dbr:Paul_Strand .
+<http://dbpedia.org/resource/Patrice_O\\u0027Neal>	dbo:influenced	dbr:Gavin_Stephens ;
+	dbo:influencedBy	dbr:Eddie_Murphy .
+dbr:Clifton_Pugh	dbo:influenced	dbr:Arthur_Ted_Powell ,
+		dbr:Piers_Maxwell_Dudley-Bateman ;
+	dbo:influencedBy	dbr:Stanley_William_Hayter .
+dbr:Elmer_Bischoff	dbo:influenced	dbr:Henry_Villierme ;
+	dbo:influencedBy	<http://dbpedia.org/resource/David_Park_(painter)> .
+dbr:Henry_Moore	dbo:influenced	<http://dbpedia.org/resource/Paul_Mason_(sculptor)> ,
+		dbr:Paul_Vanstone ,
+		dbr:Elizabeth_Bradford_Holbrook ,
+		dbr:Barton_Rubenstein ,
+		dbr:Simon_Perry ,
+		dbr:Julie_Speidel ,
+		dbr:Anthony_Caro ,
+		<http://dbpedia.org/resource/Richard_Erdman_(artist)> ,
+		dbr:Batu_Siharulidze ;
+	dbo:influencedBy	dbr:Leon_Underwood .
+dbr:Willem_de_Kooning	dbo:influenced	dbr:Merton_Simpson ,
+		dbr:Aung_Myint ,
+		dbr:Jacobo_Borges ,
+		dbr:Lyn_Ott ,
+		dbr:Mary_Schepisi ,
+		<http://dbpedia.org/resource/Frederick_J._Brown> ,
+		<http://dbpedia.org/resource/David_Margolis_(artist)> ,
+		dbr:Franz_Kline ,
+		dbr:Elaine_de_Kooning ,
+		dbr:Pieter_Stoop ,
+		dbr:Dick_Wray ,
+		dbr:Joan_Mitchell ,
+		dbr:Chuck_Connelly ,
+		dbr:Richard_Diebenkorn ,
+		dbr:Ronnie_Landfield ,
+		dbr:Ans_Wortel ,
+		dbr:Clyde_Connell ,
+		dbr:Robert_Ryman ;
+	dbo:influencedBy	dbr:Wilhelmina_Weber_Furlong ,
+		<http://dbpedia.org/resource/John_D._Graham> ,
+		dbr:Louise_Nevelson ,
+		<http://dbpedia.org/resource/Thomas_Furlong_(artist)> .
+dbr:Arkhip_Kuindzhi	dbo:influenced	dbr:Leonid_Yanush ,
+		dbr:Gevorg_Bashinjaghian ;
+	dbo:influencedBy	dbr:Ivan_Shishkin ,
+		dbr:Alexei_Savrasov .
+dbr:Steve_Punt	dbo:influenced	dbr:Hugh_Dennis ;
+	dbo:influencedBy	dbr:Rowan_Atkinson .
+dbr:Adolph_Gottlieb	dbo:influenced	dbr:Alison_Knowles ;
+	dbo:influencedBy	dbr:Milton_Avery .
+dbr:Al_Williamson	dbo:influenced	dbr:Jefferson_Wood ;
+	dbo:influencedBy	dbr:Joseph_Clement_Coll .
+dbr:Edward_Ruscha	dbo:influenced	dbr:Mishka_Henner ;
+	dbo:influencedBy	<http://dbpedia.org/resource/H._C._Westermann> .
+<http://dbpedia.org/resource/Maung_Maung_Gyi_(painter)>	dbo:influenced	dbr:Saya_Saung ;
+	dbo:influencedBy	dbr:Robert_Talbot_Kelly .
+dbr:Dick_Gregory	dbo:influenced	dbr:Richard_Pryor ,
+		dbr:Preacher_Moss ,
+		dbr:Chris_Rock ,
+		dbr:Azhar_Usman ,
+		dbr:Paul_Fericano ,
+		dbr:Lenny_Bruce ;
+	dbo:influencedBy	dbr:Mort_Sahl .
+dbr:Jean-Baptiste-Camille_Corot	dbo:influenced	dbr:Barth\xc3\xa9lemy_Menn ,
+		<http://dbpedia.org/resource/Alfred_Smith_(artist)> ,
+		dbr:Adolphe_Appian ,
+		dbr:George_Weissbort ,
+		dbr:Pierre_Emmanuel_Damoye ,
+		dbr:Harry_Carmean ,
+		dbr:Camille_Pissarro ,
+		dbr:Gevorg_Bashinjaghian ,
+		dbr:Antoine_Vollon ;
+	dbo:influencedBy	dbr:Achille_Etna_Michallon .
+dbr:Ray_Romano	dbo:influenced	dbr:Daren_Streblow ;
+	dbo:influencedBy	dbr:David_Letterman ,
+		dbr:Bob_Newhart .
+dbr:Simone_Martini	dbo:influenced	dbr:Lippo_Memmi ;
+	dbo:influencedBy	dbr:Duccio .
+dbr:Dave_McKean	dbo:influenced	dbr:Neil_Gaiman ;
+	dbo:influencedBy	dbr:Barron_Storey .
+dbr:David_Hockney	dbo:influenced	<http://dbpedia.org/resource/Steve_Cox_(artist)> ,
+		<http://dbpedia.org/resource/Antonio_Lopez_(illustrator)> ;
+	dbo:influencedBy	dbr:Julian_Trevelyan ,
+		dbr:Mary_Fedden ,
+		dbr:Henri_Matisse ,
+		dbr:Tom_of_Finland .
+dbr:Helen_Frankenthaler	dbo:influenced	dbr:Kenneth_Noland ,
+		dbr:Morris_Louis ,
+		dbr:Cleve_Gray ;
+	dbo:influencedBy	dbr:Hans_Hofmann ,
+		dbr:Tatyana_Grosman ,
+		dbr:Jackson_Pollock .
+dbr:Jon_Stewart	dbo:influenced	dbr:Bassem_Youssef ,
+		dbr:Narek_Margaryan ,
+		<http://dbpedia.org/resource/John_Oliver_(comedian)> ,
+		dbr:Stephen_Colbert ;
+	dbo:influencedBy	dbr:Mort_Sahl ,
+		dbr:Lenny_Bruce ,
+		dbr:Richard_Pryor ,
+		dbr:Don_Rickles ,
+		dbr:Garry_Shandling ,
+		dbr:David_Letterman .
+dbr:Redd_Foxx	dbo:influenced	dbr:Chris_Rock ,
+		dbr:Dave_Attell ,
+		dbr:Richard_Pryor ,
+		dbr:Nipsey_Russell ,
+		dbr:Bill_Saluga ,
+		dbr:Eddie_Murphy ,
+		dbr:Rip_Taylor ,
+		dbr:Cardis_Cardell_Willis ,
+		<http://dbpedia.org/resource/Bobby_Collins_(comedian)> ,
+		<http://dbpedia.org/resource/Paul_Mooney_(comedian)> ,
+		dbr:Bernie_Mac ,
+		dbr:Sheryl_Underwood ,
+		dbr:Martin_Lawrence ;
+	dbo:influencedBy	dbr:Moms_Mabley .
+<http://dbpedia.org/resource/Richard_Deacon_(sculptor)>	dbo:influenced	dbr:Bronwyn_Oliver ;
+	dbo:influencedBy	dbr:Anthony_Caro .
+dbr:Stan_Brakhage	dbo:influenced	dbr:Benton_C_Bainbridge ,
+		<http://dbpedia.org/resource/Phil_Solomon_(filmmaker)> ;
+	dbo:influencedBy	dbr:Maya_Deren .
+dbr:Armando_Iannucci	dbo:influenced	dbr:Chris_Addison ,
+		<http://dbpedia.org/resource/Ben_Green_(comedian)> ,
+		<http://dbpedia.org/resource/John_Oliver_(comedian)> ,
+		dbr:Cowards ;
+	dbo:influencedBy	dbr:Larry_David .
+<http://dbpedia.org/resource/Larry_Bell_(artist)>	dbo:influenced	dbr:Truman_Lowe ,
+		<http://dbpedia.org/resource/Neil_Williams_(artist)> ;
+	dbo:influencedBy	<http://dbpedia.org/resource/John_McLaughlin_(artist)> .
+dbr:Amir_Khusrow	dbo:influenced	dbr:Mir_Taqi_Mir ,
+		dbr:Shamim_Hashimi ,
+		dbr:Ibn-e-Insha ,
+		dbr:Baksh_Nasikh ;
+	dbo:influencedBy	dbr:Nizami_Ganjavi .
+dbr:David_Cross	dbo:influenced	dbr:Rory_Scovel ,
+		<http://dbpedia.org/resource/Tim_&_Eric> ;
+	dbo:influencedBy	dbr:Lenny_Bruce .
+dbr:Mattia_Preti	dbo:influenced	dbr:Francesco_Solimena ;
+	dbo:influencedBy	dbr:Battistello_Caracciolo .
+<http://dbpedia.org/resource/Peter_F._Rothermel>	dbo:influenced	<http://dbpedia.org/resource/Thomas_Hill_(painter)> ;
+	dbo:influencedBy	dbr:John_Rubens_Smith .
+dbr:Roy_Krenkel	dbo:influenced	dbr:Frank_Frazetta ;
+	dbo:influencedBy	dbr:Joseph_Clement_Coll .
+dbr:Carlo_Cignani	dbo:influenced	<http://dbpedia.org/resource/Giacomo_Boni_(painter)> ;
+	dbo:influencedBy	dbr:Francesco_Albani .
+dbr:Peter_Voulkos	dbo:influenced	<http://dbpedia.org/resource/Mark_Lindquist_(sculptor)> ,
+		dbr:Eric_Norstad ;
+	dbo:influencedBy	dbr:Frances_Senska .
+dbr:Santiago_Rusi\xc3\xb1ol	dbo:influenced	dbr:Joan_Maragall ,
+		dbr:Llu\xc3\xafsa_Vidal ;
+	dbo:influencedBy	dbr:Joan_Maragall .
+dbr:Hans_Hofmann	dbo:influenced	dbr:Louise_Nevelson ,
+		dbr:Blanche_Lazzell ,
+		dbr:Helen_Frankenthaler ,
+		dbr:Soraida_Martinez ,
+		dbr:Ronnie_Landfield ,
+		dbr:Olga_Albizu ,
+		dbr:Fritz_Bultman ;
+	dbo:influencedBy	dbr:Henri_Matisse .
+dbr:Ngwe_Gaing	dbo:influenced	dbr:Lun_Gywe ,
+		dbr:San_Win ;
+	dbo:influencedBy	dbr:Ba_Nyan .
+dbr:Paul_McCartney	dbo:influenced	dbr:Joanna_Wang ;
+	dbo:influencedBy	dbr:Ken_Kesey .
+dbr:Henri_de_Toulouse-Lautrec	dbo:influenced	dbr:Misha_Lenn ,
+		<http://dbpedia.org/resource/Bruce_B._Jefferson> ,
+		dbr:Isaac_Isra\xc3\xabls ,
+		<http://dbpedia.org/resource/J._C._Leyendecker> ,
+		dbr:Georges_Lemmen ,
+		dbr:Floyd_MacMillan_Davis ,
+		dbr:Constant_Detr\xc3\xa9 ;
+	dbo:influencedBy	dbr:Edgar_Degas .
+dbr:Ilya_Bolotowsky	dbo:influenced	dbr:Kenneth_Noland ;
+	dbo:influencedBy	dbr:Bryce_Hudson .
+dbr:Jeong_Hyeong-don	dbo:influenced	dbr:Noh_Hong-chul ;
+	dbo:influencedBy	dbr:Park_Myeong-su ,
+		dbr:Jeong_Jun-ha ,
+		dbr:Yoo_Jae-suk .
+dbr:Richey_Edwards	dbo:influenced	dbr:Patrick_Jones ;
+	dbo:influencedBy	dbr:Arthur_Rimbaud .
+dbr:Ricky_Gervais	dbo:influenced	dbr:Cowards ,
+		<http://dbpedia.org/resource/Ben_Green_(comedian)> ,
+		dbr:Rajiv_Satyal ,
+		dbr:Malena_Pichot ,
+		dbr:Robin_Ince ,
+		<http://dbpedia.org/resource/Omar_\\u0027The_White_Sudani\\u0027_Ramzi> ;
+	dbo:influencedBy	dbr:Rik_Mayall ,
+		dbr:Garry_Shandling ,
+		dbr:Jerry_Sadowitz ,
+		dbr:Larry_David ,
+		<http://dbpedia.org/resource/Peter_Richardson_(English_director)> ,
+		dbr:Billy_Connolly ,
+		dbr:Groucho_Marx ,
+		dbr:Paul_Merton .
+dbr:Diego_Vel\xc3\xa1zquez	dbo:influenced	dbr:William_Merritt_Chase ,
+		dbr:Stian_Heimlund_Skj\xc3\xa6veland ,
+		dbr:Natalie_Holland ,
+		dbr:George_Weissbort ,
+		dbr:Loretta_Lux ,
+		dbr:John_Singer_Sargent ,
+		dbr:Leona_Wood ,
+		dbr:Jules_Benoit-L\xc3\xa9vy ,
+		<http://dbpedia.org/resource/Claudio_Bravo_(painter)> ,
+		dbr:Antoni_Taul\xc3\xa9 ;
+	dbo:influencedBy	dbr:Jacopo_Bassano .
+dbr:Ansel_Adams	dbo:influenced	<http://dbpedia.org/resource/C._Cameron_Macauley> ,
+		dbr:Dody_Weston_Thompson ,
+		dbr:Jacobo_Montvelisky ,
+		dbr:Brett_Weston ,
+		dbr:Timothy_Lee_Barnwell ;
+	dbo:influencedBy	dbr:Edward_Weston ,
+		dbr:Paul_Strand .
+dbr:Carl_Larsson	dbo:influenced	<http://dbpedia.org/resource/John_Bauer_(illustrator)> ;
+	dbo:influencedBy	dbr:Fanny_Brate .
+dbr:Edward_Hopper	dbo:influenced	dbr:Sanford_Ross ,
+		dbr:Robert_Cottingham ,
+		<http://dbpedia.org/resource/Stephen_Robson_(artist)> ,
+		dbr:Richard_Diebenkorn ,
+		dbr:Stephen_Etnier ,
+		<http://dbpedia.org/resource/Antonio_Lopez_(illustrator)> ,
+		dbr:Bo_Bartlett ,
+		dbr:Ben_Aronson ;
+	dbo:influencedBy	dbr:Paul_Strand ,
+		dbr:Wilhelmina_Weber_Furlong ,
+		dbr:William_Merritt_Chase .
+dbr:Fernand_L\xc3\xa9ger	dbo:influenced	<http://dbpedia.org/resource/Ben_F._Laposky> ,
+		dbr:Robert_Colescott ,
+		dbr:Blanche_Lazzell ,
+		dbr:Kurt_Oscar_Weber ,
+		dbr:Juan_Gris ;
+	dbo:influencedBy	dbr:Henri_Rousseau .
+dbr:Henri_Matisse	dbo:influenced	dbr:Georges_Braque ,
+		dbr:Raoul_Dufy ,
+		dbr:Ellsworth_Kelly ,
+		dbr:Wilhelmina_Weber_Furlong ,
+		dbr:Molly_Bobak ,
+		dbr:Georgette_Chen ,
+		dbr:Sarah_Stein ,
+		<http://dbpedia.org/resource/Liu_Kang_(artist)> ,
+		dbr:Ben_Shahn ,
+		dbr:Mary_Fedden ,
+		dbr:Milton_Avery ,
+		dbr:Maurice_Cloud ,
+		dbr:Fritz_Bultman ,
+		dbr:Ronnie_Landfield ,
+		dbr:Albert_Marquet ,
+		dbr:Tom_Wesselmann ,
+		<http://dbpedia.org/resource/Thomas_Furlong_(artist)> ,
+		dbr:Juan_Gris ,
+		dbr:Dick_Bruna ,
+		<http://dbpedia.org/resource/David_Hayes_(sculptor)> ,
+		dbr:Aung_Soe ,
+		dbr:Milivoj_Uzelac ,
+		dbr:Wolf_Kibel ,
+		dbr:Wifredo_Lam ,
+		<http://dbpedia.org/resource/Philip_Sutton_(artist)> ,
+		<http://dbpedia.org/resource/Jacques_Pellegrin_(painter)> ,
+		dbr:Francis_Picabia ,
+		dbr:Hans_Hofmann ,
+		dbr:Jules_Halfant ,
+		<http://dbpedia.org/resource/Claudio_Bravo_(painter)> ,
+		dbr:Karel_Appel ,
+		dbr:Richard_Diebenkorn ,
+		dbr:Maggie_Laubser ,
+		dbr:Carolyn_Kreiter-Foronda ,
+		dbr:Gary_Komarin ,
+		dbr:Gershon_Benjamin ,
+		dbr:Sadik_Kaceli ,
+		dbr:Einar_Jolin ,
+		dbr:Sonia_Gechtoff ,
+		dbr:John_Goodwin_Lyman ;
+	dbo:influencedBy	dbr:Paul_C\xc3\xa9zanne ,
+		dbr:Henri-Edmond_Cross .
+dbr:Hyacinthe_Rigaud	dbo:influenced	dbr:Joseph_Andr\xc3\xa9_Cellony ,
+		dbr:Louis_Ren\xc3\xa9_Vialy ,
+		dbr:Anton_Graff ;
+	dbo:influencedBy	dbr:Antoine_Ranc .
+<http://dbpedia.org/resource/J._M._W._Turner>	dbo:influenced	dbr:Wilfred_Fairclough ,
+		dbr:Glenys_Cour ,
+		dbr:Anna_Chrom\xc3\xbd ,
+		<http://dbpedia.org/resource/F._L._Griggs> ,
+		dbr:Helen_Berman ,
+		dbr:Nora_Sumberg ,
+		dbr:S\xc3\xa9rgio_Valle_Duarte ,
+		<http://dbpedia.org/resource/John_Harris_(artist)> ,
+		dbr:William_McTaggart ;
+	dbo:influencedBy	dbr:Claude_Lorrain .
+dbr:Jasper_Johns	dbo:influenced	dbr:Frank_Stella ,
+		dbr:Jahan_Loh ,
+		<http://dbpedia.org/resource/Michael_David_(painter)> ,
+		dbr:Brice_Marden ,
+		dbr:Vija_Celmins ;
+	dbo:influencedBy	dbr:Tatyana_Grosman .
+dbr:Joan_Mir\xc3\xb3	dbo:influenced	<http://dbpedia.org/resource/Ben_F._Laposky> ,
+		dbr:Kv\xc4\x9bta_Pacovsk\xc3\xa1 ,
+		dbr:Moussa_Sene_Absa ,
+		<http://dbpedia.org/resource/Juan_T._V\\u00E1zquez_Mart\\u00EDn> ,
+		dbr:Paul-\xc3\x89mile_Borduas ,
+		dbr:Paul_du_Toit ,
+		dbr:Min\xc3\xb3y ,
+		dbr:Jackson_Pollock ,
+		<http://dbpedia.org/resource/James_Kelsey_(sculptor)> ;
+	dbo:influencedBy	dbr:Stanley_William_Hayter .
+dbr:Marc_Chagall	dbo:influenced	dbr:Israel_Tsvaygenbaum ,
+		dbr:Georg_Muche ,
+		dbr:Wolf_Kibel ,
+		dbr:Ans_Wortel ,
+		dbr:Abdul_Vas ,
+		dbr:Rick_Bartow ;
+	dbo:influencedBy	dbr:Stanley_William_Hayter ,
+		dbr:Mikhail_Vrubel .
+dbr:Margaret_Cho	dbo:influenced	dbr:Rosie_Tran ,
+		dbr:Nazeem_Hussain ,
+		dbr:Aamer_Rahman ;
+	dbo:influencedBy	dbr:Richard_Pryor .
+dbr:Nick_Cave	dbo:influenced	dbr:Jesse_Bullington ;
+	dbo:influencedBy	dbr:Vladimir_Nabokov .
+dbr:Paul_Gauguin	dbo:influenced	dbr:Robert_Bevan ,
+		<http://dbpedia.org/resource/Bruce_B._Jefferson> ,
+		dbr:B\xc3\xa9la_Iv\xc3\xa1nyi-Gr\xc3\xbcnwald ,
+		dbr:Axel_T\xc3\xb6rneman ,
+		<http://dbpedia.org/resource/Liu_Kang_(artist)> ,
+		dbr:Claude_Bonin-Pissarro ,
+		dbr:Israel_Tsvaygenbaum ,
+		dbr:Giorgio_De_Vincenzi ,
+		dbr:Henri_Matisse ,
+		dbr:William_Laurel_Harris ,
+		dbr:Alexis_Preller ,
+		dbr:Georges_Braque ,
+		dbr:Mladen_Josi\xc4\x87 ,
+		dbr:Andr\xc3\xa9_Lhote ,
+		dbr:Arie_Smit ;
+	dbo:influencedBy	dbr:Camille_Pissarro .
+dbr:Aung_Soe	dbo:influenced	dbr:Aung_Myint ;
+	dbo:influencedBy	dbr:Ba_Nyan .
+dbr:Rik_Mayall	dbo:influenced	dbr:Matt_Lucas ,
+		dbr:Noel_Fielding ,
+		dbr:Harry_Enfield ,
+		dbr:Mitchell_and_Webb ;
+	dbo:influencedBy	dbr:Rowan_Atkinson .
+dbr:Bronzino	dbo:influenced	dbr:Loretta_Lux ;
+	dbo:influencedBy	dbr:Raffaellino_del_Garbo .
+<http://dbpedia.org/resource/Juran_(painter)>	dbo:influenced	dbr:Shen_Zhou ,
+		<http://dbpedia.org/resource/Li_Cheng_(painter)> ;
+	dbo:influencedBy	dbr:Dong_Yuan .
+dbr:Alexei_Sayle	dbo:influenced	dbr:Mark_Steel ,
+		dbr:Robin_Ince ;
+	dbo:influencedBy	dbr:Jerry_Sadowitz .
+dbr:Frederic_Edwin_Church	dbo:influenced	dbr:Jervis_McEntee ;
+	dbo:influencedBy	dbr:Thomas_Cole .
+dbr:Grayson_Perry	dbo:influenced	dbr:Andrew_Cornell_Robinson ;
+	dbo:influencedBy	dbr:Arthur_Mee .
+dbr:Joe_Rogan	dbo:influenced	dbr:Lewis_Costello ;
+	dbo:influencedBy	dbr:Lenny_Bruce ,
+		dbr:Richard_Pryor .
+dbr:Paja_Jovanovi\xc4\x87	dbo:influenced	dbr:Franz_Eisenhut ;
+	dbo:influencedBy	dbr:Franz_Eisenhut .
+dbr:Sam_Francis	dbo:influenced	dbr:Alfred_Jensen ;
+	dbo:influencedBy	dbr:Alfred_Jensen .
+dbr:Ben_Nicholson	dbo:influenced	dbr:Mary_Fedden ,
+		dbr:Nancy_Nicholson ,
+		dbr:Eleanore_Mikus ,
+		dbr:Andy_Goldsworthy ;
+	dbo:influencedBy	<http://dbpedia.org/resource/William_Nicholson_(artist)> .
+dbr:Damien_Hirst	dbo:influenced	dbr:Ted_Noten ,
+		<http://dbpedia.org/resource/Vincent_J.F._Huang> ,
+		dbr:Katrin_Fridriks ,
+		dbr:Douglas_Coupland ;
+	dbo:influencedBy	dbr:John_LeKay .
+dbr:Lisa_Lampanelli	dbo:influenced	dbr:Rosie_Tran ;
+	dbo:influencedBy	dbr:Don_Rickles .
+dbr:Lynda_Barry	dbo:influenced	dbr:Elisha_Lim ,
+		dbr:Ali_Liebegott ;
+	dbo:influencedBy	dbr:Ed_Subitzky ,
+		dbr:Gahan_Wilson .
+dbr:Robert_Mapplethorpe	dbo:influenced	dbr:Sam_Wagstaff ,
+		dbr:Justice_Howard ;
+	dbo:influencedBy	dbr:George_Dureau ,
+		dbr:Tom_of_Finland ,
+		dbr:Wilhelm_von_Gloeden .
+dbr:Robert_Rauschenberg	dbo:influenced	dbr:Cartrain ,
+		dbr:Eduardo_\xc3\x9arculo ,
+		dbr:Brice_Marden ,
+		dbr:Mishka_Henner ,
+		dbr:Paul_Rusconi ,
+		dbr:Donald_Baechler ,
+		dbr:James_Dean_Pruner ,
+		<http://dbpedia.org/resource/James_C._Harrison> ;
+	dbo:influencedBy	dbr:Tatyana_Grosman .
+dbr:Robert_Klein	dbo:influenced	dbr:Jerry_Seinfeld ,
+		<http://dbpedia.org/resource/Jim_Norton_(comedian)> ,
+		dbr:Jay_Leno ,
+		dbr:Nick_DiPaolo ;
+	dbo:influencedBy	dbr:Rodney_Dangerfield ,
+		dbr:Jack_Paar .
+dbr:Alfred_Kubin	dbo:influenced	dbr:Paul_Flora ;
+	dbo:influencedBy	dbr:Otto_Weininger .
+dbr:Eug\xc3\xa8ne_Atget	dbo:influenced	<http://dbpedia.org/resource/Richard_Gordon_(photographer)> ,
+		dbr:Berenice_Abbott ,
+		dbr:Jeff_Wassmann ;
+	dbo:influencedBy	dbr:Johann_Dieter_Wassmann .
+dbr:Giovanni_Costa	dbo:influenced	dbr:Enrico_Coleman ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Charles_Coleman_(English_painter)> .
+dbr:Ad_Reinhardt	dbo:influenced	dbr:Frederick_Spratt ,
+		dbr:Ryszard_Wasko ;
+	dbo:influencedBy	dbr:Francis_Criss .
+dbr:Arthur_Boyd	dbo:influenced	dbr:Piers_Maxwell_Dudley-Bateman ,
+		dbr:Brett_Whiteley ;
+	dbo:influencedBy	dbr:Yosl_Bergner .
+dbr:Jerry_Sadowitz	dbo:influenced	dbr:Eddie_Izzard ,
+		<http://dbpedia.org/resource/Roy_\\u0027Chubby\\u0027_Brown> ,
+		dbr:Pat_Condell ,
+		dbr:Alexei_Sayle ;
+	dbo:influencedBy	dbr:Lenny_Bruce .
+dbr:Albert_Gleizes	dbo:influenced	dbr:Blanche_Lazzell ;
+	dbo:influencedBy	dbr:Alexandre_Mercereau .
+dbr:Peter_Hide	dbo:influenced	dbr:Robert_Willms ;
+	dbo:influencedBy	dbr:Anthony_Caro .
+dbr:William_Merritt_Chase	dbo:influenced	dbr:Abby_Williams_Hill ,
+		dbr:Catherine_Wiley ,
+		dbr:Frederic_Porter_Vinton ,
+		dbr:Emma_Lampert_Cooper ,
+		dbr:George_Pearse_Ennis ,
+		dbr:Dulah_Marie_Evans ,
+		<http://dbpedia.org/resource/Louise_Cox_(painter)> ,
+		dbr:Wilhelmina_Weber_Furlong ;
+	dbo:influencedBy	dbr:James_Abbott_McNeill_Whistler ,
+		dbr:Fern_Coppedge .
+dbr:Nicolae_Tonitza	dbo:influenced	dbr:Petre_H\xc3\xa2rtopeanu ;
+	dbo:influencedBy	dbr:K\xc3\xa4the_Kollwitz ,
+		dbr:\xc8\x98tefan_Luchian .
+dbr:Stanley_William_Hayter	dbo:influenced	dbr:Tinca_Stegovec ,
+		dbr:Frank_Hodgkinson ,
+		dbr:Letterio_Calapai ,
+		dbr:Julian_Trevelyan ;
+	dbo:influencedBy	dbr:J\xc3\xb3zef_Hecht .
+dbr:Mikhail_Nesterov	dbo:influenced	dbr:Arkady_Plastov ;
+	dbo:influencedBy	dbr:Ilya_Repin ,
+		dbr:Mikhail_Vrubel .
+dbr:Daniel_Garber	dbo:influenced	dbr:Manuel_Azadigian ;
+	dbo:influencedBy	dbr:Fern_Coppedge .
+dbr:Michelangelo	dbo:influenced	dbr:Nicolas_Coustou ,
+		dbr:Batu_Siharulidze ,
+		dbr:Boaz_Vaadia ,
+		dbr:L\xc3\xa9on_Gard ,
+		<http://dbpedia.org/resource/Annette_P._Jimerson> ,
+		dbr:Elise_Primavera ,
+		<http://dbpedia.org/resource/Anthony_C._George> ,
+		dbr:Linda_Montano ,
+		dbr:William_Trethewey ,
+		dbr:Ben_Dearnley ,
+		dbr:Matija_Vukovi\xc4\x87 ,
+		<http://dbpedia.org/resource/Richard_Erdman_(artist)> ;
+	dbo:influencedBy	dbr:Melozzo_da_Forl\xc3\xac .
+dbr:Raphael	dbo:influenced	dbr:Bernard_van_Orley ,
+		dbr:Mariotto_Albertinelli ,
+		dbr:Fran\xc3\xa7ois_de_Poilly ,
+		dbr:Barbara_Longhi ;
+	dbo:influencedBy	dbr:Melozzo_da_Forl\xc3\xac .
+dbr:Vincent_van_Gogh	dbo:influenced	dbr:Emilio_Boggio ,
+		dbr:Hadaa_Sendoo ,
+		dbr:Alexis_Preller ,
+		dbr:Axel_T\xc3\xb6rneman ,
+		<http://dbpedia.org/resource/Annette_P._Jimerson> ,
+		dbr:Victor_Stabin ,
+		<http://dbpedia.org/resource/Bruce_B._Jefferson> ,
+		dbr:Aung_Khin ,
+		dbr:Dick_Bruna ,
+		dbr:Purvis_Young ,
+		dbr:Arman ,
+		dbr:Giorgio_De_Vincenzi ,
+		dbr:Ai_Qing ,
+		dbr:Subhash_Awchat ,
+		dbr:Hayley_Lever ,
+		dbr:Leo_Marchutz ,
+		dbr:Chuck_Connelly ,
+		dbr:Henri_Matisse ,
+		dbr:Maggie_Laubser ,
+		dbr:Joan_Mitchell ,
+		dbr:Roger_Ing ,
+		dbr:Hai_Zi ,
+		dbr:Israel_Tsvaygenbaum ,
+		dbr:Joan_Glass ,
+		<http://dbpedia.org/resource/James_Kelly_(abstract_expressionist_artist)> ;
+	dbo:influencedBy	dbr:Anton_Mauve ,
+		dbr:Adolphe_Monticelli .
+dbr:Mark_Rothko	dbo:influenced	<http://dbpedia.org/resource/Peter_Liddle_(artist)> ,
+		dbr:Elaine_de_Kooning ,
+		dbr:Ubermorgen ,
+		dbr:Bill_Viola ,
+		dbr:Nora_Sumberg ,
+		dbr:Fernando_Z\xc3\xb3bel_de_Ayala_y_Montojo ,
+		dbr:Cleve_Gray ,
+		<http://dbpedia.org/resource/Yves_Gaucher_(artist)> ,
+		dbr:Lisa_Nankivil ,
+		dbr:Robert_Ryman ,
+		dbr:Alfred_Jensen ,
+		dbr:Glenys_Cour ;
+	dbo:influencedBy	<http://dbpedia.org/resource/John_D._Graham> ,
+		dbr:Stanley_William_Hayter ,
+		dbr:Milton_Avery ,
+		dbr:Alfred_Jensen .
+dbr:Jerry_Seinfeld	dbo:influenced	dbr:Donovan_Strain ,
+		<http://dbpedia.org/resource/Jeff_Allen_(comedian)> ,
+		dbr:Daren_Streblow ,
+		dbr:Shmuel_Breban ,
+		<http://dbpedia.org/resource/Louis_C.K.> ,
+		dbr:Cem_Y\xc4\xb1lmaz ,
+		dbr:Nazeem_Hussain ,
+		dbr:Gato_Fedorento ,
+		<http://dbpedia.org/resource/Ben_Green_(comedian)> ,
+		dbr:Malena_Pichot ,
+		dbr:Mitch_Hedberg ,
+		dbr:Fahad_Albutairi ,
+		dbr:Dat_Phan ,
+		<http://dbpedia.org/resource/Lee_Camp_(comedian)> ,
+		dbr:Rajiv_Satyal ,
+		dbr:Azhar_Usman ,
+		<http://dbpedia.org/resource/Tim_Young_(comedian)> ;
+	dbo:influencedBy	dbr:Jack_Paar ,
+		dbr:Bill_Saluga ,
+		dbr:Lenny_Bruce ,
+		dbr:Jean_Shepherd ,
+		dbr:Larry_David ,
+		dbr:Robert_Klein ,
+		dbr:David_Brenner .
+dbr:John_Constable	dbo:influenced	dbr:William_McTaggart ,
+		dbr:Ma_Jir_Bo ;
+	dbo:influencedBy	dbr:John_Malchair ,
+		dbr:Claude_Lorrain ,
+		dbr:Robert_Bloomfield .
+dbr:John_Singer_Sargent	dbo:influenced	dbr:Les_Edwards ,
+		dbr:Phil_Hale ,
+		dbr:Harrington_Mann ,
+		dbr:Paul_C\xc3\xa9sar_Helleu ,
+		dbr:David_Fairrington ,
+		dbr:Ma_Jir_Bo ;
+	dbo:influencedBy	dbr:James_Abbott_McNeill_Whistler .
+dbr:Sally_Mann	dbo:influenced	dbr:Laura_Pannack ;
+	dbo:influencedBy	dbr:Diane_Arbus .
+dbr:Anthony_Caro	dbo:influenced	dbr:Robert_Willms ,
+		dbr:Peter_Hide ;
+	dbo:influencedBy	<http://dbpedia.org/resource/David_Smith_(sculptor)> .
+dbr:Asher_Brown_Durand	dbo:influenced	dbr:Samuel_Colman ;
+	dbo:influencedBy	dbr:Thomas_Cole .
+dbr:Jeff_Wall	dbo:influenced	dbr:Rodney_Graham ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Iain_Baxter&> ,
+		dbr:Ingrid_Baxter .
+<http://dbpedia.org/resource/R._B._Kitaj>	dbo:influenced	<http://dbpedia.org/resource/Steve_Cox_(artist)> ;
+	dbo:influencedBy	dbr:Julian_Trevelyan .
+dbr:Raoul_Dufy	dbo:influenced	dbr:Ben_Shahn ,
+		dbr:Georges_Braque ,
+		dbr:Paul_Maze ;
+	dbo:influencedBy	dbr:L\xc3\xa9on_Bonnat .
+dbr:Vasily_Surikov	dbo:influenced	dbr:Arkady_Plastov ;
+	dbo:influencedBy	dbr:Ilya_Repin .
+dbr:Graham_Sutherland	dbo:influenced	dbr:Joan_Glass ,
+		<http://dbpedia.org/resource/John_Harris_(artist)> ,
+		dbr:Alejandro_Obreg\xc3\xb3n ;
+	dbo:influencedBy	<http://dbpedia.org/resource/F._L._Griggs> .
+dbr:Jimmy_Fallon	dbo:influenced	dbr:Vince_Duverge ;
+	dbo:influencedBy	dbr:Lewis_Black ,
+		dbr:Dana_Carvey ,
+		dbr:David_Letterman .
+dbr:Mary_Wigman	dbo:influenced	dbr:Yvonne_Georgi ;
+	dbo:influencedBy	dbr:Rudolf_von_Laban .
+dbr:Anish_Kapoor	dbo:influenced	dbr:Paul_Vanstone ,
+		dbr:Katrin_Fridriks ;
+	dbo:influencedBy	dbr:John_McCracken .
+<http://dbpedia.org/resource/William_Nicholson_(artist)>	dbo:influenced	dbr:Charles_Buckles_Falls ;
+	dbo:influencedBy	dbr:William_Cubley .
+dbr:Arshile_Gorky	dbo:influenced	dbr:Alice_Mason ,
+		dbr:Richard_Diebenkorn ;
+	dbo:influencedBy	dbr:Paul_C\xc3\xa9zanne ,
+		dbr:Joan_Mir\xc3\xb3 ,
+		<http://dbpedia.org/resource/John_D._Graham> .
+dbr:Billy_Connolly	dbo:influenced	dbr:Ross_Noble ,
+		dbr:Eddie_Izzard ,
+		dbr:Robbie_Bonham ,
+		dbr:Frankie_Boyle ,
+		dbr:Barry_Hilton ,
+		dbr:Blake_Clark ,
+		<http://dbpedia.org/resource/Jason_Byrne_(comedian)> ,
+		<http://dbpedia.org/resource/Chris_Ramsey_(comedian)> ,
+		dbr:Michael_McIntyre ,
+		dbr:David_Armand ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Cheech_&_Chong> .
+dbr:Brian_Eno	dbo:influenced	dbr:JoFF_Rae ,
+		dbr:Tim_White-Sobieski ;
+	dbo:influencedBy	<http://dbpedia.org/resource/William_S._Burroughs> ,
+		dbr:Roy_Ascott .
+dbr:Chris_Rock	dbo:influenced	dbr:Jerrod_Carmichael ,
+		dbr:Said_Durrah ,
+		dbr:Aamer_Rahman ,
+		dbr:Dat_Phan ,
+		dbr:Neal_Brennan ,
+		dbr:Nabil_Abdul_Rashid ,
+		dbr:Dave_Chappelle ,
+		dbr:Gavin_Stephens ,
+		dbr:Prince_Abdi ,
+		dbr:Humza_Arshad ,
+		dbr:Donovan_Strain ,
+		dbr:Lewis_Costello ,
+		<http://dbpedia.org/resource/Lee_Camp_(comedian)> ,
+		dbr:Nazeem_Hussain ,
+		<http://dbpedia.org/resource/Jay_Dee_(comedian)> ,
+		dbr:George_Lopez ,
+		dbr:Sugar_Sammy ,
+		dbr:Rajiv_Satyal ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Cheech_&_Chong> ,
+		dbr:Rodney_Dangerfield ,
+		dbr:Eddie_Murphy ,
+		dbr:Flip_Wilson ,
+		dbr:Mort_Sahl .
+dbr:Clement_Greenberg	dbo:influenced	dbr:Cora_Kelley_Ward ,
+		dbr:Morris_Louis ;
+	dbo:influencedBy	dbr:Hans_Hofmann .
+dbr:Eason_Chan	dbo:influenced	<http://dbpedia.org/resource/Bii_(singer)> ;
+	dbo:influencedBy	dbr:Anita_Mui ,
+		dbr:George_Lam ,
+		dbr:Jacky_Cheung ,
+		dbr:Alan_Tam .
+dbr:Jackie_Chan	dbo:influenced	dbr:Ashton_Chen ,
+		dbr:Han_Geng ;
+	dbo:influencedBy	dbr:Juan_Tyrone_Garcia .
+dbr:James_Abbott_McNeill_Whistler	dbo:influenced	dbr:James_Wilson_Morrice ,
+		<http://dbpedia.org/resource/Elizabeth_Forbes_(artist)> ,
+		dbr:Dwight_William_Tryon ,
+		dbr:Leon_Dabo ,
+		dbr:Harrington_Mann ,
+		dbr:William_Merritt_Chase ;
+	dbo:influencedBy	dbr:Alice_Pike_Barney ,
+		dbr:Gustave_Courbet ,
+		dbr:Robert_Walter_Weir .
+dbr:Larry_David	dbo:influenced	dbr:Sarah_Silverman ,
+		dbr:Rajiv_Satyal ,
+		<http://dbpedia.org/resource/Ben_Green_(comedian)> ,
+		dbr:Cowards ,
+		dbr:Jack_Dee ,
+		dbr:Malena_Pichot ,
+		dbr:Armando_Iannucci ,
+		dbr:Bruno_Nogueira ;
+	dbo:influencedBy	dbr:Phil_Silvers .
+dbr:Leonard_Cohen	dbo:influenced	dbr:N\xc3\xa9stor_Barron ,
+		dbr:G\xc3\xb6ran_Tunstr\xc3\xb6m ,
+		dbr:Shannon_Bramer ,
+		<http://dbpedia.org/resource/Stephen_Rowe_(poet)> ;
+	dbo:influencedBy	dbr:G\xc3\xb6ran_Tunstr\xc3\xb6m .
+<http://dbpedia.org/resource/M.T._Hla_(U_Tun_Hla)>	dbo:influenced	dbr:Saya_Myit ;
+	dbo:influencedBy	dbr:Robert_Talbot_Kelly .
+dbr:Michael_Jackson	dbo:influenced	dbr:A-Lin ,
+		dbr:Henry_Huo ,
+		dbr:Jacky_Cheung ,
+		dbr:Kenny_Kwan ,
+		dbr:Aaron_Kwok ,
+		<http://dbpedia.org/resource/L.A._Boyz> ,
+		dbr:JoFF_Rae ;
+	dbo:influencedBy	dbr:Julia_Gregson .
+dbr:Raffaellino_del_Garbo	dbo:influenced	dbr:Bronzino ;
+	dbo:influencedBy	dbr:Filippino_Lippi .
+dbr:Rockwell_Kent	dbo:influenced	dbr:Stephen_Etnier ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Thomas_Furlong_(artist)> ,
+		dbr:Wilhelmina_Weber_Furlong .
+dbr:Sam_Kinison	dbo:influenced	dbr:Norm_Macdonald ,
+		dbr:Dave_Attell ,
+		dbr:Ron_White ,
+		dbr:Jim_Breuer ,
+		dbr:Brad_Stine ,
+		dbr:Emery_Emery ,
+		dbr:Chris_Rock ,
+		dbr:Ralphie_May ,
+		dbr:Artie_Lange ,
+		dbr:Denis_Leary ,
+		dbr:Patton_Oswalt ,
+		dbr:Jen_Kirkman ,
+		dbr:Joe_Rogan ,
+		dbr:Tom_Rhodes ;
+	dbo:influencedBy	dbr:Lenny_Bruce .
+dbr:Saya_Saung	dbo:influenced	dbr:Ba_Thet ;
+	dbo:influencedBy	dbr:Ba_Zaw .
+dbr:Stephen_Chow	dbo:influenced	dbr:Kim_Min-kyo ,
+		dbr:Fung_Min-hun ;
+	dbo:influencedBy	dbr:Juan_Tyrone_Garcia .
+<http://dbpedia.org/resource/Thomas_Hart_Benton_(painter)>	dbo:influenced	dbr:Sanford_Ross ,
+		dbr:John_McCrady ,
+		dbr:Jacob_Burck ,
+		dbr:Roger_Medearis ,
+		dbr:Eugene_Savage ,
+		dbr:Jackson_Pollock ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Thomas_Furlong_(artist)> ,
+		dbr:Wilhelmina_Weber_Furlong ,
+		dbr:Stanton_Macdonald-Wright .
+dbr:Annibale_Carracci	dbo:influenced	dbr:Simon_Vouet ,
+		dbr:Fran\xc3\xa7ois_de_Poilly ,
+		dbr:Ludovico_Carracci ;
+	dbo:influencedBy	dbr:Jacopo_Bassano .
+dbr:Barbara_Kruger	dbo:influenced	dbr:Akiko_Ichikawa ;
+	dbo:influencedBy	dbr:Marvin_Israel .
+dbr:Frederic_Remington	dbo:influenced	<http://dbpedia.org/resource/J._K._Ralston> ,
+		dbr:Robert_Hitchcock ,
+		<http://dbpedia.org/resource/Philip_R._Goodwin> ,
+		dbr:Fred_Machetanz ;
+	dbo:influencedBy	dbr:Winslow_Homer ,
+		dbr:Rufus_Fairchild_Zogbaum .
+dbr:Ilya_Repin	dbo:influenced	dbr:Mikhail_Vrubel ,
+		dbr:Vasily_Surikov ,
+		dbr:Arkady_Plastov ;
+	dbo:influencedBy	dbr:Ivan_Kramskoi ,
+		dbr:Alexander_Pushkin ,
+		dbr:Gustave_Courbet .
+dbr:Norm_Macdonald	dbo:influenced	dbr:Jonathan_Katz ;
+	dbo:influencedBy	dbr:Dennis_Miller ,
+		dbr:Don_Rickles ,
+		dbr:Bob_Newhart ,
+		dbr:Rodney_Dangerfield .
+dbr:Rodney_Dangerfield	dbo:influenced	dbr:Chris_Rock ,
+		dbr:Cardis_Cardell_Willis ,
+		dbr:Robert_Klein ,
+		dbr:Jimmy_Fallon ,
+		dbr:Jay_Leno ,
+		dbr:Kris_LaBelle ;
+	dbo:influencedBy	dbr:Henny_Youngman .
+dbr:Stan_Lee	dbo:influenced	dbr:Chris_Valentino ,
+		<http://dbpedia.org/resource/Michael_Carroll_(author)> ,
+		<http://dbpedia.org/resource/C._J._Henderson> ,
+		<http://dbpedia.org/resource/George_R._R._Martin> ,
+		<http://dbpedia.org/resource/J._S._Lewis> ,
+		dbr:David_de_Vries ;
+	dbo:influencedBy	dbr:Edward_Edson_Lee .
+dbr:Emo_Philips	dbo:influenced	dbr:Patton_Oswalt ,
+		dbr:Mitch_Hedberg ,
+		dbr:Shmuel_Breban ;
+	dbo:influencedBy	dbr:Reg_Hartt .
+dbr:Frederic_Porter_Vinton	dbo:influenced	dbr:Ernest_Ludvig_Ipsen ;
+	dbo:influencedBy	dbr:L\xc3\xa9on_Bonnat .
+<http://dbpedia.org/resource/N._C._Wyeth>	dbo:influenced	dbr:Scott_Gustafson ,
+		dbr:Gerald_Brom ,
+		<http://dbpedia.org/resource/Robert_McCall_(artist)> ,
+		dbr:Peter_Hurd ,
+		dbr:Jamie_Wyeth ,
+		dbr:Fred_Machetanz ,
+		dbr:Alicia_Austin ;
+	dbo:influencedBy	dbr:Winslow_Homer ,
+		dbr:Howard_Pyle .
+dbr:Joseph_Beuys	dbo:influenced	dbr:Paul_McCarthy ,
+		dbr:Ryszard_Wasko ,
+		dbr:Antonio_Jose_Guzman ,
+		dbr:Andy_Goldsworthy ,
+		dbr:Ubermorgen ,
+		dbr:Patrice_Stellest ,
+		dbr:Jahan_Loh ,
+		dbr:James_Havard ,
+		dbr:Andrew_Cornell_Robinson ,
+		dbr:Bill_Viola ,
+		dbr:Corwin_Clairmont ;
+	dbo:influencedBy	dbr:Wilhelm_von_Gloeden ,
+		dbr:Rudolf_Steiner .
+dbr:Richard_Diebenkorn	dbo:influenced	<http://dbpedia.org/resource/Stephen_Robson_(artist)> ,
+		dbr:Henry_Villierme ;
+	dbo:influencedBy	<http://dbpedia.org/resource/David_Park_(painter)> .
+dbr:John_Buscema	dbo:influenced	dbr:Quinton_Hoover ;
+	dbo:influencedBy	dbr:Coby_Whitmore .
+dbr:John_McCrady	dbo:influenced	dbr:Rolland_Golden ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Thomas_Hart_Benton_(painter)> .
+dbr:John_Perceval	dbo:influenced	dbr:Piers_Maxwell_Dudley-Bateman ;
+	dbo:influencedBy	dbr:Merric_Boyd .
+dbr:Yoo_Jae-suk	dbo:influenced	dbr:Kang_Ho-dong ,
+		dbr:Jeong_Jun-ha ,
+		dbr:Jeong_Hyeong-don ,
+		dbr:Noh_Hong-chul ,
+		dbr:Park_Myeong-su ;
+	dbo:influencedBy	dbr:Ji_Suk-jin .
+dbr:Roni_Horn	dbo:influenced	dbr:Kelli_Connell ,
+		<http://dbpedia.org/resource/John_Gerrard_(artist)> ;
+	dbo:influencedBy	dbr:John_McCracken .
+dbr:Ernst_Mayer	dbo:influenced	dbr:Johann_Halbig ;
+	dbo:influencedBy	dbr:Antonio_Isopi .
+dbr:Thein_Han	dbo:influenced	dbr:Mya_Thaung ,
+		dbr:Lun_Gywe ;
+	dbo:influencedBy	dbr:Ba_Kyi ,
+		dbr:Ba_Nyan .
+dbr:Enrico_Coleman	dbo:influenced	dbr:Francesco_Coleman ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Charles_Coleman_(English_painter)> ,
+		dbr:Giovanni_Costa ,
+		dbr:Mari\xc3\xa0_Fortuny .
+dbr:Lucas_Faydherbe	dbo:influenced	dbr:Artus_Quellinus_II ;
+	dbo:influencedBy	dbr:Antoon_Faydherbe ,
+		dbr:Hendrik_Faydherbe .
+dbr:Arthur_Rackham	dbo:influenced	dbr:Phil_Belbin ,
+		dbr:Anke_Ei\xc3\x9fmann ,
+		dbr:Alicia_Austin ,
+		dbr:Scott_Gustafson ,
+		dbr:John_Blanche ,
+		dbr:Rebecca_Guay ;
+	dbo:influencedBy	<http://dbpedia.org/resource/John_Bauer_(illustrator)> .
+dbr:Charles_Marion_Russell	dbo:influenced	<http://dbpedia.org/resource/Daniel_Parker_(artist)> ,
+		<http://dbpedia.org/resource/J._K._Ralston> ,
+		<http://dbpedia.org/resource/Philip_R._Goodwin> ;
+	dbo:influencedBy	dbr:Frederic_Remington ,
+		<http://dbpedia.org/resource/Philip_R._Goodwin> .
+dbr:Howard_Pyle	dbo:influenced	dbr:Elenore_Abbott ,
+		<http://dbpedia.org/resource/Philip_R._Goodwin> ,
+		dbr:Kim_Douglas_Wiggins ,
+		dbr:Ethel_Franklin_Betts ,
+		dbr:Howard_Terpning ,
+		dbr:Elise_Primavera ,
+		dbr:Frank_Frazetta ,
+		dbr:Frank_Schoonover ,
+		<http://dbpedia.org/resource/Clyde_O._DeLand> ,
+		dbr:Charles_Archibald_MacLellan ,
+		<http://dbpedia.org/resource/N._C._Wyeth> ,
+		dbr:Anna_Whelan_Betts ;
+	dbo:influencedBy	dbr:Winslow_Homer .
+dbr:Ellen_DeGeneres	dbo:influenced	dbr:Rajiv_Satyal ;
+	dbo:influencedBy	dbr:Bob_Newhart .
+dbr:Jean_Dubuffet	dbo:influenced	<http://dbpedia.org/resource/Charles_McGee_(painter)> ,
+		dbr:Jeff_Roland ,
+		dbr:Paul_du_Toit ,
+		dbr:Ver\xc3\xb3nica_Ruiz_de_Velasco ,
+		dbr:Karel_Appel ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Alfonso_A._Ossorio> ,
+		dbr:Chaim_Soutine .
+dbr:Lun_Gywe	dbo:influenced	dbr:Mya_Thaung ,
+		dbr:Win_Pe_Myint ;
+	dbo:influencedBy	dbr:Ngwe_Gaing ,
+		dbr:Thein_Han ,
+		dbr:San_Win .
+dbr:Alan_Tam	dbo:influenced	<http://dbpedia.org/resource/Grasshopper_(band)> ,
+		dbr:Hacken_Lee ;
+	dbo:influencedBy	dbr:George_Lam .
+dbr:Andy_Hui	dbo:influenced	dbr:FAMA ;
+	dbo:influencedBy	dbr:Anita_Mui .
+dbr:Chris_Addison	dbo:influenced	dbr:Adam_Hills ;
+	dbo:influencedBy	dbr:Billy_Connolly ,
+		dbr:Armando_Iannucci .
+dbr:Daniel_Kitson	dbo:influenced	dbr:Adam_Hills ;
+	dbo:influencedBy	dbr:Paul_Merton .
+dbr:Eddie_Griffin	dbo:influenced	dbr:Loni_Love ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Paul_Mooney_(comedian)> .
+dbr:Howard_Chaykin	dbo:influenced	dbr:Mike_Chinn ;
+	dbo:influencedBy	<http://dbpedia.org/resource/J._C._Leyendecker> .
+dbr:Jeff_Foxworthy	dbo:influenced	dbr:Michele_Mahone ,
+		dbr:Ron_White ;
+	dbo:influencedBy	dbr:Jerry_Clower .
+<http://dbpedia.org/resource/Louis_C.K.>	dbo:influenced	dbr:Hisham_Fageeh ,
+		dbr:Mikey_Mileos ,
+		dbr:Bruno_Nogueira ,
+		dbr:Vernon_Chatman ;
+	dbo:influencedBy	dbr:Lenny_Bruce ,
+		dbr:Garry_Shandling ,
+		dbr:Richard_Pryor .
+dbr:Malcolm_Hardee	dbo:influenced	dbr:Vic_Reeves ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Ian_Macpherson_(comedian)> .
+<http://dbpedia.org/resource/Mike_Kelley_(artist)>	dbo:influenced	dbr:Jason_Yates ,
+		dbr:Jay_Batlle ;
+	dbo:influencedBy	dbr:Paul_McCarthy ,
+		dbr:Tom_of_Finland .
+dbr:Jeong_Jun-ha	dbo:influenced	dbr:Kim_Min-kyo ;
+	dbo:influencedBy	dbr:Park_Myeong-su .
+dbr:Mark_di_Suvero	dbo:influenced	dbr:David_Stromeyer ,
+		dbr:Lawrence_James_Beck ;
+	dbo:influencedBy	dbr:Louise_Nevelson .
+dbr:Wang_Leehom	dbo:influenced	dbr:Henry_Lau ;
+	dbo:influencedBy	dbr:Jacky_Cheung .
+dbr:Irving_Petlin	dbo:influenced	<http://dbpedia.org/resource/Michael_Palmer_(poet)> ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Michael_Palmer_(poet)> .
+dbr:Jimmy_Kimmel	dbo:influenced	dbr:Sal_Iacono ;
+	dbo:influencedBy	dbr:David_Letterman .
+<http://dbpedia.org/resource/Richard_Lewis_(comedian)>	dbo:influenced	dbr:Artie_Lange ;
+	dbo:influencedBy	dbr:Jonathan_Winters ,
+		dbr:Richard_Pryor ,
+		dbr:David_Brenner .
+dbr:Antonio_da_Correggio	dbo:influenced	dbr:Barbara_Longhi ,
+		dbr:Dosso_Dossi ;
+	dbo:influencedBy	dbr:Melozzo_da_Forl\xc3\xac .
+dbr:Giorgio_Vasari	dbo:influenced	dbr:Karel_van_Mander ,
+		dbr:Maarten_van_Heemskerck ;
+	dbo:influencedBy	dbr:Andrea_del_Sarto .
+dbr:Johnny_Carson	dbo:influenced	dbr:Ray_Ellin ,
+		dbr:Sebastian_Maniscalco ,
+		dbr:Jonathan_Katz ,
+		dbr:David_Letterman ,
+		<http://dbpedia.org/resource/Brian_Regan_(comedian)> ,
+		<http://dbpedia.org/resource/Conan_O\\u0027Brien> ,
+		dbr:Dennis_Miller ,
+		dbr:Garry_Shandling ,
+		dbr:Jay_Leno ,
+		dbr:Jimmy_Pardo ,
+		dbr:Meena_Dimian ,
+		dbr:Denis_Donohue ;
+	dbo:influencedBy	dbr:Groucho_Marx ,
+		dbr:Jack_Paar .
+dbr:Steve_Martin	dbo:influenced	dbr:Jeff_Ross ,
+		dbr:Seth_Meyers ,
+		dbr:Ron_White ,
+		dbr:Pablo_Francisco ,
+		dbr:Sarah_Silverman ,
+		dbr:Stephen_Colbert ,
+		dbr:Pete_Holmes ,
+		dbr:Chris_Rock ,
+		dbr:Patton_Oswalt ,
+		dbr:Brad_Stine ,
+		dbr:Arj_Barker ,
+		dbr:Al_Murray ,
+		dbr:Larry_the_Cable_Guy ,
+		dbr:Jim_Breuer ,
+		<http://dbpedia.org/resource/Brian_Regan_(comedian)> ,
+		dbr:Jimmy_Fallon ,
+		dbr:Killer_Beaz ,
+		dbr:Jerry_Sadowitz ,
+		<http://dbpedia.org/resource/Louis_C.K.> ,
+		dbr:Ellen_DeGeneres ,
+		dbr:Eddie_Izzard ,
+		dbr:Vic_Reeves ,
+		dbr:The_Lonely_Island ,
+		dbr:Andy_Samberg ;
+	dbo:influencedBy	dbr:Robert_Benchley .
+dbr:Thomas_Eakins	dbo:influenced	dbr:Alexander_Milne_Calder ,
+		dbr:Thomas_Pollock_Anshutz ,
+		dbr:Auseklis_Ozols ,
+		dbr:Bo_Bartlett ,
+		dbr:George_Henry_Bogert ;
+	dbo:influencedBy	dbr:Eadweard_Muybridge ,
+		dbr:John_Lewis_Krimmel .
+dbr:David_Alfaro_Siqueiros	dbo:influenced	dbr:Gilbert_Brown_Wilson ,
+		dbr:Jes\xc3\xbas_\xc3\x81lvarez_Amaya ,
+		dbr:Gabriel_Flores ,
+		<http://dbpedia.org/resource/R._C._Gorman> ,
+		dbr:Frank_Armitage ;
+	dbo:influencedBy	dbr:Alfredo_Ramos_Mart\xc3\xadnez .
+dbr:Donald_Judd	dbo:influenced	dbr:Fred_Sandback ,
+		dbr:Chul_Hyun_Ahn ;
+	dbo:influencedBy	dbr:Yayoi_Kusama .
+dbr:Gutzon_Borglum	dbo:influenced	dbr:Alfonso_Iannelli ;
+	dbo:influencedBy	dbr:Anna_Hyatt_Huntington .
+dbr:Joseph_Cornell	dbo:influenced	dbr:Raymond_Salvatore_Harmon ,
+		dbr:James_Dean_Pruner ,
+		dbr:Jeff_Wassmann ,
+		dbr:William_Gibson ,
+		dbr:Stan_Brakhage ,
+		dbr:Amalia_Amaki ;
+	dbo:influencedBy	dbr:Johann_Dieter_Wassmann .
+dbr:Julian_Trevelyan	dbo:influenced	dbr:David_Hockney ;
+	dbo:influencedBy	dbr:Stanley_William_Hayter .
+dbr:Konstantin_Korovin	dbo:influenced	dbr:Maria_Yakunchikova ;
+	dbo:influencedBy	dbr:Alexei_Savrasov .
+dbr:Red_Skelton	dbo:influenced	dbr:Johnny_Carson ,
+		<http://dbpedia.org/resource/Bobby_Collins_(comedian)> ,
+		dbr:Ritch_Shydner ;
+	dbo:influencedBy	dbr:Ed_Wynn .
+dbr:Richard_Pryor	dbo:influenced	dbr:Margaret_Cho ,
+		dbr:Dean_Obeidallah ,
+		dbr:Gavin_Stephens ,
+		dbr:Andy_Andrist ,
+		dbr:Adil_Ray ,
+		dbr:Pablo_Francisco ,
+		dbr:Elna_Baker ,
+		<http://dbpedia.org/resource/Paul_Mooney_(comedian)> ,
+		dbr:Denis_Leary ,
+		dbr:Greg_Fitzsimmons ,
+		dbr:Carrot_Top ,
+		dbr:Charlie_Moreno ,
+		dbr:Gina_Yashere ,
+		dbr:George_Lopez ,
+		dbr:Azhar_Usman ,
+		dbr:Kris_LaBelle ,
+		dbr:Tom_Rhodes ,
+		dbr:Ralphie_May ,
+		<http://dbpedia.org/resource/Leslie_Jones_(comedian)> ,
+		dbr:John_Caparulo ,
+		<http://dbpedia.org/resource/Jim_Norton_(comedian)> ,
+		<http://dbpedia.org/resource/Owen_O\\u0027Neill> ,
+		dbr:Dave_Attell ,
+		dbr:Loni_Love ,
+		dbr:Fahad_Albutairi ,
+		dbr:Joe_Rogan ,
+		dbr:Ron_White ,
+		<http://dbpedia.org/resource/Richard_Lewis_(comedian)> ,
+		<http://dbpedia.org/resource/John_Oliver_(comedian)> ,
+		dbr:Barry_Hilton ,
+		dbr:Aamer_Rahman ,
+		dbr:Chris_Rock ,
+		dbr:Randy_Chestnut ,
+		dbr:Martin_Lawrence ,
+		dbr:Chad_Daniels ,
+		dbr:Edwin_San_Juan ,
+		dbr:Chris_Tucker ,
+		<http://dbpedia.org/resource/Stephen_K._Amos> ,
+		dbr:David_Cross ,
+		dbr:Artie_Lange ,
+		<http://dbpedia.org/resource/Robert_L._Hines> ,
+		dbr:Vernon_Chatman ,
+		<http://dbpedia.org/resource/Louis_C.K.> ,
+		dbr:Adam_Ferrara ,
+		dbr:Maija_DiGiorgio ,
+		<http://dbpedia.org/resource/Patrice_O\\u0027Neal> ,
+		dbr:Nabil_Abdul_Rashid ,
+		dbr:Colin_Quinn ,
+		dbr:Jerrod_Carmichael ,
+		<http://dbpedia.org/resource/Jay_Dee_(comedian)> ,
+		dbr:Cardis_Cardell_Willis ,
+		dbr:Bernie_Mac ,
+		dbr:Said_Durrah ,
+		<http://dbpedia.org/resource/Bobby_Collins_(comedian)> ,
+		dbr:Patton_Oswalt ,
+		dbr:Lewis_Black ,
+		dbr:Preacher_Moss ,
+		dbr:Eddie_Murphy ,
+		dbr:Jim_Breuer ,
+		dbr:Dave_Chappelle ,
+		dbr:Fancy_Ray ,
+		<http://dbpedia.org/resource/Keith_Robinson_(comedian)> ,
+		dbr:Killer_Beaz ;
+	dbo:influencedBy	dbr:Lenny_Bruce ,
+		dbr:Moms_Mabley .
+dbr:Charles_Le_Brun	dbo:influenced	dbr:Fran\xc3\xa7ois_de_Poilly ;
+	dbo:influencedBy	dbr:Simon_Vouet .
+<http://dbpedia.org/resource/Beyond_(band)>	dbo:influenced	<http://dbpedia.org/resource/G.E.M._(singer)> ;
+	dbo:influencedBy	dbr:Samuel_Hui .
+dbr:Dash_Snow	dbo:influenced	<http://dbpedia.org/resource/Scott_Campbell_(tattoo_artist)> ;
+	dbo:influencedBy	dbr:Steven_Parrino .
+dbr:Sarah_Silverman	dbo:influenced	dbr:Anthony_Jeselnik ,
+		dbr:Erez_Ben\xe2\x80\x93Ari ;
+	dbo:influencedBy	dbr:Larry_David ,
+		dbr:Moms_Mabley .
+dbr:Elizabeth_Bradford_Holbrook	dbo:influenced	dbr:Christian_Cardell_Corbet ;
+	dbo:influencedBy	dbr:Emanuel_Hahn ,
+		dbr:Florence_Wyle ,
+		dbr:Eugenia_Berlin .
+dbr:Hermon_Atkins_MacNeil	dbo:influenced	dbr:Cesare_Stea ,
+		dbr:Augusta_Savage ,
+		dbr:Evelyn_Beatrice_Longman ;
+	dbo:influencedBy	dbr:Anna_Hyatt_Huntington .
+<http://dbpedia.org/resource/Jason_Byrne_(comedian)>	dbo:influenced	<http://dbpedia.org/resource/P._J._Gallagher_(comedian)> ;
+	dbo:influencedBy	dbr:Ken_Dodd ,
+		dbr:Billy_Connolly .
+dbr:Karel_van_Mander	dbo:influenced	dbr:Frans_Hals ;
+	dbo:influencedBy	dbr:Maarten_van_Heemskerck ,
+		dbr:Giorgio_Vasari .
+dbr:Jean_Charlot	dbo:influenced	dbr:Ben_Shahn ,
+		dbr:Abraham_Lishinsky ;
+	dbo:influencedBy	dbr:Wilhelmina_Weber_Furlong ,
+		<http://dbpedia.org/resource/Thomas_Furlong_(artist)> .
+<http://dbpedia.org/resource/Charles_E._Burchfield>	dbo:influenced	dbr:Sanford_Ross ;
+	dbo:influencedBy	dbr:Frederick_Gottwald .
+dbr:Chris_Rush	dbo:influenced	dbr:Adam_Ferrara ;
+	dbo:influencedBy	dbr:Bob_Newhart .
+dbr:Jigar_Moradabadi	dbo:influenced	dbr:Mustafa_Rahi ;
+	dbo:influencedBy	dbr:Daagh_Dehlvi .
+dbr:Alberto_Giacometti	dbo:influenced	dbr:C\xc3\xa9sar_Baldaccini ,
+		dbr:Remo_Rossi ,
+		dbr:Kurt_Oscar_Weber ,
+		dbr:Ubermorgen ,
+		dbr:Bill_Viola ;
+	dbo:influencedBy	dbr:Stanley_William_Hayter .
+dbr:Andy_Warhol	dbo:influenced	dbr:Katrin_Fridriks ,
+		dbr:Alexander_Kosolapov ,
+		dbr:Pranava_Prakash ,
+		dbr:Tom_Christopher ,
+		<http://dbpedia.org/resource/Cojo,_Art_Juggernaut> ,
+		dbr:Ryan_Singer ,
+		dbr:Douglas_Coupland ,
+		dbr:Abbie_Hoffman ,
+		dbr:David_Edward_Byrd ,
+		dbr:Steven_Parrino ,
+		dbr:Brian_Richard ,
+		dbr:Eduardo_\xc3\x9arculo ,
+		dbr:Genco_Gulan ,
+		dbr:William_Quigley ,
+		dbr:Nathan_Wyburn ,
+		dbr:Frank_Holliday ,
+		dbr:Ubermorgen ,
+		dbr:Rene_Ricard ,
+		dbr:Jahan_Loh ,
+		dbr:Arthur_Danto ,
+		<http://dbpedia.org/resource/Michele_O\\u0027Marah> ,
+		dbr:Brian_Jungen ,
+		dbr:Paul_Rusconi ,
+		dbr:James_Warhola ;
+	dbo:influencedBy	dbr:Ben_Shahn ,
+		dbr:Truman_Capote ,
+		dbr:Tom_of_Finland ,
+		dbr:Yayoi_Kusama ,
+		dbr:Wilhelm_von_Gloeden .
+dbr:Antonio_Canova	dbo:influenced	dbr:Ben_Dearnley ,
+		dbr:Mathieu_Kessels ;
+	dbo:influencedBy	dbr:Luigi_Agricola .
+dbr:Claude_Monet	dbo:influenced	dbr:Jean_Brenner ,
+		dbr:Raoul_Dufy ,
+		dbr:Horace_Day ,
+		dbr:Dorothea_Sharp ,
+		dbr:Carl_Rungius ,
+		dbr:Choy_Weng_Yang ,
+		dbr:Misha_Lenn ,
+		dbr:Lars_Physant ,
+		dbr:Eugenio_de_Arriba ,
+		dbr:Joan_Mitchell ,
+		dbr:Theodore_Earl_Butler ,
+		dbr:Carl_Eytel ,
+		dbr:Paul_C\xc3\xa9sar_Helleu ,
+		dbr:W\xc5\x82adys\xc5\x82aw_Podkowi\xc5\x84ski ;
+	dbo:influencedBy	dbr:Charles-Fran\xc3\xa7ois_Daubigny ,
+		dbr:St\xc3\xa9phane_Mallarm\xc3\xa9 .
+dbr:Constantin_Br\xc3\xa2ncu\xc8\x99i	dbo:influenced	<http://dbpedia.org/resource/Mark_Lindquist_(sculptor)> ,
+		dbr:Diet_Sayler ,
+		dbr:Amy_Sarkisian ,
+		dbr:Gordon_Herickx ,
+		dbr:Eugen_Ciuc\xc4\x83 ,
+		dbr:Andy_Goldsworthy ;
+	dbo:influencedBy	dbr:Fran\xc3\xa7ois_Pompon .
+dbr:David_Letterman	dbo:influenced	dbr:Suhaimi_Yusof ,
+		<http://dbpedia.org/resource/John_Oliver_(comedian)> ,
+		dbr:Ray_Romano ,
+		dbr:Andreu_Buenafuente ,
+		dbr:Jimmy_Fallon ,
+		dbr:Jimmy_Kimmel ,
+		dbr:Stephen_Colbert ,
+		dbr:Seth_Meyers ,
+		<http://dbpedia.org/resource/Tim_Young_(comedian)> ,
+		dbr:Artie_Lange ,
+		dbr:Ray_Ellin ,
+		<http://dbpedia.org/resource/Conan_O\\u0027Brien> ;
+	dbo:influencedBy	dbr:Johnny_Carson ,
+		dbr:Jack_Paar ,
+		dbr:Don_Rickles ,
+		dbr:David_Brenner .
+dbr:Denis_Leary	dbo:influenced	dbr:Brad_Stine ,
+		dbr:Robbie_Bonham ;
+	dbo:influencedBy	dbr:Richard_Pryor ,
+		dbr:Lenny_Bruce .
+dbr:Edvard_Munch	dbo:influenced	dbr:Henry_Villierme ,
+		dbr:Bo\xc5\xbeidar_Jakac ;
+	dbo:influencedBy	dbr:Paul_Gauguin ,
+		dbr:Otto_Weininger .
+dbr:Georges_Braque	dbo:influenced	dbr:Charles_Sheeler ,
+		dbr:Gojmir_Anton_Kos ,
+		dbr:Roberto_Cueva_del_R\xc3\xado ,
+		dbr:Juan_Gris ,
+		dbr:Helmut_Kolle ,
+		dbr:Patrick_Caulfield ,
+		dbr:Ion_Theodorescu-Sion ,
+		<http://dbpedia.org/resource/Antonio_Lopez_(illustrator)> ,
+		dbr:Mary_Fedden ,
+		dbr:Byron_Galvez ;
+	dbo:influencedBy	dbr:Paul_C\xc3\xa9zanne ,
+		dbr:Paul_Gauguin .
+dbr:Groucho_Marx	dbo:influenced	dbr:Abbie_Hoffman ,
+		dbr:Phil_Silvers ,
+		dbr:Charlie_Callas ,
+		dbr:Rip_Taylor ,
+		dbr:Albrecht_Behmel ,
+		dbr:Ricky_Gervais ,
+		dbr:Rodney_Dangerfield ,
+		dbr:Stoo_Hample ,
+		dbr:Jack_Prelutsky ,
+		dbr:Gato_Fedorento ;
+	dbo:influencedBy	dbr:Robert_Benchley .
+dbr:Jackson_Pollock	dbo:influenced	dbr:Paul_McCarthy ,
+		dbr:Kenneth_Noland ,
+		dbr:Katrin_Fridriks ,
+		<http://dbpedia.org/resource/Gordon_Bennett_(artist)> ,
+		dbr:Rob_Redding ,
+		dbr:Robert_Ryman ,
+		dbr:Ho_Ho_Ying ,
+		dbr:Cleve_Gray ,
+		dbr:Roger_Ing ,
+		dbr:Frank_Stella ,
+		dbr:Chuck_Connelly ,
+		dbr:Heidrun_Huwyler ,
+		dbr:Helen_Frankenthaler ,
+		dbr:Ronnie_Landfield ,
+		<http://dbpedia.org/resource/Michael_David_(painter)> ,
+		dbr:Carolyn_Kreiter-Foronda ,
+		dbr:Clyde_Connell ,
+		dbr:Aung_Myint ,
+		dbr:Jan-Hein_Arens ,
+		dbr:Dick_Wray ,
+		dbr:Morris_Louis ,
+		dbr:Pedro_Sandoval ,
+		dbr:Roy_Ascott ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Thomas_Furlong_(artist)> ,
+		dbr:Stanley_William_Hayter ,
+		<http://dbpedia.org/resource/John_D._Graham> ,
+		<http://dbpedia.org/resource/Thomas_Hart_Benton_(painter)> ,
+		<http://dbpedia.org/resource/Alfonso_A._Ossorio> ,
+		dbr:Wilhelmina_Weber_Furlong ,
+		dbr:Mark_Tobey .
+dbr:Jacob_Lawrence	dbo:influenced	<http://dbpedia.org/resource/William_Walker_(muralist)> ,
+		<http://dbpedia.org/resource/Michael_Cummings_(quilter)> ,
+		dbr:Herman_Bailey ,
+		dbr:Gwendolyn_Knight ;
+	dbo:influencedBy	dbr:Faith_Ringgold ,
+		dbr:Augusta_Savage ,
+		dbr:Charles_Alston .
+dbr:Jay_Leno	dbo:influenced	dbr:Jerry_Seinfeld ,
+		dbr:Patton_Oswalt ,
+		dbr:Ray_Ellin ,
+		dbr:Dennis_Miller ;
+	dbo:influencedBy	dbr:Johnny_Carson ,
+		dbr:Robert_Klein ,
+		dbr:Bob_Newhart ,
+		dbr:David_Brenner ,
+		dbr:Mort_Sahl ,
+		dbr:Don_Rickles ,
+		dbr:Jack_Paar .
+dbr:Jean-Michel_Basquiat	dbo:influenced	dbr:Antonio_Jose_Guzman ,
+		<http://dbpedia.org/resource/Gordon_Bennett_(artist)> ,
+		<http://dbpedia.org/resource/Kevin_Young_(poet)> ,
+		<http://dbpedia.org/resource/Cojo,_Art_Juggernaut> ,
+		dbr:Jahan_Loh ;
+	dbo:influencedBy	dbr:Rene_Ricard .
+dbr:Jet_Li	dbo:influenced	dbr:Ashton_Chen ;
+	dbo:influencedBy	dbr:Juan_Tyrone_Garcia .
+dbr:John_Belushi	dbo:influenced	<http://dbpedia.org/resource/Matt_McCarthy_(comedian)> ;
+	dbo:influencedBy	dbr:Lenny_Bruce .
+dbr:Kenneth_Noland	dbo:influenced	dbr:Dorothy_Knowles ,
+		dbr:William_Perehudoff ;
+	dbo:influencedBy	dbr:Ilya_Bolotowsky ,
+		dbr:Helen_Frankenthaler .
+dbr:Kurt_Schwitters	dbo:influenced	dbr:Arman ,
+		dbr:Nicole_Bartelme ,
+		dbr:Jason_Yates ,
+		<http://dbpedia.org/resource/J._Gwyn_Griffiths> ;
+	dbo:influencedBy	dbr:Johann_Dieter_Wassmann .
+dbr:Mel_Brooks	dbo:influenced	dbr:Bill_Hader ,
+		dbr:The_Lonely_Island ,
+		dbr:Larry_David ,
+		dbr:Maija_DiGiorgio ,
+		dbr:Andy_Samberg ;
+	dbo:influencedBy	dbr:Harold_Ritz .
+dbr:Pablo_Picasso	dbo:influenced	dbr:Dick_Bruna ,
+		<http://dbpedia.org/resource/David_Smith_(sculptor)> ,
+		dbr:Alexandra_Nechita ,
+		dbr:Ben_Shahn ,
+		dbr:Merton_Simpson ,
+		dbr:Mario_Prassinos ,
+		dbr:Maurice_Cloud ,
+		dbr:Noel_Rockmore ,
+		dbr:Sarah_Stein ,
+		dbr:Jos\xc3\xa9_de_Almada_Negreiros ,
+		dbr:Jackson_Pollock ,
+		<http://dbpedia.org/resource/John_D._Graham> ,
+		dbr:Ronnie_Landfield ,
+		dbr:Federico_Castell\xc3\xb3n ,
+		dbr:Helmut_Kolle ,
+		dbr:Russ_Warren ,
+		dbr:Karel_Appel ,
+		dbr:Soraida_Martinez ,
+		dbr:Charles_Sheeler ,
+		<http://dbpedia.org/resource/Francisco_Santos_(swimmer)__Xesko__1> ,
+		dbr:Gary_Komarin ,
+		dbr:Jazzamoart ,
+		dbr:Norman_Ollestad ,
+		dbr:Dorothy_Annan ,
+		dbr:Wifredo_Lam ,
+		dbr:Georges_Braque ,
+		dbr:Aung_Soe ,
+		dbr:Kurt_Oscar_Weber ,
+		dbr:Joan_Mir\xc3\xb3 ,
+		dbr:James_Dean_Pruner ,
+		dbr:Gillian_Wearing ,
+		dbr:Clifton_Pugh ,
+		dbr:Louise_Nevelson ,
+		dbr:Alejandro_Obreg\xc3\xb3n ,
+		dbr:Genco_Gulan ,
+		dbr:Federico_Cant\xc3\xba_Garza ,
+		dbr:Roger_Ing ,
+		dbr:Jean_Gebser ,
+		<http://dbpedia.org/resource/James_Kelsey_(sculptor)> ,
+		dbr:Ilene_Meyer ,
+		dbr:Roland_Penrose ,
+		<http://dbpedia.org/resource/James_Kelly_(abstract_expressionist_artist)> ,
+		<http://dbpedia.org/resource/Claudio_Bravo_(painter)> ,
+		dbr:Wilhelmina_Weber_Furlong ,
+		dbr:Joan_Glass ,
+		dbr:Christo_Coetzee ,
+		dbr:Jules_Halfant ,
+		dbr:Aung_Khin ,
+		dbr:Rodolfo_Nieto ,
+		dbr:Ahmed_Benyahia ,
+		dbr:Ans_Wortel ,
+		dbr:David_Cantine ,
+		dbr:Roberto_Cueva_del_R\xc3\xado ,
+		dbr:Max_Shertz ,
+		dbr:Byron_Galvez ,
+		dbr:Jan_Matulka ,
+		dbr:C\xc3\xa9sar_Baldaccini ,
+		dbr:Ellsworth_Kelly ;
+	dbo:influencedBy	dbr:Paul_C\xc3\xa9zanne ,
+		dbr:Paul_Gauguin ,
+		dbr:Stanley_William_Hayter .
+dbr:Patti_Smith	dbo:influenced	<http://dbpedia.org/resource/John_S._Hall> ,
+		dbr:Hedwig_Gorski ;
+	dbo:influencedBy	dbr:Sylvia_Plath ,
+		dbr:Arthur_Rimbaud ,
+		<http://dbpedia.org/resource/William_S._Burroughs> .
+dbr:Paul_C\xc3\xa9zanne	dbo:influenced	dbr:Wilhelmina_Weber_Furlong ,
+		dbr:Pieter_Wenning ,
+		dbr:Anders_Osterlind ,
+		dbr:Adam_Kossowski ,
+		dbr:David_Cantine ,
+		dbr:Olga_Sacharoff ,
+		<http://dbpedia.org/resource/John_Passmore_(artist)> ,
+		dbr:Ion_Theodorescu-Sion ,
+		dbr:Giorgio_Morandi ,
+		dbr:Carl_Rungius ,
+		dbr:Raoul_Dufy ,
+		dbr:Wallace_Stevens ,
+		dbr:Oliver_Kilbourn ,
+		dbr:Andr\xc3\xa9_Lhote ,
+		dbr:Jean_Brenner ,
+		dbr:Einar_Jolin ,
+		dbr:Jerolim_Mi\xc5\xa1e ,
+		<http://dbpedia.org/resource/Thomas_Furlong_(artist)> ,
+		dbr:\xc3\x81ngel_Z\xc3\xa1rraga ,
+		<http://dbpedia.org/resource/Ren\\u00E9_Auberjonois_(painter)> ,
+		dbr:Helen_Berman ,
+		dbr:Oton_Gliha ,
+		dbr:Albert_Gleizes ,
+		dbr:Roberto_Cueva_del_R\xc3\xado ,
+		dbr:Mladen_Josi\xc4\x87 ,
+		dbr:Joan_Mitchell ,
+		dbr:Molly_Bobak ,
+		dbr:Arie_Smit ,
+		dbr:Andrew_Dasburg ,
+		<http://dbpedia.org/resource/John_D._Graham> ,
+		dbr:Georges_Braque ,
+		dbr:Marjorie_Acker_Phillips ,
+		dbr:Motojir\xc5\x8d_Kajii ,
+		dbr:Leo_Marchutz ,
+		dbr:Horace_Day ,
+		dbr:Marino_Tartaglia ,
+		dbr:Henri_Matisse ,
+		dbr:Choy_Weng_Yang ;
+	dbo:influencedBy	dbr:Gustave_Courbet ,
+		dbr:Camille_Pissarro ,
+		dbr:Charles-Fran\xc3\xa7ois_Daubigny .
+dbr:Peter_David	dbo:influenced	dbr:Jake_Bell ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Robert_B._Parker> ,
+		dbr:Robert_Crais ,
+		dbr:Stephen_King .
+dbr:Ren\xc3\xa9_Magritte	dbo:influenced	dbr:Alex_Randall ,
+		dbr:Alfredo_de_Batuc ,
+		dbr:Ronnie_Landfield ;
+	dbo:influencedBy	dbr:Jack_Boynton .
+dbr:Romare_Bearden	dbo:influenced	<http://dbpedia.org/resource/Michael_Cummings_(quilter)> ,
+		dbr:Merton_Simpson ;
+	dbo:influencedBy	dbr:Faith_Ringgold ,
+		dbr:Augusta_Savage .
+dbr:Bill_Hicks	dbo:influenced	<http://dbpedia.org/resource/Stephen_Lynch_(musician)> ,
+		dbr:Margaret_Cho ,
+		dbr:Robbie_Bonham ,
+		dbr:Mikey_Mileos ,
+		dbr:Emery_Emery ,
+		dbr:Brad_Stine ,
+		dbr:Rory_Scovel ,
+		<http://dbpedia.org/resource/Louis_C.K.> ,
+		dbr:Joe_Rogan ,
+		dbr:Randy_Chestnut ,
+		dbr:Charlie_Moreno ,
+		dbr:Magnus_Betn\xc3\xa9r ,
+		dbr:David_Cross ,
+		<http://dbpedia.org/resource/Matt_McCarthy_(comedian)> ,
+		dbr:Eddie_Izzard ,
+		dbr:Denis_Leary ,
+		dbr:Dave_Attell ,
+		dbr:Nazeem_Hussain ,
+		dbr:Lewis_Black ,
+		dbr:Frankie_Boyle ,
+		dbr:Aamer_Rahman ,
+		dbr:Dean_Obeidallah ,
+		dbr:Patton_Oswalt ,
+		dbr:Andy_Andrist ,
+		dbr:Ron_White ,
+		dbr:Azhar_Usman ,
+		<http://dbpedia.org/resource/Lee_Camp_(comedian)> ,
+		dbr:Tom_Rhodes ;
+	dbo:influencedBy	dbr:Lenny_Bruce ,
+		dbr:Robert_Benchley ,
+		dbr:Richard_Pryor ,
+		dbr:Mort_Sahl ,
+		dbr:Terence_McKenna .
+dbr:Frans_Hals	dbo:influenced	dbr:Judith_Leyster ,
+		dbr:John_Singer_Sargent ,
+		dbr:Ganesh_Pyne ;
+	dbo:influencedBy	dbr:Karel_van_Mander .
+dbr:Johannes_Vermeer	dbo:influenced	dbr:George_Weissbort ,
+		dbr:Lars_Physant ,
+		dbr:Gabri\xc3\xabl_Metsu ,
+		dbr:Edward_Gorey ;
+	dbo:influencedBy	dbr:Gabri\xc3\xabl_Metsu .
+dbr:Marcel_Duchamp	dbo:influenced	dbr:Sarah_Seager ,
+		dbr:Alex_Dodge ,
+		dbr:Mookie_Tenembaum ,
+		dbr:Ubermorgen ,
+		dbr:Daan_Samson ,
+		dbr:Stephen_Albair ,
+		dbr:Marshall_McLuhan ,
+		dbr:Eric_Orr ,
+		dbr:Craig_Kauffman ,
+		dbr:Jeff_Wassmann ,
+		dbr:Francis_Picabia ,
+		dbr:Ted_Noten ,
+		dbr:Ryszard_Wasko ,
+		dbr:Brian_Jungen ,
+		dbr:Ingrid_Baxter ,
+		dbr:Roy_Ascott ,
+		dbr:Jeff_Koons ,
+		dbr:Maya_Deren ,
+		dbr:Charles_Sheeler ,
+		<http://dbpedia.org/resource/Ben_F._Laposky> ;
+	dbo:influencedBy	dbr:Joseph_Cornell ,
+		dbr:Johann_Dieter_Wassmann .
+dbr:Bruce_Nauman	dbo:influenced	<http://dbpedia.org/resource/John_Gerrard_(artist)> ,
+		dbr:Rachel_Whiteread ,
+		dbr:Jay_Batlle ,
+		dbr:Peter_Campus ,
+		dbr:George_Condo ,
+		<http://dbpedia.org/resource/Vincent_J.F._Huang> ;
+	dbo:influencedBy	dbr:Pauline_Marcelle ,
+		<http://dbpedia.org/resource/H._C._Westermann> .
+dbr:Egon_Schiele	dbo:influenced	dbr:Courtney_Adams ,
+		dbr:Bryten_Goss ,
+		<http://dbpedia.org/resource/Antonio_Lopez_(illustrator)> ;
+	dbo:influencedBy	dbr:Gustav_Klimt .
+dbr:Hans_Holbein_the_Younger	dbo:influenced	dbr:Friedrich_August_von_Kaulbach ;
+	dbo:influencedBy	dbr:Hans_Holbein_the_Elder .
+dbr:Lenny_Bruce	dbo:influenced	<http://dbpedia.org/resource/Cheech_&_Chong> ,
+		dbr:Ralphie_May ,
+		dbr:Ted_Chippington ,
+		dbr:Denis_Leary ,
+		dbr:Vernon_Chatman ,
+		dbr:Lewis_Black ,
+		dbr:Jerry_Sadowitz ,
+		dbr:Ritch_Shydner ,
+		dbr:Joe_Rogan ,
+		dbr:Robert_Klein ,
+		<http://dbpedia.org/resource/Louis_C.K.> ,
+		dbr:David_Cross ,
+		dbr:Cardis_Cardell_Willis ,
+		dbr:Abbie_Hoffman ,
+		dbr:Eddie_Izzard ,
+		dbr:Margaret_Cho ,
+		dbr:Richard_Pryor ,
+		<http://dbpedia.org/resource/Richard_Lewis_(comedian)> ,
+		dbr:Emery_Emery ,
+		dbr:Tommy_Tiernan ;
+	dbo:influencedBy	dbr:Mort_Sahl ,
+		dbr:Irwin_Corey .
+dbr:Lou_Reed	dbo:influenced	dbr:William_Gibson ;
+	dbo:influencedBy	<http://dbpedia.org/resource/William_S._Burroughs> ,
+		dbr:Lenny_Bruce .
+dbr:Norman_Rockwell	dbo:influenced	<http://dbpedia.org/resource/Robert_McCall_(artist)> ,
+		dbr:Fred_Machetanz ,
+		dbr:Bo_Bartlett ,
+		dbr:Rob_Day ,
+		dbr:Gerald_Brom ,
+		dbr:Paw_Oo_Thet ,
+		dbr:David_Fairrington ,
+		<http://dbpedia.org/resource/Antonio_Lopez_(illustrator)> ,
+		dbr:Peter_Andrew_Jones ,
+		dbr:Scott_Gustafson ;
+	dbo:influencedBy	dbr:Victor_Forsythe ,
+		<http://dbpedia.org/resource/J._C._Leyendecker> ,
+		dbr:George_Bridgman .
+<http://dbpedia.org/resource/Prince_(musician)>	dbo:influenced	dbr:Fancy_Ray ,
+		dbr:Wang_Leehom ;
+	dbo:influencedBy	dbr:Dorothy_Parker .
+dbr:Sacha_Baron_Cohen	dbo:influenced	<http://dbpedia.org/resource/Omar_\\u0027The_White_Sudani\\u0027_Ramzi> ,
+		dbr:Humza_Arshad ;
+	dbo:influencedBy	dbr:Rowan_Atkinson .
+dbr:Tom_Waits	dbo:influenced	dbr:Shoney_Lamar ,
+		dbr:Jack_Ketchum ;
+	dbo:influencedBy	dbr:Jack_Kerouac ,
+		dbr:Charles_Bukowski ,
+		<http://dbpedia.org/resource/William_S._Burroughs> .
+dbr:Wassily_Kandinsky	dbo:influenced	dbr:Stephen_Ratcliffe ,
+		dbr:Kv\xc4\x9bta_Pacovsk\xc3\xa1 ,
+		dbr:Alfred_Jensen ,
+		dbr:Mary_Corse ,
+		dbr:Clifton_Pugh ,
+		dbr:\xc4\x90uro_Tiljak ,
+		dbr:Paul_Citroen ,
+		dbr:Josignacio ,
+		dbr:Georg_Muche ,
+		dbr:Max_Shertz ,
+		dbr:Joan_Mitchell ;
+	dbo:influencedBy	dbr:Rudolf_Steiner .
+dbr:Ken_Dodd	dbo:influenced	dbr:Harry_Hill ;
+	dbo:influencedBy	dbr:Will_Hay .
+dbr:Dave_Chappelle	dbo:influenced	<http://dbpedia.org/resource/Jay_Dee_(comedian)> ,
+		dbr:Sugar_Sammy ,
+		dbr:Nazeem_Hussain ,
+		dbr:Nabil_Abdul_Rashid ,
+		dbr:Imran_Yusuf ,
+		dbr:Azhar_Usman ,
+		dbr:Lewis_Costello ,
+		dbr:Prince_Abdi ,
+		dbr:Gavin_Stephens ,
+		<http://dbpedia.org/resource/Omar_\\u0027The_White_Sudani\\u0027_Ramzi> ,
+		dbr:Humza_Arshad ,
+		dbr:Aamer_Rahman ,
+		dbr:Hisham_Fageeh ;
+	dbo:influencedBy	dbr:Martin_Lawrence ,
+		dbr:Richard_Pryor ,
+		dbr:Chris_Rock ,
+		dbr:Lenny_Bruce ,
+		dbr:Eddie_Murphy .
+<http://dbpedia.org/resource/H._C._Westermann>	dbo:influenced	dbr:Jeff_Koons ;
+	dbo:influencedBy	dbr:Joseph_Cornell .
+<http://dbpedia.org/resource/Julio_Gonz\\u00E1lez_(sculptor)>	dbo:influenced	<http://dbpedia.org/resource/David_Smith_(sculptor)> ;
+	dbo:influencedBy	dbr:Alexandre_Mercereau .
+dbr:Lee_Krasner	dbo:influenced	dbr:Elaine_de_Kooning ;
+	dbo:influencedBy	<http://dbpedia.org/resource/John_D._Graham> ,
+		dbr:Hans_Hofmann .
+dbr:Andrew_Dice_Clay	dbo:influenced	dbr:Denis_Donohue ,
+		dbr:Joe_Rogan ;
+	dbo:influencedBy	dbr:Lenny_Bruce .
+dbr:Fan_Kuan	dbo:influenced	<http://dbpedia.org/resource/Li_Tang_(painter)> ;
+	dbo:influencedBy	dbr:Jing_Hao ,
+		<http://dbpedia.org/resource/Guan_Tong_(painter)> .
+dbr:Max_Beckmann	dbo:influenced	dbr:Sonia_Gechtoff ,
+		dbr:Geoffrey_Burnand ;
+	dbo:influencedBy	dbr:Henri_Rousseau .
+dbr:Patton_Oswalt	dbo:influenced	<http://dbpedia.org/resource/Mike_Lawrence_(comedian)> ,
+		<http://dbpedia.org/resource/Tim_Young_(comedian)> ;
+	dbo:influencedBy	dbr:Richard_Pryor ,
+		<http://dbpedia.org/resource/Louis_C.K.> .
+dbr:Robert_Henri	dbo:influenced	dbr:Charles_Comfort ,
+		dbr:George_Bellows ,
+		dbr:Hilda_Belcher ;
+	dbo:influencedBy	dbr:Winslow_Homer .
+dbr:Guo_Xi	dbo:influenced	<http://dbpedia.org/resource/Li_Tang_(painter)> ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Li_Cheng_(painter)> .
+dbr:Graham_Linehan	dbo:influenced	<http://dbpedia.org/resource/Dan_Mitchell_(comedian)> ;
+	dbo:influencedBy	dbr:Larry_David .
+dbr:Jeff_Koons	dbo:influenced	dbr:Jay_Batlle ;
+	dbo:influencedBy	<http://dbpedia.org/resource/H._C._Westermann> .
+dbr:Colin_McCahon	dbo:influenced	dbr:George_Baloghy ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Charles_Cotton_(geologist)> .
+dbr:Bob_Newhart	dbo:influenced	dbr:Lewis_Black ,
+		dbr:Norm_Macdonald ,
+		dbr:Ellen_DeGeneres ,
+		dbr:Ray_Romano ,
+		dbr:Steven_Wright ,
+		dbr:Tom_Rhodes ,
+		dbr:Jay_Leno ,
+		dbr:Chris_Rush ,
+		dbr:Ron_White ;
+	dbo:influencedBy	dbr:Robert_Benchley ,
+		dbr:James_Thurber .
+dbr:Diane_Arbus	dbo:influenced	dbr:Rosalind_Solomon ,
+		dbr:Sally_Mann ,
+		<http://dbpedia.org/resource/Mark_Powell_(photographer)> ,
+		dbr:Ralph_Gibson ,
+		dbr:Cindy_Sherman ,
+		dbr:Charlie_Grosso ,
+		dbr:Steve_Diet_Goedde ,
+		dbr:Chantal_Joffe ,
+		dbr:Dave_Naz ;
+	dbo:influencedBy	dbr:Bill_Brandt .
+dbr:Don_Rickles	dbo:influenced	dbr:Jay_Leno ,
+		dbr:Kathy_Griffin ,
+		dbr:Sugar_Sammy ,
+		dbr:Jimmy_Pardo ,
+		dbr:Dennis_Miller ,
+		dbr:Norm_Macdonald ,
+		dbr:Lisa_Lampanelli ,
+		dbr:Dave_Attell ,
+		dbr:Larry_the_Cable_Guy ,
+		dbr:Sebastian_Maniscalco ,
+		dbr:Rodney_Dangerfield ;
+	dbo:influencedBy	dbr:Jack_Paar .
+dbr:Giorgione	dbo:influenced	dbr:Girolamo_da_Treviso ,
+		dbr:Dosso_Dossi ,
+		dbr:Oskar_Herman ;
+	dbo:influencedBy	dbr:Giovanni_Bellini .
+dbr:Harry_Hill	dbo:influenced	dbr:Arj_Barker ,
+		dbr:Cowards ,
+		dbr:Paul_Burling ,
+		dbr:Al_Murray ;
+	dbo:influencedBy	dbr:Cluub_Zarathustra ,
+		dbr:Ken_Dodd ,
+		dbr:Eddie_Izzard ,
+		dbr:Vic_Reeves .
+dbr:Jerry_Uelsmann	dbo:influenced	dbr:Jawshing_Arthur_Liou ;
+	dbo:influencedBy	dbr:Edmund_Teske ,
+		dbr:Minor_White .
+dbr:Mitch_Hedberg	dbo:influenced	dbr:Azhar_Usman ,
+		dbr:Shmuel_Breban ,
+		dbr:Mikey_Mileos ,
+		dbr:Arj_Barker ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Cheech_&_Chong> ,
+		dbr:Henny_Youngman .
+dbr:Richard_Prince	dbo:influenced	dbr:Yazmany_Arboleda ,
+		dbr:Steven_Parrino ;
+	dbo:influencedBy	dbr:Wallace_Berman .
+dbr:A-mei	dbo:influenced	dbr:A-Lin ;
+	dbo:influencedBy	dbr:A-Lin .
+dbr:Banksy	dbo:influenced	dbr:Katrin_Fridriks ,
+		dbr:Brian_Richard ,
+		<http://dbpedia.org/resource/Daniel_Donche,_Jr.> ,
+		<http://dbpedia.org/resource/Dolk_(artist)> ;
+	dbo:influencedBy	dbr:K\xc3\xa4the_Kollwitz .
+dbr:Dave_Attell	dbo:influenced	dbr:Neal_Brennan ,
+		dbr:Andy_Andrist ,
+		dbr:Whitney_Cummings ;
+	dbo:influencedBy	dbr:Don_Rickles .
+dbr:Dylan_Moran	dbo:influenced	<http://dbpedia.org/resource/Rick_Miller_(comedian)> ,
+		dbr:Robbie_Bonham ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Brian_O\\u0027Nolan> .
+dbr:Grant_Morrison	dbo:influenced	dbr:Jeff_Burk ,
+		dbr:Mark_Teppo ;
+	dbo:influencedBy	<http://dbpedia.org/resource/William_S._Burroughs> .
+dbr:Jacky_Cheung	dbo:influenced	dbr:Raymond_Lam ,
+		dbr:Tiger_Hu ;
+	dbo:influencedBy	dbr:George_Lam ,
+		dbr:Samuel_Hui ,
+		dbr:Michael_Kwan .
+dbr:Jay_Chou	dbo:influenced	dbr:Henry_Lau ,
+		dbr:Nan_Quan_Mama ;
+	dbo:influencedBy	dbr:Jacky_Cheung .
+dbr:Kathy_Griffin	dbo:influenced	dbr:Michele_Mahone ;
+	dbo:influencedBy	dbr:Moms_Mabley ,
+		dbr:Don_Rickles .
+dbr:Lewis_Black	dbo:influenced	dbr:Dara_\xc3\x93_Briain ,
+		<http://dbpedia.org/resource/Lee_Camp_(comedian)> ;
+	dbo:influencedBy	dbr:Lenny_Bruce ,
+		dbr:Richard_Pryor ,
+		dbr:Bob_Newhart ,
+		dbr:Jonathan_Winters .
+dbr:Ross_Noble	dbo:influenced	dbr:Adam_Hills ;
+	dbo:influencedBy	dbr:Billy_Connolly .
+dbr:Yayoi_Kusama	dbo:influenced	dbr:Jessica_Diamond ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Georgia_O\\u0027Keeffe> .
+dbr:Jacek_Malczewski	dbo:influenced	dbr:Leopold_Gottlieb ;
+	dbo:influencedBy	dbr:Maria_Bal .
+dbr:Wilhelmina_Weber_Furlong	dbo:influenced	<http://dbpedia.org/resource/John_D._Graham> ,
+		<http://dbpedia.org/resource/Thomas_Furlong_(artist)> ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Thomas_Furlong_(artist)> .
+dbr:Ahmed_Benyahia	dbo:influenced	dbr:Samta_Benyahia ;
+	dbo:influencedBy	dbr:C\xc3\xa9sar_Baldaccini .
+dbr:Paw_Oo_Thet	dbo:influenced	dbr:Win_Pe_Myint ;
+	dbo:influencedBy	dbr:Ba_Thet ,
+		dbr:Kin_Maung .
+dbr:Frank_DuMond	dbo:influenced	dbr:Victor_Forsythe ,
+		dbr:Catherine_Wiley ,
+		dbr:John_Alan_Maxwell ,
+		dbr:Herbert_Abrams ;
+	dbo:influencedBy	dbr:Fern_Coppedge .
+dbr:Eddie_Murphy	dbo:influenced	dbr:Jerrod_Carmichael ,
+		<http://dbpedia.org/resource/Jason_Byrne_(comedian)> ,
+		<http://dbpedia.org/resource/Leslie_Jones_(comedian)> ,
+		<http://dbpedia.org/resource/Chris_D\\u0027Elia> ,
+		<http://dbpedia.org/resource/Robert_L._Hines> ,
+		dbr:Prince_Abdi ,
+		dbr:Jo_Koy ,
+		dbr:Dave_Chappelle ,
+		dbr:Chris_Rock ,
+		dbr:Ray_Ellin ,
+		<http://dbpedia.org/resource/Eric_Schwartz_(comedian)> ,
+		dbr:Arj_Barker ,
+		dbr:Said_Durrah ,
+		dbr:Gabriel_Iglesias ,
+		<http://dbpedia.org/resource/Omar_\\u0027The_White_Sudani\\u0027_Ramzi> ,
+		dbr:Martin_Lawrence ,
+		dbr:Sugar_Sammy ,
+		dbr:Kris_LaBelle ,
+		dbr:Chris_Tucker ,
+		dbr:Artie_Lange ,
+		<http://dbpedia.org/resource/Patrice_O\\u0027Neal> ,
+		dbr:Jeff_Ross ;
+	dbo:influencedBy	dbr:Moms_Mabley ,
+		dbr:Richard_Pryor .
+dbr:Alexander_Calder	dbo:influenced	dbr:John_Raimondi ,
+		dbr:Louise_Nevelson ,
+		dbr:George_Rickey ,
+		dbr:Arthur_Ganson ,
+		<http://dbpedia.org/resource/Ben_F._Laposky> ,
+		<http://dbpedia.org/resource/David_Hayes_(sculptor)> ;
+	dbo:influencedBy	<http://dbpedia.org/resource/Thomas_Furlong_(artist)> ,
+		dbr:Wilhelmina_Weber_Furlong ,
+		dbr:Stanley_William_Hayter .
+dbr:Bernie_Mac	dbo:influenced	<http://dbpedia.org/resource/Robert_L._Hines> ,
+		dbr:Sheryl_Underwood ;
+	dbo:influencedBy	dbr:Richard_Pryor ,
+		dbr:Nipsey_Russell ,
+		dbr:Moms_Mabley .
+dbr:Dennis_Miller	dbo:influenced	dbr:Seth_Meyers ,
+		dbr:Norm_Macdonald ,
+		dbr:Anthony_Jeselnik ;
+	dbo:influencedBy	dbr:Jay_Leno ,
+		dbr:Jerry_Seinfeld .
+dbr:Morris_Louis	dbo:influenced	dbr:Kenneth_Noland ;
+	dbo:influencedBy	dbr:Helen_Frankenthaler .
+<http://dbpedia.org/resource/Paul_Mooney_(comedian)>	dbo:influenced	dbr:Aamer_Rahman ,
+		dbr:George_Lopez ;
+	dbo:influencedBy	dbr:Flip_Wilson .
+dbr:Peter_Paul_Rubens	dbo:influenced	dbr:Frans_Luycx ,
+		dbr:Domenico_Fetti ,
+		dbr:L\xc3\xa9on_Riesener ,
+		<http://dbpedia.org/resource/James_Ward_(artist)> ,
+		dbr:Herb_Roe ,
+		dbr:Lucas_Faydherbe ,
+		dbr:Hyacinthe_Rigaud ,
+		dbr:Anthony_van_Dyck ,
+		dbr:John_Steuart_Curry ;
+	dbo:influencedBy	dbr:Paolo_Veronese .
+<http://dbpedia.org/resource/Richard_Doyle_(illustrator)>	dbo:influenced	dbr:Edward_Bawden ;
+	dbo:influencedBy	<http://dbpedia.org/resource/John_Doyle_(artist)> .
+dbr:Stephen_Colbert	dbo:influenced	dbr:Bruno_Nogueira ;
+	dbo:influencedBy	dbr:David_Letterman .
+dbr:Warren_Ellis	dbo:influenced	dbr:Marcelo_Del_Debbio ;
+	dbo:influencedBy	<http://dbpedia.org/resource/J._G._Ballard> ,
+		dbr:Mary_Soon_Lee ,
+		dbr:Alan_Moore .
+dbr:George_Bellows	dbo:influenced	dbr:Hilda_Belcher ;
+	dbo:influencedBy	dbr:William_Merritt_Chase .
+dbr:Robert_Motherwell	dbo:influenced	dbr:George_Dureau ,
+		dbr:Rosemarie_Beck ,
+		dbr:Merton_Simpson ;
+	dbo:influencedBy	dbr:Tatyana_Grosman .
+dbr:John_Currin	dbo:influenced	dbr:Del_Kathryn_Barton ;
+	dbo:influencedBy	dbr:George_Condo .
+dbr:Kas_Oosterhuis	dbo:influenced	dbr:Ilona_L\xc3\xa9n\xc3\xa1rd ;
+	dbo:influencedBy	dbr:Ilona_L\xc3\xa9n\xc3\xa1rd .
+dbr:Win_Pe_Myint	dbo:influenced	dbr:Yei_Myint ;
+	dbo:influencedBy	dbr:Thein_Han ,
+		dbr:Paw_Oo_Thet .
+dbr:Rose_Maynard_Barton	dbo:influenced	dbr:Mildred_Anne_Butler ;
+	dbo:influencedBy	dbr:Eva_Henrietta_Hamilton .
+dbr:Ba_Kyi	dbo:influenced	dbr:Kyaw_Hlaing ,
+		dbr:Aung_Soe ;
+	dbo:influencedBy	dbr:Ba_Nyan .
+dbr:Ba_Thet	dbo:influenced	dbr:Paw_Oo_Thet ,
+		dbr:Kan_Chun ,
+		dbr:Lu_Tin ;
+	dbo:influencedBy	dbr:Saya_Saung ,
+		<http://dbpedia.org/resource/Maung_Maung_Gyi_(painter)> .
+dbr:San_Win	dbo:influenced	dbr:Lun_Gywe ;
+	dbo:influencedBy	dbr:Ngwe_Gaing .
