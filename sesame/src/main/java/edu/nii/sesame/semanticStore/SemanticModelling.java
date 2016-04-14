@@ -1,4 +1,4 @@
-package edu.nii.sesame.app;
+package edu.nii.sesame.semanticStore;
 
 import java.io.IOException;
 
@@ -10,7 +10,7 @@ import org.openrdf.rio.RDFParseException;
 import edu.nii.sesame.utils.Util;
 
 
-public class App 
+public class SemanticModelling 
 {
     public static void main( String[] args ) throws RepositoryException, RDFParseException, IOException, MalformedQueryException, QueryEvaluationException
     {

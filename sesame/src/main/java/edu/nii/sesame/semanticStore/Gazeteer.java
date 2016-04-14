@@ -1,4 +1,4 @@
-package edu.nii.sesame.app;
+package edu.nii.sesame.semanticStore;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package edu.nii.sesame.app;
+package edu.nii.sesame.semanticStore;
 
 import java.io.File;
 import java.io.IOException;
