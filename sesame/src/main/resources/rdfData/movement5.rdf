@@ -1,0 +1,3453 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://dbpedia.org/ontology/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Jungen">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Found_object"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brice_Marden">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Minimalism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leslie_Hunter">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maud_Allan">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modern_dance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domenico_Passignano">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/The_Renaissance"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Counter-Maniera"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Solimena">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gheorghe_Tattarescu">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Neoclassicism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Rabuzin">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Naïve_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuroda_Seiki">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Yōga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_Merz">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Arte_Povera"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sam_Gilliam">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Washington_Color_School"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veduta">
+    <rdfs:label xml:lang="nl">Veduta</rdfs:label>
+    <rdfs:label xml:lang="pl">Weduta</rdfs:label>
+    <rdfs:label xml:lang="es">Vedutismo</rdfs:label>
+    <rdfs:label xml:lang="ru">Ведута</rdfs:label>
+    <rdfs:label xml:lang="pt">Veduta</rdfs:label>
+    <rdfs:label xml:lang="fr">Védutisme</rdfs:label>
+    <rdfs:label xml:lang="it">Vedutismo</rdfs:label>
+    <rdfs:label xml:lang="en">Veduta</rdfs:label>
+    <rdfs:label xml:lang="de">Vedute</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Creacionismo">
+    <rdfs:label xml:lang="ar">المدرسة الإبداعية</rdfs:label>
+    <rdfs:label xml:lang="en">Creacionismo</rdfs:label>
+    <rdfs:label xml:lang="es">Creacionismo (poesía)</rdfs:label>
+    <rdfs:label xml:lang="it">Creazionismo (poesia)</rdfs:label>
+    <rdfs:label xml:lang="pt">Criacionismo (poesia)</rdfs:label>
+    <rdfs:label xml:lang="de">Vanguardia</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Melozzo_da_Forlì">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Italian_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgina_Starr">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Young_British_Artists"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Manguin">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Fauvism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Incoherents">
+    <rdfs:label xml:lang="fr">Arts Incohérents</rdfs:label>
+    <rdfs:label xml:lang="en">Incoherents</rdfs:label>
+    <rdfs:label xml:lang="es">Las Artes Incoherentes</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Brossa">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dada"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dau_al_Set"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyn_Ott">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Bismuth">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Installation_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Appropriation_(art)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlos_de_Haes">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cheong_Soo_Pieng">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hermann_Ernst_Freund">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Neoclassicism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Danish_Golden_Age"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcela_Donoso">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Magic_realism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/May_Stevens">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Feminist_art_movement"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_Modern">
+    <rdfs:label xml:lang="en">American Modern</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julianne_Swartz">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Sound_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anatoli_Levitin">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_van_Bijlert">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Strizic">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_van_der_Plas">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dutch_Golden_Age_painting"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liza_Morozova">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Relational_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Art_therapy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Melinda_Camber_Porter">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zlatko_Šulentić">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+    <ns0:movement>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Secession_(art)">
+        <rdfs:label xml:lang="it">Secessione nell'arte</rdfs:label>
+        <rdfs:label xml:lang="ja">ゼツェシオン</rdfs:label>
+        <rdfs:label xml:lang="de">Secession</rdfs:label>
+        <rdfs:label xml:lang="en">Secession (art)</rdfs:label>
+        <rdfs:label xml:lang="nl">Sezession</rdfs:label>
+        <rdfs:label xml:lang="es">Sezession</rdfs:label>
+      </rdf:Description>
+    </ns0:movement>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edna_Reindel">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Regionalism_(art)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Janet_Fish">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alek_Rapoport">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Soviet_Nonconformist_Art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Kraft">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E._B._Bensell">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Philadelphia_Sketch_Club"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julien_Le_Blant">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Salon_(Paris)"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Genre_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syd_Solomon">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gojmir_Anton_Kos">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Art_Nouveau"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Poetic_realism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Color_realism_(art_style)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_von_Herterich">
+    <ns0:movement>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Munich_School">
+        <rdfs:label xml:lang="de">Münchner Schule (Bildende Kunst)</rdfs:label>
+        <rdfs:label xml:lang="fr">École de Munich</rdfs:label>
+        <rdfs:label xml:lang="pl">Szkoła monachijska</rdfs:label>
+        <rdfs:label xml:lang="ru">Мюнхенская школа греческой живописи</rdfs:label>
+        <rdfs:label xml:lang="en">Munich School</rdfs:label>
+      </rdf:Description>
+    </ns0:movement>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sots_Art">
+    <rdfs:label xml:lang="ru">Соц-арт</rdfs:label>
+    <rdfs:label xml:lang="de">Soz Art</rdfs:label>
+    <rdfs:label xml:lang="en">Sots Art</rdfs:label>
+    <rdfs:label xml:lang="fr">Sots Art</rdfs:label>
+    <rdfs:label xml:lang="nl">Sots Art</rdfs:label>
+    <rdfs:label xml:lang="it">Sots-art</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adriaan_van_Stalbemt">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aelita_Andre">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gleb_Savinov">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Eugène_Buland">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gil_de_Siloé">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Isabelline_Gothic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Messagier">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Tachisme"/>
+    <ns0:movement>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Nuagisme">
+        <rdfs:label xml:lang="en">Nuagisme</rdfs:label>
+      </rdf:Description>
+    </ns0:movement>
+
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Lyrical_abstraction"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_A._Wilson_(sculptor)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/American_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maya_Kopitseva">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alaska_Native_art">
+    <rdfs:label xml:lang="en">Alaska Native art</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archibald_Motley">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Harlem_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernardo_Bobić">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque_painting"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buky_Schwartz">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Visual_arts_in_Israel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ephraim_Moses_Lilien">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Visual_arts_in_Israel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gasparo_Cairano">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/High_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nadezhda_Shteinmiller">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neo-primitivism">
+    <rdfs:label xml:lang="en">Neo-primitivism</rdfs:label>
+    <rdfs:label xml:lang="pt">Neoprimitivismo</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petre_Hârtopeanu">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transavantgarde">
+    <rdfs:label xml:lang="nl">Italiaanse transavantgarde</rdfs:label>
+    <rdfs:label xml:lang="en">Transavantgarde</rdfs:label>
+    <rdfs:label xml:lang="fr">Trans-avant-garde</rdfs:label>
+    <rdfs:label xml:lang="es">Transvanguardia</rdfs:label>
+    <rdfs:label xml:lang="ru">Трансавангард</rdfs:label>
+    <rdfs:label xml:lang="de">Transavantgarde</rdfs:label>
+    <rdfs:label xml:lang="pl">Transawangarda</rdfs:label>
+    <rdfs:label xml:lang="pt">Transvanguarda</rdfs:label>
+    <rdfs:label xml:lang="ja">トランスアバンギャルド</rdfs:label>
+    <rdfs:label xml:lang="it">Transavanguardia italiana</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Gertsch">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Hyperrealism_(visual_arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hede_von_Trapp">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Art_Nouveau"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ödön_Márffy">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/The_Eight_(painters)"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Fauvism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_von_Mechel">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Switzerland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Feminist_art_movement_in_the_United_States">
+    <rdfs:label xml:lang="en">Feminist art movement in the United States</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heiman_Dullaart">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ron_Kleemann">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Photorealism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Danilo_Palomer_Santiago">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Fauvism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Eclecticism_in_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilberto_Zorio">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Arte_Povera"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeffrey_Milburn">
+    <ns0:movement>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Omni_art">
+        <rdfs:label xml:lang="en">Omni art</rdfs:label>
+      </rdf:Description>
+    </ns0:movement>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/José_Rodrigues">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Milmore">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Thomas_Ball_(artist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Semion_Rotnitsky">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tina_Ferreira">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Candombe"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Narrative_art">
+    <rdfs:label xml:lang="en">Narrative art</rdfs:label>
+    <rdfs:label xml:lang="it">Narrative art</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koji_Enokura">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Mono-ha"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edvard_Petersen">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abstraction">
+    <rdfs:label xml:lang="nl">Abstractie</rdfs:label>
+    <rdfs:label xml:lang="de">Abstraktion</rdfs:label>
+    <rdfs:label xml:lang="ar">تجريد</rdfs:label>
+    <rdfs:label xml:lang="pt">Abstração</rdfs:label>
+    <rdfs:label xml:lang="it">Astrazione (filosofia)</rdfs:label>
+    <rdfs:label xml:lang="zh">抽象化</rdfs:label>
+    <rdfs:label xml:lang="en">Abstraction</rdfs:label>
+    <rdfs:label xml:lang="fr">Abstraction (philosophie)</rdfs:label>
+    <rdfs:label xml:lang="ja">抽象化</rdfs:label>
+    <rdfs:label xml:lang="ru">Абстракция</rdfs:label>
+    <rdfs:label xml:lang="es">Abstracción (filosofía)</rdfs:label>
+    <rdfs:label xml:lang="pl">Abstrakcja (filozofia)</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alberto_Giacometti">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Formalism_(art)"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albrecht_Dürer">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/High_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alessandro_Algardi">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alessandro_Allori">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Mannerism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ambrosius_Bosschaert">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dutch_Golden_Age"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andy_Warhol">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Pop_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anime">
+    <rdfs:label xml:lang="pt">Anime</rdfs:label>
+    <rdfs:label xml:lang="en">Anime</rdfs:label>
+    <rdfs:label xml:lang="pl">Anime</rdfs:label>
+    <rdfs:label xml:lang="nl">Anime</rdfs:label>
+    <rdfs:label xml:lang="de">Anime</rdfs:label>
+    <rdfs:label xml:lang="ru">Аниме</rdfs:label>
+    <rdfs:label xml:lang="ar">أنمي</rdfs:label>
+    <rdfs:label xml:lang="fr">Anime</rdfs:label>
+    <rdfs:label xml:lang="ja">アニメ</rdfs:label>
+    <rdfs:label xml:lang="zh">日本动画</rdfs:label>
+    <rdfs:label xml:lang="it">Anime</rdfs:label>
+    <rdfs:label xml:lang="es">Anime</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Art">
+    <rdfs:label xml:lang="en">Art</rdfs:label>
+    <rdfs:label xml:lang="ar">فن</rdfs:label>
+    <rdfs:label xml:lang="ru">Искусство</rdfs:label>
+    <rdfs:label xml:lang="zh">艺术</rdfs:label>
+    <rdfs:label xml:lang="fr">Art</rdfs:label>
+    <rdfs:label xml:lang="es">Arte</rdfs:label>
+    <rdfs:label xml:lang="pt">Arte</rdfs:label>
+    <rdfs:label xml:lang="nl">Kunst</rdfs:label>
+    <rdfs:label xml:lang="pl">Sztuka</rdfs:label>
+    <rdfs:label xml:lang="it">Arte</rdfs:label>
+    <rdfs:label xml:lang="ja">美術</rdfs:label>
+    <rdfs:label xml:lang="de">Kunst</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Art_Deco">
+    <rdfs:label xml:lang="nl">Art deco</rdfs:label>
+    <rdfs:label xml:lang="it">Art déco</rdfs:label>
+    <rdfs:label xml:lang="zh">装饰风艺术</rdfs:label>
+    <rdfs:label xml:lang="fr">Art déco</rdfs:label>
+    <rdfs:label xml:lang="en">Art Deco</rdfs:label>
+    <rdfs:label xml:lang="ru">Ар-деко</rdfs:label>
+    <rdfs:label xml:lang="ja">アール・デコ</rdfs:label>
+    <rdfs:label xml:lang="ar">آرت ديكو</rdfs:label>
+    <rdfs:label xml:lang="de">Art déco</rdfs:label>
+    <rdfs:label xml:lang="pl">Art déco</rdfs:label>
+    <rdfs:label xml:lang="pt">Art déco</rdfs:label>
+    <rdfs:label xml:lang="es">Art déco</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Artificial_intelligence">
+    <rdfs:label xml:lang="es">Inteligencia artificial</rdfs:label>
+    <rdfs:label xml:lang="fr">Intelligence artificielle</rdfs:label>
+    <rdfs:label xml:lang="pt">Inteligência artificial</rdfs:label>
+    <rdfs:label xml:lang="ru">Искусственный интеллект</rdfs:label>
+    <rdfs:label xml:lang="ja">人工知能</rdfs:label>
+    <rdfs:label xml:lang="en">Artificial intelligence</rdfs:label>
+    <rdfs:label xml:lang="pl">Sztuczna inteligencja</rdfs:label>
+    <rdfs:label xml:lang="de">Künstliche Intelligenz</rdfs:label>
+    <rdfs:label xml:lang="zh">人工智能</rdfs:label>
+    <rdfs:label xml:lang="ar">ذكاء اصطناعي</rdfs:label>
+    <rdfs:label xml:lang="nl">Kunstmatige intelligentie</rdfs:label>
+    <rdfs:label xml:lang="it">Intelligenza artificiale</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballad">
+    <rdfs:label xml:lang="ja">バラッド</rdfs:label>
+    <rdfs:label xml:lang="de">Ballade</rdfs:label>
+    <rdfs:label xml:lang="ar">بالاد (موسيقى)</rdfs:label>
+    <rdfs:label xml:lang="fr">Ballade</rdfs:label>
+    <rdfs:label xml:lang="zh">谣曲</rdfs:label>
+    <rdfs:label xml:lang="ru">Баллада</rdfs:label>
+    <rdfs:label xml:lang="it">Ballata popolare</rdfs:label>
+    <rdfs:label xml:lang="en">Ballad</rdfs:label>
+    <rdfs:label xml:lang="nl">Ballad</rdfs:label>
+    <rdfs:label xml:lang="pl">Ballada</rdfs:label>
+    <rdfs:label xml:lang="es">Balada</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baroque">
+    <rdfs:label xml:lang="ru">Барокко</rdfs:label>
+    <rdfs:label xml:lang="ja">バロック</rdfs:label>
+    <rdfs:label xml:lang="nl">Barok (stijlperiode)</rdfs:label>
+    <rdfs:label xml:lang="pt">Barroco</rdfs:label>
+    <rdfs:label xml:lang="it">Barocco</rdfs:label>
+    <rdfs:label xml:lang="es">Barroco</rdfs:label>
+    <rdfs:label xml:lang="de">Barock</rdfs:label>
+    <rdfs:label xml:lang="ar">باروكية</rdfs:label>
+    <rdfs:label xml:lang="fr">Baroque</rdfs:label>
+    <rdfs:label xml:lang="zh">巴洛克艺术</rdfs:label>
+    <rdfs:label xml:lang="pl">Barok</rdfs:label>
+    <rdfs:label xml:lang="en">Baroque</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bauhaus">
+    <rdfs:label xml:lang="nl">Bauhaus</rdfs:label>
+    <rdfs:label xml:lang="zh">包豪斯</rdfs:label>
+    <rdfs:label xml:lang="pl">Bauhaus</rdfs:label>
+    <rdfs:label xml:lang="de">Bauhaus</rdfs:label>
+    <rdfs:label xml:lang="pt">Bauhaus</rdfs:label>
+    <rdfs:label xml:lang="it">Bauhaus</rdfs:label>
+    <rdfs:label xml:lang="ja">バウハウス</rdfs:label>
+    <rdfs:label xml:lang="ar">باوهاوس</rdfs:label>
+    <rdfs:label xml:lang="ru">Баухауз</rdfs:label>
+    <rdfs:label xml:lang="fr">Bauhaus</rdfs:label>
+    <rdfs:label xml:lang="es">Escuela de la Bauhaus</rdfs:label>
+    <rdfs:label xml:lang="en">Bauhaus</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Berthe_Morisot">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camille_Pissarro">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Alston">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chicano">
+    <rdfs:label xml:lang="zh">齐卡诺人</rdfs:label>
+    <rdfs:label xml:lang="de">Chicano</rdfs:label>
+    <rdfs:label xml:lang="ja">チカーノ</rdfs:label>
+    <rdfs:label xml:lang="fr">Chicanos</rdfs:label>
+    <rdfs:label xml:lang="ru">Чикано</rdfs:label>
+    <rdfs:label xml:lang="en">Chicano</rdfs:label>
+    <rdfs:label xml:lang="es">Chicano</rdfs:label>
+    <rdfs:label xml:lang="it">Chicano</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Monet">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Communication">
+    <rdfs:label xml:lang="fr">Communication</rdfs:label>
+    <rdfs:label xml:lang="es">Comunicación</rdfs:label>
+    <rdfs:label xml:lang="pt">Comunicação</rdfs:label>
+    <rdfs:label xml:lang="it">Comunicazione</rdfs:label>
+    <rdfs:label xml:lang="ru">Общение</rdfs:label>
+    <rdfs:label xml:lang="de">Kommunikation</rdfs:label>
+    <rdfs:label xml:lang="pl">Komunikacja interpersonalna</rdfs:label>
+    <rdfs:label xml:lang="nl">Communicatie</rdfs:label>
+    <rdfs:label xml:lang="en">Communication</rdfs:label>
+    <rdfs:label xml:lang="ar">اتصال</rdfs:label>
+    <rdfs:label xml:lang="zh">通信</rdfs:label>
+    <rdfs:label xml:lang="ja">コミュニケーション</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantin_Brâncuși">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dada">
+    <rdfs:label xml:lang="ja">ダダイスム</rdfs:label>
+    <rdfs:label xml:lang="ru">Дадаизм</rdfs:label>
+    <rdfs:label xml:lang="nl">Dadaïsme</rdfs:label>
+    <rdfs:label xml:lang="ar">دادا</rdfs:label>
+    <rdfs:label xml:lang="es">Dadaísmo</rdfs:label>
+    <rdfs:label xml:lang="fr">Dada</rdfs:label>
+    <rdfs:label xml:lang="de">Dadaismus</rdfs:label>
+    <rdfs:label xml:lang="en">Dada</rdfs:label>
+    <rdfs:label xml:lang="pl">Dadaizm</rdfs:label>
+    <rdfs:label xml:lang="it">Dadaismo</rdfs:label>
+    <rdfs:label xml:lang="zh">达达主义</rdfs:label>
+    <rdfs:label xml:lang="pt">Dadaísmo</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Design">
+    <rdfs:label xml:lang="ja">デザイン</rdfs:label>
+    <rdfs:label xml:lang="en">Design</rdfs:label>
+    <rdfs:label xml:lang="es">Diseño</rdfs:label>
+    <rdfs:label xml:lang="it">Progettazione</rdfs:label>
+    <rdfs:label xml:lang="fr">Design</rdfs:label>
+    <rdfs:label xml:lang="ar">تصميم</rdfs:label>
+    <rdfs:label xml:lang="ru">Проектирование</rdfs:label>
+    <rdfs:label xml:lang="zh">設計</rdfs:label>
+    <rdfs:label xml:lang="pt">Design</rdfs:label>
+    <rdfs:label xml:lang="pl">Design</rdfs:label>
+    <rdfs:label xml:lang="nl">Ontwerp</rdfs:label>
+    <rdfs:label xml:lang="de">Design</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Documentary_film">
+    <rdfs:label xml:lang="pl">Film dokumentalny</rdfs:label>
+    <rdfs:label xml:lang="es">Documental</rdfs:label>
+    <rdfs:label xml:lang="de">Dokumentarfilm</rdfs:label>
+    <rdfs:label xml:lang="fr">Documentaire</rdfs:label>
+    <rdfs:label xml:lang="ru">Документальное кино</rdfs:label>
+    <rdfs:label xml:lang="pt">Documentário</rdfs:label>
+    <rdfs:label xml:lang="zh">紀錄片</rdfs:label>
+    <rdfs:label xml:lang="ja">ドキュメンタリー</rdfs:label>
+    <rdfs:label xml:lang="ar">فيلم وثائقي</rdfs:label>
+    <rdfs:label xml:lang="en">Documentary film</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edvard_Munch">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Symbolism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Mitchell_Bannister">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Tonalism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/En_plein_air">
+    <rdfs:label xml:lang="nl">Pleinairisme</rdfs:label>
+    <rdfs:label xml:lang="pl">Plener</rdfs:label>
+    <rdfs:label xml:lang="es">Plenairismo</rdfs:label>
+    <rdfs:label xml:lang="de">Freilichtmalerei</rdfs:label>
+    <rdfs:label xml:lang="ru">Пленэр</rdfs:label>
+    <rdfs:label xml:lang="pt">En plein air</rdfs:label>
+    <rdfs:label xml:lang="en">En plein air</rdfs:label>
+    <rdfs:label xml:lang="ja">戸外制作</rdfs:label>
+    <rdfs:label xml:lang="it">En plein air</rdfs:label>
+    <rdfs:label xml:lang="fr">Peinture sur le motif</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Existentialism">
+    <rdfs:label xml:lang="ar">وجودية</rdfs:label>
+    <rdfs:label xml:lang="de">Existentialismus</rdfs:label>
+    <rdfs:label xml:lang="nl">Existentialisme</rdfs:label>
+    <rdfs:label xml:lang="pt">Existencialismo</rdfs:label>
+    <rdfs:label xml:lang="ru">Экзистенциализм</rdfs:label>
+    <rdfs:label xml:lang="pl">Egzystencjalizm (filozofia)</rdfs:label>
+    <rdfs:label xml:lang="es">Existencialismo</rdfs:label>
+    <rdfs:label xml:lang="fr">Existentialisme</rdfs:label>
+    <rdfs:label xml:lang="it">Esistenzialismo</rdfs:label>
+    <rdfs:label xml:lang="en">Existentialism</rdfs:label>
+    <rdfs:label xml:lang="ja">実存主義</rdfs:label>
+    <rdfs:label xml:lang="zh">存在主义</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fashion">
+    <rdfs:label xml:lang="pt">Moda</rdfs:label>
+    <rdfs:label xml:lang="ru">Мода</rdfs:label>
+    <rdfs:label xml:lang="it">Moda</rdfs:label>
+    <rdfs:label xml:lang="de">Mode</rdfs:label>
+    <rdfs:label xml:lang="ja">ファッション</rdfs:label>
+    <rdfs:label xml:lang="nl">Mode</rdfs:label>
+    <rdfs:label xml:lang="pl">Moda (styl)</rdfs:label>
+    <rdfs:label xml:lang="fr">Mode (habillement)</rdfs:label>
+    <rdfs:label xml:lang="zh">時裝</rdfs:label>
+    <rdfs:label xml:lang="en">Fashion</rdfs:label>
+    <rdfs:label xml:lang="ar">موضة</rdfs:label>
+    <rdfs:label xml:lang="es">Moda</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Feminism">
+    <rdfs:label xml:lang="pl">Feminizm</rdfs:label>
+    <rdfs:label xml:lang="ja">フェミニズム</rdfs:label>
+    <rdfs:label xml:lang="es">Feminismo</rdfs:label>
+    <rdfs:label xml:lang="it">Femminismo</rdfs:label>
+    <rdfs:label xml:lang="pt">Feminismo</rdfs:label>
+    <rdfs:label xml:lang="nl">Feminisme</rdfs:label>
+    <rdfs:label xml:lang="fr">Féminisme</rdfs:label>
+    <rdfs:label xml:lang="zh">女性主義</rdfs:label>
+    <rdfs:label xml:lang="ru">Феминизм</rdfs:label>
+    <rdfs:label xml:lang="de">Feminismus</rdfs:label>
+    <rdfs:label xml:lang="en">Feminism</rdfs:label>
+    <rdfs:label xml:lang="ar">نصرة المرأة</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Folk_music">
+    <rdfs:label xml:lang="nl">Volksmuziek</rdfs:label>
+    <rdfs:label xml:lang="ru">Народная музыка</rdfs:label>
+    <rdfs:label xml:lang="ar">موسيقى تقليدية</rdfs:label>
+    <rdfs:label xml:lang="en">Folk music</rdfs:label>
+    <rdfs:label xml:lang="it">Musica etnica</rdfs:label>
+    <rdfs:label xml:lang="es">Música tradicional</rdfs:label>
+    <rdfs:label xml:lang="de">Volksmusik</rdfs:label>
+    <rdfs:label xml:lang="pt">Música tradicional</rdfs:label>
+    <rdfs:label xml:lang="fr">Musique traditionnelle</rdfs:label>
+    <rdfs:label xml:lang="pl">Muzyka ludowa</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ford_Madox_Brown">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Pre-Raphaelite_Brotherhood"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fra_Angelico">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/The_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Goya">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Romanticism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Braque">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Fauvism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerard_David">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Early_Netherlandish_painting"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gian_Lorenzo_Bernini">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goth_subculture">
+    <rdfs:label xml:lang="it">Goth</rdfs:label>
+    <rdfs:label xml:lang="fr">Mouvement gothique</rdfs:label>
+    <rdfs:label xml:lang="nl">Gothic (subcultuur)</rdfs:label>
+    <rdfs:label xml:lang="pl">Subkultura gotycka</rdfs:label>
+    <rdfs:label xml:lang="zh">哥特式文化</rdfs:label>
+    <rdfs:label xml:lang="ja">ゴス (サブカルチャー)</rdfs:label>
+    <rdfs:label xml:lang="es">Subcultura gótica</rdfs:label>
+    <rdfs:label xml:lang="pt">Gótico (estilo de vida)</rdfs:label>
+    <rdfs:label xml:lang="de">Gothic (Kultur)</rdfs:label>
+    <rdfs:label xml:lang="ru">Готы (субкультура)</rdfs:label>
+    <rdfs:label xml:lang="en">Goth subculture</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Graffiti">
+    <rdfs:label xml:lang="pl">Graffiti</rdfs:label>
+    <rdfs:label xml:lang="en">Graffiti</rdfs:label>
+    <rdfs:label xml:lang="zh">塗鴉</rdfs:label>
+    <rdfs:label xml:lang="fr">Graffiti</rdfs:label>
+    <rdfs:label xml:lang="de">Graffiti</rdfs:label>
+    <rdfs:label xml:lang="ar">جرافيتي</rdfs:label>
+    <rdfs:label xml:lang="pt">Grafito</rdfs:label>
+    <rdfs:label xml:lang="ru">Граффити</rdfs:label>
+    <rdfs:label xml:lang="ja">落書き</rdfs:label>
+    <rdfs:label xml:lang="nl">Graffiti</rdfs:label>
+    <rdfs:label xml:lang="it">Graffitismo</rdfs:label>
+    <rdfs:label xml:lang="es">Grafiti</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Graphic_design">
+    <rdfs:label xml:lang="it">Grafica</rdfs:label>
+    <rdfs:label xml:lang="pt">Design gráfico</rdfs:label>
+    <rdfs:label xml:lang="ru">Графический дизайн</rdfs:label>
+    <rdfs:label xml:lang="fr">Graphisme</rdfs:label>
+    <rdfs:label xml:lang="en">Graphic design</rdfs:label>
+    <rdfs:label xml:lang="ja">グラフィックデザイン</rdfs:label>
+    <rdfs:label xml:lang="zh">平面设计</rdfs:label>
+    <rdfs:label xml:lang="es">Diseño gráfico</rdfs:label>
+    <rdfs:label xml:lang="de">Grafikdesign</rdfs:label>
+    <rdfs:label xml:lang="nl">Grafische vormgeving</rdfs:label>
+    <rdfs:label xml:lang="ar">تصميم الجرافيك</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_Klimt">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Symbolism_(arts)"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Art_Nouveau"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hentai">
+    <rdfs:label xml:lang="ru">Хентай</rdfs:label>
+    <rdfs:label xml:lang="en">Hentai</rdfs:label>
+    <rdfs:label xml:lang="ja">ヘンタイ</rdfs:label>
+    <rdfs:label xml:lang="pt">Hentai</rdfs:label>
+    <rdfs:label xml:lang="fr">Hentai</rdfs:label>
+    <rdfs:label xml:lang="it">Hentai</rdfs:label>
+    <rdfs:label xml:lang="de">Hentai</rdfs:label>
+    <rdfs:label xml:lang="ar">هنتاي</rdfs:label>
+    <rdfs:label xml:lang="zh">變態 (色情用語)</rdfs:label>
+    <rdfs:label xml:lang="nl">Hentai</rdfs:label>
+    <rdfs:label xml:lang="pl">Hentai</rdfs:label>
+    <rdfs:label xml:lang="es">Hentai</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_painting">
+    <rdfs:label xml:lang="pl">Malarstwo historyczne</rdfs:label>
+    <rdfs:label xml:lang="es">Pintura de historia</rdfs:label>
+    <rdfs:label xml:lang="fr">Peinture d'histoire</rdfs:label>
+    <rdfs:label xml:lang="ru">Историческая живопись</rdfs:label>
+    <rdfs:label xml:lang="de">Historienmalerei</rdfs:label>
+    <rdfs:label xml:lang="pt">Pintura histórica</rdfs:label>
+    <rdfs:label xml:lang="en">History painting</rdfs:label>
+    <rdfs:label xml:lang="ja">歴史画</rdfs:label>
+    <rdfs:label xml:lang="ar">رسم قصصي</rdfs:label>
+    <rdfs:label xml:lang="nl">Historieschilderkunst</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Impressionism">
+    <rdfs:label xml:lang="en">Impressionism</rdfs:label>
+    <rdfs:label xml:lang="fr">Impressionnisme</rdfs:label>
+    <rdfs:label xml:lang="es">Impresionismo</rdfs:label>
+    <rdfs:label xml:lang="de">Impressionismus</rdfs:label>
+    <rdfs:label xml:lang="it">Impressionismo</rdfs:label>
+    <rdfs:label xml:lang="pt">Impressionismo</rdfs:label>
+    <rdfs:label xml:lang="pl">Impresjonizm</rdfs:label>
+    <rdfs:label xml:lang="ja">印象派</rdfs:label>
+    <rdfs:label xml:lang="nl">Impressionisme</rdfs:label>
+    <rdfs:label xml:lang="ru">Импрессионизм</rdfs:label>
+    <rdfs:label xml:lang="zh">印象派</rdfs:label>
+    <rdfs:label xml:lang="ar">انطباعية</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Individualism">
+    <rdfs:label xml:lang="de">Individualismus</rdfs:label>
+    <rdfs:label xml:lang="es">Individualismo</rdfs:label>
+    <rdfs:label xml:lang="zh">个人主义</rdfs:label>
+    <rdfs:label xml:lang="ar">فردانية</rdfs:label>
+    <rdfs:label xml:lang="ru">Индивидуализм</rdfs:label>
+    <rdfs:label xml:lang="pt">Individualismo</rdfs:label>
+    <rdfs:label xml:lang="fr">Individualisme</rdfs:label>
+    <rdfs:label xml:lang="pl">Indywidualizm</rdfs:label>
+    <rdfs:label xml:lang="en">Individualism</rdfs:label>
+    <rdfs:label xml:lang="it">Individualismo</rdfs:label>
+    <rdfs:label xml:lang="nl">Individualisme</rdfs:label>
+    <rdfs:label xml:lang="ja">個人主義</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Industry">
+    <rdfs:label xml:lang="ar">صناعة</rdfs:label>
+    <rdfs:label xml:lang="zh">产业</rdfs:label>
+    <rdfs:label xml:lang="ja">産業</rdfs:label>
+    <rdfs:label xml:lang="ru">Промышленность</rdfs:label>
+    <rdfs:label xml:lang="de">Industrie</rdfs:label>
+    <rdfs:label xml:lang="es">Industria</rdfs:label>
+    <rdfs:label xml:lang="en">Industry</rdfs:label>
+    <rdfs:label xml:lang="pl">Przemysł</rdfs:label>
+    <rdfs:label xml:lang="nl">Industrie</rdfs:label>
+    <rdfs:label xml:lang="it">Industria</rdfs:label>
+    <rdfs:label xml:lang="pt">Indústria</rdfs:label>
+    <rdfs:label xml:lang="fr">Industrie</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jackson_Pollock">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques-Louis_David">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Neoclassicism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-François_Millet">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Michel_Basquiat">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Neo-expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Primitivism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juan_Gris">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazimir_Malevich">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Suprematism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Noland">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Color_Field"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurt_Schwitters">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Merz"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawrence_Alma-Tadema">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Academic_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leon_Battista_Alberti">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Italian_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Life">
+    <rdfs:label xml:lang="it">Vita</rdfs:label>
+    <rdfs:label xml:lang="ar">حياة</rdfs:label>
+    <rdfs:label xml:lang="es">Vida</rdfs:label>
+    <rdfs:label xml:lang="ja">生命</rdfs:label>
+    <rdfs:label xml:lang="ru">Жизнь</rdfs:label>
+    <rdfs:label xml:lang="nl">Leven</rdfs:label>
+    <rdfs:label xml:lang="pt">Vida</rdfs:label>
+    <rdfs:label xml:lang="en">Life</rdfs:label>
+    <rdfs:label xml:lang="fr">Vie</rdfs:label>
+    <rdfs:label xml:lang="pl">Życie</rdfs:label>
+    <rdfs:label xml:lang="de">Leben</rdfs:label>
+    <rdfs:label xml:lang="zh">生命</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise_Élisabeth_Vigée_Le_Brun">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Neoclassicism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Rococo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyonel_Feininger">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/November_Group_(German)"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Der_Blaue_Reiter"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Die_Brücke"/>
+    <ns0:movement>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Berlin_Secession">
+        <rdfs:label xml:lang="es">Secesión de Berlín</rdfs:label>
+        <rdfs:label xml:lang="pl">Berlińska Secesja</rdfs:label>
+        <rdfs:label xml:lang="pt">Secessão de Berlim</rdfs:label>
+        <rdfs:label xml:lang="ru">Берлинский сецессион</rdfs:label>
+        <rdfs:label xml:lang="it">Secessione di Berlino</rdfs:label>
+        <rdfs:label xml:lang="fr">Berliner Secession</rdfs:label>
+        <rdfs:label xml:lang="ja">ベルリン分離派</rdfs:label>
+        <rdfs:label xml:lang="en">Berlin Secession</rdfs:label>
+        <rdfs:label xml:lang="de">Berliner Secession</rdfs:label>
+      </rdf:Description>
+    </ns0:movement>
+
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manga">
+    <rdfs:label xml:lang="ja">日本の漫画</rdfs:label>
+    <rdfs:label xml:lang="en">Manga</rdfs:label>
+    <rdfs:label xml:lang="pt">Mangá</rdfs:label>
+    <rdfs:label xml:lang="ru">Манга</rdfs:label>
+    <rdfs:label xml:lang="nl">Manga (strip)</rdfs:label>
+    <rdfs:label xml:lang="es">Manga</rdfs:label>
+    <rdfs:label xml:lang="pl">Manga</rdfs:label>
+    <rdfs:label xml:lang="ar">مانغا</rdfs:label>
+    <rdfs:label xml:lang="de">Manga</rdfs:label>
+    <rdfs:label xml:lang="fr">Manga</rdfs:label>
+    <rdfs:label xml:lang="zh">日本漫画</rdfs:label>
+    <rdfs:label xml:lang="it">Manga</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mannerism">
+    <rdfs:label xml:lang="pt">Maneirismo</rdfs:label>
+    <rdfs:label xml:lang="pl">Manieryzm (sztuka)</rdfs:label>
+    <rdfs:label xml:lang="nl">Maniërisme</rdfs:label>
+    <rdfs:label xml:lang="de">Manierismus</rdfs:label>
+    <rdfs:label xml:lang="fr">Maniérisme</rdfs:label>
+    <rdfs:label xml:lang="ru">Маньеризм</rdfs:label>
+    <rdfs:label xml:lang="ja">マニエリスム</rdfs:label>
+    <rdfs:label xml:lang="it">Manierismo</rdfs:label>
+    <rdfs:label xml:lang="en">Mannerism</rdfs:label>
+    <rdfs:label xml:lang="zh">風格主義</rdfs:label>
+    <rdfs:label xml:lang="es">Manierismo</rdfs:label>
+    <rdfs:label xml:lang="ar">مانييريزمو</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariotto_Albertinelli">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/High_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Cassatt">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minimalism">
+    <rdfs:label xml:lang="en">Minimalism</rdfs:label>
+    <rdfs:label xml:lang="ar">تقليلية</rdfs:label>
+    <rdfs:label xml:lang="nl">Minimal art</rdfs:label>
+    <rdfs:label xml:lang="pl">Minimalizm (sztuki plastyczne)</rdfs:label>
+    <rdfs:label xml:lang="zh">極簡主義</rdfs:label>
+    <rdfs:label xml:lang="de">Minimalismus (Kunst)</rdfs:label>
+    <rdfs:label xml:lang="ru">Минимал арт</rdfs:label>
+    <rdfs:label xml:lang="es">Minimalismo</rdfs:label>
+    <rdfs:label xml:lang="ja">ミニマル</rdfs:label>
+    <rdfs:label xml:lang="it">Minimalismo</rdfs:label>
+    <rdfs:label xml:lang="pt">Minimalismo</rdfs:label>
+    <rdfs:label xml:lang="fr">Minimalisme (art)</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modernism">
+    <rdfs:label xml:lang="ru">Модернизм</rdfs:label>
+    <rdfs:label xml:lang="pl">Modernizm (sztuka)</rdfs:label>
+    <rdfs:label xml:lang="es">Modernidad</rdfs:label>
+    <rdfs:label xml:lang="nl">Modernisme</rdfs:label>
+    <rdfs:label xml:lang="ja">モダニズム</rdfs:label>
+    <rdfs:label xml:lang="zh">現代主義</rdfs:label>
+    <rdfs:label xml:lang="en">Modernism</rdfs:label>
+    <rdfs:label xml:lang="it">Modernità</rdfs:label>
+    <rdfs:label xml:lang="pt">Modernismo</rdfs:label>
+    <rdfs:label xml:lang="fr">Modernisme</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mural">
+    <rdfs:label xml:lang="ja">壁画</rdfs:label>
+    <rdfs:label xml:lang="es">Mural</rdfs:label>
+    <rdfs:label xml:lang="fr">Peinture murale</rdfs:label>
+    <rdfs:label xml:lang="en">Mural</rdfs:label>
+    <rdfs:label xml:lang="it">Murale</rdfs:label>
+    <rdfs:label xml:lang="pl">Mural</rdfs:label>
+    <rdfs:label xml:lang="de">Wandmalerei</rdfs:label>
+    <rdfs:label xml:lang="nl">Muurschildering</rdfs:label>
+    <rdfs:label xml:lang="pt">Muralismo</rdfs:label>
+    <rdfs:label xml:lang="zh">壁畫</rdfs:label>
+    <rdfs:label xml:lang="ar">لوحة جدارية</rdfs:label>
+    <rdfs:label xml:lang="ru">Монументальная живопись</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nature">
+    <rdfs:label xml:lang="en">Nature</rdfs:label>
+    <rdfs:label xml:lang="ja">自然</rdfs:label>
+    <rdfs:label xml:lang="es">Naturaleza</rdfs:label>
+    <rdfs:label xml:lang="nl">Natuur (natuurwetenschap)</rdfs:label>
+    <rdfs:label xml:lang="pl">Natura</rdfs:label>
+    <rdfs:label xml:lang="pt">Natureza</rdfs:label>
+    <rdfs:label xml:lang="fr">Nature</rdfs:label>
+    <rdfs:label xml:lang="de">Natur</rdfs:label>
+    <rdfs:label xml:lang="zh">自然</rdfs:label>
+    <rdfs:label xml:lang="ar">طبيعة</rdfs:label>
+    <rdfs:label xml:lang="it">Natura</rdfs:label>
+    <rdfs:label xml:lang="ru">Природа</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newlyn_School">
+    <rdfs:label xml:lang="nl">Newlyn School</rdfs:label>
+    <rdfs:label xml:lang="es">Escuela de Newlyn</rdfs:label>
+    <rdfs:label xml:lang="de">Newlyn School</rdfs:label>
+    <rdfs:label xml:lang="ru">Ньюлинская школа</rdfs:label>
+    <rdfs:label xml:lang="pl">Newlyn School</rdfs:label>
+    <rdfs:label xml:lang="en">Newlyn School</rdfs:label>
+    <rdfs:label xml:lang="it">Scuola di Newlyn</rdfs:label>
+    <rdfs:label xml:lang="fr">École de Newlyn</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nutrition">
+    <rdfs:label xml:lang="pl">Dietetyka</rdfs:label>
+    <rdfs:label xml:lang="ja">栄養</rdfs:label>
+    <rdfs:label xml:lang="it">Nutrizione</rdfs:label>
+    <rdfs:label xml:lang="ru">Диетология</rdfs:label>
+    <rdfs:label xml:lang="es">Nutrición</rdfs:label>
+    <rdfs:label xml:lang="nl">Voedingsleer</rdfs:label>
+    <rdfs:label xml:lang="zh">营养学</rdfs:label>
+    <rdfs:label xml:lang="de">Ernährung</rdfs:label>
+    <rdfs:label xml:lang="fr">Nutrition</rdfs:label>
+    <rdfs:label xml:lang="en">Nutrition</rdfs:label>
+    <rdfs:label xml:lang="pt">Nutrição</rdfs:label>
+    <rdfs:label xml:lang="ar">تغذية</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Occult">
+    <rdfs:label xml:lang="es">Ocultismo</rdfs:label>
+    <rdfs:label xml:lang="pt">Ocultismo</rdfs:label>
+    <rdfs:label xml:lang="nl">Occultisme</rdfs:label>
+    <rdfs:label xml:lang="ja">オカルト</rdfs:label>
+    <rdfs:label xml:lang="zh">神秘学</rdfs:label>
+    <rdfs:label xml:lang="ar">تنجيمية</rdfs:label>
+    <rdfs:label xml:lang="de">Okkultismus</rdfs:label>
+    <rdfs:label xml:lang="pl">Okultyzm</rdfs:label>
+    <rdfs:label xml:lang="it">Occulto</rdfs:label>
+    <rdfs:label xml:lang="ru">Оккультизм</rdfs:label>
+    <rdfs:label xml:lang="en">Occult</rdfs:label>
+    <rdfs:label xml:lang="fr">Occultisme</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oil_painting">
+    <rdfs:label xml:lang="es">Pintura al óleo</rdfs:label>
+    <rdfs:label xml:lang="pl">Malarstwo olejne</rdfs:label>
+    <rdfs:label xml:lang="ar">رسم زيتي</rdfs:label>
+    <rdfs:label xml:lang="ja">油彩</rdfs:label>
+    <rdfs:label xml:lang="zh">油画</rdfs:label>
+    <rdfs:label xml:lang="de">Ölmalerei</rdfs:label>
+    <rdfs:label xml:lang="fr">Peinture à l'huile</rdfs:label>
+    <rdfs:label xml:lang="ru">Масляная живопись</rdfs:label>
+    <rdfs:label xml:lang="en">Oil painting</rdfs:label>
+    <rdfs:label xml:lang="pt">Pintura a óleo</rdfs:label>
+    <rdfs:label xml:lang="it">Pittura a olio</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pablo_Picasso">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paolo_Uccello">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/The_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Cézanne">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Performing_arts">
+    <rdfs:label xml:lang="zh">表演艺术</rdfs:label>
+    <rdfs:label xml:lang="es">Artes escénicas</rdfs:label>
+    <rdfs:label xml:lang="de">Darstellende Kunst</rdfs:label>
+    <rdfs:label xml:lang="it">Arti performative</rdfs:label>
+    <rdfs:label xml:lang="fr">Spectacle vivant</rdfs:label>
+    <rdfs:label xml:lang="ja">舞台芸術</rdfs:label>
+    <rdfs:label xml:lang="pt">Artes cénicas</rdfs:label>
+    <rdfs:label xml:lang="nl">Podiumkunsten</rdfs:label>
+    <rdfs:label xml:lang="en">Performing arts</rdfs:label>
+    <rdfs:label xml:lang="ar">فنون تعبيرية</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Photography">
+    <rdfs:label xml:lang="it">Fotografia</rdfs:label>
+    <rdfs:label xml:lang="pt">Fotografia</rdfs:label>
+    <rdfs:label xml:lang="ja">写真</rdfs:label>
+    <rdfs:label xml:lang="es">Fotografía</rdfs:label>
+    <rdfs:label xml:lang="fr">Photographie</rdfs:label>
+    <rdfs:label xml:lang="en">Photography</rdfs:label>
+    <rdfs:label xml:lang="zh">摄影</rdfs:label>
+    <rdfs:label xml:lang="nl">Fotografie</rdfs:label>
+    <rdfs:label xml:lang="de">Fotografie</rdfs:label>
+    <rdfs:label xml:lang="ru">Фотография</rdfs:label>
+    <rdfs:label xml:lang="ar">تصوير</rdfs:label>
+    <rdfs:label xml:lang="pl">Fotografia</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-Auguste_Renoir">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poetry">
+    <rdfs:label xml:lang="pt">Poesia</rdfs:label>
+    <rdfs:label xml:lang="nl">Poëzie</rdfs:label>
+    <rdfs:label xml:lang="de">Poesie</rdfs:label>
+    <rdfs:label xml:lang="es">Poesía</rdfs:label>
+    <rdfs:label xml:lang="ja">詩</rdfs:label>
+    <rdfs:label xml:lang="en">Poetry</rdfs:label>
+    <rdfs:label xml:lang="ar">شعر (أدب)</rdfs:label>
+    <rdfs:label xml:lang="zh">诗歌</rdfs:label>
+    <rdfs:label xml:lang="it">Poesia</rdfs:label>
+    <rdfs:label xml:lang="fr">Poésie</rdfs:label>
+    <rdfs:label xml:lang="pl">Poezja</rdfs:label>
+    <rdfs:label xml:lang="ru">Поэзия</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Politics">
+    <rdfs:label xml:lang="fr">Politique</rdfs:label>
+    <rdfs:label xml:lang="it">Politica</rdfs:label>
+    <rdfs:label xml:lang="pt">Política</rdfs:label>
+    <rdfs:label xml:lang="zh">政治</rdfs:label>
+    <rdfs:label xml:lang="nl">Politiek</rdfs:label>
+    <rdfs:label xml:lang="de">Politik</rdfs:label>
+    <rdfs:label xml:lang="en">Politics</rdfs:label>
+    <rdfs:label xml:lang="ar">سياسة</rdfs:label>
+    <rdfs:label xml:lang="ru">Политика</rdfs:label>
+    <rdfs:label xml:lang="es">Política</rdfs:label>
+    <rdfs:label xml:lang="pl">Polityka</rdfs:label>
+    <rdfs:label xml:lang="ja">政治</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Post-structuralism">
+    <rdfs:label xml:lang="fr">Post-structuralisme</rdfs:label>
+    <rdfs:label xml:lang="es">Posestructuralismo</rdfs:label>
+    <rdfs:label xml:lang="pt">Pós-estruturalismo</rdfs:label>
+    <rdfs:label xml:lang="ru">Постструктурализм</rdfs:label>
+    <rdfs:label xml:lang="ar">ما بعد البنيوية</rdfs:label>
+    <rdfs:label xml:lang="it">Post-strutturalismo</rdfs:label>
+    <rdfs:label xml:lang="pl">Poststrukturalizm</rdfs:label>
+    <rdfs:label xml:lang="en">Post-structuralism</rdfs:label>
+    <rdfs:label xml:lang="zh">後結構主義</rdfs:label>
+    <rdfs:label xml:lang="nl">Poststructuralisme</rdfs:label>
+    <rdfs:label xml:lang="ja">ポスト構造主義</rdfs:label>
+    <rdfs:label xml:lang="de">Poststrukturalismus</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Postmodernism">
+    <rdfs:label xml:lang="zh">后现代主义</rdfs:label>
+    <rdfs:label xml:lang="pl">Postmodernizm (filozofia)</rdfs:label>
+    <rdfs:label xml:lang="ja">ポストモダン</rdfs:label>
+    <rdfs:label xml:lang="de">Postmoderne</rdfs:label>
+    <rdfs:label xml:lang="en">Postmodernism</rdfs:label>
+    <rdfs:label xml:lang="nl">Postmodernisme</rdfs:label>
+    <rdfs:label xml:lang="ru">Постмодернизм</rdfs:label>
+    <rdfs:label xml:lang="ar">ما بعد الحداثة (فلسفة)</rdfs:label>
+    <rdfs:label xml:lang="fr">Postmodernisme</rdfs:label>
+    <rdfs:label xml:lang="it">Postmodernismo</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Propaganda">
+    <rdfs:label xml:lang="pl">Propaganda</rdfs:label>
+    <rdfs:label xml:lang="zh">政治宣传</rdfs:label>
+    <rdfs:label xml:lang="nl">Propaganda (communicatie)</rdfs:label>
+    <rdfs:label xml:lang="en">Propaganda</rdfs:label>
+    <rdfs:label xml:lang="es">Propaganda</rdfs:label>
+    <rdfs:label xml:lang="it">Propaganda</rdfs:label>
+    <rdfs:label xml:lang="ru">Пропаганда</rdfs:label>
+    <rdfs:label xml:lang="fr">Propagande</rdfs:label>
+    <rdfs:label xml:lang="ja">プロパガンダ</rdfs:label>
+    <rdfs:label xml:lang="ar">دعاوة</rdfs:label>
+    <rdfs:label xml:lang="pt">Propaganda</rdfs:label>
+    <rdfs:label xml:lang="de">Propaganda</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Punk_rock">
+    <rdfs:label xml:lang="de">Punk (Musik)</rdfs:label>
+    <rdfs:label xml:lang="en">Punk rock</rdfs:label>
+    <rdfs:label xml:lang="pl">Punk</rdfs:label>
+    <rdfs:label xml:lang="it">Punk rock</rdfs:label>
+    <rdfs:label xml:lang="ru">Панк-рок</rdfs:label>
+    <rdfs:label xml:lang="fr">Punk rock</rdfs:label>
+    <rdfs:label xml:lang="ja">パンク・ロック</rdfs:label>
+    <rdfs:label xml:lang="nl">Punk (muziek)</rdfs:label>
+    <rdfs:label xml:lang="es">Punk</rdfs:label>
+    <rdfs:label xml:lang="pt">Punk rock</rdfs:label>
+    <rdfs:label xml:lang="zh">朋克搖滾</rdfs:label>
+    <rdfs:label xml:lang="ar">بانك</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/René_Magritte">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rock_music">
+    <rdfs:label xml:lang="it">Rock</rdfs:label>
+    <rdfs:label xml:lang="ru">Рок-музыка</rdfs:label>
+    <rdfs:label xml:lang="zh">摇滚乐</rdfs:label>
+    <rdfs:label xml:lang="ar">موسيقى الروك</rdfs:label>
+    <rdfs:label xml:lang="es">Rock</rdfs:label>
+    <rdfs:label xml:lang="en">Rock music</rdfs:label>
+    <rdfs:label xml:lang="ja">ロック (音楽)</rdfs:label>
+    <rdfs:label xml:lang="pt">Rock</rdfs:label>
+    <rdfs:label xml:lang="pl">Rock</rdfs:label>
+    <rdfs:label xml:lang="fr">Rock</rdfs:label>
+    <rdfs:label xml:lang="de">Rockmusik</rdfs:label>
+    <rdfs:label xml:lang="nl">Rock</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rocky_Mountains">
+    <rdfs:label xml:lang="zh">洛磯山脈</rdfs:label>
+    <rdfs:label xml:lang="de">Rocky Mountains</rdfs:label>
+    <rdfs:label xml:lang="en">Rocky Mountains</rdfs:label>
+    <rdfs:label xml:lang="ar">جبال روكي</rdfs:label>
+    <rdfs:label xml:lang="nl">Rocky Mountains</rdfs:label>
+    <rdfs:label xml:lang="fr">Montagnes Rocheuses</rdfs:label>
+    <rdfs:label xml:lang="pt">Montanhas Rochosas</rdfs:label>
+    <rdfs:label xml:lang="ru">Скалистые горы</rdfs:label>
+    <rdfs:label xml:lang="it">Montagne Rocciose</rdfs:label>
+    <rdfs:label xml:lang="pl">Góry Skaliste</rdfs:label>
+    <rdfs:label xml:lang="ja">ロッキー山脈</rdfs:label>
+    <rdfs:label xml:lang="es">Montañas Rocosas</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romantic_music">
+    <rdfs:label xml:lang="fr">Musique romantique</rdfs:label>
+    <rdfs:label xml:lang="es">Música del Romanticismo</rdfs:label>
+    <rdfs:label xml:lang="pl">Muzyka romantyczna</rdfs:label>
+    <rdfs:label xml:lang="ru">Музыка периода романтизма</rdfs:label>
+    <rdfs:label xml:lang="it">Musica del Romanticismo</rdfs:label>
+    <rdfs:label xml:lang="pt">Era Romântica</rdfs:label>
+    <rdfs:label xml:lang="de">Musik der Romantik</rdfs:label>
+    <rdfs:label xml:lang="nl">Romantiek (muziek)</rdfs:label>
+    <rdfs:label xml:lang="zh">浪漫主義音樂</rdfs:label>
+    <rdfs:label xml:lang="ja">ロマン派音楽</rdfs:label>
+    <rdfs:label xml:lang="en">Romantic music</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romantic_nationalism">
+    <rdfs:label xml:lang="ar">الرومانسية القومية</rdfs:label>
+    <rdfs:label xml:lang="ja">ナショナル・ロマンティシズム</rdfs:label>
+    <rdfs:label xml:lang="it">Nazionalismo romantico</rdfs:label>
+    <rdfs:label xml:lang="de">Nationalromantik</rdfs:label>
+    <rdfs:label xml:lang="es">Nacionalismo romántico</rdfs:label>
+    <rdfs:label xml:lang="ru">Романтический национализм</rdfs:label>
+    <rdfs:label xml:lang="en">Romantic nationalism</rdfs:label>
+    <rdfs:label xml:lang="pt">Nacionalismo romântico</rdfs:label>
+    <rdfs:label xml:lang="fr">Nationalisme romantique</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romanticism">
+    <rdfs:label xml:lang="ru">Романтизм</rdfs:label>
+    <rdfs:label xml:lang="en">Romanticism</rdfs:label>
+    <rdfs:label xml:lang="ja">ロマン主義</rdfs:label>
+    <rdfs:label xml:lang="es">Romanticismo</rdfs:label>
+    <rdfs:label xml:lang="nl">Romantiek (stroming)</rdfs:label>
+    <rdfs:label xml:lang="fr">Romantisme</rdfs:label>
+    <rdfs:label xml:lang="it">Romanticismo</rdfs:label>
+    <rdfs:label xml:lang="ar">رومانسية (فن)</rdfs:label>
+    <rdfs:label xml:lang="pt">Romantismo</rdfs:label>
+    <rdfs:label xml:lang="pl">Romantyzm</rdfs:label>
+    <rdfs:label xml:lang="de">Romantik</rdfs:label>
+    <rdfs:label xml:lang="zh">浪漫主义</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Satire">
+    <rdfs:label xml:lang="fr">Satire</rdfs:label>
+    <rdfs:label xml:lang="ar">هجاء (شعر)</rdfs:label>
+    <rdfs:label xml:lang="zh">讽刺</rdfs:label>
+    <rdfs:label xml:lang="pt">Sátira</rdfs:label>
+    <rdfs:label xml:lang="ru">Сатира</rdfs:label>
+    <rdfs:label xml:lang="ja">風刺</rdfs:label>
+    <rdfs:label xml:lang="es">Sátira</rdfs:label>
+    <rdfs:label xml:lang="it">Satira</rdfs:label>
+    <rdfs:label xml:lang="pl">Satyra</rdfs:label>
+    <rdfs:label xml:lang="en">Satire</rdfs:label>
+    <rdfs:label xml:lang="de">Satire</rdfs:label>
+    <rdfs:label xml:lang="nl">Satire</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Science_fiction">
+    <rdfs:label xml:lang="es">Ciencia ficción</rdfs:label>
+    <rdfs:label xml:lang="ru">Научная фантастика</rdfs:label>
+    <rdfs:label xml:lang="ar">خيال علمي</rdfs:label>
+    <rdfs:label xml:lang="en">Science fiction</rdfs:label>
+    <rdfs:label xml:lang="zh">科學幻想</rdfs:label>
+    <rdfs:label xml:lang="fr">Science-fiction</rdfs:label>
+    <rdfs:label xml:lang="it">Fantascienza</rdfs:label>
+    <rdfs:label xml:lang="pl">Fantastyka naukowa</rdfs:label>
+    <rdfs:label xml:lang="ja">サイエンス・フィクション</rdfs:label>
+    <rdfs:label xml:lang="nl">Sciencefiction</rdfs:label>
+    <rdfs:label xml:lang="de">Science-Fiction</rdfs:label>
+    <rdfs:label xml:lang="pt">Ficção científica</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sculpture">
+    <rdfs:label xml:lang="pl">Rzeźba</rdfs:label>
+    <rdfs:label xml:lang="fr">Sculpture</rdfs:label>
+    <rdfs:label xml:lang="es">Escultura</rdfs:label>
+    <rdfs:label xml:lang="en">Sculpture</rdfs:label>
+    <rdfs:label xml:lang="it">Scultura</rdfs:label>
+    <rdfs:label xml:lang="de">Bildhauerkunst</rdfs:label>
+    <rdfs:label xml:lang="ja">彫刻</rdfs:label>
+    <rdfs:label xml:lang="zh">雕塑</rdfs:label>
+    <rdfs:label xml:lang="ar">نحت</rdfs:label>
+    <rdfs:label xml:lang="ru">Скульптура</rdfs:label>
+    <rdfs:label xml:lang="pt">Escultura</rdfs:label>
+    <rdfs:label xml:lang="nl">Beeldhouwkunst</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shōnen_manga">
+    <rdfs:label xml:lang="es">Shōnen</rdfs:label>
+    <rdfs:label xml:lang="ja">少年漫画</rdfs:label>
+    <rdfs:label xml:lang="nl">Shonen</rdfs:label>
+    <rdfs:label xml:lang="pl">Shōnen-manga</rdfs:label>
+    <rdfs:label xml:lang="ru">Сёнэн</rdfs:label>
+    <rdfs:label xml:lang="pt">Shōnen</rdfs:label>
+    <rdfs:label xml:lang="de">Shōnen</rdfs:label>
+    <rdfs:label xml:lang="ar">شونن</rdfs:label>
+    <rdfs:label xml:lang="it">Shōnen</rdfs:label>
+    <rdfs:label xml:lang="en">Shōnen manga</rdfs:label>
+    <rdfs:label xml:lang="zh">少年漫画</rdfs:label>
+    <rdfs:label xml:lang="fr">Shōnen</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Socialism">
+    <rdfs:label xml:lang="es">Socialismo</rdfs:label>
+    <rdfs:label xml:lang="ja">社会主義</rdfs:label>
+    <rdfs:label xml:lang="pl">Socjalizm</rdfs:label>
+    <rdfs:label xml:lang="ar">اشتراكية</rdfs:label>
+    <rdfs:label xml:lang="zh">社会主义</rdfs:label>
+    <rdfs:label xml:lang="it">Socialismo</rdfs:label>
+    <rdfs:label xml:lang="pt">Socialismo</rdfs:label>
+    <rdfs:label xml:lang="nl">Socialisme</rdfs:label>
+    <rdfs:label xml:lang="fr">Socialisme</rdfs:label>
+    <rdfs:label xml:lang="ru">Социализм</rdfs:label>
+    <rdfs:label xml:lang="en">Socialism</rdfs:label>
+    <rdfs:label xml:lang="de">Sozialismus</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sofonisba_Anguissola">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/The_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Structuralism">
+    <rdfs:label xml:lang="en">Structuralism</rdfs:label>
+    <rdfs:label xml:lang="ru">Структурализм</rdfs:label>
+    <rdfs:label xml:lang="nl">Structuralisme (sociale wetenschappen)</rdfs:label>
+    <rdfs:label xml:lang="it">Strutturalismo</rdfs:label>
+    <rdfs:label xml:lang="ja">構造主義</rdfs:label>
+    <rdfs:label xml:lang="pl">Strukturalizm</rdfs:label>
+    <rdfs:label xml:lang="de">Strukturalismus</rdfs:label>
+    <rdfs:label xml:lang="fr">Structuralisme</rdfs:label>
+    <rdfs:label xml:lang="ar">بنيوية</rdfs:label>
+    <rdfs:label xml:lang="zh">結構主義</rdfs:label>
+    <rdfs:label xml:lang="pt">Estruturalismo</rdfs:label>
+    <rdfs:label xml:lang="es">Estructuralismo</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surrealism">
+    <rdfs:label xml:lang="zh">超现实主义</rdfs:label>
+    <rdfs:label xml:lang="pl">Surrealizm</rdfs:label>
+    <rdfs:label xml:lang="ja">シュルレアリスム</rdfs:label>
+    <rdfs:label xml:lang="fr">Surréalisme</rdfs:label>
+    <rdfs:label xml:lang="nl">Surrealisme</rdfs:label>
+    <rdfs:label xml:lang="en">Surrealism</rdfs:label>
+    <rdfs:label xml:lang="ar">سريالية</rdfs:label>
+    <rdfs:label xml:lang="de">Surrealismus</rdfs:label>
+    <rdfs:label xml:lang="es">Surrealismo</rdfs:label>
+    <rdfs:label xml:lang="pt">Surrealismo</rdfs:label>
+    <rdfs:label xml:lang="ru">Сюрреализм</rdfs:label>
+    <rdfs:label xml:lang="it">Surrealismo</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Renaissance">
+    <rdfs:label xml:lang="en">The Renaissance</rdfs:label>
+    <rdfs:label xml:lang="ja">ルネサンス</rdfs:label>
+    <rdfs:label xml:lang="fr">Renaissance</rdfs:label>
+    <rdfs:label xml:lang="de">Renaissance</rdfs:label>
+    <rdfs:label xml:lang="ru">Возрождение</rdfs:label>
+    <rdfs:label xml:lang="it">Rinascimento</rdfs:label>
+    <rdfs:label xml:lang="nl">Renaissance</rdfs:label>
+    <rdfs:label xml:lang="zh">文艺复兴</rdfs:label>
+    <rdfs:label xml:lang="pl">Renesans</rdfs:label>
+    <rdfs:label xml:lang="pt">Renascimento</rdfs:label>
+    <rdfs:label xml:lang="es">Renacimiento</rdfs:label>
+    <rdfs:label xml:lang="ar">عصر النهضة</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Édouard_Manet">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anti-capitalism">
+    <rdfs:label xml:lang="ru">Антикапитализм</rdfs:label>
+    <rdfs:label xml:lang="de">Antikapitalismus</rdfs:label>
+    <rdfs:label xml:lang="en">Anti-capitalism</rdfs:label>
+    <rdfs:label xml:lang="ja">反資本主義</rdfs:label>
+    <rdfs:label xml:lang="zh">反資本主義</rdfs:label>
+    <rdfs:label xml:lang="ar">مناهضة الرأسمالية</rdfs:label>
+    <rdfs:label xml:lang="pl">Antykapitalizm</rdfs:label>
+    <rdfs:label xml:lang="pt">Anticapitalismo</rdfs:label>
+    <rdfs:label xml:lang="it">Anticapitalismo</rdfs:label>
+    <rdfs:label xml:lang="es">Anticapitalismo</rdfs:label>
+    <rdfs:label xml:lang="fr">Anticapitalisme</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cape_Province">
+    <rdfs:label xml:lang="en">Cape Province</rdfs:label>
+    <rdfs:label xml:lang="ja">ケープ州</rdfs:label>
+    <rdfs:label xml:lang="nl">Kaapprovincie</rdfs:label>
+    <rdfs:label xml:lang="fr">Province du Cap</rdfs:label>
+    <rdfs:label xml:lang="zh">開普省</rdfs:label>
+    <rdfs:label xml:lang="es">Provincia del Cabo</rdfs:label>
+    <rdfs:label xml:lang="de">Kapprovinz</rdfs:label>
+    <rdfs:label xml:lang="ru">Капская провинция</rdfs:label>
+    <rdfs:label xml:lang="ar">الكاب (مقاطعة)</rdfs:label>
+    <rdfs:label xml:lang="pl">Kraj Przylądkowy</rdfs:label>
+    <rdfs:label xml:lang="pt">Cabo (província)</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/François_Boucher">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Rococo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johannes_Vermeer">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dutch_Golden_Age_painting"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque_painting"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcel_Duchamp">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Conceptual_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dada"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Ernst">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dada"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ossip_Zadkine">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Art_Deco"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Printmaking">
+    <rdfs:label xml:lang="nl">Gravure</rdfs:label>
+    <rdfs:label xml:lang="es">Grabado</rdfs:label>
+    <rdfs:label xml:lang="it">Incisione</rdfs:label>
+    <rdfs:label xml:lang="de">Gravur</rdfs:label>
+    <rdfs:label xml:lang="pt">Gravura</rdfs:label>
+    <rdfs:label xml:lang="pl">Grawiura</rdfs:label>
+    <rdfs:label xml:lang="fr">Gravure</rdfs:label>
+    <rdfs:label xml:lang="ru">Гравюра</rdfs:label>
+    <rdfs:label xml:lang="en">Printmaking</rdfs:label>
+    <rdfs:label xml:lang="ar">طباعة فنية</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Psychedelia">
+    <rdfs:label xml:lang="pt">Psicodelia</rdfs:label>
+    <rdfs:label xml:lang="en">Psychedelia</rdfs:label>
+    <rdfs:label xml:lang="it">Psichedelia</rdfs:label>
+    <rdfs:label xml:lang="nl">Psychedelisch</rdfs:label>
+    <rdfs:label xml:lang="pl">Psychodelia</rdfs:label>
+    <rdfs:label xml:lang="de">Psychedelisch</rdfs:label>
+    <rdfs:label xml:lang="es">Psicodelia</rdfs:label>
+    <rdfs:label xml:lang="fr">Psychédélisme</rdfs:label>
+    <rdfs:label xml:lang="ru">Психоделия</rdfs:label>
+    <rdfs:label xml:lang="ja">サイケデリック</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Screen_printing">
+    <rdfs:label xml:lang="it">Serigrafia</rdfs:label>
+    <rdfs:label xml:lang="ar">طباعة الشاشة الحريرية</rdfs:label>
+    <rdfs:label xml:lang="ru">Трафаретная печать</rdfs:label>
+    <rdfs:label xml:lang="pt">Serigrafia</rdfs:label>
+    <rdfs:label xml:lang="es">Serigrafía</rdfs:label>
+    <rdfs:label xml:lang="en">Screen printing</rdfs:label>
+    <rdfs:label xml:lang="fr">Sérigraphie</rdfs:label>
+    <rdfs:label xml:lang="pl">Druk sitowy</rdfs:label>
+    <rdfs:label xml:lang="de">Siebdruck</rdfs:label>
+    <rdfs:label xml:lang="ja">シルクスクリーン</rdfs:label>
+    <rdfs:label xml:lang="nl">Zeefdruk</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ukiyo-e">
+    <rdfs:label xml:lang="nl">Ukiyo-e</rdfs:label>
+    <rdfs:label xml:lang="ar">أوكييو-إه</rdfs:label>
+    <rdfs:label xml:lang="ja">浮世絵</rdfs:label>
+    <rdfs:label xml:lang="de">Ukiyo-e</rdfs:label>
+    <rdfs:label xml:lang="en">Ukiyo-e</rdfs:label>
+    <rdfs:label xml:lang="ru">Укиё-э</rdfs:label>
+    <rdfs:label xml:lang="zh">浮世繪</rdfs:label>
+    <rdfs:label xml:lang="es">Ukiyo-e</rdfs:label>
+    <rdfs:label xml:lang="fr">Ukiyo-e</rdfs:label>
+    <rdfs:label xml:lang="it">Ukiyo-e</rdfs:label>
+    <rdfs:label xml:lang="pl">Ukiyo-e</rdfs:label>
+    <rdfs:label xml:lang="pt">Ukiyo-e</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/0_(number)">
+    <rdfs:label xml:lang="pt">0 (número)</rdfs:label>
+    <rdfs:label xml:lang="nl">0 (getal)</rdfs:label>
+    <rdfs:label xml:lang="es">Cero</rdfs:label>
+    <rdfs:label xml:lang="en">0 (number)</rdfs:label>
+    <rdfs:label xml:lang="pl">0 (liczba)</rdfs:label>
+    <rdfs:label xml:lang="ar">0 (عدد)</rdfs:label>
+    <rdfs:label xml:lang="zh">0</rdfs:label>
+    <rdfs:label xml:lang="ru">0 (число)</rdfs:label>
+    <rdfs:label xml:lang="ja">0</rdfs:label>
+    <rdfs:label xml:lang="de">Null</rdfs:label>
+    <rdfs:label xml:lang="it">0 (numero)</rdfs:label>
+    <rdfs:label xml:lang="fr">Zéro</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ambrosius_Holbein">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Northern_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Art_Nouveau">
+    <rdfs:label xml:lang="ar">الفن الجديد</rdfs:label>
+    <rdfs:label xml:lang="en">Art Nouveau</rdfs:label>
+    <rdfs:label xml:lang="ja">アール・ヌーヴォー</rdfs:label>
+    <rdfs:label xml:lang="nl">Jugendstil</rdfs:label>
+    <rdfs:label xml:lang="ru">Модерн</rdfs:label>
+    <rdfs:label xml:lang="it">Art Nouveau</rdfs:label>
+    <rdfs:label xml:lang="pl">Secesja (sztuka)</rdfs:label>
+    <rdfs:label xml:lang="zh">新艺术运动</rdfs:label>
+    <rdfs:label xml:lang="pt">Art nouveau</rdfs:label>
+    <rdfs:label xml:lang="de">Jugendstil</rdfs:label>
+    <rdfs:label xml:lang="fr">Art nouveau</rdfs:label>
+    <rdfs:label xml:lang="es">Modernismo (arte)</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arts_and_Crafts_movement">
+    <rdfs:label xml:lang="ar">حركة الفنون والحرف</rdfs:label>
+    <rdfs:label xml:lang="ru">Движение искусств и ремёсел</rdfs:label>
+    <rdfs:label xml:lang="pt">Arts &amp; crafts</rdfs:label>
+    <rdfs:label xml:lang="ja">アーツ・アンド・クラフツ運動</rdfs:label>
+    <rdfs:label xml:lang="es">Arts and Crafts</rdfs:label>
+    <rdfs:label xml:lang="it">Arts and Crafts</rdfs:label>
+    <rdfs:label xml:lang="zh">艺术与工艺美术运动</rdfs:label>
+    <rdfs:label xml:lang="fr">Arts &amp; Crafts</rdfs:label>
+    <rdfs:label xml:lang="pl">Arts and Crafts Movement</rdfs:label>
+    <rdfs:label xml:lang="en">Arts and Crafts movement</rdfs:label>
+    <rdfs:label xml:lang="nl">Arts-and-craftsbeweging</rdfs:label>
+    <rdfs:label xml:lang="de">Arts and Crafts Movement</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Augustus_John">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballet">
+    <rdfs:label xml:lang="ja">バレエ</rdfs:label>
+    <rdfs:label xml:lang="fr">Ballet</rdfs:label>
+    <rdfs:label xml:lang="pt">Balé</rdfs:label>
+    <rdfs:label xml:lang="pl">Balet</rdfs:label>
+    <rdfs:label xml:lang="de">Ballett</rdfs:label>
+    <rdfs:label xml:lang="ar">باليه</rdfs:label>
+    <rdfs:label xml:lang="zh">芭蕾舞</rdfs:label>
+    <rdfs:label xml:lang="es">Ballet</rdfs:label>
+    <rdfs:label xml:lang="ru">Балет</rdfs:label>
+    <rdfs:label xml:lang="nl">Ballet</rdfs:label>
+    <rdfs:label xml:lang="it">Balletto</rdfs:label>
+    <rdfs:label xml:lang="en">Ballet</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baroque_painting">
+    <rdfs:label xml:lang="fr">Peinture baroque</rdfs:label>
+    <rdfs:label xml:lang="ja">バロック絵画</rdfs:label>
+    <rdfs:label xml:lang="it">Pittura barocca</rdfs:label>
+    <rdfs:label xml:lang="ru">Барокко в живописи</rdfs:label>
+    <rdfs:label xml:lang="pt">Pintura do Barroco</rdfs:label>
+    <rdfs:label xml:lang="en">Baroque painting</rdfs:label>
+    <rdfs:label xml:lang="de">Barock (Malerei)</rdfs:label>
+    <rdfs:label xml:lang="es">Pintura del Barroco</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bharata_Natyam">
+    <rdfs:label xml:lang="pt">Bharatanatyam</rdfs:label>
+    <rdfs:label xml:lang="fr">Bharata natyam</rdfs:label>
+    <rdfs:label xml:lang="en">Bharata Natyam</rdfs:label>
+    <rdfs:label xml:lang="es">Bharata natiam</rdfs:label>
+    <rdfs:label xml:lang="nl">Bharata natyam</rdfs:label>
+    <rdfs:label xml:lang="de">Bharatanatyam</rdfs:label>
+    <rdfs:label xml:lang="pl">Bharatanatjam</rdfs:label>
+    <rdfs:label xml:lang="ru">Бхаратанатьям</rdfs:label>
+    <rdfs:label xml:lang="it">Bharatanatyam</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Children's_literature">
+    <rdfs:label xml:lang="ja">児童文学</rdfs:label>
+    <rdfs:label xml:lang="ar">أدب الأطفال</rdfs:label>
+    <rdfs:label xml:lang="es">Literatura infantil</rdfs:label>
+    <rdfs:label xml:lang="it">Letteratura per ragazzi</rdfs:label>
+    <rdfs:label xml:lang="zh">儿童文学</rdfs:label>
+    <rdfs:label xml:lang="ru">Детская литература</rdfs:label>
+    <rdfs:label xml:lang="de">Kinderbuch</rdfs:label>
+    <rdfs:label xml:lang="en">Children's literature</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cubism">
+    <rdfs:label xml:lang="pt">Cubismo</rdfs:label>
+    <rdfs:label xml:lang="fr">Cubisme</rdfs:label>
+    <rdfs:label xml:lang="de">Kubismus</rdfs:label>
+    <rdfs:label xml:lang="nl">Kubisme</rdfs:label>
+    <rdfs:label xml:lang="pl">Kubizm</rdfs:label>
+    <rdfs:label xml:lang="zh">立体主义</rdfs:label>
+    <rdfs:label xml:lang="ar">تكعيبية (عمارة)</rdfs:label>
+    <rdfs:label xml:lang="it">Cubismo</rdfs:label>
+    <rdfs:label xml:lang="en">Cubism</rdfs:label>
+    <rdfs:label xml:lang="ja">キュビスム</rdfs:label>
+    <rdfs:label xml:lang="es">Cubismo</rdfs:label>
+    <rdfs:label xml:lang="ru">Кубизм</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Schultz">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Egon_Schiele">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emil_Nolde">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federico_Zuccari">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/The_Renaissance"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Mannerism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Five_Dynasties_and_Ten_Kingdoms_period">
+    <rdfs:label xml:lang="nl">Vijf Dynastieën en Tien Koninkrijken</rdfs:label>
+    <rdfs:label xml:lang="ja">五代十国時代</rdfs:label>
+    <rdfs:label xml:lang="es">Cinco Dinastías</rdfs:label>
+    <rdfs:label xml:lang="it">Cinque dinastie e dieci regni</rdfs:label>
+    <rdfs:label xml:lang="de">Fünf Dynastien und Zehn Reiche</rdfs:label>
+    <rdfs:label xml:lang="zh">五代十国</rdfs:label>
+    <rdfs:label xml:lang="pl">Pięć Dynastii i Dziesięć Królestw</rdfs:label>
+    <rdfs:label xml:lang="ru">Эпоха пяти династий и десяти царств</rdfs:label>
+    <rdfs:label xml:lang="ar">فترة الأسر الخمس والممالك العشر</rdfs:label>
+    <rdfs:label xml:lang="pt">Período das Cinco Dinastias e dos Dez Reinos</rdfs:label>
+    <rdfs:label xml:lang="en">Five Dynasties and Ten Kingdoms period</rdfs:label>
+    <rdfs:label xml:lang="fr">Période des Cinq Dynasties et des Dix Royaumes</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Zuccarelli">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Rococo"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedensreich_Hundertwasser">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modern_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Genre">
+    <rdfs:label xml:lang="nl">Genre</rdfs:label>
+    <rdfs:label xml:lang="zh">類型 (藝術)</rdfs:label>
+    <rdfs:label xml:lang="de">Genre</rdfs:label>
+    <rdfs:label xml:lang="en">Genre</rdfs:label>
+    <rdfs:label xml:lang="ar">نوع فني</rdfs:label>
+    <rdfs:label xml:lang="ja">ジャンル</rdfs:label>
+    <rdfs:label xml:lang="ru">Жанр</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gothic_architecture">
+    <rdfs:label xml:lang="ru">Готическая архитектура</rdfs:label>
+    <rdfs:label xml:lang="pt">Arquitetura gótica</rdfs:label>
+    <rdfs:label xml:lang="it">Architettura gotica</rdfs:label>
+    <rdfs:label xml:lang="es">Arquitectura gótica</rdfs:label>
+    <rdfs:label xml:lang="en">Gothic architecture</rdfs:label>
+    <rdfs:label xml:lang="fr">Architecture gothique</rdfs:label>
+    <rdfs:label xml:lang="ja">ゴシック建築</rdfs:label>
+    <rdfs:label xml:lang="nl">Rayonante gotiek</rdfs:label>
+    <rdfs:label xml:lang="zh">哥特式建筑</rdfs:label>
+    <rdfs:label xml:lang="ar">عمارة قوطية</rdfs:label>
+    <rdfs:label xml:lang="pl">Architektura gotycka</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Holbein_the_Elder">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/International_Gothic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Holbein_the_Younger">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Northern_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hieronymus_Bosch">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Early_Netherlandish_painting"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Auguste-Dominique_Ingres">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Neoclassicism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaccio">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/The_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Model_(people)">
+    <rdfs:label xml:lang="en">Model (people)</rdfs:label>
+    <rdfs:label xml:lang="de">Model</rdfs:label>
+    <rdfs:label xml:lang="ja">モデル (職業)</rdfs:label>
+    <rdfs:label xml:lang="nl">Model (persoon)</rdfs:label>
+    <rdfs:label xml:lang="it">Modello (professione)</rdfs:label>
+    <rdfs:label xml:lang="ru">Модель (профессия)</rdfs:label>
+    <rdfs:label xml:lang="zh">模特兒</rdfs:label>
+    <rdfs:label xml:lang="es">Modelo (moda)</rdfs:label>
+    <rdfs:label xml:lang="pt">Modelo (profissão)</rdfs:label>
+    <rdfs:label xml:lang="pl">Model (zawód)</rdfs:label>
+    <rdfs:label xml:lang="ar">عارضة أزياء</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orientalism">
+    <rdfs:label xml:lang="zh">东方主义</rdfs:label>
+    <rdfs:label xml:lang="pl">Orientalizm</rdfs:label>
+    <rdfs:label xml:lang="pt">Orientalismo</rdfs:label>
+    <rdfs:label xml:lang="fr">Orientalisme</rdfs:label>
+    <rdfs:label xml:lang="nl">Oriëntalisme</rdfs:label>
+    <rdfs:label xml:lang="en">Orientalism</rdfs:label>
+    <rdfs:label xml:lang="es">Orientalismo</rdfs:label>
+    <rdfs:label xml:lang="de">Orientalismus (Kunst)</rdfs:label>
+    <rdfs:label xml:lang="ru">Ориентализм</rdfs:label>
+    <rdfs:label xml:lang="ja">オリエンタリズム</rdfs:label>
+    <rdfs:label xml:lang="ar">استشراق</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renaissance_architecture">
+    <rdfs:label xml:lang="pt">Arquitetura do Renascimento</rdfs:label>
+    <rdfs:label xml:lang="en">Renaissance architecture</rdfs:label>
+    <rdfs:label xml:lang="nl">Renaissancearchitectuur</rdfs:label>
+    <rdfs:label xml:lang="ja">ルネサンス建築</rdfs:label>
+    <rdfs:label xml:lang="fr">Architecture de la Renaissance</rdfs:label>
+    <rdfs:label xml:lang="it">Architettura rinascimentale</rdfs:label>
+    <rdfs:label xml:lang="zh">文艺复兴建筑</rdfs:label>
+    <rdfs:label xml:lang="es">Arquitectura del Renacimiento</rdfs:label>
+    <rdfs:label xml:lang="pl">Architektura renesansu</rdfs:label>
+    <rdfs:label xml:lang="de">Architektur der Renaissance</rdfs:label>
+    <rdfs:label xml:lang="ru">Архитектура Возрождения</rdfs:label>
+    <rdfs:label xml:lang="ar">عمارة عصر النهضة</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rococo">
+    <rdfs:label xml:lang="en">Rococo</rdfs:label>
+    <rdfs:label xml:lang="pl">Rokoko</rdfs:label>
+    <rdfs:label xml:lang="pt">Rococó</rdfs:label>
+    <rdfs:label xml:lang="ja">ロココ</rdfs:label>
+    <rdfs:label xml:lang="ru">Рококо</rdfs:label>
+    <rdfs:label xml:lang="es">Rococó</rdfs:label>
+    <rdfs:label xml:lang="fr">Rococo</rdfs:label>
+    <rdfs:label xml:lang="zh">洛可可</rdfs:label>
+    <rdfs:label xml:lang="ar">روكوكو</rdfs:label>
+    <rdfs:label xml:lang="it">Rococò</rdfs:label>
+    <rdfs:label xml:lang="nl">Rococo</rdfs:label>
+    <rdfs:label xml:lang="de">Rokoko</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Dalí">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dada"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sisto_Badalocchio">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Song_dynasty">
+    <rdfs:label xml:lang="es">Dinastía Song</rdfs:label>
+    <rdfs:label xml:lang="de">Song-Dynastie</rdfs:label>
+    <rdfs:label xml:lang="ar">أسرة سونغ</rdfs:label>
+    <rdfs:label xml:lang="it">Dinastia Song</rdfs:label>
+    <rdfs:label xml:lang="ru">Империя Сун</rdfs:label>
+    <rdfs:label xml:lang="ja">宋 (王朝)</rdfs:label>
+    <rdfs:label xml:lang="pt">Dinastia Sung</rdfs:label>
+    <rdfs:label xml:lang="nl">Song-dynastie</rdfs:label>
+    <rdfs:label xml:lang="zh">宋朝</rdfs:label>
+    <rdfs:label xml:lang="fr">Dynastie Song</rdfs:label>
+    <rdfs:label xml:lang="pl">Dynastia Song</rdfs:label>
+    <rdfs:label xml:lang="en">Song dynasty</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stuckism">
+    <rdfs:label xml:lang="it">Stucchismo</rdfs:label>
+    <rdfs:label xml:lang="pt">Stuckismo</rdfs:label>
+    <rdfs:label xml:lang="nl">Stuckisme</rdfs:label>
+    <rdfs:label xml:lang="zh">反觀念主義</rdfs:label>
+    <rdfs:label xml:lang="ru">Стакизм</rdfs:label>
+    <rdfs:label xml:lang="en">Stuckism</rdfs:label>
+    <rdfs:label xml:lang="de">Stuckisten</rdfs:label>
+    <rdfs:label xml:lang="fr">Stuckisme</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theodor_W._Adorno">
+    <rdfs:label xml:lang="fr">Theodor W. Adorno</rdfs:label>
+    <rdfs:label xml:lang="it">Theodor Adorno</rdfs:label>
+    <rdfs:label xml:lang="en">Theodor W. Adorno</rdfs:label>
+    <rdfs:label xml:lang="ar">تيودور أدورنو</rdfs:label>
+    <rdfs:label xml:lang="nl">Theodor Adorno</rdfs:label>
+    <rdfs:label xml:lang="pt">Theodor W. Adorno</rdfs:label>
+    <rdfs:label xml:lang="zh">狄奧多·阿多諾</rdfs:label>
+    <rdfs:label xml:lang="ru">Адорно, Теодор</rdfs:label>
+    <rdfs:label xml:lang="pl">Theodor Adorno</rdfs:label>
+    <rdfs:label xml:lang="ja">テオドール・アドルノ</rdfs:label>
+    <rdfs:label xml:lang="es">Theodor Adorno</rdfs:label>
+    <rdfs:label xml:lang="de">Theodor W. Adorno</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tradition">
+    <rdfs:label xml:lang="ar">تراث</rdfs:label>
+    <rdfs:label xml:lang="de">Tradition</rdfs:label>
+    <rdfs:label xml:lang="zh">传统</rdfs:label>
+    <rdfs:label xml:lang="es">Tradición</rdfs:label>
+    <rdfs:label xml:lang="ja">伝統</rdfs:label>
+    <rdfs:label xml:lang="pl">Tradycja</rdfs:label>
+    <rdfs:label xml:lang="it">Tradizione</rdfs:label>
+    <rdfs:label xml:lang="ru">Традиция</rdfs:label>
+    <rdfs:label xml:lang="nl">Traditie</rdfs:label>
+    <rdfs:label xml:lang="fr">Tradition</rdfs:label>
+    <rdfs:label xml:lang="en">Tradition</rdfs:label>
+    <rdfs:label xml:lang="pt">Tradição</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veit_Stoss">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/International_Gothic"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Northern_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Video_art">
+    <rdfs:label xml:lang="de">Videokunst</rdfs:label>
+    <rdfs:label xml:lang="pt">Videoarte</rdfs:label>
+    <rdfs:label xml:lang="it">Videoarte</rdfs:label>
+    <rdfs:label xml:lang="es">Videoarte</rdfs:label>
+    <rdfs:label xml:lang="ru">Видео-арт</rdfs:label>
+    <rdfs:label xml:lang="fr">Art vidéo</rdfs:label>
+    <rdfs:label xml:lang="pl">Sztuka wideo</rdfs:label>
+    <rdfs:label xml:lang="en">Video art</rdfs:label>
+    <rdfs:label xml:lang="nl">Videokunst</rdfs:label>
+    <rdfs:label xml:lang="ja">ビデオ・アート</rdfs:label>
+    <rdfs:label xml:lang="ar">فن الفيديو</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wassily_Kandinsky">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yaoi">
+    <rdfs:label xml:lang="de">Yaoi</rdfs:label>
+    <rdfs:label xml:lang="nl">Yaoi</rdfs:label>
+    <rdfs:label xml:lang="fr">Yaoi</rdfs:label>
+    <rdfs:label xml:lang="en">Yaoi</rdfs:label>
+    <rdfs:label xml:lang="pt">Yaoi</rdfs:label>
+    <rdfs:label xml:lang="ru">Яой</rdfs:label>
+    <rdfs:label xml:lang="ja">やおい</rdfs:label>
+    <rdfs:label xml:lang="ar">ياوي</rdfs:label>
+    <rdfs:label xml:lang="pl">Yaoi</rdfs:label>
+    <rdfs:label xml:lang="es">Yaoi</rdfs:label>
+    <rdfs:label xml:lang="it">Yaoi</rdfs:label>
+    <rdfs:label xml:lang="zh">Yaoi</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoga">
+    <rdfs:label xml:lang="zh">瑜伽</rdfs:label>
+    <rdfs:label xml:lang="pt">Ioga</rdfs:label>
+    <rdfs:label xml:lang="ja">ヨーガ</rdfs:label>
+    <rdfs:label xml:lang="en">Yoga</rdfs:label>
+    <rdfs:label xml:lang="es">Yoga</rdfs:label>
+    <rdfs:label xml:lang="it">Yoga</rdfs:label>
+    <rdfs:label xml:lang="de">Yoga</rdfs:label>
+    <rdfs:label xml:lang="fr">Yoga</rdfs:label>
+    <rdfs:label xml:lang="nl">Yoga</rdfs:label>
+    <rdfs:label xml:lang="ru">Йога</rdfs:label>
+    <rdfs:label xml:lang="pl">Joga</rdfs:label>
+    <rdfs:label xml:lang="ar">يوجا</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Americana">
+    <rdfs:label xml:lang="de">Americana (Kultur)</rdfs:label>
+    <rdfs:label xml:lang="en">Americana</rdfs:label>
+    <rdfs:label xml:lang="es">Americana (cultura)</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erdal_İnci">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Digital_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holice_Turnbow">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Quilt_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Italian_Renaissance_painting">
+    <rdfs:label xml:lang="ar">لوحات عصر النهضة الإيطالية</rdfs:label>
+    <rdfs:label xml:lang="en">Italian Renaissance painting</rdfs:label>
+    <rdfs:label xml:lang="es">Pintura renacentista de Italia</rdfs:label>
+    <rdfs:label xml:lang="pt">Pintura da Renascença Italiana</rdfs:label>
+    <rdfs:label xml:lang="ja">ルネサンス期のイタリア絵画</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Ruche">
+    <rdfs:label xml:lang="ru">Улей (Париж)</rdfs:label>
+    <rdfs:label xml:lang="ja">ラ・リューシュ</rdfs:label>
+    <rdfs:label xml:lang="de">La Ruche</rdfs:label>
+    <rdfs:label xml:lang="it">La Ruche</rdfs:label>
+    <rdfs:label xml:lang="en">La Ruche</rdfs:label>
+    <rdfs:label xml:lang="fr">La Ruche (cité d'artistes)</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_art">
+    <rdfs:label xml:lang="de">Moderne Kunst</rdfs:label>
+    <rdfs:label xml:lang="it">Arte moderna</rdfs:label>
+    <rdfs:label xml:lang="ar">فن حديث</rdfs:label>
+    <rdfs:label xml:lang="fr">Art moderne</rdfs:label>
+    <rdfs:label xml:lang="es">Arte moderno</rdfs:label>
+    <rdfs:label xml:lang="en">Modern art</rdfs:label>
+    <rdfs:label xml:lang="pt">Arte moderna</rdfs:label>
+    <rdfs:label xml:lang="zh">现代艺术</rdfs:label>
+    <rdfs:label xml:lang="nl">Moderne kunst</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Willis_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_Rotta">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Genre_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bolognese_School">
+    <rdfs:label xml:lang="es">Escuela boloñesa</rdfs:label>
+    <rdfs:label xml:lang="ja">17世紀ボローニャ派の芸術家</rdfs:label>
+    <rdfs:label xml:lang="pt">Escola de Bolonha</rdfs:label>
+    <rdfs:label xml:lang="de">Bologneser Schule</rdfs:label>
+    <rdfs:label xml:lang="nl">Bolognese School</rdfs:label>
+    <rdfs:label xml:lang="en">Bolognese School</rdfs:label>
+    <rdfs:label xml:lang="ru">Болонская школа живописи</rdfs:label>
+    <rdfs:label xml:lang="fr">École de peinture de Bologne</rdfs:label>
+    <rdfs:label xml:lang="it">Scuola bolognese di pittura</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Figurative">
+    <rdfs:label xml:lang="en">Figurative</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Figurative_art">
+    <rdfs:label xml:lang="pt">Figurativismo</rdfs:label>
+    <rdfs:label xml:lang="fr">Art figuratif</rdfs:label>
+    <rdfs:label xml:lang="ru">Фигуративизм</rdfs:label>
+    <rdfs:label xml:lang="it">Arte figurativa</rdfs:label>
+    <rdfs:label xml:lang="pl">Figuratywizm</rdfs:label>
+    <rdfs:label xml:lang="nl">Figuratieve kunst</rdfs:label>
+    <rdfs:label xml:lang="ja">フィギュラティヴ・アート</rdfs:label>
+    <rdfs:label xml:lang="en">Figurative art</rdfs:label>
+    <rdfs:label xml:lang="es">Arte figurativo</rdfs:label>
+    <rdfs:label xml:lang="ar">فن تشخيصي</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Bell_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Euston_Road_School"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heidrun_Huwyler">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History">
+    <rdfs:label xml:lang="de">Geschichte</rdfs:label>
+    <rdfs:label xml:lang="es">Historia</rdfs:label>
+    <rdfs:label xml:lang="ar">تاريخ</rdfs:label>
+    <rdfs:label xml:lang="pl">Historia</rdfs:label>
+    <rdfs:label xml:lang="ja">歴史</rdfs:label>
+    <rdfs:label xml:lang="en">History</rdfs:label>
+    <rdfs:label xml:lang="pt">História</rdfs:label>
+    <rdfs:label xml:lang="nl">Geschiedenis</rdfs:label>
+    <rdfs:label xml:lang="ru">История</rdfs:label>
+    <rdfs:label xml:lang="fr">Histoire</rdfs:label>
+    <rdfs:label xml:lang="it">Storia</rdfs:label>
+    <rdfs:label xml:lang="zh">历史</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Shishkin">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Paul_Riopelle">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Les_Automatistes"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Lyrical_abstraction"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Tachisme"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Metzinger">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Neo-impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Fauvism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Divisionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johann_Wilhelm_Baur">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Gutmann">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/American_realism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Josip_Račić">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julio_González_(sculptor)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Krasner">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miriam_Schapiro">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Feminist_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naskh_(script)">
+    <rdfs:label xml:lang="ru">Насх</rdfs:label>
+    <rdfs:label xml:lang="ar">خط النسخ</rdfs:label>
+    <rdfs:label xml:lang="zh">誊抄体</rdfs:label>
+    <rdfs:label xml:lang="it">Naskh</rdfs:label>
+    <rdfs:label xml:lang="ja">ナスフ体</rdfs:label>
+    <rdfs:label xml:lang="en">Naskh (script)</rdfs:label>
+    <rdfs:label xml:lang="fr">Naskh</rdfs:label>
+    <rdfs:label xml:lang="de">Naschī</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neo-figurative_art">
+    <rdfs:label xml:lang="en">Neo-figurative art</rdfs:label>
+    <rdfs:label xml:lang="pl">Nowa figuracja</rdfs:label>
+    <rdfs:label xml:lang="it">Arte neo-figurativa</rdfs:label>
+    <rdfs:label xml:lang="es">Neofiguración</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Nash_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pisanello">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/International_Gothic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verónica_Ruiz_de_Velasco">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Neo-figurative_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zahara_Schatz">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Visual_arts_in_Israel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abraham_Bloemaert">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dutch_Golden_Age_painting"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Northern_Mannerism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Action_painting">
+    <rdfs:label xml:lang="ja">アクション・ペインティング</rdfs:label>
+    <rdfs:label xml:lang="ru">Живопись действия</rdfs:label>
+    <rdfs:label xml:lang="it">Action painting</rdfs:label>
+    <rdfs:label xml:lang="de">Action Painting</rdfs:label>
+    <rdfs:label xml:lang="ar">تصوير انفعالي</rdfs:label>
+    <rdfs:label xml:lang="pl">Action painting</rdfs:label>
+    <rdfs:label xml:lang="en">Action painting</rdfs:label>
+    <rdfs:label xml:lang="pt">Gestualismo (pintura)</rdfs:label>
+    <rdfs:label xml:lang="fr">Action painting</rdfs:label>
+    <rdfs:label xml:lang="nl">Actionpainting</rdfs:label>
+    <rdfs:label xml:lang="es">Action painting</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alejandro_Otero">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Op_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Geometric_abstraction"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allen_Jones_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Pop_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alonso_Sánchez_Coello">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Portuguese_Renaissance"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Spanish_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/André_Masson">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_Pujol">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Mexican_muralism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carole_Feuerman">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Hyperreality"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Catton">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Royal_Academy_of_Arts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Conrad_Marca-Relli">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Construction_(disambiguation)">
+    <rdfs:label xml:lang="fr">Construction (homonymie)</rdfs:label>
+    <rdfs:label xml:lang="de">Konstruktion</rdfs:label>
+    <rdfs:label xml:lang="en">Construction (disambiguation)</rdfs:label>
+    <rdfs:label xml:lang="es">Construcción (desambiguación)</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Heymann">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Environmental_movement"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Lee_(photographer)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Contemporary_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Digital_painting">
+    <rdfs:label xml:lang="es">Pintura digital</rdfs:label>
+    <rdfs:label xml:lang="en">Digital painting</rdfs:label>
+    <rdfs:label xml:lang="pt">Pintura digital</rdfs:label>
+    <rdfs:label xml:lang="fr">Peinture numérique</rdfs:label>
+    <rdfs:label xml:lang="it">Digital painting</rdfs:label>
+    <rdfs:label xml:lang="ru">Цифровая живопись</rdfs:label>
+    <rdfs:label xml:lang="ja">デジタル絵画</rdfs:label>
+    <rdfs:label xml:lang="de">Digitales Malen</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Clark_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elsa_von_Freytag-Loringhoven">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Avant-garde"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enrico_Donati">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugène_Carrière">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Symbolism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fan_Kuan">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Northern_Landscape_style"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Song_dynasty"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giacomo_Boni_(painter)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Habiba_Djahnine">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Feminism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hendrick_Bloemaert">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Itshak_Holtz">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Genre_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Brooks_(painter)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Action_painting"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Lyrical_abstraction"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jimmy_Ernst">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_González_Camarena">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Mexican_muralism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juliusz_Kossak">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/History_painting"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koji_Ishikawa_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Contemporary_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luminism_(American_art_style)">
+    <rdfs:label xml:lang="es">Luminismo americano</rdfs:label>
+    <rdfs:label xml:lang="en">Luminism (American art style)</rdfs:label>
+    <rdfs:label xml:lang="ja">ルミニズム</rdfs:label>
+    <rdfs:label xml:lang="de">Luminism</rdfs:label>
+    <rdfs:label xml:lang="pt">Luminismo</rdfs:label>
+    <rdfs:label xml:lang="fr">Luminisme aux États-Unis</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luminism_(Impressionism)">
+    <rdfs:label xml:lang="nl">Luminisme</rdfs:label>
+    <rdfs:label xml:lang="pl">Luminizm</rdfs:label>
+    <rdfs:label xml:lang="it">Luminismo</rdfs:label>
+    <rdfs:label xml:lang="en">Luminism (Impressionism)</rdfs:label>
+    <rdfs:label xml:lang="fr">Luminisme</rdfs:label>
+    <rdfs:label xml:lang="ru">Луминизм</rdfs:label>
+    <rdfs:label xml:lang="de">Luminismus</rdfs:label>
+    <rdfs:label xml:lang="es">Luminismo</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lynne_Mapp_Drexler">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Representation_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mati_Klarwein">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Vienna_School_of_Fantastic_Realism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Visionary_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Beckmann">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/German_Expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/New_Objectivity"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyuki_Tanobe">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Naïve_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mungo_Martin">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Northwest_Coast_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naturalism_(theatre)">
+    <rdfs:label xml:lang="en">Naturalism (theatre)</rdfs:label>
+    <rdfs:label xml:lang="ru">Натуралистическая драма</rdfs:label>
+    <rdfs:label xml:lang="pl">Naturalizm (teatr)</rdfs:label>
+    <rdfs:label xml:lang="fr">Naturalisme (théâtre)</rdfs:label>
+    <rdfs:label xml:lang="de">Naturalismus (Theater)</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nuno_Gonçalves">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Portuguese_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Performance_and_Interactive_Media_Arts">
+    <rdfs:label xml:lang="en">Performance and Interactive Media Arts</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pirro_Ligorio">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/High_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Remedios_Varo">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Adams_(sculptor_and_designer)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Henri">
+    <rdfs:label xml:lang="it">Robert Henri</rdfs:label>
+    <rdfs:label xml:lang="es">Robert Henri</rdfs:label>
+    <rdfs:label xml:lang="de">Robert Henri</rdfs:label>
+    <rdfs:label xml:lang="pl">Robert Henri</rdfs:label>
+    <rdfs:label xml:lang="ru">Генри, Роберт</rdfs:label>
+    <rdfs:label xml:lang="ar">روبرت هنري</rdfs:label>
+    <rdfs:label xml:lang="en">Robert Henri</rdfs:label>
+    <rdfs:label xml:lang="fr">Robert Henri</rdfs:label>
+    <rdfs:label xml:lang="nl">Robert Henri</rdfs:label>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Ashcan_School"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Irwin_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Light_and_Space"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Mangold">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Minimalism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russel_Wright">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/American_Modern"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seison_Maeda">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Nihonga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_Hondius">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Rutherford_Mead">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Beaux-Arts_architecture"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Architecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yves_Tanguy">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrea_Polli">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Environmental_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Augustinus_Terwesten">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cristóvão_de_Morais">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Portuguese_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echo_Chernik">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Art_Nouveau"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erez_Israeli">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modern_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Visual_arts_in_Israel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferenc_Joachim">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goscombe_John">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/New_Sculpture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Rendić">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Kelsey_(sculptor)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johannes_Itten">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pietro_Ruffo">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Contemporary_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigmar_Polke">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Capitalist_realism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanisław_Lentz">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stefano_della_Bella">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Moran">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Hudson_River_School"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Rocky_Mountains"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Launt_Palmer">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/American_Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_E._deGarthe">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Bradshaw">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Postminimalism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Criss">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Precisionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucien_Biva">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takahashi_Yuichi">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Yōga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanford_Ross">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Regionalism_(art)"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Caricature"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Precisionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Social_realism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ang_Kiukok">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aurél_Bernáth">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Stankievech">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Conceptual_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_van_Heil">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elisabetta_Sirani">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugene_Savage">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Italian_Renaissance_painting"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Art_Deco"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugène_Galien-Laloue">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guo_Xi">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Song_dynasty"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hishida_Shunsō">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Nihonga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Albright">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Magic_realism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Kovalčik_Mileševac">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Iconography"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_French_Sloan">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Ashcan_School"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Paul_Vorst">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Regionalism_(art)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/José_de_Mora">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Käthe_Schuftan">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/New_Objectivity"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludvig_Karsten">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Neo-impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malcah_Zeldis">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Folk_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Tobey">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Northwest_School_(art)"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nek_Chand">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Outsider_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carsten_Höller">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Relational_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Installation_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Johanson">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Mission_School"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dolk_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Social_commentary"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Davis_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Video_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Martin_Hennings">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Taos_Society_of_Artists"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujishima_Takeji">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Yōga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Andreescu">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sara_Von_Kienegger">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Relational_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolae_Grigorescu">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Barbizon_school"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Lewis_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Novel">
+    <rdfs:label xml:lang="es">Novela</rdfs:label>
+    <rdfs:label xml:lang="ru">Роман</rdfs:label>
+    <rdfs:label xml:lang="ar">رواية (أدب)</rdfs:label>
+    <rdfs:label xml:lang="it">Romanzo</rdfs:label>
+    <rdfs:label xml:lang="en">Novel</rdfs:label>
+    <rdfs:label xml:lang="zh">長篇小說</rdfs:label>
+    <rdfs:label xml:lang="fr">Roman (littérature)</rdfs:label>
+    <rdfs:label xml:lang="de">Roman</rdfs:label>
+    <rdfs:label xml:lang="nl">Roman (literatuur)</rdfs:label>
+    <rdfs:label xml:lang="pl">Powieść</rdfs:label>
+    <rdfs:label xml:lang="ja">長編小説</rdfs:label>
+    <rdfs:label xml:lang="pt">Romance</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roman_School">
+    <rdfs:label xml:lang="pt">Escola romana</rdfs:label>
+    <rdfs:label xml:lang="ja">ローマ楽派</rdfs:label>
+    <rdfs:label xml:lang="de">Römische Schule</rdfs:label>
+    <rdfs:label xml:lang="es">Escuela romana (música)</rdfs:label>
+    <rdfs:label xml:lang="ar">المدرسة الرومانية</rdfs:label>
+    <rdfs:label xml:lang="ru">Римская школа (музыка)</rdfs:label>
+    <rdfs:label xml:lang="it">Scuola romana (musica)</rdfs:label>
+    <rdfs:label xml:lang="en">Roman School</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stuart_Semple">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Contemporary_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Pop_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuri_Tulin">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wladimir_Burliuk">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubo-Futurism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Primitivism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yukihiko_Yasuda">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Nihonga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ailes_Gilmour">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modern_dance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Kotin">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/New_York_Figurative_Expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrzej_Wróblewski">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Figurative_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnold_Houbraken">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dutch_Golden_Age_painting"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashot_Melkonian">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Neorealism_(art)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baldassare_Bianchi">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baldassare_Peruzzi">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Mannerism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/High_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barbara_Schwartz_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baruch_Elron">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Vienna_School_of_Fantastic_Realism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Visual_arts_in_Israel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Prins">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Genre_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elaine_de_Kooning">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/New_York_Figurative_Expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elfriede_Lohse-Wächtler">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esteban_Vicente">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Hartigan">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johan_Christian_Dahl">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Norwegian_romantic_nationalism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Bourne_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Stuckism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joshua_Johnson">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Naïve_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/José_Ortiz-Echagüe">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Pictorialism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Judith_Brown_(sculptor)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/New_York_Figurative_Expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liu_Wei_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Conceptual_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ma_Yuan_(painter)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Song_dynasty"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mandy_McCartin">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Stuckism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Tesselschade_Visscher">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dutch_Golden_Age"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Leavitt_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Pop_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Conceptual_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Urban_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Lowbrow_(art_movement)"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Interactive_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nanga_(Japanese_painting)">
+    <rdfs:label xml:lang="fr">Bunjin-ga</rdfs:label>
+    <rdfs:label xml:lang="pl">Nanga</rdfs:label>
+    <rdfs:label xml:lang="ja">南画</rdfs:label>
+    <rdfs:label xml:lang="en">Nanga (Japanese painting)</rdfs:label>
+    <rdfs:label xml:lang="de">Nanga</rdfs:label>
+    <rdfs:label xml:lang="es">Nanga</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pellegrino_Tibaldi">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/The_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spencer_Asah">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Kiowa_Five"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Photorealism">
+    <rdfs:label xml:lang="de">Fotorealismus</rdfs:label>
+    <rdfs:label xml:lang="en">Photorealism</rdfs:label>
+    <rdfs:label xml:lang="ja">スーパーリアリズム</rdfs:label>
+    <rdfs:label xml:lang="es">Fotorrealismo (arte)</rdfs:label>
+    <rdfs:label xml:lang="ru">Фотореализм</rdfs:label>
+    <rdfs:label xml:lang="it">Fotorealismo</rdfs:label>
+    <rdfs:label xml:lang="pl">Fotorealizm (grafika komputerowa)</rdfs:label>
+    <rdfs:label xml:lang="fr">Rendu photoréaliste</rdfs:label>
+    <rdfs:label xml:lang="zh">照相寫實主義</rdfs:label>
+    <rdfs:label xml:lang="pt">Fotorrealismo</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Messianism">
+    <rdfs:label xml:lang="en">Messianism</rdfs:label>
+    <rdfs:label xml:lang="pt">Messianismo</rdfs:label>
+    <rdfs:label xml:lang="de">Messianismus</rdfs:label>
+    <rdfs:label xml:lang="fr">Messianisme</rdfs:label>
+    <rdfs:label xml:lang="pl">Mesjanizm</rdfs:label>
+    <rdfs:label xml:lang="es">Mesianismo</rdfs:label>
+    <rdfs:label xml:lang="it">Messianismo</rdfs:label>
+    <rdfs:label xml:lang="ru">Мессианизм</rdfs:label>
+    <rdfs:label xml:lang="nl">Messianisme</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/May_O'Donnell">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modern_dance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pieter_de_Jode_II">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manuel_Azadigian">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Still_life"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Portrait"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manuel_Neri">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Bay_Area_Figurative_Movement"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matilda_Browne">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Narashige_Koide">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Yōga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abanindranath_Tagore">
+    <ns0:movement>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bengal_School_of_Art">
+        <rdfs:label xml:lang="fr">École du Bengale</rdfs:label>
+        <rdfs:label xml:lang="en">Bengal School of Art</rdfs:label>
+      </rdf:Description>
+    </ns0:movement>
+
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Santiniketan:_The_Making_of_a_Contextual_Modernism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_McCahon">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Wadsworth">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Vorticism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Four_Wangs">
+    <rdfs:label xml:lang="fr">Quatre Wang</rdfs:label>
+    <rdfs:label xml:lang="zh">四王</rdfs:label>
+    <rdfs:label xml:lang="en">Four Wangs</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Machine">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Stuckism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johann_Michael_Rottmayr">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/José_Malhoa">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marsden_Hartley">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/American_modernism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marxism">
+    <rdfs:label xml:lang="ja">マルクス主義</rdfs:label>
+    <rdfs:label xml:lang="ar">ماركسية</rdfs:label>
+    <rdfs:label xml:lang="nl">Marxisme</rdfs:label>
+    <rdfs:label xml:lang="ru">Марксизм</rdfs:label>
+    <rdfs:label xml:lang="fr">Marxisme</rdfs:label>
+    <rdfs:label xml:lang="de">Marxismus</rdfs:label>
+    <rdfs:label xml:lang="en">Marxism</rdfs:label>
+    <rdfs:label xml:lang="pl">Marksizm</rdfs:label>
+    <rdfs:label xml:lang="zh">马克思主义</rdfs:label>
+    <rdfs:label xml:lang="it">Marxismo</rdfs:label>
+    <rdfs:label xml:lang="pt">Marxismo</rdfs:label>
+    <rdfs:label xml:lang="es">Marxismo</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Fraser_Tytler">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Art_Nouveau"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Gothic_Revival_architecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanhope_Forbes">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Newlyn_School"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanley_Cursiter">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Futurism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thuluth">
+    <rdfs:label xml:lang="it">Thuluth</rdfs:label>
+    <rdfs:label xml:lang="en">Thuluth</rdfs:label>
+    <rdfs:label xml:lang="fr">Thuluth</rdfs:label>
+    <rdfs:label xml:lang="es">Thuluth</rdfs:label>
+    <rdfs:label xml:lang="ru">Сулюс</rdfs:label>
+    <rdfs:label xml:lang="de">Thuluth</rdfs:label>
+    <rdfs:label xml:lang="ar">ثلث (خط)</rdfs:label>
+    <rdfs:label xml:lang="pt">Thuluth</rdfs:label>
+    <rdfs:label xml:lang="zh">三一体</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lugné-Poe">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Symbolism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franklin_Carmichael">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Group_of_Seven_(artists)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seyyid_Kasim_Gubari">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Naskh_(script)"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Thuluth"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Achilles_Painter">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/White_ground_technique"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Red-figure_pottery"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aristarkh_Lentulov">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Orphism_(art)"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubo-Futurism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Fauvism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auto-destructive_art">
+    <rdfs:label xml:lang="en">Auto-destructive art</rdfs:label>
+    <rdfs:label xml:lang="pt">Arte Autodestrutiva</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlo_Maratta">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dieter_Roth">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Concrete_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Fluxus"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Maximalism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Op_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilya_Mashkov">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Fauvism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Garner">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Blitz_Kids"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis-Jean-François_Lagrenée">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Rococo"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Bolognese_School"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sybil_Andrews">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wildlife_art">
+    <rdfs:label xml:lang="en">Wildlife art</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henrietta_Johnston">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Rococo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilhelm_Bendz">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Danish_Golden_Age"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacob_Philipp_Hackert">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Classicism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matthias_of_Arras">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Gothic_architecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophilos">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Black-figure_pottery"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hendrick_Goudt">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Higton">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/English_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jorge_Colaço">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Romanticism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monumental_sculpture">
+    <rdfs:label xml:lang="fr">Sculpture monumentale</rdfs:label>
+    <rdfs:label xml:lang="en">Monumental sculpture</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_D._Washington">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Romanticism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Kostrova">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_Vassilacchi">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/High_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernardino_Loschi">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/The_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brent_Wong">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Cranmer">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Northwest_Coast_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisque_Millet">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maja_Petrić">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Light_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosemarie_Beck">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rostislav_Vovkushevsky">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shanghai_School">
+    <rdfs:label xml:lang="en">Shanghai School</rdfs:label>
+    <rdfs:label xml:lang="zh">海上畫派</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Conrad_von_Soest">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/International_Gothic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maynard_Dixon">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Tonalist"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Precisionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olof_Krans">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Naïve_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verdadism">
+    <rdfs:label xml:lang="en">Verdadism</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stan_Douglas">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Vancouver_School"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henryk_Siemiradzki">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Academic_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Buesgen">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Pennsylvania_Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Wen">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Contemporary_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Canty">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Fantasy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Luson_Thomas">
+    <rdfs:label xml:lang="en">William Luson Thomas</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Tatarenko">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auguste_Bonheur">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles-Amable_Lenoir">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edna_Andrade">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Op_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lea_Lublin">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Feminist_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Ely_Webb">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Arts_and_Crafts_movement"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michele_Tripisciano">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Korovin">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constant_Detré">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Art_Nouveau"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/School_of_Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Albrecht_Jensen">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Danish_Golden_Age"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oluf_Braren">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Naïve_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bogdan_Willewalde">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Academic_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Mandijn">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesca_Sundsten">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/American_realism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heidelberg_Painter">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Black-figure_pottery"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jules-Alexandre_Grün">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Freud">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_R._Goodwin">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Wildlife"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Brandywine_School"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amsterdam_Impressionism">
+    <rdfs:label xml:lang="nl">Amsterdams Impressionisme</rdfs:label>
+    <rdfs:label xml:lang="de">Amsterdamer Impressionismus</rdfs:label>
+    <rdfs:label xml:lang="en">Amsterdam Impressionism</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyndall_Bass">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Process_art">
+    <rdfs:label xml:lang="de">Prozesskunst</rdfs:label>
+    <rdfs:label xml:lang="en">Process art</rdfs:label>
+    <rdfs:label xml:lang="ru">Процесс-арт</rdfs:label>
+    <rdfs:label xml:lang="pt">Poema/processo</rdfs:label>
+    <rdfs:label xml:lang="es">Arte procesual</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Circuba">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Performing_arts"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Culture_of_Cuba"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Circus"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Giacometti">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luigi_De_Giudici">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Futurism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amy_Balkin">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Public_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Danny_Sillada">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Existentialism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Bond">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Young_British_Artists"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Relational_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Willats">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Social_Practice"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeff_Wassmann">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dada"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Superfiction"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Koroviakov">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murtaza_Jafri">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Pop_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Bogaevskaya">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yeshayahu_Sheinfeld">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Naïve_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonietta_Raphael">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Scuola_Romana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Gussow">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bratsa_Bonifacho">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eduardo_Úrculo">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Pop_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Claesz_Rietschoof">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joris_van_Son">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milton_Becerra">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Installation_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Op_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Land_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Environmental_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Plastic_arts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pablo_Curatella_Manes">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unity_Bainbridge">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Contemporary_realism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wouter_Crabeth_I">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/The_Renaissance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Óscar_Murúa">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Dorfman_(choreographer)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modern_dance"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benoît_Le_Coffre">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Rococo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugenia_Berlin">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Postmodernism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Porrata-Doría">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Neoclassical_architecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fritz_Bultman">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hal_Missingham">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herman_Sachs">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/German_Expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Art_Deco"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitry_Maevsky">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Procter">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Newlyn_School"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Evans_(artist)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Underground_comix"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Poster"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Rogers_Cox">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Magic_realism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Regionalism_(art)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juriaen_van_Streeck">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kagaku_Murakami">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Nihonga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Hennessy">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modern_dance"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Performance_art"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabrielle_D._Clements">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marisa_Merz">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Arte_Povera"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moshe_Gershuni">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Visual_arts_in_Israel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_Steciw">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Contemporary_history"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pieter_Gerritsz_van_Roestraten">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis-Frédéric_Schützenberger">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reinier_van_Persijn">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Torres">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Chicano"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Bookatz">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/American_Figurative_Expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siron_Franco">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modernism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Knapp">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Lightpainting"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsugoro_Yorozu">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Yōga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phrynos_Painter">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Little_Masters_(Greek_vase_painting)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulisse_Cambi">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Neoclassicism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juana_Romani">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronan_Walsh">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giorgio_Ceragioli_(sculptor)">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Art_Nouveau"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iso_Rae">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenn_Davis">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Beat_Generation"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Mystery_fiction"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carel_van_Savoyen">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Blok">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Nordahl">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Photorealism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Lemmen">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Modern_art"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Neo-impressionism"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giorgio_Cavallon">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Abstract_expressionism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_van_Neck">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johann_Dieter_Wassmann">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Dada"/>
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Surrealism"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johannes_van_der_Bent">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Baroque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Krantz">
+    <ns0:movement rdf:resource="http://dbpedia.org/resource/Realism_(arts)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tularosa,_New_Mexico">
+    <rdfs:label xml:lang="nl">Tularosa</rdfs:label>
+    <rdfs:label xml:lang="en">Tularosa, New Mexico</rdfs:label>
+    <rdfs:label xml:lang="de">Tularosa</rdfs:label>
+    <rdfs:label xml:lang="ar">تولاروسا (نيومكسيكو)</rdfs:label>
+    <rdfs:label xml:lang="es">Tularosa</rdfs:label>
+    <rdfs:label xml:lang="pt">Tularosa (Novo México)</rdfs:label>
+  </rdf:Description>
+
+</rdf:RDF>

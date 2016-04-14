@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="edu.nii.sesame.AppTest" time="0" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="edu.nii.sesame.AppTest" time="0.003" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\bin"/>
@@ -28,7 +28,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="C:\Users\kasinathan\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4129695520425787013.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\kasinathan\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4973239972016636703.tmp"/>
     <property name="sun.jnu.encoding" value="MS932"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_77\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_77/bin/server;C:/Program Files/Java/jre1.8.0_77/bin;C:/Program Files/Java/jre1.8.0_77/lib/amd64;C:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Hewlett-Packard\HP ProtectTools Security Manager\Bin\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64:C:\Program Files\Java\jdk1.8.0_77\bin;C:\Program Files\Git\cmd;C:\Users\kasinathan\Desktop\apache-maven-3.3.9\bin;C:\Users\kasinathan\Anaconda3;C:\Users\kasinathan\Anaconda3\Scripts;C:\Users\kasinathan\Anaconda3\Library\bin;C:\Program Files\Java\jdk1.8.0_77\bin;C:\Users\kasinathan\Desktop\apache-maven-3.3.9\bin;C:\Users\kasinathan\Desktop\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -63,5 +63,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="edu.nii.sesame.AppTest" name="testApp" time="0"/>
+  <testcase classname="edu.nii.sesame.AppTest" name="testApp" time="0.003"/>
 </testsuite>

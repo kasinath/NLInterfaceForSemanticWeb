@@ -1,0 +1,3196 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santa_Barbara,_California">
+    <foaf:name xml:lang="en">City of Santa Barbara</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santa_Fe,_New_Mexico">
+    <foaf:name xml:lang="en">Yootó</foaf:name>
+    <foaf:name xml:lang="en">Ogha Po'oge</foaf:name>
+    <foaf:name xml:lang="en">Santa Fe</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santiago">
+    <foaf:name xml:lang="en">Santiago</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santiago_Papasquiaro">
+    <foaf:name xml:lang="en">Santiago Papasquiaro</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santiago_de_Compostela">
+    <foaf:name xml:lang="en">Santiago de Compostela</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santiago_de_Cuba">
+    <foaf:name xml:lang="en">Santiago de Cuba</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santo_André,_São_Paulo">
+    <foaf:name xml:lang="en">The Municipality of Santo André</foaf:name>
+    <foaf:name xml:lang="en">Santo André</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarajevo">
+    <foaf:name xml:lang="en">Sarajevo</foaf:name>
+    <foaf:name xml:lang="en">City of Sarajevo</foaf:name>
+    <foaf:name xml:lang="en">Grad Sarajevo</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sargodha_District">
+    <foaf:name xml:lang="en">Sargodha District</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Satriano_di_Lucania">
+    <foaf:name xml:lang="en">Satriano di Lucania</foaf:name>
+    <foaf:name xml:lang="en">Comune di Satriano di Lucania</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sault_Ste._Marie,_Ontario">
+    <foaf:name xml:lang="en">Sault Ste. Marie</foaf:name>
+    <foaf:name xml:lang="en">City of Sault Ste. Marie</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saxony-Anhalt">
+    <foaf:name xml:lang="en">Sachsen-Anhalt ((German))</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saône-et-Loire">
+    <foaf:name xml:lang="en">Saône-et-Loire</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sefrou">
+    <foaf:name xml:lang="en">ⵚⴻⴼⵕⵓ</foaf:name>
+    <foaf:name xml:lang="en">Sefrou</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Segovia">
+    <foaf:name xml:lang="en">Segovia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seine-et-Marne">
+    <foaf:name xml:lang="en">Seine-et-Marne</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Semarang">
+    <foaf:name xml:lang="en">Semarang</foaf:name>
+    <foaf:name xml:lang="en">Kota Semarang</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sevastopol">
+    <foaf:name xml:lang="en">Sevastopol</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shanghai">
+    <foaf:name xml:lang="en">Shanghai Municipality</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shelby_County,_Tennessee">
+    <foaf:name xml:lang="en">Shelby County</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siena">
+    <foaf:name xml:lang="en">Città di Siena</foaf:name>
+    <foaf:name xml:lang="en">Siena</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinaloa">
+    <foaf:name xml:lang="en">Estado Libre y Soberano de Sinaloa</foaf:name>
+    <foaf:name xml:lang="en">Sinaloa, Mexico</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sindh">
+    <foaf:name xml:lang="en">Sindh</foaf:name>
+    <foaf:name xml:lang="en">&amp;lrm;/</foaf:name>
+    <foaf:name xml:lang="en">Sind</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sint_Maarten">
+    <foaf:name xml:lang="en">Sint Maarten</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sistan_and_Baluchestan_Province">
+    <foaf:name xml:lang="en">استان سیستان و بلوچستان</foaf:name>
+    <foaf:name xml:lang="en">Sistan and Baluchestan Province</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Skopje">
+    <foaf:name xml:lang="en">City of Skopje</foaf:name>
+    <foaf:name xml:lang="en">Скопје</foaf:name>
+    <foaf:name xml:lang="en">Град Скопје</foaf:name>
+    <foaf:name xml:lang="en">Skopje</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Somerset">
+    <foaf:name xml:lang="en">Somerset</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soncino,_Lombardy">
+    <foaf:name xml:lang="en">Soncino</foaf:name>
+    <foaf:name xml:lang="en">Città di Soncino</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonora">
+    <foaf:name xml:lang="en">Sonora</foaf:name>
+    <foaf:name xml:lang="en">Estado Libre y Soberano de Sonora</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Carolina">
+    <foaf:name xml:lang="en">State of South Carolina</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southampton">
+    <foaf:name xml:lang="en">Southampton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spartanburg,_South_Carolina">
+    <foaf:name xml:lang="en">City of Spartanburg</foaf:name>
+    <foaf:name xml:lang="en">Spartanburg, South Carolina</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Split,_Croatia">
+    <foaf:name xml:lang="en">Split</foaf:name>
+    <foaf:name xml:lang="en">City of Split</foaf:name>
+    <foaf:name xml:lang="en">Grad Split</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sri_Ganganagar">
+    <foaf:name xml:lang="en">श्री गंगानगर</foaf:name>
+    <foaf:name xml:lang="en">Sri Ganganagar</foaf:name>
+    <foaf:name xml:lang="en">श्री गंगानगर (rajasthani) ()</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Walburg,_Saskatchewan">
+    <foaf:name xml:lang="en">St. Walburg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Kilda,_Victoria">
+    <foaf:name xml:lang="en">St Kilda</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Staffordshire">
+    <foaf:name xml:lang="en">Staffordshire</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stavanger">
+    <foaf:name xml:lang="en">Stavanger</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stockholm">
+    <foaf:name xml:lang="en">Stockholm</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stockholm_County">
+    <foaf:name xml:lang="en">Stockholm</foaf:name>
+    <foaf:name xml:lang="en">Stockholms län</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stoke-on-Trent">
+    <foaf:name xml:lang="en">City of Stoke-on-Trent</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stratford,_Ontario">
+    <foaf:name xml:lang="en">Stratford</foaf:name>
+    <foaf:name xml:lang="en">City of Stratford</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strömsund">
+    <foaf:name xml:lang="en">Strömsund</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sueca,_Valencia">
+    <foaf:name xml:lang="en">Sueca</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suffolk">
+    <foaf:name xml:lang="en">Suffolk</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suffolk,_Virginia">
+    <foaf:name xml:lang="en">Suffolk, Virginia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sumter,_South_Carolina">
+    <foaf:name xml:lang="en">Sumter, South Carolina</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sundsvall">
+    <foaf:name xml:lang="en">Sundsvall</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surabaya">
+    <foaf:name xml:lang="en">Suroboyo</foaf:name>
+    <foaf:name xml:lang="en">Surabaya</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surrey">
+    <foaf:name xml:lang="en">Surrey</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sutton,_London">
+    <foaf:name xml:lang="en">Sutton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Svendborg">
+    <foaf:name xml:lang="en">Svendborg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swansea">
+    <foaf:name xml:lang="en">Swansea</foaf:name>
+    <foaf:name xml:lang="en">Abertawe</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/São_Paulo">
+    <foaf:name xml:lang="en">Municipality of São Paulo</foaf:name>
+    <foaf:name xml:lang="en">São Paulo</foaf:name>
+    <foaf:name xml:lang="en">Município de São Paulo</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/São_Paulo_(state)">
+    <foaf:name xml:lang="en">State of São Paulo</foaf:name>
+    <foaf:name xml:lang="en">São Paulo</foaf:name>
+    <foaf:name xml:lang="en">Estado de São Paulo</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sønderborg">
+    <foaf:name xml:lang="en">Sønderborg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tabriz">
+    <foaf:name xml:lang="en">تبریز</foaf:name>
+    <foaf:name xml:lang="en">Tabriz</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taipei">
+    <foaf:name xml:lang="en">Taipei City</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Talisay,_Negros_Occidental">
+    <foaf:name xml:lang="en">City of Talisay</foaf:name>
+    <foaf:name xml:lang="en">Talisay</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamaulipas">
+    <foaf:name xml:lang="en">Estado Libre y Soberano de Tamaulipas</foaf:name>
+    <foaf:name xml:lang="en">Tamaulipas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamil_Nadu">
+    <foaf:name xml:lang="en">தமிழ் நாடு</foaf:name>
+    <foaf:name xml:lang="en">Tamil Nadu</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taormina">
+    <foaf:name xml:lang="en">Taormina</foaf:name>
+    <foaf:name xml:lang="en">Comune di Taormina</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taos,_New_Mexico">
+    <foaf:name xml:lang="en">Taos, New Mexico</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tartu">
+    <foaf:name xml:lang="en">Tartu</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taubaté">
+    <foaf:name xml:lang="en">Taubaté, São Paulo</foaf:name>
+    <foaf:name xml:lang="en">Município de Taubaté</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taverna,_Calabria">
+    <foaf:name xml:lang="en">Comune di Taverna</foaf:name>
+    <foaf:name xml:lang="en">Taverna</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taxco">
+    <foaf:name xml:lang="en">Taxco de Alarcón</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tbilisi">
+    <foaf:name xml:lang="en">Tbilisi</foaf:name>
+    <foaf:name xml:lang="en">თბილისი</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tehran">
+    <foaf:name xml:lang="en">· Tehran Metropolis</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tel_Aviv">
+    <foaf:name xml:lang="en">Tel Aviv</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tennessee">
+    <foaf:name xml:lang="en">State of Tennessee</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teplice">
+    <foaf:name xml:lang="en">Teplice</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Texas">
+    <foaf:name xml:lang="en">State of Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thane">
+    <foaf:name xml:lang="en">Thane</foaf:name>
+    <foaf:name xml:lang="en">ठाणे</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thanjavur_district">
+    <foaf:name xml:lang="en">தஞ்சாவூர் மாவட்டம்</foaf:name>
+    <foaf:name xml:lang="en">Thanjavur district</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thiruvananthapuram">
+    <foaf:name xml:lang="en">തിരുവനന്തപുരം</foaf:name>
+    <foaf:name xml:lang="en">Thiruvananthapuram</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tianjin">
+    <foaf:name xml:lang="en">Tianjin Municipality</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tizi_Ouzou">
+    <foaf:name xml:lang="en">ⵜⵉⵣⵉ ⵡⴻⵣⵣⵓ</foaf:name>
+    <foaf:name xml:lang="en">تيزي وزو</foaf:name>
+    <foaf:name xml:lang="en">Tizi Ouzou</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tizi_Ouzou_Province">
+    <foaf:name xml:lang="en">Tizi Ouzou Province</foaf:name>
+    <foaf:name xml:lang="en">ولاية تيزي وزو</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toa_Baja,_Puerto_Rico">
+    <foaf:name xml:lang="en">Toa Baja, Puerto Rico</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toledo_District">
+    <foaf:name xml:lang="en">Toledo District</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toronto">
+    <foaf:name xml:lang="en">Toronto</foaf:name>
+    <foaf:name xml:lang="en">City of Toronto</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Treviso">
+    <foaf:name xml:lang="en">Città di Treviso</foaf:name>
+    <foaf:name xml:lang="en">Treviso</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trujillo,_Peru">
+    <foaf:name xml:lang="en">Trujillo, Peru</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tulsa,_Oklahoma">
+    <foaf:name xml:lang="en">City of Tulsa</foaf:name>
+    <foaf:name xml:lang="en">Tulsa, Oklahoma</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tuzla">
+    <foaf:name xml:lang="en">City of Tuzla</foaf:name>
+    <foaf:name xml:lang="en">Tuzla</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tábor">
+    <foaf:name xml:lang="en">Tábor</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Täby_Municipality">
+    <foaf:name xml:lang="en">Täby kommun</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Udine">
+    <foaf:name xml:lang="en">Udine</foaf:name>
+    <foaf:name xml:lang="en">Città di Udine</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uniara">
+    <foaf:name xml:lang="en">Uniara</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uppsala">
+    <foaf:name xml:lang="en">Uppsala</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Urbino">
+    <foaf:name xml:lang="en">Urbino</foaf:name>
+    <foaf:name xml:lang="en">Comune di Urbino</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uruapan">
+    <foaf:name xml:lang="en">Uruapan del Progreso</foaf:name>
+    <foaf:name xml:lang="en">Uruapan</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Utah">
+    <foaf:name xml:lang="en">State of Utah</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Utrera">
+    <foaf:name xml:lang="en">Utrera</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uttar_Pradesh">
+    <foaf:name xml:lang="en">Uttar Pradesh</foaf:name>
+    <foaf:name xml:lang="en">*</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Val-d'Oise">
+    <foaf:name xml:lang="en">Val-d'Oise</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valeggio_sul_Mincio">
+    <foaf:name xml:lang="en">Comune di Valeggio sul Mincio</foaf:name>
+    <foaf:name xml:lang="en">Valeggio sul Mincio</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valencia">
+    <foaf:name xml:lang="en">font-size:90%;</foaf:name>
+    <foaf:name xml:lang="en">Valencia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valença,_Rio_de_Janeiro">
+    <foaf:name xml:lang="en">City of Valença</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valjevo">
+    <foaf:name xml:lang="en">Ваљево</foaf:name>
+    <foaf:name xml:lang="en">Valjevo</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valladolid">
+    <foaf:name xml:lang="en">Valladolid, Castile and Leon</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vancouver">
+    <foaf:name xml:lang="en">City of Vancouver</foaf:name>
+    <foaf:name xml:lang="en">Vancouver</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Var_(department)">
+    <foaf:name xml:lang="en">Var</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vega_Baja,_Puerto_Rico">
+    <foaf:name xml:lang="en">Vega Baja, Puerto Rico</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veldhoven">
+    <foaf:name xml:lang="en">Veldhoven</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vercelli">
+    <foaf:name xml:lang="en">Vercelli</foaf:name>
+    <foaf:name xml:lang="en">Città di Vercelli</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verona">
+    <foaf:name xml:lang="en">Verona</foaf:name>
+    <foaf:name xml:lang="en">Città di Verona</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicenza">
+    <foaf:name xml:lang="en">Vicenza</foaf:name>
+    <foaf:name xml:lang="en">Città di Vicenza</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria,_British_Columbia">
+    <foaf:name xml:lang="en">Victoria</foaf:name>
+    <foaf:name xml:lang="en">The Corporation of the City of Victoria</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_(Australia)">
+    <foaf:name xml:lang="en">Victoria</foaf:name>
+    <foaf:name xml:lang="en">Victoria Colony</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoriaville">
+    <foaf:name xml:lang="en">Victoriaville</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vienna">
+    <foaf:name xml:lang="en">Wien</foaf:name>
+    <foaf:name xml:lang="en">Vienna</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Villa_Clara_Province">
+    <foaf:name xml:lang="en">Villa Clara Province</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Villarrica,_Paraguay">
+    <foaf:name xml:lang="en">Villarrica</foaf:name>
+    <foaf:name xml:lang="en">250px|Club Porvenir Guaireño</foaf:name>
+    <foaf:name xml:lang="en">Villarrica del Espíritu Santo</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vilnius">
+    <foaf:name xml:lang="en">Vilnius</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virginia">
+    <foaf:name xml:lang="en">Commonwealth of Virginia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viterbo">
+    <foaf:name xml:lang="en">Viterbo</foaf:name>
+    <foaf:name xml:lang="en">Comune di Viterbo</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittorio_Veneto">
+    <foaf:name xml:lang="en">Città di Vittorio Veneto</foaf:name>
+    <foaf:name xml:lang="en">Vittorio Veneto</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vorarlberg">
+    <foaf:name xml:lang="en">Vorarlberg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Värmland">
+    <foaf:name xml:lang="en">Värmland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Västernorrland_County">
+    <foaf:name xml:lang="en">Västernorrland</foaf:name>
+    <foaf:name xml:lang="en">Västernorrlands län</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Västervik">
+    <foaf:name xml:lang="en">Västervik</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Västerås">
+    <foaf:name xml:lang="en">Västerås</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wandsworth">
+    <foaf:name xml:lang="en">Wandsworth</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Warsaw">
+    <foaf:name xml:lang="en">Warszawa</foaf:name>
+    <foaf:name xml:lang="en">miasto stołeczne Warszawa</foaf:name>
+    <foaf:name xml:lang="en">Warsaw</foaf:name>
+    <foaf:name xml:lang="en">Capital City of Warsaw</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Warwickshire">
+    <foaf:name xml:lang="en">Warwickshire</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waseca,_Minnesota">
+    <foaf:name xml:lang="en">Waseca, Minnesota</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Washington_(state)">
+    <foaf:name xml:lang="en">State of Washington</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wassenaar">
+    <foaf:name xml:lang="en">Wassenaar</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Sussex">
+    <foaf:name xml:lang="en">West Sussex</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Virginia">
+    <foaf:name xml:lang="en">State of West Virginia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Yorkshire">
+    <foaf:name xml:lang="en">West Yorkshire</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Westminster">
+    <foaf:name xml:lang="en">Westminster</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Windham,_Connecticut">
+    <foaf:name xml:lang="en">Windham, Connecticut</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Windhoek">
+    <foaf:name xml:lang="en">Windhoek</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winnipeg">
+    <foaf:name xml:lang="en">City of Winnipeg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wisconsin">
+    <foaf:name xml:lang="en">State of Wisconsin</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Worcester,_Massachusetts">
+    <foaf:name xml:lang="en">Worcester, Massachusetts</foaf:name>
+    <foaf:name xml:lang="en">City of Worcester</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wyoming">
+    <foaf:name xml:lang="en">State of Wyoming</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yakima,_Washington">
+    <foaf:name xml:lang="en">Yakima</foaf:name>
+    <foaf:name xml:lang="en">City of Yakima</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yerevan">
+    <foaf:name xml:lang="en">Yerevan</foaf:name>
+    <foaf:name xml:lang="en">Երևան</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yokohama">
+    <foaf:name xml:lang="en">City of Yokohama</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/York">
+    <foaf:name xml:lang="en">York</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yugawara">
+    <foaf:name xml:lang="en">Yugawara</foaf:name>
+    <foaf:name xml:lang="en">湯河原町</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuma,_Arizona">
+    <foaf:name xml:lang="en">Yuma, Arizona</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zadar">
+    <foaf:name xml:lang="en">City of Zadar</foaf:name>
+    <foaf:name xml:lang="en">Zadar</foaf:name>
+    <foaf:name xml:lang="en">Grad Zadar</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zagreb">
+    <foaf:name xml:lang="en">Zagreb</foaf:name>
+    <foaf:name xml:lang="en">City of Zagreb</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zenica">
+    <foaf:name xml:lang="en">Zenica</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhytomyr">
+    <foaf:name xml:lang="en">Zhytomyr</foaf:name>
+    <foaf:name xml:lang="en">Житомир</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zrenjanin">
+    <foaf:name xml:lang="en">Zrenjanin</foaf:name>
+    <foaf:name xml:lang="en">Зрењанин</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zürich">
+    <foaf:name xml:lang="en">Zürich</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ånge_Municipality">
+    <foaf:name xml:lang="en">Ånge Municipality</foaf:name>
+    <foaf:name xml:lang="en">Ånge kommun</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Åtvidaberg">
+    <foaf:name xml:lang="en">Åtvidaberg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Östergötland">
+    <foaf:name xml:lang="en">Östergötland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/İzmir">
+    <foaf:name xml:lang="en">İzmir</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abilene,_Texas">
+    <foaf:name xml:lang="en">Abilene, Texas</foaf:name>
+    <foaf:name xml:lang="en">City of Abilene</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amarillo,_Texas">
+    <foaf:name xml:lang="en">City of Amarillo</foaf:name>
+    <foaf:name xml:lang="en">Amarillo</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brent_Cross">
+    <foaf:name xml:lang="en">Brent Cross</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corpus_Christi,_Texas">
+    <foaf:name xml:lang="en">Corpus Christi, Texas</foaf:name>
+    <foaf:name xml:lang="en">City of Corpus Christi</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Digbeth">
+    <foaf:name xml:lang="en">Digbeth</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Hampton_(town),_New_York">
+    <foaf:name xml:lang="en">East Hampton, New York</foaf:name>
+    <foaf:name xml:lang="en">Town of East Hampton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grandin,_North_Dakota">
+    <foaf:name xml:lang="en">Grandin, North Dakota</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orbe">
+    <foaf:name xml:lang="en">Orbe</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agua_Dulce,_California">
+    <foaf:name xml:lang="en">Agua Dulce</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akwa_Ibom">
+    <foaf:name xml:lang="en">Akwa Ibom</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Avaré,_São_Paulo">
+    <foaf:name xml:lang="en">Avaré, São Paulo</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Azcapotzalco">
+    <foaf:name xml:lang="en">Azcapotzalco</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bangsar">
+    <foaf:name xml:lang="en">Bangsar</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beaver_Dam,_Wisconsin">
+    <foaf:name xml:lang="en">Beaver Dam</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Sur">
+    <foaf:name xml:lang="en">Big Sur</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Borger,_Texas">
+    <foaf:name xml:lang="en">Borger, Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bourne,_Massachusetts">
+    <foaf:name xml:lang="en">Bourne, Massachusetts</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canoga_Park,_Los_Angeles">
+    <foaf:name xml:lang="en">Canoga Park, Los Angeles</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catskill_(town),_New_York">
+    <foaf:name xml:lang="en">Catskill</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Century_City,_Los_Angeles">
+    <foaf:name xml:lang="en">Century City</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chipping_Barnet">
+    <foaf:name xml:lang="en">Barnet</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coober_Pedy">
+    <foaf:name xml:lang="en">Coober Pedy</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Delavan,_Wisconsin">
+    <foaf:name xml:lang="en">Delavan</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Delaware,_Ontario">
+    <foaf:name xml:lang="en">Delaware</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Village,_Manhattan">
+    <foaf:name xml:lang="en">East Village, Manhattan</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eddyville,_Iowa">
+    <foaf:name xml:lang="en">Eddyville, Iowa</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Encino,_Los_Angeles">
+    <foaf:name xml:lang="en">Encino</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Garfield,_New_Jersey">
+    <foaf:name xml:lang="en">Garfield, New Jersey</foaf:name>
+    <foaf:name xml:lang="en">City of Garfield</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Marlow">
+    <foaf:name xml:lang="en">Great Marlow</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gómez_Palacio,_Durango">
+    <foaf:name xml:lang="en">Gómez Palacio</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyannis,_Massachusetts">
+    <foaf:name xml:lang="en">Hyannis, Massachusetts</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isle_of_Bute">
+    <foaf:name xml:lang="en">Eilean Bhòid or Eilean Bhòdach</foaf:name>
+    <foaf:name xml:lang="en">Bute</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jones_Beach_State_Park">
+    <foaf:name xml:lang="en">Jones Beach State Park, Causeway and Parkway System</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Baule-Escoublac">
+    <foaf:name xml:lang="en">La Baule-Escoublac</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lake_Elsinore">
+    <foaf:name xml:lang="en">Lake Elsinore</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lower_Merion_Township,_Montgomery_County,_Pennsylvania">
+    <foaf:name xml:lang="en">Lower Merion Township, Pennsylvania</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lugoff,_South_Carolina">
+    <foaf:name xml:lang="en">Lugoff, South Carolina</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manaus">
+    <foaf:name xml:lang="en">Municipality of Manaus</foaf:name>
+    <foaf:name xml:lang="en">Manaus</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norristown,_Pennsylvania">
+    <foaf:name xml:lang="en">Norristown, Pennsylvania</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Hollywood,_Los_Angeles">
+    <foaf:name xml:lang="en">North Hollywood, Los Angeles</foaf:name>
+    <foaf:name xml:lang="en">North Hollywood</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_London">
+    <foaf:name xml:lang="en">North London</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olean,_New_York">
+    <foaf:name xml:lang="en">Olean, New York</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Opotiki">
+    <foaf:name xml:lang="en">Opotiki</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osterville,_Massachusetts">
+    <foaf:name xml:lang="en">Osterville, Massachusetts</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pacific_Palisades,_Los_Angeles">
+    <foaf:name xml:lang="en">Pacific Palisades</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peacehaven">
+    <foaf:name xml:lang="en">Peacehaven</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pebble_Beach,_California">
+    <foaf:name xml:lang="en">Pebble Beach</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Penzance">
+    <foaf:name xml:lang="en">Pennsans</foaf:name>
+    <foaf:name xml:lang="en">Penzance</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poulton-le-Fylde">
+    <foaf:name xml:lang="en">Poulton-le-Fylde</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Province_of_Silesia">
+    <foaf:name xml:lang="en">Silesia</foaf:name>
+    <foaf:name xml:lang="en">Silesia Province</foaf:name>
+    <foaf:name xml:lang="en">Provinz Schlesien</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralls,_Texas">
+    <foaf:name xml:lang="en">Ralls, Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riverhead_(town),_New_York">
+    <foaf:name xml:lang="en">Riverhead, New York</foaf:name>
+    <foaf:name xml:lang="en">Town of Riverhead</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rutherford,_New_Jersey">
+    <foaf:name xml:lang="en">Borough of Rutherford</foaf:name>
+    <foaf:name xml:lang="en">Rutherford, New Jersey</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint-Quentin,_Aisne">
+    <foaf:name xml:lang="en">Saint-Quentin</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shelburne,_Vermont">
+    <foaf:name xml:lang="en">Shelburne, Vermont</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sherman,_Texas">
+    <foaf:name xml:lang="en">Sherman, Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sherman_Oaks,_Los_Angeles">
+    <foaf:name xml:lang="en">Sherman Oaks</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sioux_City,_Iowa">
+    <foaf:name xml:lang="en">Sioux City</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Studio_City,_Los_Angeles">
+    <foaf:name xml:lang="en">Studio City</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Szeged">
+    <foaf:name xml:lang="en">Szeged</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Two_Rivers,_Wisconsin">
+    <foaf:name xml:lang="en">Two Rivers, Wisconsin</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Upper_East_Side">
+    <foaf:name xml:lang="en">Upper East Side</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Watts,_Los_Angeles">
+    <foaf:name xml:lang="en">Watts</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weatherford,_Texas">
+    <foaf:name xml:lang="en">Weatherford, Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Whiteville,_Tennessee">
+    <foaf:name xml:lang="en">Whiteville, Tennessee</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgian_Soviet_Socialist_Republic">
+    <foaf:name xml:lang="en">Грузинская Советская Социалистическая Республика</foaf:name>
+    <foaf:name xml:lang="en">Georgian Soviet Army</foaf:name>
+    <foaf:name xml:lang="en">Georgian Soviet Socialist Republic</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nizamuddin_Auliya">
+    <foaf:name xml:lang="en">Nizamuddin Auliya</foaf:name>
+    <foaf:name xml:lang="en">Auliya, Nizamuddin</foaf:name>
+    <foaf:name xml:lang="en">Hazrat Nizamuddin Auliya</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vologda_Governorate">
+    <foaf:name xml:lang="en">Vologda Governorate</foaf:name>
+    <foaf:name xml:lang="en">Vologda</foaf:name>
+    <foaf:name xml:lang="en">Вологодская губерния</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Insular_Government_of_the_Philippine_Islands">
+    <foaf:name xml:lang="en">Insular Government</foaf:name>
+    <foaf:name xml:lang="en">Insular Government of the Philippine Islands</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ardmore,_County_Waterford">
+    <foaf:name xml:lang="en">Ardmore</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antibes">
+    <foaf:name xml:lang="en">Antibes</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Argentan">
+    <foaf:name xml:lang="en">Argentan</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auxerre">
+    <foaf:name xml:lang="en">Auxerre</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blackrock,_Dublin">
+    <foaf:name xml:lang="en">Blackrock</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bray">
+    <foaf:name xml:lang="en">Bray</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belfort">
+    <foaf:name xml:lang="en">Belfort</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cappoquin">
+    <foaf:name xml:lang="en">Cappoquin</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bobigny">
+    <foaf:name xml:lang="en">Bobigny</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlottenburg">
+    <foaf:name xml:lang="en">Charlottenburg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bois-Colombes">
+    <foaf:name xml:lang="en">Bois-Colombes</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boulogne-Billancourt">
+    <foaf:name xml:lang="en">Boulogne-Billancourt</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bourron-Marlotte">
+    <foaf:name xml:lang="en">Bourron-Marlotte</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dalkey">
+    <foaf:name xml:lang="en">Dalkey</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dunmanway">
+    <foaf:name xml:lang="en">Dún Mánmhaí</foaf:name>
+    <foaf:name xml:lang="en">Dunmanway</foaf:name>
+    <foaf:name xml:lang="en">Dúnmaonmhuí</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enniskerry">
+    <foaf:name xml:lang="en">Enniskerry</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gif-sur-Yvette">
+    <foaf:name xml:lang="en">Gif-sur-Yvette</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Granard">
+    <foaf:name xml:lang="en">Granard</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carpentras">
+    <foaf:name xml:lang="en">Carpentras</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carry-le-Rouet">
+    <foaf:name xml:lang="en">Carry-le-Rouet</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilbrittain">
+    <foaf:name xml:lang="en">Kilbrittain</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Frette-sur-Seine">
+    <foaf:name xml:lang="en">La Frette-sur-Seine</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clamart">
+    <foaf:name xml:lang="en">Clamart</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Landunvez">
+    <foaf:name xml:lang="en">Landunvez</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colombes">
+    <foaf:name xml:lang="en">Colombes</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Le_Bourg-d'Oisans">
+    <foaf:name xml:lang="en">Le Bourg-d'Oisans</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Le_Vésinet">
+    <foaf:name xml:lang="en">Le Vésinet</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Levallois-Perret">
+    <foaf:name xml:lang="en">Levallois-Perret</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cucq">
+    <foaf:name xml:lang="en">Cucq</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Céret">
+    <foaf:name xml:lang="en">Céret</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Limoges">
+    <foaf:name xml:lang="en">Limoges</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enghien-les-Bains">
+    <foaf:name xml:lang="en">Enghien-les-Bains</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fayence">
+    <foaf:name xml:lang="en">Fayence</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyon">
+    <foaf:name xml:lang="en">Lyon</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fontenay-aux-Roses">
+    <foaf:name xml:lang="en">Fontenay-aux-Roses</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marseille">
+    <foaf:name xml:lang="en">Marseille</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metz">
+    <foaf:name xml:lang="en">Municipalité de Metz</foaf:name>
+    <foaf:name xml:lang="en">Metz</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montpellier">
+    <foaf:name xml:lang="en">Montpellier</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mulhouse">
+    <foaf:name xml:lang="en">Mülhausen / Milhüsa</foaf:name>
+    <foaf:name xml:lang="en">Mulhouse</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neuilly-sur-Seine">
+    <foaf:name xml:lang="en">Neuilly-sur-Seine</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nice">
+    <foaf:name xml:lang="en">Nice</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ornans">
+    <foaf:name xml:lang="en">Ornans</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pont-Scorff">
+    <foaf:name xml:lang="en">Pont-Scorff</foaf:name>
+    <foaf:name xml:lang="en">Paou-Skorn</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quimper">
+    <foaf:name xml:lang="en">Kemper</foaf:name>
+    <foaf:name xml:lang="en">Quimper</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quiévy">
+    <foaf:name xml:lang="en">Quiévy</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rathfarnham">
+    <foaf:name xml:lang="en">Rathfarnham</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rathmines">
+    <foaf:name xml:lang="en">Rathmines</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reims">
+    <foaf:name xml:lang="en">Reims</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rochecorbon">
+    <foaf:name xml:lang="en">Rochecorbon</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint-Paul-de-Vence">
+    <foaf:name xml:lang="en">Saint-Paul</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint-Raphaël,_Var">
+    <foaf:name xml:lang="en">Saint-Raphaël</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Helier">
+    <foaf:name xml:lang="en">Saint Helier</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saumur">
+    <foaf:name xml:lang="en">Saumur</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strasbourg">
+    <foaf:name xml:lang="en">Strasbourg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sète">
+    <foaf:name xml:lang="en">Sète</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sèvres">
+    <foaf:name xml:lang="en">Sèvres</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thiais">
+    <foaf:name xml:lang="en">Thiais</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomastown">
+    <foaf:name xml:lang="en">Thomastown</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toulon">
+    <foaf:name xml:lang="en">Toulon</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toulouse">
+    <foaf:name xml:lang="en">Toulouse</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valmondois">
+    <foaf:name xml:lang="en">Valmondois</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vichy">
+    <foaf:name xml:lang="en">Vichèi</foaf:name>
+    <foaf:name xml:lang="en">Vichy</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vitry-sur-Seine">
+    <foaf:name xml:lang="en">Vitry-sur-Seine</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abercynon">
+    <foaf:name xml:lang="en">Abercynon</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aldrans">
+    <foaf:name xml:lang="en">Aldrans</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amberley,_West_Sussex">
+    <foaf:name xml:lang="en">Amberley</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andermatt">
+    <foaf:name xml:lang="en">Andermatt</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andover,_Hampshire">
+    <foaf:name xml:lang="en">Andover</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Balkbrug">
+    <foaf:name xml:lang="en">Balkbrug</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barry,_Vale_of_Glamorgan">
+    <foaf:name xml:lang="en">Y Barri</foaf:name>
+    <foaf:name xml:lang="en">Barry</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beaconsfield">
+    <foaf:name xml:lang="en">Beaconsfield</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bennekom">
+    <foaf:name xml:lang="en">Bennekom</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birmingham">
+    <foaf:name xml:lang="en">Birmingham</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bishop's_Stortford">
+    <foaf:name xml:lang="en">Bishop's Stortford</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bolton">
+    <foaf:name xml:lang="en">Bolton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bradford">
+    <foaf:name xml:lang="en">Bradford</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brig-Glis">
+    <foaf:name xml:lang="en">Brig-Glis</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bude">
+    <foaf:name xml:lang="en">Bude</foaf:name>
+    <foaf:name xml:lang="en">Porthbud</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burford">
+    <foaf:name xml:lang="en">Burford</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burnley">
+    <foaf:name xml:lang="en">Burnley</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bury">
+    <foaf:name xml:lang="en">Bury</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Castleford">
+    <foaf:name xml:lang="en">Castleford</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chelmsford">
+    <foaf:name xml:lang="en">Chelmsford</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chertsey">
+    <foaf:name xml:lang="en">Chertsey</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chester">
+    <foaf:name xml:lang="en">Chester</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chesterfield">
+    <foaf:name xml:lang="en">Borough of Chesterfield</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chichester">
+    <foaf:name xml:lang="en">City of Chichester</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chorlton-on-Medlock">
+    <foaf:name xml:lang="en">Chorlton-on-Medlock</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clacton-on-Sea">
+    <foaf:name xml:lang="en">Clacton-on-Sea</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claygate">
+    <foaf:name xml:lang="en">Claygate</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cleethorpes">
+    <foaf:name xml:lang="en">Cleethorpes</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clifton,_Bristol">
+    <foaf:name xml:lang="en">Clifton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dedham,_Essex">
+    <foaf:name xml:lang="en">Dedham</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dinas_Powys">
+    <foaf:name xml:lang="en">Dinas Powys</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ditchling">
+    <foaf:name xml:lang="en">Ditchling</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donaghadee">
+    <foaf:name xml:lang="en">Domhnach Daoi</foaf:name>
+    <foaf:name xml:lang="en">Donaghadee</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doncaster">
+    <foaf:name xml:lang="en">Doncaster</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Dulwich">
+    <foaf:name xml:lang="en">East Dulwich</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Grinstead">
+    <foaf:name xml:lang="en">East Grinstead</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Ham">
+    <foaf:name xml:lang="en">East Ham</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eastbourne">
+    <foaf:name xml:lang="en">Eastbourne</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmonton,_London">
+    <foaf:name xml:lang="en">Edmonton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Egå">
+    <foaf:name xml:lang="en">Egå</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elbigenalp">
+    <foaf:name xml:lang="en">Elbigenalp</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enfield_Town">
+    <foaf:name xml:lang="en">Enfield Town</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Epsom">
+    <foaf:name xml:lang="en">Epsom</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erlbach,_Saxony">
+    <foaf:name xml:lang="en">Erlbach</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esher">
+    <foaf:name xml:lang="en">Esher</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Etruria,_Staffordshire">
+    <foaf:name xml:lang="en">Etruria</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederiksberg">
+    <foaf:name xml:lang="en">Frederiksberg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frillesås">
+    <foaf:name xml:lang="en">Frillesås</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gainsborough,_Lincolnshire">
+    <foaf:name xml:lang="en">Gainsborough</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goffs_Oak">
+    <foaf:name xml:lang="en">Goffs Oak</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greater_London">
+    <foaf:name xml:lang="en">Greater London</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greater_Manchester">
+    <foaf:name xml:lang="en">Greater Manchester</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grimsby">
+    <foaf:name xml:lang="en">Grimsby</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Halifax,_West_Yorkshire">
+    <foaf:name xml:lang="en">Halifax</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hall_in_Tirol">
+    <foaf:name xml:lang="en">Hall in Tirol</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanau">
+    <foaf:name xml:lang="en">Hanau</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haywards_Heath">
+    <foaf:name xml:lang="en">Haywards Heath</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hexham">
+    <foaf:name xml:lang="en">Hexham</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hierden">
+    <foaf:name xml:lang="en">Hierden</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hipperholme">
+    <foaf:name xml:lang="en">Hipperholme</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holbeach">
+    <foaf:name xml:lang="en">Holbeach</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holland-on-Sea">
+    <foaf:name xml:lang="en">Holland On Sea</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holyhead">
+    <foaf:name xml:lang="en">Caergybi</foaf:name>
+    <foaf:name xml:lang="en">Holyhead</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honiton">
+    <foaf:name xml:lang="en">Honiton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ijebu_Ode">
+    <foaf:name xml:lang="en">Ijebu-Ode</foaf:name>
+    <foaf:name xml:lang="en">Ajebu Olode</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikoyi">
+    <foaf:name xml:lang="en">Ikoyi</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishøj">
+    <foaf:name xml:lang="en">Ishøj</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jülich">
+    <foaf:name xml:lang="en">Jülich</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kappel_am_Krappfeld">
+    <foaf:name xml:lang="en">Kappel am Krappfeld</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Chaux-de-Fonds">
+    <foaf:name xml:lang="en">La Chaux-de-Fonds</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Tour-de-Peilz">
+    <foaf:name xml:lang="en">La Tour-de-Peilz</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Largs">
+    <foaf:name xml:lang="en">An Leargaidh Ghallda</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ledbury">
+    <foaf:name xml:lang="en">Ledbury</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leeds">
+    <foaf:name xml:lang="en">Leeds</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Llanferres">
+    <foaf:name xml:lang="en">Llanferres</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lochwinnoch">
+    <foaf:name xml:lang="en">Loch Eanach</foaf:name>
+    <foaf:name xml:lang="en">Lochwinnoch</foaf:name>
+    <foaf:name xml:lang="en">Lochineuch</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loughbrickland">
+    <foaf:name xml:lang="en">Loch Bricleann</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lutry">
+    <foaf:name xml:lang="en">Lutry</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maidenhead">
+    <foaf:name xml:lang="en">Maidenhead</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariasdorf">
+    <foaf:name xml:lang="en">Mariasdorf</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masham">
+    <foaf:name xml:lang="en">Masham</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mendham,_Suffolk">
+    <foaf:name xml:lang="en">Mendham</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mere,_Wiltshire">
+    <foaf:name xml:lang="en">Mere</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Middenbeemster">
+    <foaf:name xml:lang="en">Middenbeemster</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minchinhampton">
+    <foaf:name xml:lang="en">Minchinhampton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monkseaton">
+    <foaf:name xml:lang="en">Monkseaton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montrose,_Angus">
+    <foaf:name xml:lang="en">Montrose</foaf:name>
+    <foaf:name xml:lang="en">Monadh Rois</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mosdós">
+    <foaf:name xml:lang="en">Mosdós</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Much_Hadham">
+    <foaf:name xml:lang="en">Much Hadham</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nafferton">
+    <foaf:name xml:lang="en">Nafferton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neukölln">
+    <foaf:name xml:lang="en">Neukölln</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neumark">
+    <foaf:name xml:lang="en">Neumark or Ostbrandenburg''' (de)</foaf:name>
+    <foaf:name xml:lang="en">Neumark or '''East Brandenburg</foaf:name>
+    <foaf:name xml:lang="en">terra trans Oderam (la)</foaf:name>
+    <foaf:name xml:lang="en">Nowa Marchia (pl)</foaf:name>
+    <foaf:name xml:lang="en">Neumark</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newlyn">
+    <foaf:name xml:lang="en">Newlyn</foaf:name>
+    <foaf:name xml:lang="en">Lulyn</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newport,_Isle_of_Wight">
+    <foaf:name xml:lang="en">Newport</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newton_Abbot">
+    <foaf:name xml:lang="en">Newton Abbot</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odiham">
+    <foaf:name xml:lang="en">Odiham</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onitsha">
+    <foaf:name xml:lang="en">Ọ̀nị̀chà Mmílí</foaf:name>
+    <foaf:name xml:lang="en">Onitsha</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oppenheim">
+    <foaf:name xml:lang="en">Oppenheim</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osted">
+    <foaf:name xml:lang="en">Osted</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Overton,_Hampshire">
+    <foaf:name xml:lang="en">Overton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paisley">
+    <foaf:name xml:lang="en">Paisley</foaf:name>
+    <foaf:name xml:lang="en">Pàislig</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Penarth">
+    <foaf:name xml:lang="en">Penarth</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Penegoes">
+    <foaf:name xml:lang="en">Penegoes</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Persberg">
+    <foaf:name xml:lang="en">Persberg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pápa">
+    <foaf:name xml:lang="en">Pápa</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pöchlarn">
+    <foaf:name xml:lang="en">Pöchlarn</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rapperswil">
+    <foaf:name xml:lang="en">Rapperswil</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Redhill,_Surrey">
+    <foaf:name xml:lang="en">Redhill</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhos-on-Sea">
+    <foaf:name xml:lang="en">Rhos-on-Sea</foaf:name>
+    <foaf:name xml:lang="en">Llandrillo-yn-Rhos</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richmond,_North_Yorkshire">
+    <foaf:name xml:lang="en">Richmond</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ridley,_Kent">
+    <foaf:name xml:lang="en">Ridley</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/River_Conwy">
+    <foaf:name xml:lang="en">Conwy</foaf:name>
+    <foaf:name xml:lang="en">Afon Conwy</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rochdale">
+    <foaf:name xml:lang="en">Rochdale</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roshven">
+    <foaf:name xml:lang="en">Roshven</foaf:name>
+    <foaf:name xml:lang="en">Roisbheinn</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Leamington_Spa">
+    <foaf:name xml:lang="en">Royal Leamington Spa</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Runcorn">
+    <foaf:name xml:lang="en">Runcorn</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryde">
+    <foaf:name xml:lang="en">Ryde</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rye,_East_Sussex">
+    <foaf:name xml:lang="en">Rye</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rågeleje">
+    <foaf:name xml:lang="en">Rågeleje</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rödelheim">
+    <foaf:name xml:lang="en">Rödelheim</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saffron_Walden">
+    <foaf:name xml:lang="en">Saffron Walden</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salcombe">
+    <foaf:name xml:lang="en">Salcombe</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saltsjöbaden">
+    <foaf:name xml:lang="en">Saltsjöbaden</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sandbach">
+    <foaf:name xml:lang="en">Sandbach</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarnen">
+    <foaf:name xml:lang="en">Sarnen</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scarborough,_North_Yorkshire">
+    <foaf:name xml:lang="en">Scarborough</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seaford,_East_Sussex">
+    <foaf:name xml:lang="en">Seaford</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shepperton">
+    <foaf:name xml:lang="en">Shepperton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Slinfold">
+    <foaf:name xml:lang="en">Slinfold</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Kensington">
+    <foaf:name xml:lang="en">South Kensington</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Asaph">
+    <foaf:name xml:lang="en">Llanelwy</foaf:name>
+    <foaf:name xml:lang="en">St Asaph</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Staplehurst">
+    <foaf:name xml:lang="en">Staplehurst</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stourbridge">
+    <foaf:name xml:lang="en">Stourbridge</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stradbroke">
+    <foaf:name xml:lang="en">Stradbroke</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stratton,_Cornwall">
+    <foaf:name xml:lang="en">St Andrew's Church, Stratton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stretford">
+    <foaf:name xml:lang="en">Stretford</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Struer_Municipality">
+    <foaf:name xml:lang="en">Struer</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sundbyberg_Municipality">
+    <foaf:name xml:lang="en">Sundbybergs kommun</foaf:name>
+    <foaf:name xml:lang="en">Sundbyberg Municipality</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swalecliffe">
+    <foaf:name xml:lang="en">Swalecliffe</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teddington">
+    <foaf:name xml:lang="en">Teddington, London</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theddingworth">
+    <foaf:name xml:lang="en">Theddingworth</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tonbridge">
+    <foaf:name xml:lang="en">Tonbridge</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ullapool">
+    <foaf:name xml:lang="en">Ullapool</foaf:name>
+    <foaf:name xml:lang="en">Ulapul</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Untermühlhausen">
+    <foaf:name xml:lang="en">Untermühlhausen</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uppland">
+    <foaf:name xml:lang="en">Uppland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ventnor">
+    <foaf:name xml:lang="en">Ventnor</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vättern">
+    <foaf:name xml:lang="en">Vättern</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Warsop">
+    <foaf:name xml:lang="en">Warsop</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wellington,_Somerset">
+    <foaf:name xml:lang="en">Wellington</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Bromwich">
+    <foaf:name xml:lang="en">West Bromwich</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wettingen">
+    <foaf:name xml:lang="en">Wettingen</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Whitchurch,_Herefordshire">
+    <foaf:name xml:lang="en">Whitchurch</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Windsor,_Berkshire">
+    <foaf:name xml:lang="en">Windsor</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winterthur">
+    <foaf:name xml:lang="en">Winterthur</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woking">
+    <foaf:name xml:lang="en">Woking</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Worthing">
+    <foaf:name xml:lang="en">Worthing</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zéralda">
+    <foaf:name xml:lang="en">Zeralda</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Östra_Husby">
+    <foaf:name xml:lang="en">Östra Husby</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doicești">
+    <foaf:name xml:lang="en">Doiceşti</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oleksandriia">
+    <foaf:name xml:lang="en">Олександрія</foaf:name>
+    <foaf:name xml:lang="en">Olexandria</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_Fourth_Republic">
+    <foaf:name xml:lang="en">French Republic</foaf:name>
+    <foaf:name xml:lang="en">République française</foaf:name>
+    <foaf:name xml:lang="en">France</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irvine,_California">
+    <foaf:name xml:lang="en">Irvine, California</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laredo,_Texas">
+    <foaf:name xml:lang="en">City Of Laredo</foaf:name>
+    <foaf:name xml:lang="en">Laredo, Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MS_Estonia">
+    <foaf:name xml:lang="en">1990–1991: Silja Star</foaf:name>
+    <foaf:name xml:lang="en">1993–1994: Estonia</foaf:name>
+    <foaf:name xml:lang="en">1980–1990: Viking Sally</foaf:name>
+    <foaf:name xml:lang="en">1991–1993: Wasa King</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Lebanon">
+    <foaf:name xml:lang="en">(mountain range)</foaf:name>
+    <foaf:name xml:lang="en">Mount Lebanon</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prussia">
+    <foaf:name xml:lang="en">Prussia</foaf:name>
+    <foaf:name xml:lang="en">Preußen</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reston,_Virginia">
+    <foaf:name xml:lang="en">Reston, Virginia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Algonquin_Provincial_Park">
+    <foaf:name xml:lang="en">Algonquin Provincial Park</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bethlehem,_Pennsylvania">
+    <foaf:name xml:lang="en">Bethlehem, Pennsylvania</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Borda,_Goa">
+    <foaf:name xml:lang="en">Borda</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brandenburg-Prussia">
+    <foaf:name xml:lang="en">Brandenburg-Preußen</foaf:name>
+    <foaf:name xml:lang="en">Brandenburg-Prussia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brentwood,_Los_Angeles">
+    <foaf:name xml:lang="en">Brentwood</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brompton,_London">
+    <foaf:name xml:lang="en">Brompton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brooksville,_Florida">
+    <foaf:name xml:lang="en">Brooksville</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carinthia">
+    <foaf:name xml:lang="en">Carinthia</foaf:name>
+    <foaf:name xml:lang="en">Kärnten</foaf:name>
+    <foaf:name xml:lang="en">Koroška</foaf:name>
+    <foaf:name xml:lang="en">Carinzia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chatham,_Massachusetts">
+    <foaf:name xml:lang="en">Chatham, Massachusetts</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_of_Tyrol">
+    <foaf:name xml:lang="en">Contea (Principesca) del Tirolo (it)</foaf:name>
+    <foaf:name xml:lang="en">(Princely) County of Tyrol</foaf:name>
+    <foaf:name xml:lang="en">(Gefürstete) Grafschaft Tirol (de)</foaf:name>
+    <foaf:name xml:lang="en">Tyrol</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dorset_Island">
+    <foaf:name xml:lang="en">Dorset Island</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Effort,_Pennsylvania">
+    <foaf:name xml:lang="en">Effort, Pennsylvania</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_Third_Republic">
+    <foaf:name xml:lang="en">République française</foaf:name>
+    <foaf:name xml:lang="en">French Republic</foaf:name>
+    <foaf:name xml:lang="en">France</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geneva,_Illinois">
+    <foaf:name xml:lang="en">Geneva</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyderabad_State">
+    <foaf:name xml:lang="en">Hyderabad</foaf:name>
+    <foaf:name xml:lang="en">హైదరాబాద్ రాష్ట్రం</foaf:name>
+    <foaf:name xml:lang="en">State of Hyderabad</foaf:name>
+    <foaf:name xml:lang="en">ಹೈದರಾಬಾದ್ ಪ್ರಾಂತ್ಯದ  हैदराबाद राज्य</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingdom_of_Yugoslavia">
+    <foaf:name xml:lang="en">Yugoslavia</foaf:name>
+    <foaf:name xml:lang="en">Kraljevina Jugoslavija</foaf:name>
+    <foaf:name xml:lang="en">Краљевина Југославија</foaf:name>
+    <foaf:name xml:lang="en">Kingdom of Yugoslavia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/KwaZulu–Natal">
+    <foaf:name xml:lang="en">KwaZulu–Natal</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Jolla">
+    <foaf:name xml:lang="en">La Jolla</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Las_Vegas_Valley">
+    <foaf:name xml:lang="en">Las Vegas Valley</foaf:name>
+    <foaf:name xml:lang="en">Las Vegas–Paradise-Henderson, NV MSA</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyons,_New_York">
+    <foaf:name xml:lang="en">Lyons, New York</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margraviate_of_Brandenburg">
+    <foaf:name xml:lang="en">Brandenburg</foaf:name>
+    <foaf:name xml:lang="en">March/Margraviate of Brandenburg</foaf:name>
+    <foaf:name xml:lang="en">Mark/Markgrafschaft Brandenburg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milltown,_Dublin">
+    <foaf:name xml:lang="en">Milltown</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osceola,_Wisconsin">
+    <foaf:name xml:lang="en">Osceola</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palm_Springs,_California">
+    <foaf:name xml:lang="en">Palm Springs, California</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poughkeepsie,_New_York">
+    <foaf:name xml:lang="en">Poughkeepsie</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Powell,_Wyoming">
+    <foaf:name xml:lang="en">Powell, Wyoming</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Province_of_Brandenburg">
+    <foaf:name xml:lang="en">Province of Brandenburg</foaf:name>
+    <foaf:name xml:lang="en">Brandenburg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Province_of_Maryland">
+    <foaf:name xml:lang="en">Maryland Colony</foaf:name>
+    <foaf:name xml:lang="en">Maryland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Martin,_Guernsey">
+    <foaf:name xml:lang="en">St. Martin</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Miguel_de_Allende">
+    <foaf:name xml:lang="en">San Miguel de Allende</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia">
+    <foaf:name xml:lang="en">''Socialistična federativna republika</foaf:name>
+    <foaf:name xml:lang="en">Socijalistička Federativna Republika Jugoslavija</foaf:name>
+    <foaf:name xml:lang="en">Jugoslavija''</foaf:name>
+    <foaf:name xml:lang="en">Yugoslavia</foaf:name>
+    <foaf:name xml:lang="en">Socialist Federal Republic of Yugoslavia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stamford,_Connecticut">
+    <foaf:name xml:lang="en">Stamford, Connecticut</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tirol,_Austria">
+    <foaf:name xml:lang="en">Tirol</foaf:name>
+    <foaf:name xml:lang="en">TirolTirolo</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valencia,_California">
+    <foaf:name xml:lang="en">Valencia, California</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wichita_Falls,_Texas">
+    <foaf:name xml:lang="en">Wichita Falls, Texas</foaf:name>
+    <foaf:name xml:lang="en">Wichita Falls</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woodstock,_New_York">
+    <foaf:name xml:lang="en">Woodstock, New York</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Précy-sous-Thil">
+    <foaf:name xml:lang="en">Précy-sous-Thil</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint-Félix-Lauragais">
+    <foaf:name xml:lang="en">Saint-Félix-Lauragais</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint-Gély-du-Fesc">
+    <foaf:name xml:lang="en">Saint-Gély-du-Fesc</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saulieu">
+    <foaf:name xml:lang="en">Saulieu</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allerton,_West_Yorkshire">
+    <foaf:name xml:lang="en">Allerton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volkhov_Front">
+    <foaf:name xml:lang="en">Volkhov Front (1st formation)</foaf:name>
+    <foaf:name xml:lang="en">Volkhov Front (2nd formation)</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bombay_Presidency">
+    <foaf:name xml:lang="en">بومبي ر ئا سة (Arabic)</foaf:name>
+    <foaf:name xml:lang="en">Bombay Presidency</foaf:name>
+    <foaf:name xml:lang="en">મુંબઇ પ્રાંત (Gujarati)</foaf:name>
+    <foaf:name xml:lang="en">मुंबई इलाखा (Marathi)</foaf:name>
+    <foaf:name xml:lang="en">بومبي صدار ت(Sindhi)</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UCLA_Medical_Center,_Santa_Monica">
+    <foaf:name xml:lang="en">UCLA Medical Center, Santa Monica</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albania">
+    <foaf:name xml:lang="en">''</foaf:name>
+    <foaf:name xml:lang="en">Albania</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Algeria">
+    <foaf:name xml:lang="en">Algeria</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Argentina">
+    <foaf:name xml:lang="en">Argentina</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armenia">
+    <foaf:name xml:lang="en">Armenia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Australia">
+    <foaf:name xml:lang="en">Australia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Austria">
+    <foaf:name xml:lang="en">Austria</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Azerbaijan">
+    <foaf:name xml:lang="en">Azerbaijan</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bangladesh">
+    <foaf:name xml:lang="en">Bangladesh</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belarus">
+    <foaf:name xml:lang="en">Belarus</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belgium">
+    <foaf:name xml:lang="en">Belgium</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belize">
+    <foaf:name xml:lang="en">Belize</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bosnia_and_Herzegovina">
+    <foaf:name xml:lang="en">Bosna i Hercegovina</foaf:name>
+    <foaf:name xml:lang="en">Босна и Херцеговина</foaf:name>
+    <foaf:name xml:lang="en">Bosnia and Herzegovina</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brazil">
+    <foaf:name xml:lang="en">Brazil</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canada">
+    <foaf:name xml:lang="en">Canada</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chile">
+    <foaf:name xml:lang="en">Chile</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/China">
+    <foaf:name xml:lang="en">the People's Republic of China</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colombia">
+    <foaf:name xml:lang="en">Colombia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Croatia">
+    <foaf:name xml:lang="en">Croatia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cuba">
+    <foaf:name xml:lang="en">Cuba</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denmark">
+    <foaf:name xml:lang="en">Denmark</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dominican_Republic">
+    <foaf:name xml:lang="en">Dominican Republic</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ecuador">
+    <foaf:name xml:lang="en">Ecuador</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Egypt">
+    <foaf:name xml:lang="en">Egypt</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eritrea">
+    <foaf:name xml:lang="en">Eritrea</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Estonia">
+    <foaf:name xml:lang="en">Estonia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ethiopia">
+    <foaf:name xml:lang="en">Ethiopia</foaf:name>
+    <foaf:name xml:lang="en">()</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Finland">
+    <foaf:name xml:lang="en">font-size:88%;</foaf:name>
+    <foaf:name xml:lang="en">Finland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/France">
+    <foaf:name xml:lang="en">France</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_Polynesia">
+    <foaf:name xml:lang="en">font-size:88%;</foaf:name>
+    <foaf:name xml:lang="en">French Polynesia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Germany">
+    <foaf:name xml:lang="en">Germany</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greece">
+    <foaf:name xml:lang="en">Ελληνική Δημοκρατία</foaf:name>
+    <foaf:name xml:lang="en">Greece</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guatemala">
+    <foaf:name xml:lang="en">Guatemala</foaf:name>
+    <foaf:name xml:lang="en">República de Guatemala</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haiti">
+    <foaf:name xml:lang="en">font-size:88%;</foaf:name>
+    <foaf:name xml:lang="en">Haiti</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hong_Kong">
+    <foaf:name xml:lang="en">Hong Kong</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungary">
+    <foaf:name xml:lang="en">Hungary</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iceland">
+    <foaf:name xml:lang="en">Iceland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/India">
+    <foaf:name xml:lang="en">Bhārat Gaṇarājya</foaf:name>
+    <foaf:name xml:lang="en">India</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indonesia">
+    <foaf:name xml:lang="en">Indonesia</foaf:name>
+    <foaf:name xml:lang="en">Republik Indonesia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iran">
+    <foaf:name xml:lang="en">Iran</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iraq">
+    <foaf:name xml:lang="en">Iraq</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ireland">
+    <foaf:name xml:lang="en">Ireland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israel">
+    <foaf:name xml:lang="en">Israel</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Italy">
+    <foaf:name xml:lang="en">Italy</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jamaica">
+    <foaf:name xml:lang="en">Jamaica</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan">
+    <foaf:name xml:lang="en">Japan</foaf:name>
+    <foaf:name xml:lang="en">Nippon-koku</foaf:name>
+    <foaf:name xml:lang="en">Nihon-koku</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jersey">
+    <foaf:name xml:lang="en">font-size:88%;</foaf:name>
+    <foaf:name xml:lang="en">Jersey</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenya">
+    <foaf:name xml:lang="en">Jamhuri ya Kenya (Swahili)</foaf:name>
+    <foaf:name xml:lang="en">Kenya</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Latvia">
+    <foaf:name xml:lang="en">Latvia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lebanon">
+    <foaf:name xml:lang="en">Lebanon</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lithuania">
+    <foaf:name xml:lang="en">Lithuania</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luxembourg">
+    <foaf:name xml:lang="en">Luxembourg</foaf:name>
+    <foaf:name xml:lang="en">font-size:80%;</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malaysia">
+    <foaf:name xml:lang="en">Malaysia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maldives">
+    <foaf:name xml:lang="en">Maldives</foaf:name>
+    <foaf:name xml:lang="en">Dhivehi Raajjeyge Jumhooriyya</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mexico">
+    <foaf:name xml:lang="en">Mexico</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morocco">
+    <foaf:name xml:lang="en">al-Mamlakah al-Maghribiyah</foaf:name>
+    <foaf:name xml:lang="en">المملكة المغربية</foaf:name>
+    <foaf:name xml:lang="en">Morocco</foaf:name>
+    <foaf:name xml:lang="en">ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⴰⵖⵔⵉⴱ</foaf:name>
+    <foaf:name xml:lang="en">Tageldit n Murakuc</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Namibia">
+    <foaf:name xml:lang="en">Namibia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nepal">
+    <foaf:name xml:lang="en">Nepal</foaf:name>
+    <foaf:name xml:lang="en">Sanghiya Loktāntrik Ganatantra Nepāl</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Netherlands">
+    <foaf:name xml:lang="en">the Netherlands</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Zealand">
+    <foaf:name xml:lang="en">Aotearoa (Māori)</foaf:name>
+    <foaf:name xml:lang="en">New Zealand</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicaragua">
+    <foaf:name xml:lang="en">Nicaragua</foaf:name>
+    <foaf:name xml:lang="en">República de Nicaragua</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nigeria">
+    <foaf:name xml:lang="en">Nigeria</foaf:name>
+    <foaf:name xml:lang="en">font-size:78%;</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norway">
+    <foaf:name xml:lang="en">Norway</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pakistan">
+    <foaf:name xml:lang="en">Pakistan</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paraguay">
+    <foaf:name xml:lang="en">font-size:88%;</foaf:name>
+    <foaf:name xml:lang="en">Paraguay</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peru">
+    <foaf:name xml:lang="en">Peru</foaf:name>
+    <foaf:name xml:lang="en">font-size:88%;</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippines">
+    <foaf:name xml:lang="en">Philippines</foaf:name>
+    <foaf:name xml:lang="en">Republika ng Pilipinas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poland">
+    <foaf:name xml:lang="en">Poland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portugal">
+    <foaf:name xml:lang="en">Portugal</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Puerto_Rico">
+    <foaf:name xml:lang="en">Puerto Rico</foaf:name>
+    <foaf:name xml:lang="en">Estado Libre Asociado de Puerto Rico</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romania">
+    <foaf:name xml:lang="en">Romania</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russia">
+    <foaf:name xml:lang="en">Russia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samoa">
+    <foaf:name xml:lang="en">Samoa</foaf:name>
+    <foaf:name xml:lang="en">Malo Saoloto Tutoatasi o Sāmoa</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Senegal">
+    <foaf:name xml:lang="en">Senegal</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serbia">
+    <foaf:name xml:lang="en">Serbia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_Leone">
+    <foaf:name xml:lang="en">Sierra Leone</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Singapore">
+    <foaf:name xml:lang="en">Singapore</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Slovenia">
+    <foaf:name xml:lang="en">Slovenia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Africa">
+    <foaf:name xml:lang="en">South Africa</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Korea">
+    <foaf:name xml:lang="en">South Korea</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spain">
+    <foaf:name xml:lang="en">Spain</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sri_Lanka">
+    <foaf:name xml:lang="en">Sri Lanka</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sudan">
+    <foaf:name xml:lang="en">Sudan</foaf:name>
+    <foaf:name xml:lang="en">Jumhūrīyat as-Sūdān</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweden">
+    <foaf:name xml:lang="en">Sweden</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Switzerland">
+    <foaf:name xml:lang="en">font-size:88%;</foaf:name>
+    <foaf:name xml:lang="en">Switzerland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syria">
+    <foaf:name xml:lang="en">Syria</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taiwan">
+    <foaf:name xml:lang="en">Zhōnghuá Mínguó</foaf:name>
+    <foaf:name xml:lang="en">Taiwan</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thailand">
+    <foaf:name xml:lang="en">Thailand</foaf:name>
+    <foaf:name xml:lang="en">Ratcha-anachak Thai</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tunisia">
+    <foaf:name xml:lang="en">Tunisia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turkey">
+    <foaf:name xml:lang="en">Turkey</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ukraine">
+    <foaf:name xml:lang="en">Україна</foaf:name>
+    <foaf:name xml:lang="en">Ukraine</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom">
+    <foaf:name xml:lang="en">United Kingdom</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States">
+    <foaf:name xml:lang="en">the United States</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uruguay">
+    <foaf:name xml:lang="en">Uruguay</foaf:name>
+    <foaf:name xml:lang="en">''</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venezuela">
+    <foaf:name xml:lang="en">font-size:88%;</foaf:name>
+    <foaf:name xml:lang="en">Venezuela</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zimbabwe">
+    <foaf:name xml:lang="en">Zimbabwe</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dhaka">
+    <foaf:name xml:lang="en">Dhaka</foaf:name>
+    <foaf:name xml:lang="en">Dhaka Metropolitan Area</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kolkata">
+    <foaf:name xml:lang="en">Kolkata</foaf:name>
+    <foaf:name xml:lang="en">কলকাতা</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Bengal">
+    <foaf:name xml:lang="en">West Bengal</foaf:name>
+    <foaf:name xml:lang="en">পশ্চিমবঙ্গ</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Democratic_Republic_of_the_Congo">
+    <foaf:name xml:lang="en">the Democratic Republic of the Congo</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgia_(country)">
+    <foaf:name xml:lang="en">Georgia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Republic_of_Ireland">
+    <foaf:name xml:lang="en">Ireland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Gambia">
+    <foaf:name xml:lang="en">The Gambia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Algarve">
+    <foaf:name xml:lang="en">Algarve</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dresden">
+    <foaf:name xml:lang="en">Dresden</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Groningen">
+    <foaf:name xml:lang="en">Groningen</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamburg">
+    <foaf:name xml:lang="en">Freie und Hansestadt Hamburg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karlsruhe">
+    <foaf:name xml:lang="en">(Carlsruhe)</foaf:name>
+    <foaf:name xml:lang="en">Karlsruhe</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lisbon">
+    <foaf:name xml:lang="en">Lisboa</foaf:name>
+    <foaf:name xml:lang="en">Lisbon</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lombardy">
+    <foaf:name xml:lang="en">Lombardia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Republic_of_Macedonia">
+    <foaf:name xml:lang="en">Republic of Macedonia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saxony">
+    <foaf:name xml:lang="en">Freistaat Sachsen'' (de)</foaf:name>
+    <foaf:name xml:lang="en">Swobodny stat Sakska (wen)''</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sicily">
+    <foaf:name xml:lang="en">Sicilia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tuscany">
+    <foaf:name xml:lang="en">Toscana</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Utrecht">
+    <foaf:name xml:lang="en">Utrecht</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chantilly,_Oise">
+    <foaf:name xml:lang="en">Chantilly</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colomars">
+    <foaf:name xml:lang="en">Colomars</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cuiseaux">
+    <foaf:name xml:lang="en">Cuiseaux</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monthyon">
+    <foaf:name xml:lang="en">Monthyon</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint-Maurice,_Val-de-Marne">
+    <foaf:name xml:lang="en">Saint-Maurice</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sceaux,_Hauts-de-Seine">
+    <foaf:name xml:lang="en">Sceaux</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clewer">
+    <foaf:name xml:lang="en">Clewer</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mavelikkara">
+    <foaf:name xml:lang="en">മാവേലിക്കര</foaf:name>
+    <foaf:name xml:lang="en">Mavelikara, Kerala</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Downend,_South_Gloucestershire">
+    <foaf:name xml:lang="en">Downend</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hermannsburg,_Northern_Territory">
+    <foaf:name xml:lang="en">Hermannsburg</foaf:name>
+    <foaf:name xml:lang="en">(Ntaria)</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suphan_Buri">
+    <foaf:name xml:lang="en">สุพรรณบุรี</foaf:name>
+    <foaf:name xml:lang="en">Suphan Buri</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taishan_District,_New_Taipei">
+    <foaf:name xml:lang="en">Taishan District</foaf:name>
+    <foaf:name xml:lang="en">Taishan</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Voronezh_Governorate">
+    <foaf:name xml:lang="en">Voronezh</foaf:name>
+    <foaf:name xml:lang="en">Voronezh Governorate</foaf:name>
+    <foaf:name xml:lang="en">Воронежская губерния</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bradfield,_Berkshire">
+    <foaf:name xml:lang="en">Bradfield</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Courrières">
+    <foaf:name xml:lang="en">Courrières</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Exeter">
+    <foaf:name xml:lang="en">Exeter</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fairview,_Tennessee">
+    <foaf:name xml:lang="en">Fairview, Tennessee</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Finchley">
+    <foaf:name xml:lang="en">Finchley</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Janina_Vilayet">
+    <foaf:name xml:lang="en">Janina Vilayet</foaf:name>
+    <foaf:name xml:lang="en">Vilâyet-i Yanya</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lowestoft">
+    <foaf:name xml:lang="en">Lowestoft</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Old_Swiss_Confederacy">
+    <foaf:name xml:lang="en">Republic of the Swiss</foaf:name>
+    <foaf:name xml:lang="en">Confederation</foaf:name>
+    <foaf:name xml:lang="en">Republica Helvetiorum</foaf:name>
+    <foaf:name xml:lang="en">Eidgenossenschaft</foaf:name>
+    <foaf:name xml:lang="en">République des Suisses</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarıyer">
+    <foaf:name xml:lang="en">Sarıyer</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dubois,_Wyoming">
+    <foaf:name xml:lang="en">Dubois, Wyoming</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/German_Confederation">
+    <foaf:name xml:lang="en">German Confederation</foaf:name>
+    <foaf:name xml:lang="en">Deutscher Bund</foaf:name>
+    <foaf:name xml:lang="en">Germany</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beaumont,_Texas">
+    <foaf:name xml:lang="en">Beaumont, Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blackville,_South_Carolina">
+    <foaf:name xml:lang="en">Blackville, South Carolina</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brenham,_Texas">
+    <foaf:name xml:lang="en">Brenham, Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bristol,_Tennessee">
+    <foaf:name xml:lang="en">Bristol, Tennessee</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cameron,_Texas">
+    <foaf:name xml:lang="en">Cameron, Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cashton,_Wisconsin">
+    <foaf:name xml:lang="en">Cashton, Wisconsin</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chapel_Hill,_Tennessee">
+    <foaf:name xml:lang="en">Chapel Hill, Tennessee</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corsicana,_Texas">
+    <foaf:name xml:lang="en">Corsicana, Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crossville,_Tennessee">
+    <foaf:name xml:lang="en">Crossville, Tennessee</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dunmore,_Pennsylvania">
+    <foaf:name xml:lang="en">Dunmore</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Electric_City,_Washington">
+    <foaf:name xml:lang="en">Electric City</foaf:name>
+    <foaf:name xml:lang="en">Electric City, Washington</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elsa,_Texas">
+    <foaf:name xml:lang="en">Elsa, Texas</foaf:name>
+    <foaf:name xml:lang="en">City of Elsa</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gig_Harbor,_Washington">
+    <foaf:name xml:lang="en">Gig Harbor, Washington</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glenside,_Pennsylvania">
+    <foaf:name xml:lang="en">Glenside</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grayson_County,_Virginia">
+    <foaf:name xml:lang="en">Grayson County</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Groesbeck,_Texas">
+    <foaf:name xml:lang="en">Groesbeck, Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henrico_County,_Virginia">
+    <foaf:name xml:lang="en">Henrico County</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hereford,_Texas">
+    <foaf:name xml:lang="en">Hereford, Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kirkland,_Washington">
+    <foaf:name xml:lang="en">Kirkland, Washington</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Markesan,_Wisconsin">
+    <foaf:name xml:lang="en">Markesan, Wisconsin</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morrison,_Tennessee">
+    <foaf:name xml:lang="en">Morrison, Tennessee</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nescopeck,_Pennsylvania">
+    <foaf:name xml:lang="en">Nescopeck, Pennsylvania</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nickelsville,_Virginia">
+    <foaf:name xml:lang="en">Nickelsville, Virginia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Wales,_Pennsylvania">
+    <foaf:name xml:lang="en">Borough of North Wales</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plymouth_Meeting,_Pennsylvania">
+    <foaf:name xml:lang="en">Plymouth Meeting</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portsmouth,_Rhode_Island">
+    <foaf:name xml:lang="en">Portsmouth, Rhode Island</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prairie_View,_Texas">
+    <foaf:name xml:lang="en">Prairie View, Texas,,</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rossville,_Tennessee">
+    <foaf:name xml:lang="en">Rossville, Tennessee</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saline_County,_Missouri">
+    <foaf:name xml:lang="en">Saline County</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sewanee,_Tennessee">
+    <foaf:name xml:lang="en">Sewanee, Tennessee</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smyrna,_Tennessee">
+    <foaf:name xml:lang="en">Smyrna</foaf:name>
+    <foaf:name xml:lang="en">Smyrna, Tennessee</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Somerville,_Tennessee">
+    <foaf:name xml:lang="en">Somerville, Tennessee</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Shaftsbury,_Vermont">
+    <foaf:name xml:lang="en">South Shaftsbury, Vermont</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Matthews,_South_Carolina">
+    <foaf:name xml:lang="en">St. Matthews, South Carolina</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tacoma,_Washington">
+    <foaf:name xml:lang="en">City of Tacoma</foaf:name>
+    <foaf:name xml:lang="en">Tacoma, Washington</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triadelphia,_West_Virginia">
+    <foaf:name xml:lang="en">Triadelphia, West Virginia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyler,_Texas">
+    <foaf:name xml:lang="en">Tyler, Texas</foaf:name>
+    <foaf:name xml:lang="en">Tyler</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Union_Hall,_Virginia">
+    <foaf:name xml:lang="en">Union Hall, Virginia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidor,_Texas">
+    <foaf:name xml:lang="en">Vidor, Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waconia,_Minnesota">
+    <foaf:name xml:lang="en">Waconia, Minnesota</foaf:name>
+    <foaf:name xml:lang="en">Waconia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coinsins">
+    <foaf:name xml:lang="en">Coinsins</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Le_Boulvé">
+    <foaf:name xml:lang="en">Le Boulvé</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malgrate">
+    <foaf:name xml:lang="en">Malgrate</foaf:name>
+    <foaf:name xml:lang="en">Comune di Malgrate</foaf:name>
+    <foaf:name xml:lang="en">Malgratesi</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marsac-sur-l'Isle">
+    <foaf:name xml:lang="en">Marsac-sur-l'Isle</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rawcliffe,_York">
+    <foaf:name xml:lang="en">Rawcliffe</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Skeyton">
+    <foaf:name xml:lang="en">Skeyton</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Bengal">
+    <foaf:name xml:lang="en">East Bengal</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bengal_Presidency">
+    <foaf:name xml:lang="en">বেঙ্গল প্রেসিডেন্সি</foaf:name>
+    <foaf:name xml:lang="en">Bengal Presidency</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Ceylon">
+    <foaf:name xml:lang="en">Ceylon</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chowtapalli">
+    <foaf:name xml:lang="en">Chowtapalli</foaf:name>
+    <foaf:name xml:lang="en">Chow Vata Palli (5 vata trees)</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bikaner_State">
+    <foaf:name xml:lang="en">Bikaner</foaf:name>
+    <foaf:name xml:lang="en">बीकानेर रियासत</foaf:name>
+    <foaf:name xml:lang="en">Bikaner State</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vitebsk_Governorate">
+    <foaf:name xml:lang="en">Vitebsk Governorate</foaf:name>
+    <foaf:name xml:lang="en">Vitebsk</foaf:name>
+    <foaf:name xml:lang="en">Витебская губерния</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Algiers">
+    <foaf:name xml:lang="en">Dzayer tamaneɣt</foaf:name>
+    <foaf:name xml:lang="en">Algiers</foaf:name>
+    <foaf:name xml:lang="en">Alger</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atlanta">
+    <foaf:name xml:lang="en">City of Atlanta</foaf:name>
+    <foaf:name xml:lang="en">Atlanta, Georgia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Austin,_Texas">
+    <foaf:name xml:lang="en">Austin, Texas</foaf:name>
+    <foaf:name xml:lang="en">City of Austin</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Austria-Hungary">
+    <foaf:name xml:lang="en">Austria-Hungary</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Azores">
+    <foaf:name xml:lang="en">''</foaf:name>
+    <foaf:name xml:lang="en">Azores</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belfast">
+    <foaf:name xml:lang="en">Béal Feirste</foaf:name>
+    <foaf:name xml:lang="en">Bilfawst/ Bilfaust</foaf:name>
+    <foaf:name xml:lang="en">City of Belfast</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Berkeley,_California">
+    <foaf:name xml:lang="en">City of Berkeley</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Black_Forest">
+    <foaf:name xml:lang="en">Black Forest</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bohemia">
+    <foaf:name xml:lang="en">Bohemia</foaf:name>
+    <foaf:name xml:lang="en">Čechy</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boone,_North_Carolina">
+    <foaf:name xml:lang="en">Boone</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bordeaux">
+    <foaf:name xml:lang="en">Bordeaux</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buffalo,_New_York">
+    <foaf:name xml:lang="en">Buffalo, New York</foaf:name>
+    <foaf:name xml:lang="en">City of Buffalo</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cambridge,_Massachusetts">
+    <foaf:name xml:lang="en">Cambridge, Massachusetts</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chicago">
+    <foaf:name xml:lang="en">City of Chicago</foaf:name>
+    <foaf:name xml:lang="en">Chicago, Illinois</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cleveland">
+    <foaf:name xml:lang="en">Cleveland, Ohio</foaf:name>
+    <foaf:name xml:lang="en">City of Cleveland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Columbus,_Ohio">
+    <foaf:name xml:lang="en">City of Columbus</foaf:name>
+    <foaf:name xml:lang="en">Columbus, Ohio</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Concord,_New_Hampshire">
+    <foaf:name xml:lang="en">Concord, New Hampshire</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Czechoslovakia">
+    <foaf:name xml:lang="en">Československo</foaf:name>
+    <foaf:name xml:lang="en">Česko‑Slovensko</foaf:name>
+    <foaf:name xml:lang="en">Czechoslovakia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Davenport,_Iowa">
+    <foaf:name xml:lang="en">Davenport, Iowa</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Detroit">
+    <foaf:name xml:lang="en">Detroit, Michigan</foaf:name>
+    <foaf:name xml:lang="en">City of Detroit</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugene,_Oregon">
+    <foaf:name xml:lang="en">City of Eugene</foaf:name>
+    <foaf:name xml:lang="en">Eugene, Oregon</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fort_Wayne,_Indiana">
+    <foaf:name xml:lang="en">Fort Wayne, Indiana</foaf:name>
+    <foaf:name xml:lang="en">City of Fort Wayne</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/German_Empire">
+    <foaf:name xml:lang="en">Deutsches Reich</foaf:name>
+    <foaf:name xml:lang="en">Germany</foaf:name>
+    <foaf:name xml:lang="en">German Reich</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gothenburg">
+    <foaf:name xml:lang="en">Gothenburg</foaf:name>
+    <foaf:name xml:lang="en">Göteborg</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greenwich_Village">
+    <foaf:name xml:lang="en">Greenwich Village</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guatemala_City">
+    <foaf:name xml:lang="en">Guatemala City</foaf:name>
+    <foaf:name xml:lang="en">Ciudad de Guatemala</foaf:name>
+    <foaf:name xml:lang="en">Nueva Guatemala de la Asunción</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hastings">
+    <foaf:name xml:lang="en">Hastings</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hawaii">
+    <foaf:name xml:lang="en">State of Hawaii</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hertfordshire">
+    <foaf:name xml:lang="en">Hertfordshire</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holland">
+    <foaf:name xml:lang="en">Holland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Houston">
+    <foaf:name xml:lang="en">City of Houston</foaf:name>
+    <foaf:name xml:lang="en">Houston, Texas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kansas">
+    <foaf:name xml:lang="en">State of Kansas</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kansas_City,_Missouri">
+    <foaf:name xml:lang="en">Kansas City, Missouri</foaf:name>
+    <foaf:name xml:lang="en">City of Kansas City</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lansing,_Michigan">
+    <foaf:name xml:lang="en">City of Lansing</foaf:name>
+    <foaf:name xml:lang="en">Lansing, Michigan</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lausanne">
+    <foaf:name xml:lang="en">Lausanne</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lincoln,_Nebraska">
+    <foaf:name xml:lang="en">Lincoln, Nebraska</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liverpool">
+    <foaf:name xml:lang="en">Liverpool</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London">
+    <foaf:name xml:lang="en">London</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Long_Island">
+    <foaf:name xml:lang="en">Long Island</foaf:name>
+    <foaf:name xml:lang="en">Paumanok</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mexico_City">
+    <foaf:name xml:lang="en">México, Distrito Federal</foaf:name>
+    <foaf:name xml:lang="en">Mexico, D. F.</foaf:name>
+    <foaf:name xml:lang="en">Ciudad de México</foaf:name>
+    <foaf:name xml:lang="en">Mexico City</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nashville,_Tennessee">
+    <foaf:name xml:lang="en">Nashville and Davidson County</foaf:name>
+    <foaf:name xml:lang="en">Metropolitan Government of</foaf:name>
+    <foaf:name xml:lang="en">Nashville, Tennessee</foaf:name>
+  </rdf:Description>
+
+</rdf:RDF>

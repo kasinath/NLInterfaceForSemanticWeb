@@ -1,0 +1,2621 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:ns0="http://dbpedia.org/property/"
+         xmlns:ns1="http://dbpedia.org/ontology/">
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Parker_(artist)">
+    <rdfs:label xml:lang="en">Daniel Parker (artist)</rdfs:label>
+    <foaf:name xml:lang="en">Parker, Daniel Ray</foaf:name>
+    <foaf:name xml:lang="en">Daniel Parker</foaf:name>
+    <foaf:name xml:lang="en">Daniel Ray Parker</foaf:name>
+    <ns0:name xml:lang="en">Daniel Parker</ns0:name>
+    <ns0:name xml:lang="en">Parker, Daniel Ray</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Charles_Marion_Russell"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vince_Duverge">
+    <rdfs:label xml:lang="en">Vince Duverge</rdfs:label>
+    <foaf:name xml:lang="en">Vincent Duvergé</foaf:name>
+    <ns0:name xml:lang="en">Vincent Duvergé</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jimmy_Fallon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rob_Day">
+    <rdfs:label xml:lang="en">Rob Day</rdfs:label>
+    <foaf:name xml:lang="en">Rob Day</foaf:name>
+    <ns0:name xml:lang="en">Rob Day</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Norman_Rockwell"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerrod_Carmichael">
+    <rdfs:label xml:lang="en">Jerrod Carmichael</rdfs:label>
+    <foaf:name xml:lang="en">Jerrod Carmichael</foaf:name>
+    <ns0:name xml:lang="en">Jerrod Carmichael</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Pryor"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Eddie_Murphy"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Chris_Rock"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Béla_Iványi-Grünwald">
+    <rdfs:label xml:lang="fr">Béla Iványi-Grünwald</rdfs:label>
+    <rdfs:label xml:lang="en">Béla Iványi-Grünwald</rdfs:label>
+    <foaf:name xml:lang="en">Ivanyi-Grunwald, Bela</foaf:name>
+    <foaf:name xml:lang="en">Bela Ivanyi-Grunwald</foaf:name>
+    <foaf:name xml:lang="en">Béla Iványi-Grünwald</foaf:name>
+    <ns0:name xml:lang="en">Ivanyi-Grunwald, Bela</ns0:name>
+    <ns0:name xml:lang="en">Béla Iványi-Grünwald</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Gauguin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Conan_O'Brien">
+    <rdfs:label xml:lang="fr">Conan O'Brien</rdfs:label>
+    <rdfs:label xml:lang="ru">О’Брайен, Конан</rdfs:label>
+    <rdfs:label xml:lang="es">Conan O'Brien</rdfs:label>
+    <rdfs:label xml:lang="zh">柯南·奥布莱恩</rdfs:label>
+    <rdfs:label xml:lang="de">Conan O’Brien</rdfs:label>
+    <rdfs:label xml:lang="ja">コナン・オブライエン</rdfs:label>
+    <rdfs:label xml:lang="en">Conan O'Brien</rdfs:label>
+    <rdfs:label xml:lang="ar">كونان أوبراين</rdfs:label>
+    <rdfs:label xml:lang="nl">Conan O'Brien</rdfs:label>
+    <rdfs:label xml:lang="pt">Conan O'Brien</rdfs:label>
+    <rdfs:label xml:lang="it">Conan O'Brien</rdfs:label>
+    <rdfs:label xml:lang="pl">Conan O’Brien</rdfs:label>
+    <foaf:name xml:lang="en">Conan O'Brien</foaf:name>
+    <foaf:name xml:lang="en">O'Brien, Conan</foaf:name>
+    <ns0:name xml:lang="en">Conan O'Brien</ns0:name>
+    <ns0:name xml:lang="en">O'Brien, Conan</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Johnny_Carson"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/David_Letterman"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Smith_(sculptor)">
+    <rdfs:label xml:lang="nl">David Smith (beeldhouwer)</rdfs:label>
+    <rdfs:label xml:lang="it">David Smith</rdfs:label>
+    <rdfs:label xml:lang="pl">David Smith (siatkarz)</rdfs:label>
+    <rdfs:label xml:lang="de">David Smith (Bildhauer)</rdfs:label>
+    <rdfs:label xml:lang="fr">David Smith (sculpteur)</rdfs:label>
+    <rdfs:label xml:lang="en">David Smith (sculptor)</rdfs:label>
+    <rdfs:label xml:lang="pt">David Smith (escultor)</rdfs:label>
+    <rdfs:label xml:lang="ru">Смит, Дэвид (скульптор)</rdfs:label>
+    <rdfs:label xml:lang="es">David Smith (escultor)</rdfs:label>
+    <foaf:name xml:lang="en">Smith, David</foaf:name>
+    <foaf:name xml:lang="en">David Smith</foaf:name>
+    <ns0:name xml:lang="en">Smith, David</ns0:name>
+    <ns0:name xml:lang="en">David Smith</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Anthony_Caro"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Julio_González_(sculptor)"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eddie_Izzard">
+    <rdfs:label xml:lang="en">Eddie Izzard</rdfs:label>
+    <rdfs:label xml:lang="nl">Eddie Izzard</rdfs:label>
+    <rdfs:label xml:lang="pt">Eddie Izzard</rdfs:label>
+    <rdfs:label xml:lang="de">Eddie Izzard</rdfs:label>
+    <rdfs:label xml:lang="es">Eddie Izzard</rdfs:label>
+    <rdfs:label xml:lang="ar">إدي آيزارد</rdfs:label>
+    <rdfs:label xml:lang="fr">Eddie Izzard</rdfs:label>
+    <rdfs:label xml:lang="pl">Eddie Izzard</rdfs:label>
+    <rdfs:label xml:lang="ja">エディー・イザード</rdfs:label>
+    <rdfs:label xml:lang="it">Eddie Izzard</rdfs:label>
+    <rdfs:label xml:lang="ru">Иззард, Эдди</rdfs:label>
+    <foaf:name xml:lang="en">Izzard, Eddie</foaf:name>
+    <foaf:name xml:lang="en">Eddie Izzard</foaf:name>
+    <ns0:name xml:lang="en">Izzard, Eddie</ns0:name>
+    <ns0:name xml:lang="en">Eddie Izzard</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Harry_Hill"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Billy_Connolly"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Steve_Martin"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jerry_Sadowitz"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Bill_Hicks"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Lenny_Bruce"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Stella">
+    <rdfs:label xml:lang="es">Frank Stella</rdfs:label>
+    <rdfs:label xml:lang="it">Frank Stella</rdfs:label>
+    <rdfs:label xml:lang="nl">Frank Stella</rdfs:label>
+    <rdfs:label xml:lang="pt">Frank Stella</rdfs:label>
+    <rdfs:label xml:lang="de">Frank Stella</rdfs:label>
+    <rdfs:label xml:lang="en">Frank Stella</rdfs:label>
+    <rdfs:label xml:lang="pl">Frank Stella</rdfs:label>
+    <rdfs:label xml:lang="fr">Frank Stella</rdfs:label>
+    <rdfs:label xml:lang="ja">フランク・ステラ</rdfs:label>
+    <rdfs:label xml:lang="ru">Стелла, Фрэнк</rdfs:label>
+    <foaf:name xml:lang="en">Frank Stella</foaf:name>
+    <foaf:name xml:lang="en">Stella, Frank</foaf:name>
+    <ns0:name xml:lang="en">Frank Stella</ns0:name>
+    <ns0:name xml:lang="en">Stella, Frank</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jasper_Johns"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jackson_Pollock"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lopez">
+    <rdfs:label xml:lang="nl">George Lopez</rdfs:label>
+    <rdfs:label xml:lang="it">George Lopez</rdfs:label>
+    <rdfs:label xml:lang="pt">George Lopez</rdfs:label>
+    <rdfs:label xml:lang="ru">Лопес, Джордж</rdfs:label>
+    <rdfs:label xml:lang="es">George Lopez</rdfs:label>
+    <rdfs:label xml:lang="ja">ジョージ・ロペス</rdfs:label>
+    <rdfs:label xml:lang="zh">乔治·洛佩兹</rdfs:label>
+    <rdfs:label xml:lang="en">George Lopez</rdfs:label>
+    <rdfs:label xml:lang="ar">جورج لوبيز</rdfs:label>
+    <rdfs:label xml:lang="de">George Lopez (Komiker)</rdfs:label>
+    <rdfs:label xml:lang="fr">George Lopez</rdfs:label>
+    <foaf:name xml:lang="en">George Lopez</foaf:name>
+    <foaf:name xml:lang="en">Lopez, George</foaf:name>
+    <ns0:name xml:lang="en">George Lopez</ns0:name>
+    <ns0:name xml:lang="en">Lopez, George</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Pryor"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Chris_Rock"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Mooney_(comedian)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Dee">
+    <rdfs:label xml:lang="en">Jack Dee</rdfs:label>
+    <rdfs:label xml:lang="nl">Jack Dee</rdfs:label>
+    <rdfs:label xml:lang="it">Jack Dee</rdfs:label>
+    <foaf:name xml:lang="en">Dee, Jack</foaf:name>
+    <foaf:name xml:lang="en">Jack Dee</foaf:name>
+    <ns0:name xml:lang="en">Dee, Jack</ns0:name>
+    <ns0:name xml:lang="en">Jack Dee</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Larry_David"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Kelly_(abstract_expressionist_artist)">
+    <rdfs:label xml:lang="en">James Kelly (abstract expressionist artist)</rdfs:label>
+    <foaf:name xml:lang="en">James Kelly</foaf:name>
+    <foaf:name xml:lang="en">Kelly, James</foaf:name>
+    <ns0:name xml:lang="en">James Kelly</ns0:name>
+    <ns0:name xml:lang="en">Kelly, James</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Goodwin_Lyman">
+    <rdfs:label xml:lang="en">John Goodwin Lyman</rdfs:label>
+    <rdfs:label xml:lang="fr">John Lyman</rdfs:label>
+    <foaf:name xml:lang="en">Lyman, John</foaf:name>
+    <foaf:name xml:lang="en">John Goodwin Lyman</foaf:name>
+    <foaf:name xml:lang="en">John Lyman</foaf:name>
+    <ns0:name xml:lang="en">Lyman, John</ns0:name>
+    <ns0:name xml:lang="en">John Goodwin Lyman</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Henri_Matisse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loretta_Lux">
+    <rdfs:label xml:lang="de">Loretta Lux</rdfs:label>
+    <rdfs:label xml:lang="fr">Loretta Lux</rdfs:label>
+    <rdfs:label xml:lang="en">Loretta Lux</rdfs:label>
+    <rdfs:label xml:lang="pl">Loretta Lux</rdfs:label>
+    <rdfs:label xml:lang="nl">Loretta Lux</rdfs:label>
+    <foaf:name xml:lang="en">Loretta Lux</foaf:name>
+    <ns0:name xml:lang="en">Loretta Lux</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Diego_Velázquez"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Bronzino"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Weininger">
+    <rdfs:label xml:lang="pl">Otto Weininger</rdfs:label>
+    <rdfs:label xml:lang="es">Otto Weininger</rdfs:label>
+    <rdfs:label xml:lang="en">Otto Weininger</rdfs:label>
+    <rdfs:label xml:lang="fr">Otto Weininger</rdfs:label>
+    <rdfs:label xml:lang="zh">奧托·魏寧格</rdfs:label>
+    <rdfs:label xml:lang="ru">Вейнингер, Отто</rdfs:label>
+    <rdfs:label xml:lang="it">Otto Weininger</rdfs:label>
+    <rdfs:label xml:lang="pt">Otto Weininger</rdfs:label>
+    <rdfs:label xml:lang="ja">オットー・ヴァイニンガー</rdfs:label>
+    <rdfs:label xml:lang="de">Otto Weininger</rdfs:label>
+    <rdfs:label xml:lang="nl">Otto Weininger</rdfs:label>
+    <foaf:name xml:lang="en">Otto Weininger</foaf:name>
+    <ns0:name xml:lang="en">Otto Weininger</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Alfred_Kubin"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Edvard_Munch"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pablo_Francisco">
+    <rdfs:label xml:lang="en">Pablo Francisco</rdfs:label>
+    <rdfs:label xml:lang="pl">Pablo Francisco</rdfs:label>
+    <foaf:name xml:lang="en">Pablo Francisco</foaf:name>
+    <foaf:name xml:lang="en">Francisco, Pablo</foaf:name>
+    <ns0:name xml:lang="en">Pablo Francisco</ns0:name>
+    <ns0:name xml:lang="en">Francisco, Pablo</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Steve_Martin"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Pryor"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Gordon_(photographer)">
+    <rdfs:label xml:lang="en">Richard Gordon (photographer)</rdfs:label>
+    <foaf:name xml:lang="en">Gordon, Richard</foaf:name>
+    <foaf:name xml:lang="en">Richard Gordon</foaf:name>
+    <ns0:name xml:lang="en">Gordon, Richard</ns0:name>
+    <ns0:name xml:lang="en">Richard Gordon</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Eugène_Atget"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanton_Macdonald-Wright">
+    <rdfs:label xml:lang="pl">Stanton Macdonald-Wright</rdfs:label>
+    <rdfs:label xml:lang="es">Stanton Macdonald-Wright</rdfs:label>
+    <rdfs:label xml:lang="ru">Макдональд-Райт, Стэнтон</rdfs:label>
+    <rdfs:label xml:lang="it">Stanton Macdonald-Wright</rdfs:label>
+    <rdfs:label xml:lang="en">Stanton Macdonald-Wright</rdfs:label>
+    <foaf:name xml:lang="en">Macdonald-Wright, Stanton</foaf:name>
+    <foaf:name xml:lang="en">Stanton Macdonald-Wright</foaf:name>
+    <ns0:name xml:lang="en">Macdonald-Wright, Stanton</ns0:name>
+    <ns0:name xml:lang="en">Stanton Macdonald-Wright</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Thomas_Hart_Benton_(painter)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steven_Wright">
+    <rdfs:label xml:lang="ja">スティーヴン・ライト (俳優)</rdfs:label>
+    <rdfs:label xml:lang="it">Steven Wright</rdfs:label>
+    <rdfs:label xml:lang="fr">Steven Wright</rdfs:label>
+    <rdfs:label xml:lang="pt">Steven Wright</rdfs:label>
+    <rdfs:label xml:lang="de">Steven Wright</rdfs:label>
+    <rdfs:label xml:lang="en">Steven Wright</rdfs:label>
+    <foaf:name xml:lang="en">Steven Wright</foaf:name>
+    <foaf:name xml:lang="en">Wright, Steven</foaf:name>
+    <ns0:name xml:lang="en">Steven Wright</ns0:name>
+    <ns0:name xml:lang="en">Wright, Steven</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Bob_Newhart"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lonely_Island">
+    <rdfs:label xml:lang="nl">The Lonely Island</rdfs:label>
+    <rdfs:label xml:lang="ar">ذا لونلي أيلاند</rdfs:label>
+    <rdfs:label xml:lang="ru">The Lonely Island</rdfs:label>
+    <rdfs:label xml:lang="ja">ザ・ロンリー・アイランド</rdfs:label>
+    <rdfs:label xml:lang="en">The Lonely Island</rdfs:label>
+    <rdfs:label xml:lang="fr">The Lonely Island</rdfs:label>
+    <rdfs:label xml:lang="de">The Lonely Island</rdfs:label>
+    <rdfs:label xml:lang="pl">The Lonely Island</rdfs:label>
+    <rdfs:label xml:lang="pt">The Lonely Island</rdfs:label>
+    <rdfs:label xml:lang="it">The Lonely Island</rdfs:label>
+    <rdfs:label xml:lang="es">The Lonely Island</rdfs:label>
+    <foaf:name xml:lang="en">The Lonely Island</foaf:name>
+    <ns0:name xml:lang="en">The Lonely Island</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Steve_Martin"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Mel_Brooks"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Truman_Capote">
+    <rdfs:label xml:lang="pt">Truman Capote</rdfs:label>
+    <rdfs:label xml:lang="nl">Truman Capote</rdfs:label>
+    <rdfs:label xml:lang="fr">Truman Capote</rdfs:label>
+    <rdfs:label xml:lang="ru">Капоте, Трумен</rdfs:label>
+    <rdfs:label xml:lang="zh">杜鲁门·卡波特</rdfs:label>
+    <rdfs:label xml:lang="it">Truman Capote</rdfs:label>
+    <rdfs:label xml:lang="ar">ترومان كابوتي</rdfs:label>
+    <rdfs:label xml:lang="es">Truman Capote</rdfs:label>
+    <rdfs:label xml:lang="pl">Truman Capote</rdfs:label>
+    <rdfs:label xml:lang="de">Truman Capote</rdfs:label>
+    <rdfs:label xml:lang="en">Truman Capote</rdfs:label>
+    <rdfs:label xml:lang="ja">トルーマン・カポーティ</rdfs:label>
+    <foaf:name xml:lang="en">Truman Capote</foaf:name>
+    <foaf:name xml:lang="en">Capote, Truman</foaf:name>
+    <ns0:name xml:lang="en">Truman Capote</ns0:name>
+    <ns0:name xml:lang="en">Capote, Truman</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Andy_Warhol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/François_de_Poilly">
+    <rdfs:label xml:lang="de">François de Poilly der Ältere</rdfs:label>
+    <rdfs:label xml:lang="en">François de Poilly</rdfs:label>
+    <rdfs:label xml:lang="fr">François Poilly</rdfs:label>
+    <foaf:name xml:lang="en">Poilly, François</foaf:name>
+    <foaf:name xml:lang="en">François de Poilly</foaf:name>
+    <foaf:name xml:lang="en">François Poilly</foaf:name>
+    <ns0:name xml:lang="en">Poilly, François</ns0:name>
+    <ns0:name xml:lang="en">François de Poilly</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Charles_Le_Brun"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Raphael"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Annibale_Carracci"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Komarin">
+    <rdfs:label xml:lang="en">Gary Komarin</rdfs:label>
+    <foaf:name xml:lang="en">Komarin, Gary</foaf:name>
+    <foaf:name xml:lang="en">Gary Komarin</foaf:name>
+    <ns0:name xml:lang="en">Komarin, Gary</ns0:name>
+    <ns0:name xml:lang="en">Gary Komarin</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Henri_Matisse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Caulfield">
+    <rdfs:label xml:lang="en">Patrick Caulfield</rdfs:label>
+    <rdfs:label xml:lang="ru">Колфилд, Патрик</rdfs:label>
+    <rdfs:label xml:lang="de">Patrick Caulfield</rdfs:label>
+    <rdfs:label xml:lang="fr">Patrick Caulfield</rdfs:label>
+    <rdfs:label xml:lang="es">Patrick Caulfield</rdfs:label>
+    <foaf:name xml:lang="en">Caulfield, Patrick</foaf:name>
+    <foaf:name xml:lang="en">Patrick Caulfield</foaf:name>
+    <ns0:name xml:lang="en">Caulfield, Patrick</ns0:name>
+    <ns0:name xml:lang="en">Patrick Caulfield</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Georges_Braque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Sheeler">
+    <rdfs:label xml:lang="it">Charles Sheeler</rdfs:label>
+    <rdfs:label xml:lang="es">Charles Sheeler</rdfs:label>
+    <rdfs:label xml:lang="fr">Charles Sheeler</rdfs:label>
+    <rdfs:label xml:lang="pl">Charles Sheeler</rdfs:label>
+    <rdfs:label xml:lang="nl">Charles Sheeler</rdfs:label>
+    <rdfs:label xml:lang="ru">Шилер, Чарлз</rdfs:label>
+    <rdfs:label xml:lang="ja">チャールズ・シーラー</rdfs:label>
+    <rdfs:label xml:lang="en">Charles Sheeler</rdfs:label>
+    <rdfs:label xml:lang="de">Charles Sheeler</rdfs:label>
+    <foaf:name xml:lang="en">Charles Rettew Sheeler</foaf:name>
+    <foaf:name xml:lang="en">Charles Sheeler</foaf:name>
+    <foaf:name xml:lang="en">Sheeler, Charles Rettew</foaf:name>
+    <ns0:name xml:lang="en">Charles Sheeler</ns0:name>
+    <ns0:name xml:lang="en">Sheeler, Charles Rettew</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Alfred_Stieglitz"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Georges_Braque"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Marcel_Duchamp"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Norton_(comedian)">
+    <rdfs:label xml:lang="en">Jim Norton (comedian)</rdfs:label>
+    <foaf:name xml:lang="en">Norton, Jim</foaf:name>
+    <foaf:name xml:lang="en">Jim Norton</foaf:name>
+    <ns0:name xml:lang="en">Norton, Jim</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Robert_Klein"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Pryor"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrice_O'Neal">
+    <rdfs:label xml:lang="en">Patrice O'Neal</rdfs:label>
+    <rdfs:label xml:lang="es">Patrice O’Neal</rdfs:label>
+    <foaf:name xml:lang="en">Patrice O'Neal</foaf:name>
+    <foaf:name xml:lang="en">O'Neal, Patrice</foaf:name>
+    <ns0:name xml:lang="en">Patrice O'Neal</ns0:name>
+    <ns0:name xml:lang="en">O'Neal, Patrice</ns0:name>
+    <ns0:name xml:lang="en">Patrice Oneal</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Eddie_Murphy"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Pryor"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_McTaggart">
+    <rdfs:label xml:lang="en">William McTaggart</rdfs:label>
+    <foaf:name xml:lang="en">William Mctaggart</foaf:name>
+    <foaf:name xml:lang="en">Mctaggart, William</foaf:name>
+    <foaf:name xml:lang="en">William McTaggart</foaf:name>
+    <ns0:name xml:lang="en">William McTaggart</ns0:name>
+    <ns0:name xml:lang="en">Mctaggart, William</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/J._M._W._Turner"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/John_Constable"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battistello_Caracciolo">
+    <rdfs:label xml:lang="es">Giovanni Battista Caracciolo</rdfs:label>
+    <rdfs:label xml:lang="fr">Battistello Caracciolo</rdfs:label>
+    <rdfs:label xml:lang="en">Battistello Caracciolo</rdfs:label>
+    <rdfs:label xml:lang="pl">Giovanni Battista Caracciolo</rdfs:label>
+    <rdfs:label xml:lang="de">Battistello Caracciolo</rdfs:label>
+    <rdfs:label xml:lang="it">Battistello Caracciolo</rdfs:label>
+    <foaf:name xml:lang="en">Caracciolo, Battistello</foaf:name>
+    <foaf:name xml:lang="en">Battistello Caracciolo</foaf:name>
+    <ns0:name xml:lang="en">Caracciolo, Battistello</ns0:name>
+    <ns0:name xml:lang="en">Battistello Caracciolo</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Mattia_Preti"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clifton_Pugh">
+    <rdfs:label xml:lang="pt">Clifton Pugh</rdfs:label>
+    <rdfs:label xml:lang="en">Clifton Pugh</rdfs:label>
+    <foaf:name xml:lang="en">Pugh, Clifton</foaf:name>
+    <foaf:name xml:lang="en">Clifton Pugh</foaf:name>
+    <ns0:name xml:lang="en">Pugh, Clifton</ns0:name>
+    <ns0:name xml:lang="en">Clifton Pugh</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Wassily_Kandinsky"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Zóbel_de_Ayala_y_Montojo">
+    <rdfs:label xml:lang="en">Fernando Zóbel de Ayala y Montojo</rdfs:label>
+    <rdfs:label xml:lang="es">Fernando Zóbel</rdfs:label>
+    <rdfs:label xml:lang="nl">Fernando Zóbel de Ayala</rdfs:label>
+    <foaf:name xml:lang="en">Fernando Zóbel de Ayala y Montojo</foaf:name>
+    <foaf:name xml:lang="en">Fernando Zóbel Montojo de Torróntegui</foaf:name>
+    <foaf:name xml:lang="en">Zóbel de Ayala y Montojo, Fernando</foaf:name>
+    <ns0:name xml:lang="en">Zóbel de Ayala y Montojo, Fernando</ns0:name>
+    <ns0:name xml:lang="en">Fernando Zóbel Montojo de Torróntegui</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Mark_Rothko"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Henry_Bogert">
+    <rdfs:label xml:lang="en">George Henry Bogert</rdfs:label>
+    <foaf:name xml:lang="en">Bogert, George Henry</foaf:name>
+    <foaf:name xml:lang="en">George Henry Bogert</foaf:name>
+    <ns0:name xml:lang="en">Bogert, George Henry</ns0:name>
+    <ns0:name xml:lang="en">George Henry Bogert</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Thomas_Eakins"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Rickey">
+    <rdfs:label xml:lang="de">George Rickey</rdfs:label>
+    <rdfs:label xml:lang="ru">Рики, Джордж</rdfs:label>
+    <rdfs:label xml:lang="it">George Rickey</rdfs:label>
+    <rdfs:label xml:lang="fr">George Rickey</rdfs:label>
+    <rdfs:label xml:lang="en">George Rickey</rdfs:label>
+    <rdfs:label xml:lang="nl">George Rickey</rdfs:label>
+    <foaf:name xml:lang="en">George Rickey</foaf:name>
+    <foaf:name xml:lang="en">Rickey, George</foaf:name>
+    <ns0:name xml:lang="en">George Rickey</ns0:name>
+    <ns0:name xml:lang="en">Rickey, George</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Alexander_Calder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Girolamo_da_Treviso">
+    <rdfs:label xml:lang="pt">Girolamo da Treviso</rdfs:label>
+    <rdfs:label xml:lang="de">Girolamo da Treviso</rdfs:label>
+    <rdfs:label xml:lang="fr">Girolamo da Treviso</rdfs:label>
+    <rdfs:label xml:lang="it">Girolamo da Treviso</rdfs:label>
+    <rdfs:label xml:lang="es">Girolamo de Treviso</rdfs:label>
+    <rdfs:label xml:lang="nl">Girolamo da Treviso</rdfs:label>
+    <rdfs:label xml:lang="en">Girolamo da Treviso</rdfs:label>
+    <foaf:name xml:lang="en">Girolamo Da Treviso</foaf:name>
+    <foaf:name xml:lang="en">Girolamo da Treviso</foaf:name>
+    <foaf:name xml:lang="en">Treviso, Girolamo Da</foaf:name>
+    <ns0:name xml:lang="en">Treviso, Girolamo Da</ns0:name>
+    <ns0:name xml:lang="en">Girolamo da Treviso</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Giorgione"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Berman">
+    <rdfs:label xml:lang="nl">Helen Berman</rdfs:label>
+    <rdfs:label xml:lang="en">Helen Berman</rdfs:label>
+    <rdfs:label xml:lang="de">Helen Berman</rdfs:label>
+    <foaf:name xml:lang="en">Berman, Helen</foaf:name>
+    <foaf:name xml:lang="en">Helen Berman</foaf:name>
+    <ns0:name xml:lang="en">Berman, Helen</ns0:name>
+    <ns0:name xml:lang="en">Helen Berman</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/J._M._W._Turner"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Cézanne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helmut_Kolle">
+    <rdfs:label xml:lang="en">Helmut Kolle</rdfs:label>
+    <rdfs:label xml:lang="de">Helmut Kolle</rdfs:label>
+    <rdfs:label xml:lang="ru">Колле, Гельмут</rdfs:label>
+    <rdfs:label xml:lang="fr">Helmut Kolle</rdfs:label>
+    <rdfs:label xml:lang="es">Helmut Kolle</rdfs:label>
+    <foaf:name xml:lang="en">Kolle, Helmut</foaf:name>
+    <foaf:name xml:lang="en">Helmut Kolle</foaf:name>
+    <ns0:name xml:lang="en">Helmut Kolle</ns0:name>
+    <ns0:name xml:lang="en">Kolle, Helmut</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Georges_Braque"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imran_Yusuf">
+    <rdfs:label xml:lang="en">Imran Yusuf</rdfs:label>
+    <foaf:name xml:lang="en">Imran Yusuf</foaf:name>
+    <foaf:name xml:lang="en">Yusuf, Imran</foaf:name>
+    <ns0:name xml:lang="en">Imran Yusuf</ns0:name>
+    <ns0:name xml:lang="en">Yusuf, Imran</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Dave_Chappelle"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._Gwyn_Griffiths">
+    <rdfs:label xml:lang="en">J. Gwyn Griffiths</rdfs:label>
+    <foaf:name xml:lang="en">J. Gwyn Griffiths</foaf:name>
+    <foaf:name xml:lang="en">Griffiths, J. Gwyn</foaf:name>
+    <ns0:name xml:lang="en">J. Gwyn Griffiths</ns0:name>
+    <ns0:name xml:lang="en">Griffiths, J. Gwyn</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Kurt_Schwitters"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Pellegrin_(painter)">
+    <rdfs:label xml:lang="en">Jacques Pellegrin (painter)</rdfs:label>
+    <rdfs:label xml:lang="ar">جاك بيلجرين</rdfs:label>
+    <rdfs:label xml:lang="ru">Пеллегрин, Жак</rdfs:label>
+    <rdfs:label xml:lang="fr">Jacques Pellegrin (peintre)</rdfs:label>
+    <rdfs:label xml:lang="zh">雅克·别勒格林</rdfs:label>
+    <foaf:name xml:lang="en">Jacques Pellegrin</foaf:name>
+    <foaf:name xml:lang="en">Pellegrin, Jacques</foaf:name>
+    <ns0:name xml:lang="en">Jacques Pellegrin</ns0:name>
+    <ns0:name xml:lang="en">Pellegrin, Jacques</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Henri_Matisse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Oliver_(comedian)">
+    <rdfs:label xml:lang="nl">John Oliver</rdfs:label>
+    <rdfs:label xml:lang="pl">John Oliver</rdfs:label>
+    <rdfs:label xml:lang="es">John Oliver</rdfs:label>
+    <rdfs:label xml:lang="zh">约翰·奥利弗</rdfs:label>
+    <rdfs:label xml:lang="de">John Oliver (Schauspieler)</rdfs:label>
+    <rdfs:label xml:lang="it">John Oliver</rdfs:label>
+    <rdfs:label xml:lang="fr">John Oliver (acteur)</rdfs:label>
+    <rdfs:label xml:lang="ru">Оливер, Джон</rdfs:label>
+    <rdfs:label xml:lang="en">John Oliver (comedian)</rdfs:label>
+    <rdfs:label xml:lang="pt">John Oliver</rdfs:label>
+    <foaf:name xml:lang="en">John Oliver</foaf:name>
+    <ns0:name xml:lang="en">John Oliver</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jon_Stewart"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/David_Letterman"/>
+    <ns1:influencedBy>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Armando_Iannucci">
+        <rdfs:label xml:lang="pt">Armando Iannucci</rdfs:label>
+        <rdfs:label xml:lang="it">Armando Iannucci</rdfs:label>
+        <rdfs:label xml:lang="de">Armando Iannucci</rdfs:label>
+        <rdfs:label xml:lang="en">Armando Iannucci</rdfs:label>
+        <rdfs:label xml:lang="fr">Armando Iannucci</rdfs:label>
+        <rdfs:label xml:lang="pl">Armando Iannucci</rdfs:label>
+        <foaf:name xml:lang="en">Armando Iannucci</foaf:name>
+        <foaf:name xml:lang="en">Iannucci, Armando</foaf:name>
+        <ns0:name xml:lang="en">Armando Iannucci biography and credits</ns0:name>
+        <ns0:name xml:lang="en">Iannucci, Armando</ns0:name>
+        <ns1:influenced rdf:resource="http://dbpedia.org/resource/Chris_Addison"/>
+        <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Larry_David"/>
+      </rdf:Description>
+    </ns1:influencedBy>
+
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Pryor"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_McIntyre">
+    <rdfs:label xml:lang="en">Michael McIntyre</rdfs:label>
+    <rdfs:label xml:lang="nl">Michael McIntyre</rdfs:label>
+    <rdfs:label xml:lang="de">Michael McIntyre</rdfs:label>
+    <foaf:name xml:lang="en">Michael McIntyre</foaf:name>
+    <ns0:name xml:lang="en">Michael McIntyre</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Billy_Connolly"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pat_Condell">
+    <rdfs:label xml:lang="pt">Pat Condell</rdfs:label>
+    <rdfs:label xml:lang="nl">Pat Condell</rdfs:label>
+    <rdfs:label xml:lang="ar">بات كونديل</rdfs:label>
+    <rdfs:label xml:lang="ru">Конделл, Патрик</rdfs:label>
+    <rdfs:label xml:lang="es">Pat Condell</rdfs:label>
+    <rdfs:label xml:lang="fr">Pat Condell</rdfs:label>
+    <rdfs:label xml:lang="en">Pat Condell</rdfs:label>
+    <rdfs:label xml:lang="de">Pat Condell</rdfs:label>
+    <foaf:name xml:lang="en">Pat Condell</foaf:name>
+    <foaf:name xml:lang="en">Patrick Condell</foaf:name>
+    <foaf:name xml:lang="en">Condell, Patrick</foaf:name>
+    <ns0:name xml:lang="en">Pat Condell</ns0:name>
+    <ns0:name xml:lang="en">Condell, Patrick</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jerry_Sadowitz"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sam_Wagstaff">
+    <rdfs:label xml:lang="pl">Sam Wagstaff</rdfs:label>
+    <rdfs:label xml:lang="en">Sam Wagstaff</rdfs:label>
+    <foaf:name xml:lang="en">Sam Wagstaff</foaf:name>
+    <foaf:name xml:lang="en">Wagstaff, Sam</foaf:name>
+    <ns0:name xml:lang="en">Sam Wagstaff</ns0:name>
+    <ns0:name xml:lang="en">Wagstaff, Sam</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Robert_Mapplethorpe"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Dennis">
+    <rdfs:label xml:lang="en">Hugh Dennis</rdfs:label>
+    <rdfs:label xml:lang="nl">Hugh Dennis</rdfs:label>
+    <rdfs:label xml:lang="pl">Hugh Dennis</rdfs:label>
+    <foaf:name xml:lang="en">Dennis, Hugh</foaf:name>
+    <foaf:name xml:lang="en">Hugh Dennis</foaf:name>
+    <ns0:name xml:lang="en">Dennis, Hugh</ns0:name>
+    <ns0:name xml:lang="en">Hugh Dennis</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Steve_Punt"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Eddie_Izzard"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Kramskoi">
+    <rdfs:label xml:lang="nl">Ivan Kramskoj</rdfs:label>
+    <rdfs:label xml:lang="zh">伊凡·克拉姆斯柯依</rdfs:label>
+    <rdfs:label xml:lang="de">Iwan Nikolajewitsch Kramskoi</rdfs:label>
+    <rdfs:label xml:lang="en">Ivan Kramskoi</rdfs:label>
+    <rdfs:label xml:lang="it">Ivan Nikolaevič Kramskoj</rdfs:label>
+    <rdfs:label xml:lang="pl">Iwan Kramskoj</rdfs:label>
+    <rdfs:label xml:lang="ru">Крамской, Иван Николаевич</rdfs:label>
+    <rdfs:label xml:lang="fr">Ivan Kramskoï</rdfs:label>
+    <rdfs:label xml:lang="ja">イワン・クラムスコイ</rdfs:label>
+    <rdfs:label xml:lang="es">Iván Kramskói</rdfs:label>
+    <foaf:name xml:lang="en">Kramskoi, Ivan Nikolaevich</foaf:name>
+    <foaf:name xml:lang="en">Ivan Nikolaevich Kramskoi</foaf:name>
+    <foaf:name xml:lang="en">Ivan Kramskoi</foaf:name>
+    <ns0:name xml:lang="en">Kramskoi, Ivan Nikolaevich</ns0:name>
+    <ns0:name xml:lang="en">Ivan Kramskoi</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Ilya_Repin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minor_White">
+    <rdfs:label xml:lang="de">Minor White</rdfs:label>
+    <rdfs:label xml:lang="pl">Minor White</rdfs:label>
+    <rdfs:label xml:lang="fr">Minor White (photographe)</rdfs:label>
+    <rdfs:label xml:lang="ru">Уайт, Майнор Мартин</rdfs:label>
+    <rdfs:label xml:lang="es">Minor White</rdfs:label>
+    <rdfs:label xml:lang="en">Minor White</rdfs:label>
+    <foaf:name xml:lang="en">White, Minor</foaf:name>
+    <foaf:name xml:lang="en">Minor Martin White</foaf:name>
+    <foaf:name xml:lang="en">Minor White</foaf:name>
+    <ns0:name xml:lang="en">White, Minor</ns0:name>
+    <ns0:name xml:lang="en">Minor Martin White</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Jerry_Uelsmann"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Alfred_Stieglitz"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Van_Alstine">
+    <rdfs:label xml:lang="en">John Van Alstine</rdfs:label>
+    <foaf:name xml:lang="en">John Van Alstine</foaf:name>
+    <foaf:name xml:lang="en">Alstine, John Van</foaf:name>
+    <ns0:name xml:lang="en">John Van Alstine</ns0:name>
+    <ns0:name xml:lang="en">Alstine, John Van</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/David_Smith_(sculptor)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Emmanuel_Damoye">
+    <rdfs:label xml:lang="en">Pierre Emmanuel Damoye</rdfs:label>
+    <rdfs:label xml:lang="fr">Pierre Emmanuel Eugène Damoye</rdfs:label>
+    <foaf:name xml:lang="en">Damoye, Pierre Emmanuel</foaf:name>
+    <foaf:name xml:lang="en">Pierre Emmanuel Damoye</foaf:name>
+    <ns0:name xml:lang="en">Damoye, Pierre Emmanuel</ns0:name>
+    <ns0:name xml:lang="en">Pierre Emmanuel Damoye</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jean-Baptiste-Camille_Corot"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_J.F._Huang">
+    <rdfs:label xml:lang="en">Vincent J.F. Huang</rdfs:label>
+    <foaf:name xml:lang="en">Vincent J. F. Huang</foaf:name>
+    <foaf:name xml:lang="en">Vincent J.F. Huang</foaf:name>
+    <foaf:name xml:lang="en">Huang, Vincent J. F.</foaf:name>
+    <ns0:name xml:lang="en">Vincent J.F. Huang</ns0:name>
+    <ns0:name xml:lang="en">Huang, Vincent J. F.</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Damien_Hirst"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Bruce_Nauman"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Gebser">
+    <rdfs:label xml:lang="es">Jean Gebser</rdfs:label>
+    <rdfs:label xml:lang="de">Jean Gebser</rdfs:label>
+    <rdfs:label xml:lang="en">Jean Gebser</rdfs:label>
+    <foaf:name xml:lang="en">Jean Gebser</foaf:name>
+    <foaf:name xml:lang="en">Gebser, Jean</foaf:name>
+    <ns0:name xml:lang="en">Gebser, Jean</ns0:name>
+    <ns0:name xml:lang="en">Jean Gebser</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Wesselmann">
+    <rdfs:label xml:lang="pl">Tom Wesselmann</rdfs:label>
+    <rdfs:label xml:lang="ru">Вессельман, Том</rdfs:label>
+    <rdfs:label xml:lang="en">Tom Wesselmann</rdfs:label>
+    <rdfs:label xml:lang="de">Tom Wesselmann</rdfs:label>
+    <rdfs:label xml:lang="it">Tom Wesselmann</rdfs:label>
+    <rdfs:label xml:lang="es">Tom Wesselmann</rdfs:label>
+    <rdfs:label xml:lang="pt">Tom Wesselmann</rdfs:label>
+    <rdfs:label xml:lang="fr">Tom Wesselmann</rdfs:label>
+    <rdfs:label xml:lang="nl">Tom Wesselmann</rdfs:label>
+    <foaf:name xml:lang="en">Tom Wesselmann</foaf:name>
+    <foaf:name xml:lang="en">Wesselmann, Tom</foaf:name>
+    <ns0:name xml:lang="en">Tom Wesselmann</ns0:name>
+    <ns0:name xml:lang="en">Wesselmann, Tom</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Henri_Matisse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vija_Celmins">
+    <rdfs:label xml:lang="de">Vija Celmins</rdfs:label>
+    <rdfs:label xml:lang="fr">Vija Celmins</rdfs:label>
+    <rdfs:label xml:lang="en">Vija Celmins</rdfs:label>
+    <foaf:name xml:lang="en">Celmins, Vija</foaf:name>
+    <foaf:name xml:lang="en">Vija Celmins</foaf:name>
+    <ns0:name xml:lang="en">Vija Celmins</ns0:name>
+    <ns0:name xml:lang="en">Celmins, Vija</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jasper_Johns"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Rubens_Smith">
+    <rdfs:label xml:lang="en">John Rubens Smith</rdfs:label>
+    <rdfs:label xml:lang="de">John Rubens Smith</rdfs:label>
+    <foaf:name xml:lang="en">Smith, John Rubens</foaf:name>
+    <foaf:name xml:lang="en">John Rubens Smith</foaf:name>
+    <ns0:name xml:lang="en">Smith, John Rubens</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Peter_F._Rothermel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rowan_Atkinson">
+    <rdfs:label xml:lang="nl">Rowan Atkinson</rdfs:label>
+    <rdfs:label xml:lang="it">Rowan Atkinson</rdfs:label>
+    <rdfs:label xml:lang="ru">Аткинсон, Роуэн</rdfs:label>
+    <rdfs:label xml:lang="de">Rowan Atkinson</rdfs:label>
+    <rdfs:label xml:lang="pt">Rowan Atkinson</rdfs:label>
+    <rdfs:label xml:lang="ar">روان أتكينسون</rdfs:label>
+    <rdfs:label xml:lang="fr">Rowan Atkinson</rdfs:label>
+    <rdfs:label xml:lang="es">Rowan Atkinson</rdfs:label>
+    <rdfs:label xml:lang="pl">Rowan Atkinson</rdfs:label>
+    <rdfs:label xml:lang="en">Rowan Atkinson</rdfs:label>
+    <rdfs:label xml:lang="ja">ローワン・アトキンソン</rdfs:label>
+    <rdfs:label xml:lang="zh">路雲·雅堅遜</rdfs:label>
+    <foaf:name xml:lang="en">Rowan Atkinson</foaf:name>
+    <foaf:name xml:lang="en">Atkinson, Rowan</foaf:name>
+    <foaf:name xml:lang="en">(CBE)</foaf:name>
+    <ns0:name xml:lang="en">(CBE)</ns0:name>
+    <ns0:name xml:lang="en">Rowan Atkinson</ns0:name>
+    <ns0:name xml:lang="en">Atkinson, Rowan</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Rik_Mayall"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Sacha_Baron_Cohen"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Steve_Punt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Brenner">
+    <rdfs:label xml:lang="zh">戴維·布倫納</rdfs:label>
+    <rdfs:label xml:lang="es">David Brenner</rdfs:label>
+    <rdfs:label xml:lang="it">David Brenner</rdfs:label>
+    <rdfs:label xml:lang="en">David Brenner</rdfs:label>
+    <rdfs:label xml:lang="fr">David Brenner (acteur)</rdfs:label>
+    <foaf:name xml:lang="en">Brenner, David Norris</foaf:name>
+    <foaf:name xml:lang="en">David Norris Brenner</foaf:name>
+    <ns0:name xml:lang="en">Brenner, David Norris</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Jay_Leno"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Richard_Lewis_(comedian)"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/David_Letterman"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Jerry_Seinfeld"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Coupland">
+    <rdfs:label xml:lang="ru">Коупленд, Дуглас</rdfs:label>
+    <rdfs:label xml:lang="en">Douglas Coupland</rdfs:label>
+    <rdfs:label xml:lang="ja">ダグラス・クープランド</rdfs:label>
+    <rdfs:label xml:lang="nl">Douglas Coupland</rdfs:label>
+    <rdfs:label xml:lang="pl">Douglas Coupland</rdfs:label>
+    <rdfs:label xml:lang="it">Douglas Coupland</rdfs:label>
+    <rdfs:label xml:lang="de">Douglas Coupland</rdfs:label>
+    <rdfs:label xml:lang="es">Douglas Coupland</rdfs:label>
+    <rdfs:label xml:lang="fr">Douglas Coupland</rdfs:label>
+    <foaf:name xml:lang="en">Coupland, Douglas</foaf:name>
+    <foaf:name xml:lang="en">Douglas Coupland</foaf:name>
+    <ns0:name xml:lang="en">Douglas Coupland</ns0:name>
+    <ns0:name xml:lang="en">Coupland, Douglas</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Damien_Hirst"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Andy_Warhol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Spratt">
+    <rdfs:label xml:lang="en">Frederick Spratt</rdfs:label>
+    <foaf:name xml:lang="en">Spratt, Frederick</foaf:name>
+    <foaf:name xml:lang="en">Frederick Spratt</foaf:name>
+    <ns0:name xml:lang="en">Spratt, Frederick</ns0:name>
+    <ns0:name xml:lang="en">Frederick Spratt</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Ad_Reinhardt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Glass">
+    <rdfs:label xml:lang="en">Joan Glass</rdfs:label>
+    <foaf:name xml:lang="en">Joan Glass</foaf:name>
+    <foaf:name xml:lang="en">Glass, Joan</foaf:name>
+    <ns0:name xml:lang="en">Glass, Joan</ns0:name>
+    <ns0:name xml:lang="en">Joan Glass</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Graham_Sutherland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blanche_Lazzell">
+    <rdfs:label xml:lang="en">Blanche Lazzell</rdfs:label>
+    <rdfs:label xml:lang="ru">Лейзел, Бланш</rdfs:label>
+    <foaf:name xml:lang="en">Lazzell, Blanche</foaf:name>
+    <foaf:name xml:lang="en">Blanche Lazzell</foaf:name>
+    <ns0:name xml:lang="en">Lazzell, Blanche</ns0:name>
+    <ns0:name xml:lang="en">Blanche Lazzell</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Albert_Gleizes"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Fernand_Léger"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Hans_Hofmann"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amalia_Amaki">
+    <rdfs:label xml:lang="en">Amalia Amaki</rdfs:label>
+    <foaf:name xml:lang="en">Amaki, Amalia</foaf:name>
+    <foaf:name xml:lang="en">Amalia Amaki</foaf:name>
+    <ns0:name xml:lang="en">Amaki, Amalia</ns0:name>
+    <ns0:name xml:lang="en">Amalia Amaki</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Joseph_Cornell"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Léon_Riesener">
+    <rdfs:label xml:lang="fr">Léon Riesener</rdfs:label>
+    <rdfs:label xml:lang="en">Léon Riesener</rdfs:label>
+    <foaf:name xml:lang="en">Riesener</foaf:name>
+    <foaf:name xml:lang="en">Léon Riesener</foaf:name>
+    <ns0:name xml:lang="en">Riesener</ns0:name>
+    <ns0:name xml:lang="en">Léon Riesener</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Peter_Paul_Rubens"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mildred_Anne_Butler">
+    <rdfs:label xml:lang="en">Mildred Anne Butler</rdfs:label>
+    <foaf:name xml:lang="en">Mildred Anne Butler</foaf:name>
+    <foaf:name xml:lang="en">Butler, Mildred Anne</foaf:name>
+    <ns0:name xml:lang="en">Mildred Anne Butler</ns0:name>
+    <ns0:name xml:lang="en">Butler, Mildred Anne</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Rose_Maynard_Barton"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Sandback">
+    <rdfs:label xml:lang="en">Fred Sandback</rdfs:label>
+    <rdfs:label xml:lang="de">Fred Sandback</rdfs:label>
+    <foaf:name xml:lang="en">Fred Sandback</foaf:name>
+    <foaf:name xml:lang="en">Sandback, Fred</foaf:name>
+    <ns0:name xml:lang="en">Fred Sandback</ns0:name>
+    <ns0:name xml:lang="en">Sandback, Fred</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Donald_Judd"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adam_Kossowski">
+    <rdfs:label xml:lang="en">Adam Kossowski</rdfs:label>
+    <rdfs:label xml:lang="pl">Adam Kossowski</rdfs:label>
+    <foaf:name xml:lang="en">Kossowski, Adam</foaf:name>
+    <foaf:name xml:lang="en">Adam Kossowski</foaf:name>
+    <ns0:name xml:lang="en">Kossowski, Adam</ns0:name>
+    <ns0:name xml:lang="en">Adam Kossowski</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Cézanne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_Jose_Guzman">
+    <rdfs:label xml:lang="en">Antonio Jose Guzman</rdfs:label>
+    <foaf:name xml:lang="en">Antonio Jose Guzman</foaf:name>
+    <foaf:name xml:lang="en">Guzman, Antonio Jose</foaf:name>
+    <ns0:name xml:lang="en">Antonio Jose Guzman</ns0:name>
+    <ns0:name xml:lang="en">Guzman, Antonio Jose</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jean-Michel_Basquiat"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Joseph_Beuys"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Del_Kathryn_Barton">
+    <rdfs:label xml:lang="en">Del Kathryn Barton</rdfs:label>
+    <foaf:name xml:lang="en">Barton, Del Kathryn</foaf:name>
+    <foaf:name xml:lang="en">Del Kathryn Barton</foaf:name>
+    <ns0:name xml:lang="en">Barton, Del Kathryn</ns0:name>
+    <ns0:name xml:lang="en">Del Kathryn Barton</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/John_Currin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leo_Marchutz">
+    <rdfs:label xml:lang="en">Leo Marchutz</rdfs:label>
+    <foaf:name xml:lang="en">Marchutz, Leo</foaf:name>
+    <foaf:name xml:lang="en">Leo Marchutz</foaf:name>
+    <ns0:name xml:lang="en">Marchutz, Leo</ns0:name>
+    <ns0:name xml:lang="en">Leo Marchutz</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Cézanne"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jessica_Diamond">
+    <rdfs:label xml:lang="en">Jessica Diamond</rdfs:label>
+    <foaf:name xml:lang="en">Jessica Diamond</foaf:name>
+    <ns0:name xml:lang="en">Jessica Diamond</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Yayoi_Kusama"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mya_Thaung">
+    <rdfs:label xml:lang="en">Mya Thaung</rdfs:label>
+    <foaf:name xml:lang="en">Mya Thaung</foaf:name>
+    <ns0:name xml:lang="en">Mya Thaung</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Lun_Gywe"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Thein_Han"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dorothy_Knowles">
+    <rdfs:label xml:lang="en">Dorothy Knowles</rdfs:label>
+    <rdfs:label xml:lang="pl">Dorothy Knowles</rdfs:label>
+    <foaf:name xml:lang="en">Knowles, Dorothy</foaf:name>
+    <foaf:name xml:lang="en">Dorothy Knowles</foaf:name>
+    <ns0:name xml:lang="en">Knowles, Dorothy</ns0:name>
+    <ns0:name xml:lang="en">Dorothy Knowles</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Kenneth_Noland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guan_Tong_(painter)">
+    <rdfs:label xml:lang="ru">Гуань Тун</rdfs:label>
+    <rdfs:label xml:lang="zh">關仝</rdfs:label>
+    <rdfs:label xml:lang="fr">Guan Tong</rdfs:label>
+    <rdfs:label xml:lang="en">Guan Tong (painter)</rdfs:label>
+    <foaf:name xml:lang="en">Tong Guan</foaf:name>
+    <foaf:name xml:lang="en">Guan, Tong</foaf:name>
+    <foaf:name xml:lang="en">Guan Tong</foaf:name>
+    <ns0:name xml:lang="en">Guan Tong</ns0:name>
+    <ns0:name xml:lang="en">Guan, Tong</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Fan_Kuan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Annette_P._Jimerson">
+    <rdfs:label xml:lang="en">Annette P. Jimerson</rdfs:label>
+    <foaf:name xml:lang="en">Jimerson, Annette P.</foaf:name>
+    <foaf:name xml:lang="en">Annette Jimerson</foaf:name>
+    <foaf:name xml:lang="en">Annette P. Jimerson</foaf:name>
+    <ns0:name xml:lang="en">Annette Jimerson</ns0:name>
+    <ns0:name xml:lang="en">Jimerson, Annette P.</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Michelangelo"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Artus_Quellinus_II">
+    <rdfs:label xml:lang="en">Artus Quellinus II</rdfs:label>
+    <rdfs:label xml:lang="nl">Artus Quellinus de Jonge</rdfs:label>
+    <rdfs:label xml:lang="de">Artus Quellinus II.</rdfs:label>
+    <rdfs:label xml:lang="pl">Artus Quellinus II</rdfs:label>
+    <rdfs:label xml:lang="fr">Artus Quellinus le Jeune</rdfs:label>
+    <foaf:name xml:lang="en">Artus II Quellinus</foaf:name>
+    <foaf:name xml:lang="en">Artus Quellinus II</foaf:name>
+    <foaf:name xml:lang="en">Quellinus, Artus II</foaf:name>
+    <ns0:name xml:lang="en">Artus Quellinus II</ns0:name>
+    <ns0:name xml:lang="en">Quellinus, Artus II</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Lucas_Faydherbe"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aung_Myint">
+    <rdfs:label xml:lang="en">Aung Myint</rdfs:label>
+    <foaf:name xml:lang="en">Aung Myint</foaf:name>
+    <ns0:name xml:lang="en">Aung Myint</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Willem_de_Kooning"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Aung_Soe"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jackson_Pollock"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Hader">
+    <rdfs:label xml:lang="ru">Хейдер, Билл</rdfs:label>
+    <rdfs:label xml:lang="nl">Bill Hader</rdfs:label>
+    <rdfs:label xml:lang="pt">Bill Hader</rdfs:label>
+    <rdfs:label xml:lang="it">Bill Hader</rdfs:label>
+    <rdfs:label xml:lang="es">Bill Hader</rdfs:label>
+    <rdfs:label xml:lang="ja">ビル・ヘイダー</rdfs:label>
+    <rdfs:label xml:lang="de">Bill Hader</rdfs:label>
+    <rdfs:label xml:lang="en">Bill Hader</rdfs:label>
+    <rdfs:label xml:lang="zh">比爾·哈德</rdfs:label>
+    <rdfs:label xml:lang="fr">Bill Hader</rdfs:label>
+    <rdfs:label xml:lang="ar">بيل هادر</rdfs:label>
+    <rdfs:label xml:lang="pl">Bill Hader</rdfs:label>
+    <foaf:name xml:lang="en">Hader, Bill</foaf:name>
+    <foaf:name xml:lang="en">Bill Hader</foaf:name>
+    <ns0:name xml:lang="en">Hader, Bill</ns0:name>
+    <ns0:name xml:lang="en">Bill Hader</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Mel_Brooks"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Rungius">
+    <rdfs:label xml:lang="en">Carl Rungius</rdfs:label>
+    <foaf:name xml:lang="en">Carl Rungius</foaf:name>
+    <foaf:name xml:lang="en">Rungius, Carl</foaf:name>
+    <ns0:name xml:lang="en">Rungius, Carl</ns0:name>
+    <ns0:name xml:lang="en">Carl Rungius</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Cézanne"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Claude_Monet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Ramsey_(comedian)">
+    <rdfs:label xml:lang="en">Chris Ramsey (comedian)</rdfs:label>
+    <foaf:name xml:lang="en">Chris Ramsey</foaf:name>
+    <foaf:name xml:lang="en">Ramsey, Chris</foaf:name>
+    <ns0:name xml:lang="en">Chris Ramsey</ns0:name>
+    <ns0:name xml:lang="en">Ramsey, Chris</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Billy_Connolly"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Cantine">
+    <rdfs:label xml:lang="en">David Cantine</rdfs:label>
+    <foaf:name xml:lang="en">Cantine, David</foaf:name>
+    <foaf:name xml:lang="en">David Cantine</foaf:name>
+    <ns0:name xml:lang="en">Cantine, David</ns0:name>
+    <ns0:name xml:lang="en">David Cantine</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Cézanne"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Burnand">
+    <rdfs:label xml:lang="en">Geoffrey Burnand</rdfs:label>
+    <foaf:name xml:lang="en">Burnand, Geoffrey</foaf:name>
+    <foaf:name xml:lang="en">Geoffrey Burnand</foaf:name>
+    <ns0:name xml:lang="en">Burnand, Geoffrey</ns0:name>
+    <ns0:name xml:lang="en">Geoffrey Burnand</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Max_Beckmann"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/José_de_Almada_Negreiros">
+    <rdfs:label xml:lang="fr">Almada Negreiros</rdfs:label>
+    <rdfs:label xml:lang="it">José de Almada-Negreiros</rdfs:label>
+    <rdfs:label xml:lang="en">José de Almada Negreiros</rdfs:label>
+    <rdfs:label xml:lang="es">José de Almada Negreiros</rdfs:label>
+    <rdfs:label xml:lang="de">José Sobral de Almada Negreiros</rdfs:label>
+    <rdfs:label xml:lang="pt">Almada Negreiros</rdfs:label>
+    <foaf:name xml:lang="en">Almada Negreiros</foaf:name>
+    <foaf:name xml:lang="en">Almada Jose De Negreiros</foaf:name>
+    <foaf:name xml:lang="en">Negreiros, Almada Jose De</foaf:name>
+    <ns0:name xml:lang="en">Negreiros, Almada Jose De</ns0:name>
+    <ns0:name xml:lang="en">Almada Negreiros</ns0:name>
+    <ns0:name xml:lang="en">José Sobral de Almada Negreiros</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise_Cox_(painter)">
+    <rdfs:label xml:lang="ru">Кокс, Луиза</rdfs:label>
+    <rdfs:label xml:lang="en">Louise Cox (painter)</rdfs:label>
+    <foaf:name xml:lang="en">Louise Cox</foaf:name>
+    <foaf:name xml:lang="en">Cox, Louise</foaf:name>
+    <ns0:name xml:lang="en">Louise Cox</ns0:name>
+    <ns0:name xml:lang="en">Cox, Louise</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/William_Merritt_Chase"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maung_Maung_Gyi_(painter)">
+    <rdfs:label xml:lang="en">Maung Maung Gyi (painter)</rdfs:label>
+    <foaf:name xml:lang="en">Maung Maung Gyi</foaf:name>
+    <foaf:name xml:lang="en">Gyi, Maung Maung</foaf:name>
+    <ns0:name xml:lang="en">Maung Maung Gyi</ns0:name>
+    <ns0:name xml:lang="en">Gyi, Maung Maung</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Ba_Thet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Cox_(artist)">
+    <rdfs:label xml:lang="en">Steve Cox (artist)</rdfs:label>
+    <foaf:name xml:lang="en">Steve Cox</foaf:name>
+    <foaf:name xml:lang="en">Cox, Steve</foaf:name>
+    <ns0:name xml:lang="en">Cox, Steve</ns0:name>
+    <ns0:name xml:lang="en">Steve Cox</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/R._B._Kitaj"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/David_Hockney"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Axel_Törneman">
+    <rdfs:label xml:lang="en">Axel Törneman</rdfs:label>
+    <foaf:name xml:lang="en">Axel Torneman</foaf:name>
+    <foaf:name xml:lang="en">Torneman, Axel</foaf:name>
+    <foaf:name xml:lang="en">Axel Törneman</foaf:name>
+    <ns0:name xml:lang="en">Axel Törneman</ns0:name>
+    <ns0:name xml:lang="en">Torneman, Axel</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Gauguin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_J._Brown">
+    <rdfs:label xml:lang="en">Frederick J. Brown</rdfs:label>
+    <foaf:name xml:lang="en">Frederick J. Brown</foaf:name>
+    <foaf:name xml:lang="en">Brown, Frederick J.</foaf:name>
+    <foaf:name xml:lang="en">Frederick James Brown</foaf:name>
+    <ns0:name xml:lang="en">Brown, Frederick J.</ns0:name>
+    <ns0:name xml:lang="en">Frederick James Brown</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Willem_de_Kooning"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Dureau">
+    <rdfs:label xml:lang="zh">喬治·迪羅</rdfs:label>
+    <rdfs:label xml:lang="es">George Dureau</rdfs:label>
+    <rdfs:label xml:lang="en">George Dureau</rdfs:label>
+    <foaf:name xml:lang="en">George Dureau</foaf:name>
+    <foaf:name xml:lang="en">Dureau, George</foaf:name>
+    <ns0:name xml:lang="en">George Dureau</ns0:name>
+    <ns0:name xml:lang="en">Dureau, George</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Robert_Mapplethorpe"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Robert_Motherwell"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Carmean">
+    <rdfs:label xml:lang="en">Harry Carmean</rdfs:label>
+    <foaf:name xml:lang="en">Carmean, Harry</foaf:name>
+    <foaf:name xml:lang="en">Harry Carmean</foaf:name>
+    <ns0:name xml:lang="en">Carmean, Harry</ns0:name>
+    <ns0:name xml:lang="en">Harry Carmean</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jean-Baptiste-Camille_Corot"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacobo_Borges">
+    <rdfs:label xml:lang="fr">Jacobo Borges</rdfs:label>
+    <rdfs:label xml:lang="es">Jacobo Borges</rdfs:label>
+    <rdfs:label xml:lang="en">Jacobo Borges</rdfs:label>
+    <foaf:name xml:lang="en">Borges, Jacobo</foaf:name>
+    <foaf:name xml:lang="en">Jacobo Borges</foaf:name>
+    <ns0:name xml:lang="en">Borges, Jacobo</ns0:name>
+    <ns0:name xml:lang="en">Jacobo Borges</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Willem_de_Kooning"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jazzamoart">
+    <rdfs:label xml:lang="en">Jazzamoart</rdfs:label>
+    <rdfs:label xml:lang="es">Jazzamoart</rdfs:label>
+    <foaf:name xml:lang="en">Jazzamoart</foaf:name>
+    <ns0:name xml:lang="en">Jazzamoart</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karel_Appel">
+    <rdfs:label xml:lang="fr">Karel Appel</rdfs:label>
+    <rdfs:label xml:lang="nl">Karel Appel</rdfs:label>
+    <rdfs:label xml:lang="es">Karel Appel</rdfs:label>
+    <rdfs:label xml:lang="ru">Аппел, Карел</rdfs:label>
+    <rdfs:label xml:lang="en">Karel Appel</rdfs:label>
+    <rdfs:label xml:lang="it">Karel Appel</rdfs:label>
+    <rdfs:label xml:lang="pl">Karel Appel</rdfs:label>
+    <rdfs:label xml:lang="zh">卡雷尔·阿佩尔</rdfs:label>
+    <rdfs:label xml:lang="ja">カレル・アペル</rdfs:label>
+    <rdfs:label xml:lang="de">Karel Appel</rdfs:label>
+    <rdfs:label xml:lang="pt">Karel Appel</rdfs:label>
+    <foaf:name xml:lang="en">Appel, Karel</foaf:name>
+    <foaf:name xml:lang="en">Karel Appel</foaf:name>
+    <ns0:name xml:lang="en">Appel, Karel</ns0:name>
+    <ns0:name xml:lang="en">Karel Appel</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jean_Dubuffet"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Henri_Matisse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alison_Knowles">
+    <rdfs:label xml:lang="en">Alison Knowles</rdfs:label>
+    <rdfs:label xml:lang="fr">Alison Knowles</rdfs:label>
+    <rdfs:label xml:lang="de">Alison Knowles</rdfs:label>
+    <rdfs:label xml:lang="pl">Alison Knowles (artystka)</rdfs:label>
+    <foaf:name xml:lang="en">Alison Knowles</foaf:name>
+    <foaf:name xml:lang="en">Knowles, Alison</foaf:name>
+    <ns0:name xml:lang="en">Knowles, Alison</ns0:name>
+    <ns0:name xml:lang="en">Alison Knowles</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Adolph_Gottlieb"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Kauffman">
+    <rdfs:label xml:lang="en">Craig Kauffman</rdfs:label>
+    <foaf:name xml:lang="en">Kauffman, Craig</foaf:name>
+    <foaf:name xml:lang="en">Craig Kauffman</foaf:name>
+    <ns0:name xml:lang="en">Craig Kauffman</ns0:name>
+    <ns0:name xml:lang="en">Kauffman, Craig</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Marcel_Duchamp"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FAMA">
+    <rdfs:label xml:lang="es">FAMA (banda)</rdfs:label>
+    <rdfs:label xml:lang="zh">農夫 (組合)</rdfs:label>
+    <rdfs:label xml:lang="en">FAMA</rdfs:label>
+    <foaf:name xml:lang="en">FAMA</foaf:name>
+    <foaf:name xml:lang="en">nung4 fu1</foaf:name>
+    <foaf:name xml:lang="en">农夫</foaf:name>
+    <foaf:name xml:lang="en">農夫</foaf:name>
+    <foaf:name xml:lang="en">nong2 fu1</foaf:name>
+    <ns0:name xml:lang="en">FAMA</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Andy_Hui"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Sacharoff">
+    <rdfs:label xml:lang="ru">Сахарова, Ольга Николаевна</rdfs:label>
+    <rdfs:label xml:lang="es">Olga Sacharoff</rdfs:label>
+    <rdfs:label xml:lang="en">Olga Sacharoff</rdfs:label>
+    <foaf:name xml:lang="en">Sacharoff, Olga</foaf:name>
+    <foaf:name xml:lang="en">Olga Sacahroff</foaf:name>
+    <foaf:name xml:lang="en">Olga Sacharoff</foaf:name>
+    <ns0:name xml:lang="en">Sacharoff, Olga</ns0:name>
+    <ns0:name xml:lang="en">Olga Sacahroff</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Cézanne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Regan_(comedian)">
+    <rdfs:label xml:lang="en">Brian Regan (comedian)</rdfs:label>
+    <foaf:name xml:lang="en">Regan, Brian</foaf:name>
+    <foaf:name xml:lang="en">Brian Regan</foaf:name>
+    <ns0:name xml:lang="en">Brian Regan</ns0:name>
+    <ns0:name xml:lang="en">Regan, Brian</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Steve_Martin"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Johnny_Carson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Filippino_Lippi">
+    <rdfs:label xml:lang="de">Filippino Lippi</rdfs:label>
+    <rdfs:label xml:lang="it">Filippino Lippi</rdfs:label>
+    <rdfs:label xml:lang="pl">Filippino Lippi</rdfs:label>
+    <rdfs:label xml:lang="fr">Filippino Lippi</rdfs:label>
+    <rdfs:label xml:lang="ru">Липпи, Филиппино</rdfs:label>
+    <rdfs:label xml:lang="pt">Filippino Lippi</rdfs:label>
+    <rdfs:label xml:lang="en">Filippino Lippi</rdfs:label>
+    <rdfs:label xml:lang="ja">フィリッピーノ・リッピ</rdfs:label>
+    <rdfs:label xml:lang="es">Filippino Lippi</rdfs:label>
+    <rdfs:label xml:lang="zh">菲利皮诺·利皮</rdfs:label>
+    <rdfs:label xml:lang="nl">Filippino Lippi</rdfs:label>
+    <foaf:name xml:lang="en">Lippi, Filippino</foaf:name>
+    <foaf:name xml:lang="en">Filippino Lippi</foaf:name>
+    <ns0:name xml:lang="en">Lippi, Filippino</ns0:name>
+    <ns0:name xml:lang="en">Filippino Lippi</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Raffaellino_del_Garbo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustave_Courbet">
+    <rdfs:label xml:lang="it">Gustave Courbet</rdfs:label>
+    <rdfs:label xml:lang="ru">Курбе, Гюстав</rdfs:label>
+    <rdfs:label xml:lang="es">Gustave Courbet</rdfs:label>
+    <rdfs:label xml:lang="en">Gustave Courbet</rdfs:label>
+    <rdfs:label xml:lang="zh">居斯塔夫·库尔贝</rdfs:label>
+    <rdfs:label xml:lang="pl">Gustave Courbet</rdfs:label>
+    <rdfs:label xml:lang="pt">Gustave Courbet</rdfs:label>
+    <rdfs:label xml:lang="fr">Gustave Courbet</rdfs:label>
+    <rdfs:label xml:lang="ar">غوستاف كوربيه</rdfs:label>
+    <rdfs:label xml:lang="de">Gustave Courbet</rdfs:label>
+    <rdfs:label xml:lang="ja">ギュスターヴ・クールベ</rdfs:label>
+    <rdfs:label xml:lang="nl">Gustave Courbet</rdfs:label>
+    <foaf:name xml:lang="en">Courbet, Gustave</foaf:name>
+    <foaf:name xml:lang="en">Gustave Courbet</foaf:name>
+    <ns0:name xml:lang="en">Courbet, Gustave</ns0:name>
+    <ns0:name xml:lang="en">Gustave Courbet</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Ilya_Repin"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/James_Abbott_McNeill_Whistler"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Paul_Cézanne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ray_Romano">
+    <rdfs:label xml:lang="de">Ray Romano</rdfs:label>
+    <rdfs:label xml:lang="fr">Ray Romano</rdfs:label>
+    <rdfs:label xml:lang="es">Ray Romano</rdfs:label>
+    <rdfs:label xml:lang="it">Ray Romano</rdfs:label>
+    <rdfs:label xml:lang="ar">راي رومانو</rdfs:label>
+    <rdfs:label xml:lang="nl">Ray Romano</rdfs:label>
+    <rdfs:label xml:lang="ja">レイ・ロマーノ</rdfs:label>
+    <rdfs:label xml:lang="pt">Ray Romano</rdfs:label>
+    <rdfs:label xml:lang="en">Ray Romano</rdfs:label>
+    <rdfs:label xml:lang="ru">Романо, Рэй</rdfs:label>
+    <rdfs:label xml:lang="pl">Ray Romano</rdfs:label>
+    <foaf:name xml:lang="en">Ray Romano</foaf:name>
+    <foaf:name xml:lang="en">Romano, Ray</foaf:name>
+    <ns0:name xml:lang="en">Ray Romano</ns0:name>
+    <ns0:name xml:lang="en">Romano, Ray</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Bob_Newhart"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/David_Letterman"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Bloomfield">
+    <rdfs:label xml:lang="en">Robert Bloomfield</rdfs:label>
+    <rdfs:label xml:lang="fr">Robert Bloomfield</rdfs:label>
+    <foaf:name xml:lang="en">Bloomfield, Robert</foaf:name>
+    <foaf:name xml:lang="en">Robert Bloomfield</foaf:name>
+    <ns0:name xml:lang="en">Robert Bloomfield</ns0:name>
+    <ns0:name xml:lang="en">Bloomfield, Robert</ns0:name>
+    <ns0:name xml:lang="en">Nathaniel Bloomfield</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/John_Constable"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Hockney">
+    <rdfs:label xml:lang="de">David Hockney</rdfs:label>
+    <rdfs:label xml:lang="ru">Хокни, Дэвид</rdfs:label>
+    <rdfs:label xml:lang="ar">ديفيد هوكني</rdfs:label>
+    <rdfs:label xml:lang="pt">David Hockney</rdfs:label>
+    <rdfs:label xml:lang="nl">David Hockney</rdfs:label>
+    <rdfs:label xml:lang="fr">David Hockney</rdfs:label>
+    <rdfs:label xml:lang="es">David Hockney</rdfs:label>
+    <rdfs:label xml:lang="zh">大卫·霍克尼</rdfs:label>
+    <rdfs:label xml:lang="ja">デイヴィッド・ホックニー</rdfs:label>
+    <rdfs:label xml:lang="pl">David Hockney</rdfs:label>
+    <rdfs:label xml:lang="en">David Hockney</rdfs:label>
+    <rdfs:label xml:lang="it">David Hockney</rdfs:label>
+    <foaf:name xml:lang="en">David Hockney</foaf:name>
+    <foaf:name xml:lang="en">Hockney, David</foaf:name>
+    <ns0:name xml:lang="en">David Hockney</ns0:name>
+    <ns0:name xml:lang="en">Hockney, David</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Julian_Trevelyan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Weston">
+    <rdfs:label xml:lang="es">Edward Weston</rdfs:label>
+    <rdfs:label xml:lang="pt">Edward Weston</rdfs:label>
+    <rdfs:label xml:lang="fr">Edward Weston</rdfs:label>
+    <rdfs:label xml:lang="en">Edward Weston</rdfs:label>
+    <rdfs:label xml:lang="it">Edward Weston</rdfs:label>
+    <rdfs:label xml:lang="nl">Edward Weston (fotograaf)</rdfs:label>
+    <rdfs:label xml:lang="ar">إدوارد ويستون</rdfs:label>
+    <rdfs:label xml:lang="zh">爱德华·韦斯顿</rdfs:label>
+    <rdfs:label xml:lang="ru">Уэстон, Эдвард</rdfs:label>
+    <rdfs:label xml:lang="ja">エドワード・ウェストン</rdfs:label>
+    <rdfs:label xml:lang="pl">Edward Weston</rdfs:label>
+    <rdfs:label xml:lang="de">Edward Weston</rdfs:label>
+    <foaf:name xml:lang="en">Edward Weston</foaf:name>
+    <foaf:name xml:lang="en">Weston, Edward</foaf:name>
+    <ns0:name xml:lang="en">Edward Weston</ns0:name>
+    <ns0:name xml:lang="en">Weston, Edward</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Ansel_Adams"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gillian_Wearing">
+    <rdfs:label xml:lang="fr">Gillian Wearing</rdfs:label>
+    <rdfs:label xml:lang="en">Gillian Wearing</rdfs:label>
+    <rdfs:label xml:lang="de">Gillian Wearing</rdfs:label>
+    <foaf:name xml:lang="en">Wearing, Gillian</foaf:name>
+    <foaf:name xml:lang="en">Gillian Wearing</foaf:name>
+    <ns0:name xml:lang="en">Gillian Wearing</ns0:name>
+    <ns0:name xml:lang="en">Wearing, Gillian</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Frankenthaler">
+    <rdfs:label xml:lang="pl">Helen Frankenthaler</rdfs:label>
+    <rdfs:label xml:lang="de">Helen Frankenthaler</rdfs:label>
+    <rdfs:label xml:lang="ru">Франкенталер, Элен</rdfs:label>
+    <rdfs:label xml:lang="es">Helen Frankenthaler</rdfs:label>
+    <rdfs:label xml:lang="it">Helen Frankenthaler</rdfs:label>
+    <rdfs:label xml:lang="en">Helen Frankenthaler</rdfs:label>
+    <rdfs:label xml:lang="pt">Helen Frankenthaler</rdfs:label>
+    <rdfs:label xml:lang="fr">Helen Frankenthaler</rdfs:label>
+    <rdfs:label xml:lang="ja">ヘレン・フランケンサーラー</rdfs:label>
+    <rdfs:label xml:lang="nl">Helen Frankenthaler</rdfs:label>
+    <foaf:name xml:lang="en">Helen Frankenthaler</foaf:name>
+    <foaf:name xml:lang="en">Frankenthaler, Helen</foaf:name>
+    <ns0:name xml:lang="en">Frankenthaler, Helen</ns0:name>
+    <ns0:name xml:lang="en">Helen Frankenthaler</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Kenneth_Noland"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Morris_Louis"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jackson_Pollock"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Hans_Hofmann"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stan_Brakhage">
+    <rdfs:label xml:lang="ru">Брэкидж, Стэн</rdfs:label>
+    <rdfs:label xml:lang="zh">斯坦·布拉哈格</rdfs:label>
+    <rdfs:label xml:lang="en">Stan Brakhage</rdfs:label>
+    <rdfs:label xml:lang="pl">Stan Brakhage</rdfs:label>
+    <rdfs:label xml:lang="de">Stan Brakhage</rdfs:label>
+    <rdfs:label xml:lang="fr">Stan Brakhage</rdfs:label>
+    <rdfs:label xml:lang="it">Stan Brakhage</rdfs:label>
+    <foaf:name xml:lang="en">Brakhage, Stan</foaf:name>
+    <foaf:name xml:lang="en">Stan Brakhage</foaf:name>
+    <ns0:name xml:lang="en">Brakhage, Stan</ns0:name>
+    <ns0:name xml:lang="en">Stan Brakhage</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Joseph_Cornell"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilhelm_von_Gloeden">
+    <rdfs:label xml:lang="ru">Глёден, Вильгельм фон</rdfs:label>
+    <rdfs:label xml:lang="fr">Wilhelm von Gloeden</rdfs:label>
+    <rdfs:label xml:lang="es">Wilhelm von Gloeden</rdfs:label>
+    <rdfs:label xml:lang="de">Wilhelm von Gloeden</rdfs:label>
+    <rdfs:label xml:lang="ja">ヴィルヘルム・フォン・グレーデン</rdfs:label>
+    <rdfs:label xml:lang="pl">Wilhelm von Gloeden</rdfs:label>
+    <rdfs:label xml:lang="nl">Wilhelm von Gloeden</rdfs:label>
+    <rdfs:label xml:lang="pt">Wilhelm von Gloeden</rdfs:label>
+    <rdfs:label xml:lang="zh">威廉·馮·格魯登</rdfs:label>
+    <rdfs:label xml:lang="it">Wilhelm von Gloeden</rdfs:label>
+    <rdfs:label xml:lang="en">Wilhelm von Gloeden</rdfs:label>
+    <foaf:name xml:lang="en">Wilhelm Von Gloeden</foaf:name>
+    <foaf:name xml:lang="en">Wilhelm von Gloeden</foaf:name>
+    <foaf:name xml:lang="en">Gloeden, Wilhelm Von</foaf:name>
+    <ns0:name xml:lang="en">Gloeden, Wilhelm Von</ns0:name>
+    <ns0:name xml:lang="en">Wilhelm von Gloeden</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Robert_Mapplethorpe"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Joseph_Beuys"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Andy_Warhol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Hyatt_Huntington">
+    <rdfs:label xml:lang="en">Anna Hyatt Huntington</rdfs:label>
+    <rdfs:label xml:lang="nl">Anna Hyatt Huntington</rdfs:label>
+    <rdfs:label xml:lang="ru">Хайат-Хантингтон, Анна</rdfs:label>
+    <rdfs:label xml:lang="es">Anna Hyatt Huntington</rdfs:label>
+    <rdfs:label xml:lang="de">Anna Hyatt Huntington</rdfs:label>
+    <rdfs:label xml:lang="fr">Anna Hyatt Huntington</rdfs:label>
+    <rdfs:label xml:lang="pl">Anna Hyatt Huntington</rdfs:label>
+    <foaf:name xml:lang="en">Huntington, Anna Hyatt</foaf:name>
+    <foaf:name xml:lang="en">Anna Hyatt Huntington</foaf:name>
+    <ns0:name xml:lang="en">Huntington, Anna Hyatt</ns0:name>
+    <ns0:name xml:lang="en">Anna Hyatt Huntington</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Gutzon_Borglum"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Hermon_Atkins_MacNeil"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul-Émile_Borduas">
+    <rdfs:label xml:lang="fr">Paul-Émile Borduas</rdfs:label>
+    <rdfs:label xml:lang="de">Paul-Émile Borduas</rdfs:label>
+    <rdfs:label xml:lang="en">Paul-Émile Borduas</rdfs:label>
+    <foaf:name xml:lang="en">Paul-Emile Borduas</foaf:name>
+    <foaf:name xml:lang="en">Paul-Émile Borduas</foaf:name>
+    <foaf:name xml:lang="en">Borduas, Paul-Emile</foaf:name>
+    <ns0:name xml:lang="en">Paul-Émile Borduas</ns0:name>
+    <ns0:name xml:lang="en">Borduas, Paul-Emile</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Joan_Miró"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anita_Mui">
+    <rdfs:label xml:lang="fr">Anita Mui</rdfs:label>
+    <rdfs:label xml:lang="pl">Anita Mui</rdfs:label>
+    <rdfs:label xml:lang="pt">Anita Mui</rdfs:label>
+    <rdfs:label xml:lang="de">Anita Mui</rdfs:label>
+    <rdfs:label xml:lang="it">Anita Mui</rdfs:label>
+    <rdfs:label xml:lang="ja">アニタ・ムイ</rdfs:label>
+    <rdfs:label xml:lang="ru">Муи, Анита</rdfs:label>
+    <rdfs:label xml:lang="es">Anita Mui</rdfs:label>
+    <rdfs:label xml:lang="zh">梅艷芳</rdfs:label>
+    <rdfs:label xml:lang="en">Anita Mui</rdfs:label>
+    <foaf:name xml:lang="en">Mui, Anita</foaf:name>
+    <foaf:name xml:lang="en">Mui4 Jim6-fong1</foaf:name>
+    <foaf:name xml:lang="en">Anita Mui</foaf:name>
+    <foaf:name xml:lang="en">梅艷芳</foaf:name>
+    <ns0:name xml:lang="en">Anita Mui</ns0:name>
+    <ns0:name xml:lang="en">Mui, Anita</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Andy_Hui"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Eason_Chan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/César_Baldaccini">
+    <rdfs:label xml:lang="fr">César (sculpteur)</rdfs:label>
+    <rdfs:label xml:lang="pt">César Baldaccini</rdfs:label>
+    <rdfs:label xml:lang="nl">César Baldaccini</rdfs:label>
+    <rdfs:label xml:lang="es">César Baldaccini</rdfs:label>
+    <rdfs:label xml:lang="ja">セザール・バルダッチーニ</rdfs:label>
+    <rdfs:label xml:lang="zh">凱撒·巴達奇尼</rdfs:label>
+    <rdfs:label xml:lang="de">César Baldaccini</rdfs:label>
+    <rdfs:label xml:lang="ru">Бальдаччини, Сезар</rdfs:label>
+    <rdfs:label xml:lang="ar">سيزار بالداكيني</rdfs:label>
+    <rdfs:label xml:lang="it">César Baldaccini</rdfs:label>
+    <rdfs:label xml:lang="pl">César Baldaccini</rdfs:label>
+    <rdfs:label xml:lang="en">César Baldaccini</rdfs:label>
+    <foaf:name xml:lang="en">Baldaccini, Cesar</foaf:name>
+    <foaf:name xml:lang="en">Cesar Baldaccini</foaf:name>
+    <foaf:name xml:lang="en">César Baldaccini</foaf:name>
+    <ns0:name xml:lang="en">Baldaccini, Cesar</ns0:name>
+    <ns0:name xml:lang="en">César Baldaccini</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Ahmed_Benyahia"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Alberto_Giacometti"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Frazetta">
+    <rdfs:label xml:lang="zh">法蘭克·法拉捷特</rdfs:label>
+    <rdfs:label xml:lang="ja">フランク・フラゼッタ</rdfs:label>
+    <rdfs:label xml:lang="en">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="fr">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="pl">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="it">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="es">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="nl">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="ru">Фразетта, Фрэнк</rdfs:label>
+    <rdfs:label xml:lang="pt">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="de">Frank Frazetta</rdfs:label>
+    <foaf:name xml:lang="en">Frazetta, Frank</foaf:name>
+    <foaf:name xml:lang="en">Frank Frazetta</foaf:name>
+    <ns0:name xml:lang="en">Frank Frazetta</ns0:name>
+    <ns0:name xml:lang="en">Frazetta, Frank</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Roy_Krenkel"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Howard_Pyle"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milton_Avery">
+    <rdfs:label xml:lang="ru">Эвери, Мильтон Кларк</rdfs:label>
+    <rdfs:label xml:lang="es">Milton Avery</rdfs:label>
+    <rdfs:label xml:lang="it">Milton Avery</rdfs:label>
+    <rdfs:label xml:lang="en">Milton Avery</rdfs:label>
+    <rdfs:label xml:lang="fr">Milton Clark Avery</rdfs:label>
+    <rdfs:label xml:lang="de">Milton Avery</rdfs:label>
+    <foaf:name xml:lang="en">Avery, Milton</foaf:name>
+    <foaf:name xml:lang="en">Milton Avery</foaf:name>
+    <ns0:name xml:lang="en">Avery, Milton</ns0:name>
+    <ns0:name xml:lang="en">Milton Avery</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Mark_Rothko"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Adolph_Gottlieb"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Henri_Matisse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leslie_Jones_(comedian)">
+    <rdfs:label xml:lang="de">Leslie Jones (Schauspielerin)</rdfs:label>
+    <rdfs:label xml:lang="pt">Leslie Jones</rdfs:label>
+    <rdfs:label xml:lang="en">Leslie Jones (comedian)</rdfs:label>
+    <rdfs:label xml:lang="ru">Джонс, Лесли</rdfs:label>
+    <foaf:name xml:lang="en">Jones, Leslie</foaf:name>
+    <foaf:name xml:lang="en">Leslie Jones</foaf:name>
+    <ns0:name xml:lang="en">Jones, Leslie</ns0:name>
+    <ns0:name xml:lang="en">Leslie Jones</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Eddie_Murphy"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Pryor"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Lindquist_(sculptor)">
+    <rdfs:label xml:lang="en">Mark Lindquist (sculptor)</rdfs:label>
+    <foaf:name xml:lang="en">Lindquist, Mark</foaf:name>
+    <foaf:name xml:lang="en">Mark Lindquist</foaf:name>
+    <ns0:name xml:lang="en">Lindquist, Mark</ns0:name>
+    <ns0:name xml:lang="en">Mark Lindquist</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/David_Smith_(sculptor)"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Constantin_Brâncuși"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Peter_Voulkos"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Marquet">
+    <rdfs:label xml:lang="fr">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="pl">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="de">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="nl">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="ja">アルベール・マルケ</rdfs:label>
+    <rdfs:label xml:lang="pt">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="it">Pierre-Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="es">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="en">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="ru">Марке, Альбер</rdfs:label>
+    <foaf:name xml:lang="en">Marquet, Albert</foaf:name>
+    <foaf:name xml:lang="en">Albert Marquet</foaf:name>
+    <ns0:name xml:lang="en">Albert Marquet</ns0:name>
+    <ns0:name xml:lang="en">Marquet, Albert</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Henri_Matisse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Artie_Lange">
+    <rdfs:label xml:lang="fr">Artie Lange</rdfs:label>
+    <rdfs:label xml:lang="en">Artie Lange</rdfs:label>
+    <rdfs:label xml:lang="de">Artie Lange</rdfs:label>
+    <foaf:name xml:lang="en">Artie Lange</foaf:name>
+    <foaf:name xml:lang="en">Lange, Jr.,  Arthur Steven</foaf:name>
+    <ns0:name xml:lang="en">Lange, Jr.,  Arthur Steven</ns0:name>
+    <ns0:name xml:lang="en">Artie Lange</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Lewis_(comedian)"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Sam_Kinison"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/David_Letterman"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Pryor"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Eddie_Murphy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daagh_Dehlvi">
+    <rdfs:label xml:lang="es">Daagh Dehlvi</rdfs:label>
+    <rdfs:label xml:lang="en">Daagh Dehlvi</rdfs:label>
+    <foaf:name xml:lang="en">Daagh Dehlvi</foaf:name>
+    <foaf:name xml:lang="en">Daagh</foaf:name>
+    <foaf:name xml:lang="en">Urdu poetofBritish India</foaf:name>
+    <ns0:name xml:lang="en">Daagh Dehlvi</ns0:name>
+    <ns0:name xml:lang="en">Daagh</ns0:name>
+    <ns0:name xml:lang="en">Urdu poet of British India</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Jigar_Moradabadi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Cross">
+    <rdfs:label xml:lang="ru">Кросс, Дэвид (актёр)</rdfs:label>
+    <rdfs:label xml:lang="pl">David Cross (aktor)</rdfs:label>
+    <rdfs:label xml:lang="it">David Cross (attore)</rdfs:label>
+    <rdfs:label xml:lang="es">David Cross</rdfs:label>
+    <rdfs:label xml:lang="ja">デヴィッド・クロス (コメディアン)</rdfs:label>
+    <rdfs:label xml:lang="de">David Cross</rdfs:label>
+    <rdfs:label xml:lang="en">David Cross</rdfs:label>
+    <rdfs:label xml:lang="nl">David Cross (acteur)</rdfs:label>
+    <rdfs:label xml:lang="ar">ديفيد كروس</rdfs:label>
+    <rdfs:label xml:lang="fr">David Cross</rdfs:label>
+    <rdfs:label xml:lang="pt">David Cross (ator)</rdfs:label>
+    <foaf:name xml:lang="en">David Cross</foaf:name>
+    <foaf:name xml:lang="en">Cross, David</foaf:name>
+    <ns0:name xml:lang="en">David Cross</ns0:name>
+    <ns0:name xml:lang="en">Cross, David</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Bill_Hicks"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Pryor"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Lenny_Bruce"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcelo_Del_Debbio">
+    <rdfs:label xml:lang="en">Marcelo Del Debbio</rdfs:label>
+    <foaf:name xml:lang="en">Del Debbio, Marcelo</foaf:name>
+    <foaf:name xml:lang="en">Marcelo Del Debbio</foaf:name>
+    <ns0:name xml:lang="en">Del Debbio, Marcelo</ns0:name>
+    <ns0:name xml:lang="en">Marcelo Del Debbio</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Warren_Ellis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Bevan">
+    <rdfs:label xml:lang="en">Robert Bevan</rdfs:label>
+    <rdfs:label xml:lang="pl">Robert Bevan</rdfs:label>
+    <rdfs:label xml:lang="nl">Robert Bevan</rdfs:label>
+    <rdfs:label xml:lang="ru">Беван, Роберт</rdfs:label>
+    <foaf:name xml:lang="en">Robert Bevan</foaf:name>
+    <foaf:name xml:lang="en">Bevan, Robert</foaf:name>
+    <ns0:name xml:lang="en">Robert Bevan</ns0:name>
+    <ns0:name xml:lang="en">Bevan, Robert</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Gauguin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Ryman">
+    <rdfs:label xml:lang="en">Robert Ryman</rdfs:label>
+    <rdfs:label xml:lang="ru">Риман, Роберт</rdfs:label>
+    <rdfs:label xml:lang="it">Robert Ryman</rdfs:label>
+    <rdfs:label xml:lang="fr">Robert Ryman</rdfs:label>
+    <rdfs:label xml:lang="de">Robert Ryman</rdfs:label>
+    <rdfs:label xml:lang="ja">ロバート・ライマン</rdfs:label>
+    <rdfs:label xml:lang="es">Robert Ryman</rdfs:label>
+    <foaf:name xml:lang="en">Robert Ryman</foaf:name>
+    <foaf:name xml:lang="en">Ryman, Robert</foaf:name>
+    <ns0:name xml:lang="en">Robert Ryman</ns0:name>
+    <ns0:name xml:lang="en">Ryman, Robert</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jackson_Pollock"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Willem_de_Kooning"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Mark_Rothko"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernon_Chatman">
+    <rdfs:label xml:lang="en">Vernon Chatman</rdfs:label>
+    <rdfs:label xml:lang="ru">Четмэн, Вернон</rdfs:label>
+    <rdfs:label xml:lang="fr">Vernon Chatman</rdfs:label>
+    <foaf:name xml:lang="en">Vernon Chatman</foaf:name>
+    <foaf:name xml:lang="en">Chatman, Vernon</foaf:name>
+    <ns0:name xml:lang="en">PFFR</ns0:name>
+    <ns0:name xml:lang="en">Vernon Chatman</ns0:name>
+    <ns0:name xml:lang="en">Chatman, Vernon</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Pryor"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Lenny_Bruce"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Louis_C.K."/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yvonne_Georgi">
+    <rdfs:label xml:lang="en">Yvonne Georgi</rdfs:label>
+    <rdfs:label xml:lang="nl">Yvonne Georgi</rdfs:label>
+    <rdfs:label xml:lang="de">Yvonne Georgi</rdfs:label>
+    <foaf:name xml:lang="en">Georgi%2C Yvonne</foaf:name>
+    <foaf:name xml:lang="en">Yvonne Georgi</foaf:name>
+    <ns0:name xml:lang="en">Georgi%2C Yvonne</ns0:name>
+    <ns0:name xml:lang="en">Yvonne Georgi</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Mary_Wigman"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_McGee_(painter)">
+    <rdfs:label xml:lang="en">Charles McGee (painter)</rdfs:label>
+    <foaf:name xml:lang="en">McGee, Charles</foaf:name>
+    <foaf:name xml:lang="en">Charles McGee</foaf:name>
+    <ns0:name xml:lang="en">Charles McGee</ns0:name>
+    <ns0:name xml:lang="en">McGee, Charles</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jean_Dubuffet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corwin_Clairmont">
+    <rdfs:label xml:lang="en">Corwin Clairmont</rdfs:label>
+    <foaf:name xml:lang="en">Clairmont, Corwin</foaf:name>
+    <foaf:name xml:lang="en">Corky Clairmont</foaf:name>
+    <foaf:name xml:lang="en">Corwin Clairmont</foaf:name>
+    <ns0:name xml:lang="en">Clairmont, Corwin</ns0:name>
+    <ns0:name xml:lang="en">Corky Clairmont</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Joseph_Beuys"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gevorg_Bashinjaghian">
+    <rdfs:label xml:lang="ru">Башинджагян, Геворк Захарович</rdfs:label>
+    <rdfs:label xml:lang="en">Gevorg Bashinjaghian</rdfs:label>
+    <rdfs:label xml:lang="nl">Gevorg Basjinjagian</rdfs:label>
+    <rdfs:label xml:lang="fr">Gevork Bashindzhagian</rdfs:label>
+    <foaf:name xml:lang="en">Gevorg Bashinjaghian</foaf:name>
+    <foaf:name xml:lang="en">Bashinjaghian, Gevorg</foaf:name>
+    <ns0:name xml:lang="en">Gevorg Bashinjaghian</ns0:name>
+    <ns0:name xml:lang="en">Bashinjaghian, Gevorg</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jean-Baptiste-Camille_Corot"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Arkhip_Kuindzhi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barbara_Longhi">
+    <rdfs:label xml:lang="ru">Лонги, Барбара</rdfs:label>
+    <rdfs:label xml:lang="de">Barbara Longhi</rdfs:label>
+    <rdfs:label xml:lang="it">Barbara Longhi</rdfs:label>
+    <rdfs:label xml:lang="en">Barbara Longhi</rdfs:label>
+    <rdfs:label xml:lang="fr">Barbara Longhi</rdfs:label>
+    <foaf:name xml:lang="en">Longhi, Barbara</foaf:name>
+    <foaf:name xml:lang="en">Barbara Longhi</foaf:name>
+    <ns0:name xml:lang="en">Barbara Longhi</ns0:name>
+    <ns0:name xml:lang="en">Longhi, Barbara</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Antonio_da_Correggio"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Raphael"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barthélemy_Menn">
+    <rdfs:label xml:lang="pl">Barthélemy Menn</rdfs:label>
+    <rdfs:label xml:lang="de">Barthélemy Menn</rdfs:label>
+    <rdfs:label xml:lang="en">Barthélemy Menn</rdfs:label>
+    <rdfs:label xml:lang="fr">Barthélemy Menn</rdfs:label>
+    <foaf:name xml:lang="en">Barthelemy Menn</foaf:name>
+    <foaf:name xml:lang="en">Menn, Barthelemy</foaf:name>
+    <foaf:name xml:lang="en">Barthélemy Menn</foaf:name>
+    <ns0:name xml:lang="en">Barthélemy Menn</ns0:name>
+    <ns0:name xml:lang="en">Menn, Barthelemy</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jean-Baptiste-Camille_Corot"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bassem_Youssef">
+    <rdfs:label xml:lang="nl">Bassem Youssef</rdfs:label>
+    <rdfs:label xml:lang="fr">Bassem Youssef</rdfs:label>
+    <rdfs:label xml:lang="pt">Bassem Youssef</rdfs:label>
+    <rdfs:label xml:lang="de">Bassem Youssef</rdfs:label>
+    <rdfs:label xml:lang="ar">باسم يوسف</rdfs:label>
+    <rdfs:label xml:lang="en">Bassem Youssef</rdfs:label>
+    <rdfs:label xml:lang="it">Bassem Youssef</rdfs:label>
+    <foaf:name xml:lang="en">Bassem Youssef</foaf:name>
+    <foaf:name xml:lang="en">Youssef, Bassem</foaf:name>
+    <ns0:name xml:lang="en">Bassem Youssef</ns0:name>
+    <ns0:name xml:lang="en">Youssef, Bassem</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jon_Stewart"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Armand">
+    <rdfs:label xml:lang="en">David Armand</rdfs:label>
+    <foaf:name xml:lang="en">David Armand</foaf:name>
+    <foaf:name xml:lang="en">Armand, David</foaf:name>
+    <ns0:name xml:lang="en">Armand, David</ns0:name>
+    <ns0:name xml:lang="en">David Armand</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Billy_Connolly"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Park_(painter)">
+    <rdfs:label xml:lang="fr">David Park</rdfs:label>
+    <rdfs:label xml:lang="en">David Park (painter)</rdfs:label>
+    <foaf:name xml:lang="en">Park, David</foaf:name>
+    <foaf:name xml:lang="en">David Park</foaf:name>
+    <ns0:name xml:lang="en">Park, David</ns0:name>
+    <ns0:name xml:lang="en">David Park</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Richard_Diebenkorn"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Elmer_Bischoff"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domenico_Fetti">
+    <rdfs:label xml:lang="it">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="de">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="pl">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="pt">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="fr">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="en">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="es">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="ru">Фетти, Доменико</rdfs:label>
+    <foaf:name xml:lang="en">Domenico Fetti</foaf:name>
+    <foaf:name xml:lang="en">Fetti, Domenico</foaf:name>
+    <ns0:name xml:lang="en">Domenico Fetti</ns0:name>
+    <ns0:name xml:lang="en">Fetti, Domenico</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Peter_Paul_Rubens"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Schwartz_(comedian)">
+    <rdfs:label xml:lang="en">Eric Schwartz (comedian)</rdfs:label>
+    <foaf:name xml:lang="en">Schwartz, Eric</foaf:name>
+    <foaf:name xml:lang="en">Eric Schwartz</foaf:name>
+    <ns0:name xml:lang="en">Schwartz, Eric</ns0:name>
+    <ns0:name xml:lang="en">Eric Schwartz</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Eddie_Murphy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Florence_Wyle">
+    <rdfs:label xml:lang="es">Florence Wyle</rdfs:label>
+    <rdfs:label xml:lang="en">Florence Wyle</rdfs:label>
+    <foaf:name xml:lang="en">Florence Wyle</foaf:name>
+    <foaf:name xml:lang="en">Florence Norma Wyle</foaf:name>
+    <foaf:name xml:lang="en">Wyle, Florence</foaf:name>
+    <ns0:name xml:lang="en">Wyle, Florence</ns0:name>
+    <ns0:name xml:lang="en">Florence Norma Wyle</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Elizabeth_Bradford_Holbrook"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriël_Metsu">
+    <rdfs:label xml:lang="ar">غبرييل ميتسو</rdfs:label>
+    <rdfs:label xml:lang="ja">ハブリエル・メツー</rdfs:label>
+    <rdfs:label xml:lang="pt">Gabriël Metsu</rdfs:label>
+    <rdfs:label xml:lang="es">Gabriël Metsu</rdfs:label>
+    <rdfs:label xml:lang="it">Gabriel Metsu</rdfs:label>
+    <rdfs:label xml:lang="pl">Gabriel Metsu</rdfs:label>
+    <rdfs:label xml:lang="en">Gabriël Metsu</rdfs:label>
+    <rdfs:label xml:lang="fr">Gabriel Metsu</rdfs:label>
+    <rdfs:label xml:lang="de">Gabriel Metsu</rdfs:label>
+    <rdfs:label xml:lang="nl">Gabriël Metsu</rdfs:label>
+    <rdfs:label xml:lang="ru">Метсю, Габриель</rdfs:label>
+    <foaf:name xml:lang="en">Gabriel Metsu</foaf:name>
+    <foaf:name xml:lang="en">Gabriël Metsu</foaf:name>
+    <foaf:name xml:lang="en">Metsu, Gabriel</foaf:name>
+    <ns0:name xml:lang="en">Gabriël Metsu</ns0:name>
+    <ns0:name xml:lang="en">Metsu, Gabriel</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Johannes_Vermeer"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Johannes_Vermeer"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Bauer_(illustrator)">
+    <rdfs:label xml:lang="en">John Bauer (illustrator)</rdfs:label>
+    <rdfs:label xml:lang="ja">ヨン・バウエル</rdfs:label>
+    <rdfs:label xml:lang="it">John Bauer (pittore)</rdfs:label>
+    <rdfs:label xml:lang="es">John Bauer</rdfs:label>
+    <rdfs:label xml:lang="pl">John Bauer</rdfs:label>
+    <rdfs:label xml:lang="pt">John Bauer</rdfs:label>
+    <rdfs:label xml:lang="fr">John Bauer</rdfs:label>
+    <rdfs:label xml:lang="nl">John Bauer</rdfs:label>
+    <rdfs:label xml:lang="ru">Бауэр, Йон</rdfs:label>
+    <rdfs:label xml:lang="de">John Bauer</rdfs:label>
+    <foaf:name xml:lang="en">Bauer, John</foaf:name>
+    <foaf:name xml:lang="en">John Bauer</foaf:name>
+    <ns0:name xml:lang="en">Bauer, John</ns0:name>
+    <ns0:name xml:lang="en">John Bauer</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Kay_Nielsen"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Arthur_Rackham"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Carl_Larsson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_McLaughlin_(artist)">
+    <rdfs:label xml:lang="de">John McLaughlin (Maler)</rdfs:label>
+    <rdfs:label xml:lang="en">John McLaughlin (artist)</rdfs:label>
+    <rdfs:label xml:lang="ru">Маклафлин, Джон (художник)</rdfs:label>
+    <foaf:name xml:lang="en">McLaughlin, John</foaf:name>
+    <foaf:name xml:lang="en">John McLaughlin</foaf:name>
+    <ns0:name xml:lang="en">McLaughlin, John</ns0:name>
+    <ns0:name xml:lang="en">John McLaughlin</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Larry_Bell_(artist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Camp_(comedian)">
+    <rdfs:label xml:lang="en">Lee Camp (comedian)</rdfs:label>
+    <foaf:name xml:lang="en">Camp, Lee</foaf:name>
+    <foaf:name xml:lang="en">Lee Camp</foaf:name>
+    <ns0:name xml:lang="en">Lee Camp</ns0:name>
+    <ns0:name xml:lang="en">Camp, Lee</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Lewis_Black"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Bill_Hicks"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Chris_Rock"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jerry_Seinfeld"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matija_Vuković">
+    <rdfs:label xml:lang="en">Matija Vuković</rdfs:label>
+    <foaf:name xml:lang="en">Matija Vuković</foaf:name>
+    <foaf:name xml:lang="en">Matija Vukovic</foaf:name>
+    <foaf:name xml:lang="en">Vukovic, Matija</foaf:name>
+    <ns0:name xml:lang="en">Vukovic, Matija</ns0:name>
+    <ns0:name xml:lang="en">Matija Vuković</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Michelangelo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_David_(painter)">
+    <rdfs:label xml:lang="en">Michael David (painter)</rdfs:label>
+    <foaf:name xml:lang="en">Michael David</foaf:name>
+    <foaf:name xml:lang="en">Michael David Singer</foaf:name>
+    <foaf:name xml:lang="en">David, Michael</foaf:name>
+    <ns0:name xml:lang="en">Michael David Singer</ns0:name>
+    <ns0:name xml:lang="en">David, Michael</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jasper_Johns"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jackson_Pollock"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Vrubel">
+    <rdfs:label xml:lang="pl">Michaił Wrubel</rdfs:label>
+    <rdfs:label xml:lang="en">Mikhail Vrubel</rdfs:label>
+    <rdfs:label xml:lang="es">Mijaíl Vrúbel</rdfs:label>
+    <rdfs:label xml:lang="ja">ミハイル・ヴルーベリ</rdfs:label>
+    <rdfs:label xml:lang="pt">Mikhail Vrubel</rdfs:label>
+    <rdfs:label xml:lang="ru">Врубель, Михаил Александрович</rdfs:label>
+    <rdfs:label xml:lang="de">Michail Alexandrowitsch Wrubel</rdfs:label>
+    <rdfs:label xml:lang="fr">Mikhaïl Vroubel</rdfs:label>
+    <rdfs:label xml:lang="nl">Michail Vroebel</rdfs:label>
+    <rdfs:label xml:lang="it">Michail Aleksandrovič Vrubel'</rdfs:label>
+    <foaf:name xml:lang="en">Mikhail Vrubel</foaf:name>
+    <foaf:name xml:lang="en">Vrubel, Mikhail</foaf:name>
+    <ns0:name xml:lang="en">Mikhail Vrubel</ns0:name>
+    <ns0:name xml:lang="en">Vrubel, Mikhail</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Marc_Chagall"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Mikhail_Nesterov"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Ilya_Repin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeff_Roland">
+    <rdfs:label xml:lang="en">Jeff Roland</rdfs:label>
+    <foaf:name xml:lang="en">Roland, Jeff</foaf:name>
+    <foaf:name xml:lang="en">Jeff Roland</foaf:name>
+    <ns0:name xml:lang="en">Jeff Roland</ns0:name>
+    <ns0:name xml:lang="en">Roland, Jeff</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jean_Dubuffet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Cornell_Robinson">
+    <rdfs:label xml:lang="en">Andrew Cornell Robinson</rdfs:label>
+    <foaf:name xml:lang="en">Andrew Cornell Robinson</foaf:name>
+    <ns0:name xml:lang="en">Andrew Cornell Robinson</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Joseph_Beuys"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Grayson_Perry"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashton_Chen">
+    <rdfs:label xml:lang="en">Ashton Chen</rdfs:label>
+    <rdfs:label xml:lang="zh">释小龙</rdfs:label>
+    <foaf:name xml:lang="en">释小龙</foaf:name>
+    <foaf:name xml:lang="en">釋小龍</foaf:name>
+    <foaf:name xml:lang="en">Chen, Ashton; Chen, Xiaolong</foaf:name>
+    <foaf:name xml:lang="en">Ashton Chen</foaf:name>
+    <foaf:name xml:lang="en">Shī Xiǎolóng</foaf:name>
+    <foaf:name xml:lang="en">Sik1 Siu2 Lung4</foaf:name>
+    <ns0:name xml:lang="en">Chen, Ashton; Chen, Xiaolong</ns0:name>
+    <ns0:name xml:lang="en">Ashton Chen</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jet_Li"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jackie_Chan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ben_Aronson">
+    <rdfs:label xml:lang="fr">Ben Aronson</rdfs:label>
+    <rdfs:label xml:lang="en">Ben Aronson</rdfs:label>
+    <foaf:name xml:lang="en">File:Closed-Ramp-2010,-84x74-wikipedia.jpg</foaf:name>
+    <foaf:name xml:lang="en">Ben Aronson</foaf:name>
+    <foaf:name xml:lang="en">Aronson, Ben</foaf:name>
+    <ns0:name xml:lang="en">Ben Aronson
+
+File:Closed-Ramp-2010,-84x74-wikipedia.jpg</ns0:name>
+    <ns0:name xml:lang="en">Aronson, Ben</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Edward_Hopper"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bobby_Collins_(comedian)">
+    <rdfs:label xml:lang="en">Bobby Collins (comedian)</rdfs:label>
+    <foaf:name xml:lang="en">Collins, Bobby</foaf:name>
+    <foaf:name xml:lang="en">Bobby Collins</foaf:name>
+    <ns0:name xml:lang="en">Collins, Bobby</ns0:name>
+    <ns0:name xml:lang="en">Bobby Collins</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Redd_Foxx"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Red_Skelton"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Pryor"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_D'Elia">
+    <rdfs:label xml:lang="en">Chris D'Elia</rdfs:label>
+    <rdfs:label xml:lang="it">Chris D'Elia</rdfs:label>
+    <rdfs:label xml:lang="de">Chris D’Elia</rdfs:label>
+    <foaf:name xml:lang="en">Delia, Chris</foaf:name>
+    <foaf:name xml:lang="en">Chris Delia</foaf:name>
+    <foaf:name xml:lang="en">Chris D'Elia</foaf:name>
+    <ns0:name xml:lang="en">Chris D'Elia</ns0:name>
+    <ns0:name xml:lang="en">Delia, Chris</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Eddie_Murphy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugenio_de_Arriba">
+    <rdfs:label xml:lang="en">Eugenio de Arriba</rdfs:label>
+    <foaf:name xml:lang="en">Eugenio de Arriba</foaf:name>
+    <foaf:name xml:lang="en">Arriba, Eugenio de</foaf:name>
+    <ns0:name xml:lang="en">Arriba, Eugenio de</ns0:name>
+    <ns0:name xml:lang="en">Eugenio de Arriba</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Claude_Monet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Weissbort">
+    <rdfs:label xml:lang="en">George Weissbort</rdfs:label>
+    <foaf:name xml:lang="en">George Weissbort</foaf:name>
+    <foaf:name xml:lang="en">Weissbort, George</foaf:name>
+    <ns0:name xml:lang="en">George Weissbort</ns0:name>
+    <ns0:name xml:lang="en">Weissbort, George</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Diego_Velázquez"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Johannes_Vermeer"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jean-Baptiste-Camille_Corot"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilene_Meyer">
+    <rdfs:label xml:lang="en">Ilene Meyer</rdfs:label>
+    <foaf:name xml:lang="en">Ilene Meyer</foaf:name>
+    <foaf:name xml:lang="en">Meyer, Ilene</foaf:name>
+    <ns0:name xml:lang="en">Ilene Meyer</ns0:name>
+    <ns0:name xml:lang="en">Meyer, Ilene</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Justice_Howard">
+    <rdfs:label xml:lang="en">Justice Howard</rdfs:label>
+    <foaf:name xml:lang="en">Justice Howard</foaf:name>
+    <foaf:name xml:lang="en">Howard, Justice</foaf:name>
+    <ns0:name xml:lang="en">Justice Howard</ns0:name>
+    <ns0:name xml:lang="en">Howard, Justice</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Robert_Mapplethorpe"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Douglas_Wiggins">
+    <rdfs:label xml:lang="en">Kim Douglas Wiggins</rdfs:label>
+    <foaf:name xml:lang="en">Kim Douglas Wiggins</foaf:name>
+    <foaf:name xml:lang="en">Wiggins, Kim Douglas</foaf:name>
+    <ns0:name xml:lang="en">Wiggins, Kim Douglas</ns0:name>
+    <ns0:name xml:lang="en">Kim Douglas Wiggins</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Howard_Pyle"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikey_Mileos">
+    <rdfs:label xml:lang="en">Mikey Mileos</rdfs:label>
+    <foaf:name xml:lang="en">Mikey Mileos</foaf:name>
+    <foaf:name xml:lang="en">Mileos, Mikey</foaf:name>
+    <ns0:name xml:lang="en">Mikey Mileos</ns0:name>
+    <ns0:name xml:lang="en">Mileos, Mikey</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Mitch_Hedberg"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Bill_Hicks"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Louis_C.K."/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nathan_Wyburn">
+    <rdfs:label xml:lang="en">Nathan Wyburn</rdfs:label>
+    <foaf:name xml:lang="en">Nathan Wyburn</foaf:name>
+    <foaf:name xml:lang="en">Wyburn, Nathan</foaf:name>
+    <ns0:name xml:lang="en">Nathan Wyburn</ns0:name>
+    <ns0:name xml:lang="en">Wyburn, Nathan</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Andy_Warhol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryan_Singer">
+    <rdfs:label xml:lang="en">Ryan Singer</rdfs:label>
+    <foaf:name xml:lang="en">Ryan Singer</foaf:name>
+    <ns0:name xml:lang="en">Ryan Singer</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Andy_Warhol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scott_Gustafson">
+    <rdfs:label xml:lang="en">Scott Gustafson</rdfs:label>
+    <foaf:name xml:lang="en">Scott Gustafson</foaf:name>
+    <foaf:name xml:lang="en">Gustafson, Scott</foaf:name>
+    <ns0:name xml:lang="en">Scott Gustafson</ns0:name>
+    <ns0:name xml:lang="en">Gustafson, Scott</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Arthur_Rackham"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/N._C._Wyeth"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Norman_Rockwell"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hedwig_Gorski">
+    <rdfs:label xml:lang="fr">Hedwig Gorski</rdfs:label>
+    <rdfs:label xml:lang="en">Hedwig Gorski</rdfs:label>
+    <foaf:name xml:lang="en">Gorski, Hedwig</foaf:name>
+    <foaf:name xml:lang="en">Hedwig Gorski</foaf:name>
+    <ns0:name xml:lang="en">Gorski, Hedwig</ns0:name>
+    <ns0:name xml:lang="en">Hedwig Gorski</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Patti_Smith"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cora_Kelley_Ward">
+    <rdfs:label xml:lang="en">Cora Kelley Ward</rdfs:label>
+    <foaf:name xml:lang="en">Ward, Cora Kelley</foaf:name>
+    <foaf:name xml:lang="en">Cora Kelley Ward</foaf:name>
+    <ns0:name xml:lang="en">Ward, Cora Kelley</ns0:name>
+    <ns0:name xml:lang="en">Cora Kelley Ward</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Clement_Greenberg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Hofmann">
+    <rdfs:label xml:lang="fr">Hans Hofmann</rdfs:label>
+    <rdfs:label xml:lang="de">Hans Hofmann (Maler)</rdfs:label>
+    <rdfs:label xml:lang="en">Hans Hofmann</rdfs:label>
+    <rdfs:label xml:lang="nl">Hans Hofmann</rdfs:label>
+    <rdfs:label xml:lang="es">Hans Hofmann</rdfs:label>
+    <rdfs:label xml:lang="ja">ハンス・ホフマン</rdfs:label>
+    <rdfs:label xml:lang="ru">Гофман, Ганс</rdfs:label>
+    <rdfs:label xml:lang="it">Hans Hofmann</rdfs:label>
+    <rdfs:label xml:lang="ar">هانس هوفمان</rdfs:label>
+    <foaf:name xml:lang="en">Hans Hofmann</foaf:name>
+    <foaf:name xml:lang="en">Hofmann, Hans</foaf:name>
+    <ns0:name xml:lang="en">Hans Hofmann</ns0:name>
+    <ns0:name xml:lang="en">Hofmann, Hans</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Helen_Frankenthaler"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Lee_Krasner"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Clement_Greenberg"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Henri_Matisse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nabil_Abdul_Rashid">
+    <rdfs:label xml:lang="en">Nabil Abdul Rashid</rdfs:label>
+    <foaf:name xml:lang="en">Nabil Abdul Rashid</foaf:name>
+    <foaf:name xml:lang="en">Abdul Rashid, Nabil</foaf:name>
+    <ns0:name xml:lang="en">Abdul Rashid, Nabil</ns0:name>
+    <ns0:name xml:lang="en">Nabil Abdul Rashid</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Chris_Rock"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Dave_Chappelle"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Richard_Pryor"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/François_Pompon">
+    <rdfs:label xml:lang="es">François Pompon</rdfs:label>
+    <rdfs:label xml:lang="en">François Pompon</rdfs:label>
+    <rdfs:label xml:lang="fr">François Pompon</rdfs:label>
+    <rdfs:label xml:lang="ar">فرانوسا بومبون</rdfs:label>
+    <rdfs:label xml:lang="de">François Pompon</rdfs:label>
+    <rdfs:label xml:lang="nl">François Pompon</rdfs:label>
+    <rdfs:label xml:lang="ja">フランソワ・ポンポン</rdfs:label>
+    <foaf:name xml:lang="en">Francois Pompon</foaf:name>
+    <foaf:name xml:lang="en">François Pompon</foaf:name>
+    <foaf:name xml:lang="en">Pompon, Francois</foaf:name>
+    <ns0:name xml:lang="en">François Pompon</ns0:name>
+    <ns0:name xml:lang="en">Pompon, Francois</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Constantin_Brâncuși"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Merric_Boyd">
+    <rdfs:label xml:lang="en">Merric Boyd</rdfs:label>
+    <foaf:name xml:lang="en">Boyd, Merric</foaf:name>
+    <foaf:name xml:lang="en">Merric Boyd</foaf:name>
+    <ns0:name xml:lang="en">Merric Boyd</ns0:name>
+    <ns0:name xml:lang="en">Boyd, Merric</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/John_Perceval"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Eisenhut">
+    <rdfs:label xml:lang="en">Franz Eisenhut</rdfs:label>
+    <foaf:name xml:lang="en">Franz Eisenhut</foaf:name>
+    <foaf:name xml:lang="en">Eisenhut, Franz</foaf:name>
+    <ns0:name xml:lang="en">Franz Eisenhut</ns0:name>
+    <ns0:name xml:lang="en">Eisenhut, Franz</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Paja_Jovanović"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paja_Jovanović"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Dean_Pruner">
+    <rdfs:label xml:lang="en">James Dean Pruner</rdfs:label>
+    <foaf:name xml:lang="en">James Dean Pruner</foaf:name>
+    <foaf:name xml:lang="en">Pruner, James Dean</foaf:name>
+    <ns0:name xml:lang="en">James Dean Pruner</ns0:name>
+    <ns0:name xml:lang="en">Pruner, James Dean</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Joseph_Cornell"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Robert_Rauschenberg"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Matulka">
+    <rdfs:label xml:lang="en">Jan Matulka</rdfs:label>
+    <foaf:name xml:lang="en">Jan Matulka</foaf:name>
+    <foaf:name xml:lang="en">Matulka, Jan</foaf:name>
+    <ns0:name xml:lang="en">Jan Matulka</ns0:name>
+    <ns0:name xml:lang="en">Matulka, Jan</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/David_Smith_(sculptor)"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ngwe_Gaing">
+    <rdfs:label xml:lang="en">Ngwe Gaing</rdfs:label>
+    <foaf:name xml:lang="en">Ngwe Gaing</foaf:name>
+    <ns0:name xml:lang="en">Ngwe Gaing</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Lun_Gywe"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/San_Win"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ma_Jir_Bo">
+    <rdfs:label xml:lang="en">Ma Jir Bo</rdfs:label>
+    <rdfs:label xml:lang="zh">馬家寶</rdfs:label>
+    <foaf:name xml:lang="en">Jir Bo 馬家寶 Ma</foaf:name>
+    <foaf:name xml:lang="en">Ma, Jir Bo 馬家寶</foaf:name>
+    <foaf:name xml:lang="en">Ma Jir-Bo 馬家寶</foaf:name>
+    <ns0:name xml:lang="en">Ma, Jir Bo 馬家寶</ns0:name>
+    <ns0:name xml:lang="en">Ma Jir-Bo 馬家寶</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/John_Singer_Sargent"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/John_Constable"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Božidar_Jakac">
+    <rdfs:label xml:lang="en">Božidar Jakac</rdfs:label>
+    <foaf:name xml:lang="en">Jakac, Bozidar</foaf:name>
+    <foaf:name xml:lang="en">Božidar Jakac</foaf:name>
+    <foaf:name xml:lang="en">Bozidar Jakac</foaf:name>
+    <ns0:name xml:lang="en">Jakac, Bozidar</ns0:name>
+    <ns0:name xml:lang="en">Božidar Jakac</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Edvard_Munch"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choy_Weng_Yang">
+    <rdfs:label xml:lang="en">Choy Weng Yang</rdfs:label>
+    <foaf:name xml:lang="en">蔡荣恩</foaf:name>
+    <foaf:name xml:lang="en">Choy Weng Yang</foaf:name>
+    <ns0:name xml:lang="en">蔡荣恩</ns0:name>
+    <ns0:name xml:lang="en">Choy Weng Yang</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Cézanne"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Claude_Monet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elenore_Abbott">
+    <rdfs:label xml:lang="en">Elenore Abbott</rdfs:label>
+    <foaf:name xml:lang="en">Elenore Abbott</foaf:name>
+    <foaf:name xml:lang="en">Abbott, Elenore</foaf:name>
+    <ns0:name xml:lang="en">Elenore Abbott</ns0:name>
+    <ns0:name xml:lang="en">Abbott, Elenore</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Howard_Pyle"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Herickx">
+    <rdfs:label xml:lang="en">Gordon Herickx</rdfs:label>
+    <foaf:name xml:lang="en">Herickx, Gordon</foaf:name>
+    <foaf:name xml:lang="en">Gordon Herickx</foaf:name>
+    <ns0:name xml:lang="en">Herickx, Gordon</ns0:name>
+    <ns0:name xml:lang="en">Gordon Herickx</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Constantin_Brâncuși"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ho_Ho_Ying">
+    <rdfs:label xml:lang="en">Ho Ho Ying</rdfs:label>
+    <foaf:name xml:lang="en">何和应</foaf:name>
+    <foaf:name xml:lang="en">Ho Ying Ho</foaf:name>
+    <foaf:name xml:lang="en">Ho, Ho Ying</foaf:name>
+    <foaf:name xml:lang="en">Ho Ho Ying</foaf:name>
+    <ns0:name xml:lang="en">何和应</ns0:name>
+    <ns0:name xml:lang="en">Ho, Ho Ying</ns0:name>
+    <ns0:name xml:lang="en">Ho Ho Ying</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jackson_Pollock"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rick_Bartow">
+    <rdfs:label xml:lang="en">Rick Bartow</rdfs:label>
+    <foaf:name xml:lang="en">Rick Bartow</foaf:name>
+    <foaf:name xml:lang="en">Bartow, Rick</foaf:name>
+    <ns0:name xml:lang="en">Rick Bartow</ns0:name>
+    <ns0:name xml:lang="en">Bartow, Rick</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Marc_Chagall"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chuck_Connelly">
+    <rdfs:label xml:lang="en">Chuck Connelly</rdfs:label>
+    <foaf:name xml:lang="en">Chuck Connelly</foaf:name>
+    <foaf:name xml:lang="en">Connelly, Chuck</foaf:name>
+    <ns0:name xml:lang="en">Connelly, Chuck</ns0:name>
+    <ns0:name xml:lang="en">Chuck Connelly</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jackson_Pollock"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Willem_de_Kooning"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cleve_Gray">
+    <rdfs:label xml:lang="en">Cleve Gray</rdfs:label>
+    <foaf:name xml:lang="en">Cleve Gray</foaf:name>
+    <foaf:name xml:lang="en">Gray, Cleve</foaf:name>
+    <ns0:name xml:lang="en">Cleve Gray</ns0:name>
+    <ns0:name xml:lang="en">Gray, Cleve</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Mark_Rothko"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Jackson_Pollock"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Helen_Frankenthaler"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dorothy_Annan">
+    <rdfs:label xml:lang="en">Dorothy Annan</rdfs:label>
+    <foaf:name xml:lang="en">Dorothy Annan</foaf:name>
+    <foaf:name xml:lang="en">Annan, Dorothy</foaf:name>
+    <ns0:name xml:lang="en">Dorothy Annan</ns0:name>
+    <ns0:name xml:lang="en">Annan, Dorothy</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Whelan_Betts">
+    <rdfs:label xml:lang="en">Anna Whelan Betts</rdfs:label>
+    <foaf:name xml:lang="en">Anna Whelan Betts</foaf:name>
+    <foaf:name xml:lang="en">Betts, Anna Whelan</foaf:name>
+    <ns0:name xml:lang="en">Anna Whelan Betts</ns0:name>
+    <ns0:name xml:lang="en">Betts, Anna Whelan</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Howard_Pyle"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elise_Primavera">
+    <rdfs:label xml:lang="en">Elise Primavera</rdfs:label>
+    <foaf:name xml:lang="en">Primavera, Elise</foaf:name>
+    <foaf:name xml:lang="en">Elise Primavera</foaf:name>
+    <ns0:name xml:lang="en">Primavera, Elise</ns0:name>
+    <ns0:name xml:lang="en">Elise Primavera</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Howard_Pyle"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Michelangelo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hendrik_Faydherbe">
+    <rdfs:label xml:lang="nl">Hendrik Faydherbe</rdfs:label>
+    <rdfs:label xml:lang="fr">Hendrick Fayd'herbe</rdfs:label>
+    <rdfs:label xml:lang="en">Hendrik Faydherbe</rdfs:label>
+    <foaf:name xml:lang="en">Faydherbe, Hendrik</foaf:name>
+    <foaf:name xml:lang="en">Hendrik Faydherbe</foaf:name>
+    <ns0:name xml:lang="en">Hendrik Faydherbe</ns0:name>
+    <ns0:name xml:lang="en">Faydherbe, Hendrik</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Lucas_Faydherbe"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isaac_Israëls">
+    <rdfs:label xml:lang="ru">Исраэлс, Исаак</rdfs:label>
+    <rdfs:label xml:lang="de">Isaac Israëls</rdfs:label>
+    <rdfs:label xml:lang="en">Isaac Israëls</rdfs:label>
+    <rdfs:label xml:lang="es">Isaac Israëls</rdfs:label>
+    <rdfs:label xml:lang="it">Isaac Israëls</rdfs:label>
+    <rdfs:label xml:lang="nl">Isaac Israëls</rdfs:label>
+    <rdfs:label xml:lang="fr">Isaac Israëls</rdfs:label>
+    <foaf:name xml:lang="en">Isaac Israels</foaf:name>
+    <foaf:name xml:lang="en">Israels, Isaac</foaf:name>
+    <foaf:name xml:lang="en">Isaac Israëls</foaf:name>
+    <ns0:name xml:lang="en">Isaac Israëls</ns0:name>
+    <ns0:name xml:lang="en">Israels, Isaac</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Henri_de_Toulouse-Lautrec"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Mason_(sculptor)">
+    <rdfs:label xml:lang="en">Paul Mason (sculptor)</rdfs:label>
+    <foaf:name xml:lang="en">Mason, Paul</foaf:name>
+    <foaf:name xml:lang="en">Paul Mason</foaf:name>
+    <ns0:name xml:lang="en">Mason, Paul</ns0:name>
+    <ns0:name xml:lang="en">Paul Mason</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Henry_Moore"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robbie_Bonham">
+    <rdfs:label xml:lang="en">Robbie Bonham</rdfs:label>
+    <foaf:name xml:lang="en">Bonham, Robbie</foaf:name>
+    <foaf:name xml:lang="en">Robbie Bonham</foaf:name>
+    <ns0:name xml:lang="en">Robbie Bonham</ns0:name>
+    <ns0:name xml:lang="en">Bonham, Robbie</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Dylan_Moran"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Denis_Leary"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Bill_Hicks"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Billy_Connolly"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Cole">
+    <rdfs:label xml:lang="pl">Thomas Cole</rdfs:label>
+    <rdfs:label xml:lang="fr">Thomas Cole</rdfs:label>
+    <rdfs:label xml:lang="nl">Thomas Cole</rdfs:label>
+    <rdfs:label xml:lang="zh">托馬斯·科爾</rdfs:label>
+    <rdfs:label xml:lang="en">Thomas Cole</rdfs:label>
+    <rdfs:label xml:lang="it">Thomas Cole</rdfs:label>
+    <rdfs:label xml:lang="es">Thomas Cole</rdfs:label>
+    <rdfs:label xml:lang="ja">トマス・コール</rdfs:label>
+    <rdfs:label xml:lang="ru">Коул, Томас</rdfs:label>
+    <rdfs:label xml:lang="pt">Thomas Cole</rdfs:label>
+    <rdfs:label xml:lang="de">Thomas Cole</rdfs:label>
+    <foaf:name xml:lang="en">Thomas Cole</foaf:name>
+    <foaf:name xml:lang="en">Cole, Thomas</foaf:name>
+    <ns0:name xml:lang="en">Cole, Thomas</ns0:name>
+    <ns0:name xml:lang="en">Thomas Cole</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Frederic_Edwin_Church"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Asher_Brown_Durand"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Christopher">
+    <rdfs:label xml:lang="en">Tom Christopher</rdfs:label>
+    <foaf:name xml:lang="en">Christopher, Tom</foaf:name>
+    <foaf:name xml:lang="en">Tom Christopher</foaf:name>
+    <ns0:name xml:lang="en">Christopher, Tom</ns0:name>
+    <ns0:name xml:lang="en">Tom Christopher</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Andy_Warhol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosalind_Solomon">
+    <rdfs:label xml:lang="en">Rosalind Solomon</rdfs:label>
+    <foaf:name xml:lang="en">Rosalind Solomon</foaf:name>
+    <foaf:name xml:lang="en">Rosalind Fox Solomon</foaf:name>
+    <foaf:name xml:lang="en">Solomon, Rosalind</foaf:name>
+    <ns0:name xml:lang="en">Rosalind Fox Solomon</ns0:name>
+    <ns0:name xml:lang="en">Solomon, Rosalind</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Diane_Arbus"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duccio">
+    <rdfs:label xml:lang="ru">Дуччо ди Буонинсенья</rdfs:label>
+    <rdfs:label xml:lang="es">Duccio</rdfs:label>
+    <rdfs:label xml:lang="ja">ドゥッチョ・ディ・ブオニンセーニャ</rdfs:label>
+    <rdfs:label xml:lang="zh">杜喬·迪·博尼塞尼亞</rdfs:label>
+    <rdfs:label xml:lang="pt">Duccio</rdfs:label>
+    <rdfs:label xml:lang="de">Duccio di Buoninsegna</rdfs:label>
+    <rdfs:label xml:lang="fr">Duccio di Buoninsegna</rdfs:label>
+    <rdfs:label xml:lang="it">Duccio di Buoninsegna</rdfs:label>
+    <rdfs:label xml:lang="nl">Duccio di Buoninsegna</rdfs:label>
+    <rdfs:label xml:lang="pl">Duccio di Buoninsegna</rdfs:label>
+    <rdfs:label xml:lang="en">Duccio</rdfs:label>
+    <foaf:name xml:lang="en">Duccio</foaf:name>
+    <ns0:name xml:lang="en">Duccio</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Simone_Martini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Forbes_(artist)">
+    <rdfs:label xml:lang="en">Elizabeth Forbes (artist)</rdfs:label>
+    <rdfs:label xml:lang="de">Elizabeth Adela Forbes</rdfs:label>
+    <rdfs:label xml:lang="ru">Форбс, Элизабет Адела</rdfs:label>
+    <rdfs:label xml:lang="nl">Elizabeth Forbes</rdfs:label>
+    <foaf:name xml:lang="en">Elizabeth Forbes</foaf:name>
+    <foaf:name xml:lang="en">Forbes, Elizabeth</foaf:name>
+    <ns0:name xml:lang="en">Elizabeth Forbes</ns0:name>
+    <ns0:name xml:lang="en">Forbes, Elizabeth</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/James_Abbott_McNeill_Whistler"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilya_Bolotowsky">
+    <rdfs:label xml:lang="en">Ilya Bolotowsky</rdfs:label>
+    <rdfs:label xml:lang="pl">Ilya Bolotowski</rdfs:label>
+    <rdfs:label xml:lang="ru">Болотовский, Илья Юльевич</rdfs:label>
+    <foaf:name xml:lang="en">Ilya Bolotowsky</foaf:name>
+    <foaf:name xml:lang="en">Bolotowsky, Ilya</foaf:name>
+    <ns0:name xml:lang="en">Ilya Bolotowsky</ns0:name>
+    <ns0:name xml:lang="en">Bolotowsky, Ilya</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Kenneth_Noland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeong_Hyeong-don">
+    <rdfs:label xml:lang="ja">チョン・ヒョンドン</rdfs:label>
+    <rdfs:label xml:lang="en">Jeong Hyeong-don</rdfs:label>
+    <rdfs:label xml:lang="zh">鄭亨敦</rdfs:label>
+    <foaf:name xml:lang="en">Jeong, Hyeong-Don</foaf:name>
+    <foaf:name xml:lang="en">Hyeong-Don Jeong</foaf:name>
+    <foaf:name xml:lang="en">Jeong Hyeong-don</foaf:name>
+    <ns0:name xml:lang="en">Jeong Hyeong-don</ns0:name>
+    <ns0:name xml:lang="en">Jeong, Hyeong-Don</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Yoo_Jae-suk"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Gerrard_(artist)">
+    <rdfs:label xml:lang="en">John Gerrard (artist)</rdfs:label>
+    <foaf:name xml:lang="en">Gerrard, John</foaf:name>
+    <foaf:name xml:lang="en">John Gerrard</foaf:name>
+    <ns0:name xml:lang="en">Gerrard, John</ns0:name>
+    <ns0:name xml:lang="en">John Gerrard</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Bruce_Nauman"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Roni_Horn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ricky_Gervais">
+    <rdfs:label xml:lang="ru">Джервейс, Рики</rdfs:label>
+    <rdfs:label xml:lang="pl">Ricky Gervais</rdfs:label>
+    <rdfs:label xml:lang="en">Ricky Gervais</rdfs:label>
+    <rdfs:label xml:lang="ar">ريكي جيرفيه</rdfs:label>
+    <rdfs:label xml:lang="fr">Ricky Gervais</rdfs:label>
+    <rdfs:label xml:lang="ja">リッキー・ジャーヴェイス</rdfs:label>
+    <rdfs:label xml:lang="it">Ricky Gervais</rdfs:label>
+    <rdfs:label xml:lang="de">Ricky Gervais</rdfs:label>
+    <rdfs:label xml:lang="nl">Ricky Gervais</rdfs:label>
+    <rdfs:label xml:lang="es">Ricky Gervais</rdfs:label>
+    <rdfs:label xml:lang="pt">Ricky Gervais</rdfs:label>
+    <foaf:name xml:lang="en">Gervais, Ricky</foaf:name>
+    <foaf:name xml:lang="en">Ricky Gervais</foaf:name>
+    <ns0:name xml:lang="en">Gervais, Ricky</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Groucho_Marx"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winslow_Homer">
+    <rdfs:label xml:lang="ar">وينسلو هومر</rdfs:label>
+    <rdfs:label xml:lang="en">Winslow Homer</rdfs:label>
+    <rdfs:label xml:lang="de">Winslow Homer</rdfs:label>
+    <rdfs:label xml:lang="it">Winslow Homer</rdfs:label>
+    <rdfs:label xml:lang="es">Winslow Homer</rdfs:label>
+    <rdfs:label xml:lang="fr">Winslow Homer</rdfs:label>
+    <rdfs:label xml:lang="nl">Winslow Homer</rdfs:label>
+    <rdfs:label xml:lang="ja">ウィンスロー・ホーマー</rdfs:label>
+    <rdfs:label xml:lang="pl">Winslow Homer</rdfs:label>
+    <rdfs:label xml:lang="ru">Хомер, Уинслоу</rdfs:label>
+    <rdfs:label xml:lang="pt">Winslow Homer</rdfs:label>
+    <rdfs:label xml:lang="zh">温斯洛·霍默</rdfs:label>
+    <foaf:name xml:lang="en">Winslow Homer</foaf:name>
+    <foaf:name xml:lang="en">Homer, Winslow</foaf:name>
+    <ns0:name xml:lang="en">Homer, Winslow</ns0:name>
+    <ns0:name xml:lang="en">Winslow Homer</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Robert_Henri"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Frederic_Remington"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Howard_Pyle"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/N._C._Wyeth"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles-François_Daubigny">
+    <rdfs:label xml:lang="de">Charles-François Daubigny</rdfs:label>
+    <rdfs:label xml:lang="pt">Charles-François Daubigny</rdfs:label>
+    <rdfs:label xml:lang="ru">Добиньи, Шарль-Франсуа</rdfs:label>
+    <rdfs:label xml:lang="ja">シャルル＝フランソワ・ドービニー</rdfs:label>
+    <rdfs:label xml:lang="zh">夏尔-弗朗索瓦·多比尼</rdfs:label>
+    <rdfs:label xml:lang="nl">Charles-François Daubigny</rdfs:label>
+    <rdfs:label xml:lang="pl">Charles-François Daubigny</rdfs:label>
+    <rdfs:label xml:lang="fr">Charles-François Daubigny</rdfs:label>
+    <rdfs:label xml:lang="es">Charles-François Daubigny</rdfs:label>
+    <rdfs:label xml:lang="it">Charles-François Daubigny</rdfs:label>
+    <rdfs:label xml:lang="en">Charles-François Daubigny</rdfs:label>
+    <foaf:name xml:lang="en">Charles-Francois Daubigny</foaf:name>
+    <foaf:name xml:lang="en">Charles-François Daubigny</foaf:name>
+    <foaf:name xml:lang="en">Daubigny, Charles-Francois</foaf:name>
+    <ns0:name xml:lang="en">Charles-François Daubigny</ns0:name>
+    <ns0:name xml:lang="en">Daubigny, Charles-Francois</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Claude_Monet"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Paul_Cézanne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Lorrain">
+    <rdfs:label xml:lang="ja">クロード・ロラン</rdfs:label>
+    <rdfs:label xml:lang="ru">Лоррен, Клод</rdfs:label>
+    <rdfs:label xml:lang="pl">Claude Lorrain</rdfs:label>
+    <rdfs:label xml:lang="pt">Claude Lorrain</rdfs:label>
+    <rdfs:label xml:lang="de">Claude Lorrain</rdfs:label>
+    <rdfs:label xml:lang="es">Claudio de Lorena</rdfs:label>
+    <rdfs:label xml:lang="it">Claude Lorrain</rdfs:label>
+    <rdfs:label xml:lang="zh">克罗德·洛林</rdfs:label>
+    <rdfs:label xml:lang="nl">Claude Lorrain</rdfs:label>
+    <rdfs:label xml:lang="en">Claude Lorrain</rdfs:label>
+    <rdfs:label xml:lang="fr">Claude Gellée</rdfs:label>
+    <foaf:name xml:lang="en">Claude Lorrain</foaf:name>
+    <ns0:name xml:lang="en">Claude Lorrain</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/J._M._W._Turner"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/John_Constable"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaim_Soutine">
+    <rdfs:label xml:lang="en">Chaim Soutine</rdfs:label>
+    <rdfs:label xml:lang="ja">シャイム・スーティン</rdfs:label>
+    <rdfs:label xml:lang="nl">Chaïm Soutine</rdfs:label>
+    <rdfs:label xml:lang="zh">柴姆·苏丁</rdfs:label>
+    <rdfs:label xml:lang="de">Chaim Soutine</rdfs:label>
+    <rdfs:label xml:lang="es">Chaim Soutine</rdfs:label>
+    <rdfs:label xml:lang="pt">Chaïm Soutine</rdfs:label>
+    <rdfs:label xml:lang="pl">Chaim Soutine</rdfs:label>
+    <rdfs:label xml:lang="it">Chaïm Soutine</rdfs:label>
+    <rdfs:label xml:lang="ru">Сутин, Хаим Соломонович</rdfs:label>
+    <rdfs:label xml:lang="fr">Chaïm Soutine</rdfs:label>
+    <foaf:name xml:lang="en">Chaim Soutine</foaf:name>
+    <foaf:name xml:lang="en">Soutine, Chaim</foaf:name>
+    <foaf:name xml:lang="en">Chaïm Soutine</foaf:name>
+    <ns0:name xml:lang="en">Soutine, Chaim</ns0:name>
+    <ns0:name xml:lang="en">Chaïm Soutine</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Jean_Dubuffet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eadweard_Muybridge">
+    <rdfs:label xml:lang="ja">エドワード・マイブリッジ</rdfs:label>
+    <rdfs:label xml:lang="en">Eadweard Muybridge</rdfs:label>
+    <rdfs:label xml:lang="it">Eadweard Muybridge</rdfs:label>
+    <rdfs:label xml:lang="es">Eadweard Muybridge</rdfs:label>
+    <rdfs:label xml:lang="zh">埃德沃德·迈布里奇</rdfs:label>
+    <rdfs:label xml:lang="pt">Eadweard Muybridge</rdfs:label>
+    <rdfs:label xml:lang="ru">Мейбридж, Эдвард</rdfs:label>
+    <rdfs:label xml:lang="nl">Eadweard Muybridge</rdfs:label>
+    <rdfs:label xml:lang="pl">Eadweard Muybridge</rdfs:label>
+    <rdfs:label xml:lang="de">Eadweard Muybridge</rdfs:label>
+    <rdfs:label xml:lang="fr">Eadweard Muybridge</rdfs:label>
+    <rdfs:label xml:lang="ar">إدوارد مويبريدج</rdfs:label>
+    <foaf:name xml:lang="en">Eadweard Muybridge</foaf:name>
+    <foaf:name xml:lang="en">Muybridge, Eadweard</foaf:name>
+    <ns0:name xml:lang="en">Eadweard Muybridge</ns0:name>
+    <ns0:name xml:lang="en">Muybridge, Eadweard</ns0:name>
+    <ns0:name xml:lang="en">It Started With Muybridge</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Thomas_Eakins"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edgar_Degas">
+    <rdfs:label xml:lang="nl">Edgar Degas</rdfs:label>
+    <rdfs:label xml:lang="ru">Дега, Эдгар</rdfs:label>
+    <rdfs:label xml:lang="ar">إدغار ديغا</rdfs:label>
+    <rdfs:label xml:lang="pl">Edgar Degas</rdfs:label>
+    <rdfs:label xml:lang="ja">エドガー・ドガ</rdfs:label>
+    <rdfs:label xml:lang="de">Edgar Degas</rdfs:label>
+    <rdfs:label xml:lang="pt">Edgar Degas</rdfs:label>
+    <rdfs:label xml:lang="fr">Edgar Degas</rdfs:label>
+    <rdfs:label xml:lang="it">Edgar Degas</rdfs:label>
+    <rdfs:label xml:lang="en">Edgar Degas</rdfs:label>
+    <rdfs:label xml:lang="es">Edgar Degas</rdfs:label>
+    <rdfs:label xml:lang="zh">埃德加·德加</rdfs:label>
+    <foaf:name xml:lang="en">Edgar Degas</foaf:name>
+    <foaf:name xml:lang="en">Degas, Edgar</foaf:name>
+    <ns0:name xml:lang="en">Edgar Degas</ns0:name>
+    <ns0:name xml:lang="en">Degas, Edgar</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Henri_de_Toulouse-Lautrec"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Gorey">
+    <rdfs:label xml:lang="es">Edward Gorey</rdfs:label>
+    <rdfs:label xml:lang="ja">エドワード・ゴーリー</rdfs:label>
+    <rdfs:label xml:lang="pt">Edward Gorey</rdfs:label>
+    <rdfs:label xml:lang="it">Edward Gorey</rdfs:label>
+    <rdfs:label xml:lang="fr">Edward Gorey</rdfs:label>
+    <rdfs:label xml:lang="zh">愛德華·戈里</rdfs:label>
+    <rdfs:label xml:lang="en">Edward Gorey</rdfs:label>
+    <rdfs:label xml:lang="pl">Edward Gorey</rdfs:label>
+    <rdfs:label xml:lang="de">Edward Gorey</rdfs:label>
+    <rdfs:label xml:lang="ar">إدوارد جوري</rdfs:label>
+    <rdfs:label xml:lang="nl">Edward Gorey</rdfs:label>
+    <rdfs:label xml:lang="ru">Гори, Эдвард</rdfs:label>
+    <foaf:name xml:lang="en">Gorey, Edward St. John</foaf:name>
+    <foaf:name xml:lang="en">Edward St. John Gorey</foaf:name>
+    <foaf:name xml:lang="en">Edward Gorey</foaf:name>
+    <ns0:name xml:lang="en">Gorey, Edward St. John</ns0:name>
+    <ns0:name xml:lang="en">Edward Gorey</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Johannes_Vermeer"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Matisse">
+    <rdfs:label xml:lang="pt">Henri Matisse</rdfs:label>
+    <rdfs:label xml:lang="pl">Henri Matisse</rdfs:label>
+    <rdfs:label xml:lang="ja">アンリ・マティス</rdfs:label>
+    <rdfs:label xml:lang="nl">Henri Matisse</rdfs:label>
+    <rdfs:label xml:lang="zh">亨利·马蒂斯</rdfs:label>
+    <rdfs:label xml:lang="ru">Матисс, Анри</rdfs:label>
+    <rdfs:label xml:lang="es">Henri Matisse</rdfs:label>
+    <rdfs:label xml:lang="ar">هنري ماتيس</rdfs:label>
+    <rdfs:label xml:lang="de">Henri Matisse</rdfs:label>
+    <rdfs:label xml:lang="en">Henri Matisse</rdfs:label>
+    <rdfs:label xml:lang="it">Henri Matisse</rdfs:label>
+    <rdfs:label xml:lang="fr">Henri Matisse</rdfs:label>
+    <foaf:name xml:lang="en">Matisse, Henri</foaf:name>
+    <foaf:name xml:lang="en">Henri Matisse</foaf:name>
+    <ns0:name xml:lang="en">Matisse, Henri</ns0:name>
+    <ns0:name xml:lang="en">Henri Matisse</ns0:name>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/Hans_Hofmann"/>
+    <ns1:influenced rdf:resource="http://dbpedia.org/resource/David_Hockney"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Gauguin"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_Cézanne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyacinthe_Rigaud">
+    <rdfs:label xml:lang="fr">Hyacinthe Rigaud</rdfs:label>
+    <rdfs:label xml:lang="ru">Риго, Гиацинт</rdfs:label>
+    <rdfs:label xml:lang="nl">Hyacinthe Rigaud</rdfs:label>
+    <rdfs:label xml:lang="en">Hyacinthe Rigaud</rdfs:label>
+    <rdfs:label xml:lang="it">Hyacinthe Rigaud</rdfs:label>
+    <rdfs:label xml:lang="ja">イアサント・リゴー</rdfs:label>
+    <rdfs:label xml:lang="pl">Hyacinthe Rigaud</rdfs:label>
+    <rdfs:label xml:lang="es">Hyacinthe Rigaud</rdfs:label>
+    <rdfs:label xml:lang="pt">Hyacinthe Rigaud</rdfs:label>
+    <rdfs:label xml:lang="ar">هياسنته ريجو</rdfs:label>
+    <rdfs:label xml:lang="de">Hyacinthe Rigaud</rdfs:label>
+    <rdfs:label xml:lang="zh">亚森特·里戈</rdfs:label>
+    <foaf:name xml:lang="en">Rigaud, Hyacinthe</foaf:name>
+    <foaf:name xml:lang="en">Hyacinthe Rigaud</foaf:name>
+    <ns0:name xml:lang="en">Rigaud, Hyacinthe</ns0:name>
+    <ns0:name xml:lang="en">Hyacinthe Rigaud</ns0:name>
+    <ns1:influencedBy rdf:resource="http://dbpedia.org/resource/Peter_Paul_Rubens"/>
+  </rdf:Description>
+
+</rdf:RDF>

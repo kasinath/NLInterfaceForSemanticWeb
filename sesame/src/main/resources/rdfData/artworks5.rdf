@@ -1,0 +1,2802 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:ns0="http://dbpedia.org/ontology/">
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Deep_(painting)">
+    <rdfs:label xml:lang="en">The Deep (painting)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jackson_Pollock"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Glam_Metal_Detectives">
+    <rdfs:label xml:lang="en">The Glam Metal Detectives</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_Richardson_(English_director)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lackawanna_Valley">
+    <rdfs:label xml:lang="en">The Lackawanna Valley</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/George_Inness"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Moxy_Show">
+    <rdfs:label xml:lang="en">The Moxy Show</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Bobcat_Goldthwait"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Oxbow">
+    <rdfs:label xml:lang="en">The Oxbow</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Thomas_Cole"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Peacemakers">
+    <rdfs:label xml:lang="fr">The Peacemakers</rdfs:label>
+    <rdfs:label xml:lang="en">The Peacemakers</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/George_Peter_Alexander_Healy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Yellow_House_(painting)">
+    <rdfs:label xml:lang="es">La Casa Amarilla (Van Gogh)</rdfs:label>
+    <rdfs:label xml:lang="it">La casa gialla</rdfs:label>
+    <rdfs:label xml:lang="en">The Yellow House (painting)</rdfs:label>
+    <rdfs:label xml:lang="ru">Жёлтый дом (картина Ван Гога)</rdfs:label>
+    <rdfs:label xml:lang="pt">A Casa Amarela</rdfs:label>
+    <rdfs:label xml:lang="pl">Dom Vincenta w Arles (Żółty Dom)</rdfs:label>
+    <rdfs:label xml:lang="ja">黄色い家</rdfs:label>
+    <rdfs:label xml:lang="nl">Het gele huis</rdfs:label>
+    <rdfs:label xml:lang="fr">Maison Jaune (Van Gogh)</rdfs:label>
+    <rdfs:label xml:lang="ar">البيت الأصفر</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Warriors_(novel_series)">
+    <rdfs:label xml:lang="ru">Коты-Воители</rdfs:label>
+    <rdfs:label xml:lang="fr">La Guerre des clans (cycle littéraire)</rdfs:label>
+    <rdfs:label xml:lang="en">Warriors (novel series)</rdfs:label>
+    <rdfs:label xml:lang="de">Warrior Cats</rdfs:label>
+    <rdfs:label xml:lang="ja">ウォーリアーズ</rdfs:label>
+    <rdfs:label xml:lang="es">Los gatos guerreros</rdfs:label>
+    <rdfs:label xml:lang="zh">貓戰士</rdfs:label>
+    <rdfs:label xml:lang="pl">Wojownicy (cykl powieściowy)</rdfs:label>
+    <rdfs:label xml:lang="it">Warrior Cats</rdfs:label>
+    <rdfs:label xml:lang="nl">Warrior Cats</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Dan_Jolley"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waterfall_(M._C._Escher)">
+    <rdfs:label xml:lang="ru">Водопад (литография)</rdfs:label>
+    <rdfs:label xml:lang="es">Cascada (M. C. Escher)</rdfs:label>
+    <rdfs:label xml:lang="en">Waterfall (M. C. Escher)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/M._C._Escher"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/God's_Debris">
+    <rdfs:label xml:lang="en">God's Debris</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Scott_Adams"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marmalade_Boy">
+    <rdfs:label xml:lang="en">Marmalade Boy</rdfs:label>
+    <rdfs:label xml:lang="it">Marmalade Boy - Piccoli problemi di cuore</rdfs:label>
+    <rdfs:label xml:lang="es">Marmalade Boy</rdfs:label>
+    <rdfs:label xml:lang="zh">橘子醬男孩</rdfs:label>
+    <rdfs:label xml:lang="pt">Marmalade Boy</rdfs:label>
+    <rdfs:label xml:lang="ru">Marmalade Boy</rdfs:label>
+    <rdfs:label xml:lang="fr">Marmalade Boy</rdfs:label>
+    <rdfs:label xml:lang="pl">Marmalade Boy</rdfs:label>
+    <rdfs:label xml:lang="ja">ママレード・ボーイ</rdfs:label>
+    <rdfs:label xml:lang="de">Marmalade Boy</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Wataru_Yoshizumi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Discovery_of_America_by_Christopher_Columbus">
+    <rdfs:label xml:lang="ru">Открытие Америки Христофором Колумбом</rdfs:label>
+    <rdfs:label xml:lang="en">The Discovery of America by Christopher Columbus</rdfs:label>
+    <rdfs:label xml:lang="pt">A Descoberta da América por Cristóvão Colombo</rdfs:label>
+    <rdfs:label xml:lang="fr">La Découverte des Amériques par Christophe Colomb</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Salvador_Dalí"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Huckleberry_Hound_Show">
+    <rdfs:label xml:lang="en">The Huckleberry Hound Show</rdfs:label>
+    <rdfs:label xml:lang="de">Hucky und seine Freunde</rdfs:label>
+    <rdfs:label xml:lang="fr">Roquet belles oreilles (série télévisée)</rdfs:label>
+    <rdfs:label xml:lang="pt">The Huckleberry Hound Show</rdfs:label>
+    <rdfs:label xml:lang="it">Braccobaldo Show</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Dan_Gordon_(animator)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Zaccaria_Altarpiece">
+    <rdfs:label xml:lang="es">La Virgen y el Niño con santos (Bellini)</rdfs:label>
+    <rdfs:label xml:lang="en">San Zaccaria Altarpiece</rdfs:label>
+    <rdfs:label xml:lang="it">Pala di San Zaccaria</rdfs:label>
+    <rdfs:label xml:lang="nl">Altaarstuk van San Zaccaria</rdfs:label>
+    <rdfs:label xml:lang="pl">Madonna z Dzieciątkiem i świętymi (obraz Belliniego)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Giovanni_Bellini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silver_Spoon_(manga)">
+    <rdfs:label xml:lang="it">Silver Spoon</rdfs:label>
+    <rdfs:label xml:lang="ar">الملعقة الفضية</rdfs:label>
+    <rdfs:label xml:lang="ru">Silver Spoon</rdfs:label>
+    <rdfs:label xml:lang="fr">Silver Spoon</rdfs:label>
+    <rdfs:label xml:lang="en">Silver Spoon (manga)</rdfs:label>
+    <rdfs:label xml:lang="es">Silver Spoon</rdfs:label>
+    <rdfs:label xml:lang="ja">銀の匙 Silver Spoon</rdfs:label>
+    <rdfs:label xml:lang="pl">Silver Spoon</rdfs:label>
+    <rdfs:label xml:lang="de">Gin no Saji: Silver Spoon</rdfs:label>
+    <rdfs:label xml:lang="zh">银之匙 Silver Spoon</rdfs:label>
+    <rdfs:label xml:lang="pt">Silver Spoon</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Hiromu_Arakawa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Batman/Superman_Hour">
+    <rdfs:label xml:lang="pt">The Batman/Superman Hour</rdfs:label>
+    <rdfs:label xml:lang="nl">The Batman/Superman Hour</rdfs:label>
+    <rdfs:label xml:lang="en">The Batman/Superman Hour</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Bob_Kane"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Warchild_(Doctor_Who_novel)">
+    <rdfs:label xml:lang="en">Warchild (Doctor Who novel)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Andrew_Cartmel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agony_in_the_Garden_(Perugino)">
+    <rdfs:label xml:lang="it">Orazione nell'orto (Perugino)</rdfs:label>
+    <rdfs:label xml:lang="fr">L'Agonie dans le jardin (Le Pérugin)</rdfs:label>
+    <rdfs:label xml:lang="en">Agony in the Garden (Perugino)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Pietro_Perugino"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Annunciation_(Botticelli,_Glasgow)">
+    <rdfs:label xml:lang="it">Annunciazione (Botticelli Glasgow)</rdfs:label>
+    <rdfs:label xml:lang="en">Annunciation (Botticelli, Glasgow)</rdfs:label>
+    <rdfs:label xml:lang="es">Anunciación (Botticelli, Glasgow)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Sandro_Botticelli"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benito_Juarez_(statue)">
+    <rdfs:label xml:lang="en">Benito Juarez (statue)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Luis_Ortiz_Monasterio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Black_on_Maroon">
+    <rdfs:label xml:lang="en">Black on Maroon</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Mark_Rothko"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bords_de_la_Marne_(Gleizes)">
+    <rdfs:label xml:lang="en">Bords de la Marne (Gleizes)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Albert_Gleizes"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chorus_Girls_(musical)">
+    <rdfs:label xml:lang="en">Chorus Girls (musical)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ray_Davies"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christmas_in_the_Brothel">
+    <rdfs:label xml:lang="en">Christmas in the Brothel</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Edvard_Munch"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coucher_de_soleil_no._1">
+    <rdfs:label xml:lang="en">Coucher de soleil no. 1</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jean_Metzinger"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daisy_Bates_at_Ooldea">
+    <rdfs:label xml:lang="en">Daisy Bates at Ooldea</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Sidney_Nolan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Here,_There_Be_Dragons">
+    <rdfs:label xml:lang="en">Here, There Be Dragons</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/James_A._Owen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Horace_Greeley_(Ward)">
+    <rdfs:label xml:lang="en">Horace Greeley (Ward)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/John_Quincy_Adams_Ward"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Fools_(TV_series)">
+    <rdfs:label xml:lang="en">House of Fools (TV series)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vic_Reeves"/>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Bob_Mortimer"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imzadi">
+    <rdfs:label xml:lang="en">Imzadi</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_David"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Le_Sommeil">
+    <rdfs:label xml:lang="it">Il Sonno (Courbet)</rdfs:label>
+    <rdfs:label xml:lang="en">Le Sommeil</rdfs:label>
+    <rdfs:label xml:lang="fr">Le Sommeil (Courbet)</rdfs:label>
+    <rdfs:label xml:lang="es">El sueño (Courbet)</rdfs:label>
+    <rdfs:label xml:lang="nl">De slaap</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gustave_Courbet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manchester_Madonna">
+    <rdfs:label xml:lang="fr">Madone de Manchester</rdfs:label>
+    <rdfs:label xml:lang="es">Madonna de Manchester</rdfs:label>
+    <rdfs:label xml:lang="nl">Madonna met kind en St. Johannes en de engelen</rdfs:label>
+    <rdfs:label xml:lang="de">Madonna Manchester</rdfs:label>
+    <rdfs:label xml:lang="en">Manchester Madonna</rdfs:label>
+    <rdfs:label xml:lang="it">Madonna di Manchester</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Michelangelo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pure_Trance">
+    <rdfs:label xml:lang="ru">Pure Trance</rdfs:label>
+    <rdfs:label xml:lang="ja">ピュア・トランス</rdfs:label>
+    <rdfs:label xml:lang="en">Pure Trance</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Junko_Mizuno"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Son_of_Godfather">
+    <rdfs:label xml:lang="ja">ゴッドファーザーの息子</rdfs:label>
+    <rdfs:label xml:lang="en">Son of Godfather</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Osamu_Tezuka"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spirit_of_Indiana">
+    <rdfs:label xml:lang="en">Spirit of Indiana</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Eugene_Savage"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Art_of_Asking">
+    <rdfs:label xml:lang="en">The Art of Asking</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Amanda_Palmer"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Blinding_of_Samson">
+    <rdfs:label xml:lang="nl">De blindmaking van Simson</rdfs:label>
+    <rdfs:label xml:lang="pl">Oślepienie Samsona (obraz Rembrandta)</rdfs:label>
+    <rdfs:label xml:lang="de">Die Blendung Simsons</rdfs:label>
+    <rdfs:label xml:lang="fr">L'Aveuglement de Samson</rdfs:label>
+    <rdfs:label xml:lang="en">The Blinding of Samson</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Rembrandt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Raising_of_Lazarus_(Sebastiano_del_Piombo)">
+    <rdfs:label xml:lang="en">The Raising of Lazarus (Sebastiano del Piombo)</rdfs:label>
+    <rdfs:label xml:lang="it">Resurrezione di Lazzaro (Sebastiano del Piombo)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Sebastiano_del_Piombo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Spear_(painting)">
+    <rdfs:label xml:lang="en">The Spear (painting)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Brett_Murray"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Trial_(painting)">
+    <rdfs:label xml:lang="en">The Trial (painting)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Sidney_Nolan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Two_Fridas">
+    <rdfs:label xml:lang="en">The Two Fridas</rdfs:label>
+    <rdfs:label xml:lang="fr">Les Deux Fridas</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Frida_Kahlo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Comics_and_Sequential_Art">
+    <rdfs:label xml:lang="en">Comics and Sequential Art</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Will_Eisner"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mon_Colle_Knights">
+    <rdfs:label xml:lang="en">Mon Colle Knights</rdfs:label>
+    <rdfs:label xml:lang="ru">Mon Colle Knights</rdfs:label>
+    <rdfs:label xml:lang="ja">六門天外モンコレナイト</rdfs:label>
+    <rdfs:label xml:lang="it">I cavalieri di Mon</rdfs:label>
+    <rdfs:label xml:lang="es">Los Caballeros del Mundo Mon</rdfs:label>
+    <rdfs:label xml:lang="pt">Os Cavaleiros de Mon Colle</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Satoru_Akahori"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Madame_X">
+    <rdfs:label xml:lang="pt">Retrato de Madame X</rdfs:label>
+    <rdfs:label xml:lang="en">Portrait of Madame X</rdfs:label>
+    <rdfs:label xml:lang="de">Madame X (Gemälde)</rdfs:label>
+    <rdfs:label xml:lang="ru">Портрет мадам Икс</rdfs:label>
+    <rdfs:label xml:lang="nl">Portret van Madame X</rdfs:label>
+    <rdfs:label xml:lang="fr">Madame X (John Singer Sargent)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/John_Singer_Sargent"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Desert_Song">
+    <rdfs:label xml:lang="en">The Desert Song</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Otto_Harbach"/>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Oscar_Hammerstein_II"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Finian's_Rainbow">
+    <rdfs:label xml:lang="fr">Finian's Rainbow (comédie musicale)</rdfs:label>
+    <rdfs:label xml:lang="en">Finian's Rainbow</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Yip_Harburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L'Amour_et_Psyché,_enfants">
+    <rdfs:label xml:lang="it">Amore e Psiche, bambini</rdfs:label>
+    <rdfs:label xml:lang="zh">儿时的丘比特和赛琪</rdfs:label>
+    <rdfs:label xml:lang="es">El primer beso (Bouguereau)</rdfs:label>
+    <rdfs:label xml:lang="en">L'Amour et Psyché, enfants</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/William-Adolphe_Bouguereau"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Las_Hilanderas_(Velázquez)">
+    <rdfs:label xml:lang="es">La fábula de Aracne</rdfs:label>
+    <rdfs:label xml:lang="de">Die Spinnerinnen</rdfs:label>
+    <rdfs:label xml:lang="fr">Les Fileuses</rdfs:label>
+    <rdfs:label xml:lang="it">Filatrici</rdfs:label>
+    <rdfs:label xml:lang="en">Las Hilanderas (Velázquez)</rdfs:label>
+    <rdfs:label xml:lang="ar">أسطورة أراكني (لوحة)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Diego_Velázquez"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Love_Com">
+    <rdfs:label xml:lang="zh">戀愛情結</rdfs:label>
+    <rdfs:label xml:lang="ar">لوفلي كومبلكس (أنمي)</rdfs:label>
+    <rdfs:label xml:lang="ru">Lovely Complex</rdfs:label>
+    <rdfs:label xml:lang="fr">Lovely Complex</rdfs:label>
+    <rdfs:label xml:lang="it">Lovely Complex</rdfs:label>
+    <rdfs:label xml:lang="pl">Lovely Complex</rdfs:label>
+    <rdfs:label xml:lang="es">Lovely Complex</rdfs:label>
+    <rdfs:label xml:lang="de">Lovely Complex</rdfs:label>
+    <rdfs:label xml:lang="en">Love Com</rdfs:label>
+    <rdfs:label xml:lang="pt">Lovely Complex</rdfs:label>
+    <rdfs:label xml:lang="ja">ラブ★コン</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Aya_Nakahara"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nymphs_and_Satyr">
+    <rdfs:label xml:lang="zh">宁芙与萨堤尔</rdfs:label>
+    <rdfs:label xml:lang="es">Ninfas y sátiro</rdfs:label>
+    <rdfs:label xml:lang="en">Nymphs and Satyr</rdfs:label>
+    <rdfs:label xml:lang="ru">Нимфы и сатир</rdfs:label>
+    <rdfs:label xml:lang="it">Ninfe e satiro</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/William-Adolphe_Bouguereau"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oruchuban_Ebichu">
+    <rdfs:label xml:lang="ru">Oruchuban Ebichu</rdfs:label>
+    <rdfs:label xml:lang="pl">Oruchuban Ebichu</rdfs:label>
+    <rdfs:label xml:lang="en">Oruchuban Ebichu</rdfs:label>
+    <rdfs:label xml:lang="it">Oruchuban ebichu</rdfs:label>
+    <rdfs:label xml:lang="de">Oruchuban Ebichu</rdfs:label>
+    <rdfs:label xml:lang="ja">おるちゅばんエビちゅ</rdfs:label>
+    <rdfs:label xml:lang="es">Oruchuban Ebichu</rdfs:label>
+    <rdfs:label xml:lang="fr">Ebichu</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Risa_Itō"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Knitting_Girl">
+    <rdfs:label xml:lang="en">The Knitting Girl</rdfs:label>
+    <rdfs:label xml:lang="zh">编织女孩 (1869)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/William-Adolphe_Bouguereau"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Return_of_Spring">
+    <rdfs:label xml:lang="es">La Primavera (Bouguereau)</rdfs:label>
+    <rdfs:label xml:lang="it">La Primavera (Bouguereau)</rdfs:label>
+    <rdfs:label xml:lang="zh">春回</rdfs:label>
+    <rdfs:label xml:lang="en">The Return of Spring</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/William-Adolphe_Bouguereau"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Triumph_of_Death">
+    <rdfs:label xml:lang="it">Trionfo della Morte (Bruegel)</rdfs:label>
+    <rdfs:label xml:lang="fr">Le Triomphe de la Mort (Brueghel)</rdfs:label>
+    <rdfs:label xml:lang="de">Der Triumph des Todes (Bruegel)</rdfs:label>
+    <rdfs:label xml:lang="nl">De triomf van de dood</rdfs:label>
+    <rdfs:label xml:lang="es">El triunfo de la Muerte</rdfs:label>
+    <rdfs:label xml:lang="pl">Triumf śmierci (obraz Bruegla)</rdfs:label>
+    <rdfs:label xml:lang="en">The Triumph of Death</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Pieter_Bruegel_the_Elder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living">
+    <rdfs:label xml:lang="de">The Physical Impossibility of Death in the Mind of Someone Living</rdfs:label>
+    <rdfs:label xml:lang="zh">生者對死者無動於衷</rdfs:label>
+    <rdfs:label xml:lang="ru">Физическая невозможность смерти в сознании живущего</rdfs:label>
+    <rdfs:label xml:lang="pl">Fizyczna niemożliwość śmierci w umyśle istoty żyjącej</rdfs:label>
+    <rdfs:label xml:lang="en">The Physical Impossibility of Death in the Mind of Someone Living</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Damien_Hirst"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allegory_of_Gluttony_and_Lust">
+    <rdfs:label xml:lang="ru">Аллегория чревоугодия и любострастия (картина Босха)</rdfs:label>
+    <rdfs:label xml:lang="it">Allegoria dei piaceri</rdfs:label>
+    <rdfs:label xml:lang="en">Allegory of Gluttony and Lust</rdfs:label>
+    <rdfs:label xml:lang="nl">Allegorie op de gulzigheid</rdfs:label>
+    <rdfs:label xml:lang="fr">Allégorie de la débauche et du plaisir</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Hieronymus_Bosch"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Damious_McDreary:_A_Boy_and_His_Bat">
+    <rdfs:label xml:lang="en">Damious McDreary: A Boy and His Bat</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Billy_Martin_(guitarist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Itazura_na_Kiss">
+    <rdfs:label xml:lang="pt">Itazura na Kiss</rdfs:label>
+    <rdfs:label xml:lang="ja">イタズラなKiss</rdfs:label>
+    <rdfs:label xml:lang="ar">القبلة السمجة</rdfs:label>
+    <rdfs:label xml:lang="pl">Itazura-na Kiss</rdfs:label>
+    <rdfs:label xml:lang="fr">Itazura na Kiss</rdfs:label>
+    <rdfs:label xml:lang="en">Itazura na Kiss</rdfs:label>
+    <rdfs:label xml:lang="es">Itazura na Kiss</rdfs:label>
+    <rdfs:label xml:lang="de">Itazura na Kiss</rdfs:label>
+    <rdfs:label xml:lang="zh">淘气小亲亲</rdfs:label>
+    <rdfs:label xml:lang="ru">Itazura na Kiss</rdfs:label>
+    <rdfs:label xml:lang="it">Itazura na Kiss</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Kaoru_Tada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Love-Berrish!">
+    <rdfs:label xml:lang="en">Love-Berrish!</rdfs:label>
+    <rdfs:label xml:lang="fr">Love Berrish!</rdfs:label>
+    <rdfs:label xml:lang="zh">愛的木莓寮</rdfs:label>
+    <rdfs:label xml:lang="ja">ラブ・ベリッシュ!</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Nana_Haruta"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mrs_Merton_and_Malcolm">
+    <rdfs:label xml:lang="en">Mrs Merton and Malcolm</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Henry_Normal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ray_Lynch_Anthology">
+    <rdfs:label xml:lang="en">Ray Lynch Anthology</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ray_Lynch"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_of_the_Giants">
+    <rdfs:label xml:lang="fr">Kyojin no hoshi</rdfs:label>
+    <rdfs:label xml:lang="ja">巨人の星</rdfs:label>
+    <rdfs:label xml:lang="en">Star of the Giants</rdfs:label>
+    <rdfs:label xml:lang="it">Tommy, la stella dei Giants</rdfs:label>
+    <rdfs:label xml:lang="es">Kyojin no Hoshi</rdfs:label>
+    <rdfs:label xml:lang="ru">Kyojin no Hoshi</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ikki_Kajiwara"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Summer_Heights_High">
+    <rdfs:label xml:lang="pl">Letni semestr</rdfs:label>
+    <rdfs:label xml:lang="en">Summer Heights High</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Chris_Lilley_(comedian)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Super_Friends:_The_Legendary_Super_Powers_Show">
+    <rdfs:label xml:lang="en">Super Friends: The Legendary Super Powers Show</rdfs:label>
+    <rdfs:label xml:lang="nl">Super Friends: The Legendary Super Powers Show</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jerry_Siegel"/>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Joe_Shuster"/>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gerry_Conway"/>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Al_Milgrom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_All-New_Super_Friends_Hour">
+    <rdfs:label xml:lang="nl">The All-New Super Friends Hour</rdfs:label>
+    <rdfs:label xml:lang="en">The All-New Super Friends Hour</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Robert_Kanigher"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Temptation_of_St_Anthony_(Bosch_painting)">
+    <rdfs:label xml:lang="pl">Kuszenie św. Antoniego (obraz Boscha z 1490)</rdfs:label>
+    <rdfs:label xml:lang="es">Las Tentaciones de san Antonio (El Bosco)</rdfs:label>
+    <rdfs:label xml:lang="it">Tentazioni di sant'Antonio (Bosch)</rdfs:label>
+    <rdfs:label xml:lang="fr">La Tentation de saint Antoine (Bosch, Madrid)</rdfs:label>
+    <rdfs:label xml:lang="nl">Verzoeking van de heilige Antonius (Madrid)</rdfs:label>
+    <rdfs:label xml:lang="ru">Искушение святого Антония (картина Босха)</rdfs:label>
+    <rdfs:label xml:lang="en">The Temptation of St Anthony (Bosch painting)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Hieronymus_Bosch"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thrill_Me">
+    <rdfs:label xml:lang="en">Thrill Me</rdfs:label>
+    <rdfs:label xml:lang="ja">スリル・ミー</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Stephen_Dolginoff"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Town_of_Evening_Calm,_Country_of_Cherry_Blossoms">
+    <rdfs:label xml:lang="fr">Le Pays des cerisiers</rdfs:label>
+    <rdfs:label xml:lang="ja">夕凪の街 桜の国</rdfs:label>
+    <rdfs:label xml:lang="en">Town of Evening Calm, Country of Cherry Blossoms</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Fumiyo_Kōno"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/With_the_Light">
+    <rdfs:label xml:lang="ja">光とともに…</rdfs:label>
+    <rdfs:label xml:lang="en">With the Light</rdfs:label>
+    <rdfs:label xml:lang="zh">與光同行</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Keiko_Tobe"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kings_of_My_Love">
+    <rdfs:label xml:lang="zh">型男戀愛王國</rdfs:label>
+    <rdfs:label xml:lang="en">Kings of My Love</rdfs:label>
+    <rdfs:label xml:lang="ja">オレ様キングダム</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Chitose_Yagami"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Lecture">
+    <rdfs:label xml:lang="pt">La lectura</rdfs:label>
+    <rdfs:label xml:lang="fr">La Lecture (Picasso)</rdfs:label>
+    <rdfs:label xml:lang="en">La Lecture</rdfs:label>
+    <rdfs:label xml:lang="es">La lectura (Picasso)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McMillan_Fountain">
+    <rdfs:label xml:lang="en">McMillan Fountain</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Herbert_Adams_(sculptor)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meadows_near_Rijswijk_and_the_Schenkweg">
+    <rdfs:label xml:lang="en">Meadows near Rijswijk and the Schenkweg</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Barbara_Tondo">
+    <rdfs:label xml:lang="en">Saint Barbara Tondo</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Parmigianino"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Vision_of_Saint_Eustace">
+    <rdfs:label xml:lang="pl">Wizja św. Eustachego (obraz)</rdfs:label>
+    <rdfs:label xml:lang="es">La visión de san Eustaquio (Pisanello)</rdfs:label>
+    <rdfs:label xml:lang="en">The Vision of Saint Eustace</rdfs:label>
+    <rdfs:label xml:lang="fr">La Vision de saint Eustache</rdfs:label>
+    <rdfs:label xml:lang="it">Visione di sant'Eustachio</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Pisanello"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Minute_with_Stan_Hooper">
+    <rdfs:label xml:lang="en">A Minute with Stan Hooper</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Norm_Macdonald"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adoration_of_the_Magi_(Filippino_Lippi)">
+    <rdfs:label xml:lang="de">Anbetung der Könige (Filippino Lippi)</rdfs:label>
+    <rdfs:label xml:lang="it">Adorazione dei Magi (Filippino Lippi)</rdfs:label>
+    <rdfs:label xml:lang="zh">三博士来朝 (利皮)</rdfs:label>
+    <rdfs:label xml:lang="en">Adoration of the Magi (Filippino Lippi)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Filippino_Lippi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Four-Sided_Pyramid">
+    <rdfs:label xml:lang="en">Four-Sided Pyramid</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Sol_LeWitt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Four_Shōjo_Stories">
+    <rdfs:label xml:lang="en">Four Shōjo Stories</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Keiko_Nishi"/>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Moto_Hagio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greenwillow">
+    <rdfs:label xml:lang="en">Greenwillow</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Frank_Loesser"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Map_(painting)">
+    <rdfs:label xml:lang="en">Map (painting)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jasper_Johns"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Secret_Chaser">
+    <rdfs:label xml:lang="en">Secret Chaser</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Tamayo_Akiyama"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stag_at_Sharkey's">
+    <rdfs:label xml:lang="fr">Rencontre de boxe chez Sharkey</rdfs:label>
+    <rdfs:label xml:lang="en">Stag at Sharkey's</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/George_Bellows"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Conversion_of_Mary_Magdalene">
+    <rdfs:label xml:lang="en">The Conversion of Mary Magdalene</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Paolo_Veronese"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Red_Vineyard">
+    <rdfs:label xml:lang="ru">Красные виноградники в Арле</rdfs:label>
+    <rdfs:label xml:lang="pl">Czerwona winnica</rdfs:label>
+    <rdfs:label xml:lang="en">The Red Vineyard</rdfs:label>
+    <rdfs:label xml:lang="ja">赤い葡萄畑</rdfs:label>
+    <rdfs:label xml:lang="zh">紅色葡萄園</rdfs:label>
+    <rdfs:label xml:lang="es">El viñedo rojo</rdfs:label>
+    <rdfs:label xml:lang="fr">La Vigne rouge</rdfs:label>
+    <rdfs:label xml:lang="nl">De rode wijngaard</rdfs:label>
+    <rdfs:label xml:lang="pt">A Vinha Encarnada</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Truly_Kindly">
+    <rdfs:label xml:lang="en">Truly Kindly</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Fumi_Yoshinaga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vattenfall_i_Småland">
+    <rdfs:label xml:lang="en">Vattenfall i Småland</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Marcus_Larson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ziggy's_Gift">
+    <rdfs:label xml:lang="en">Ziggy's Gift</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Tom_Wilson_(cartoonist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ai_to_Makoto">
+    <rdfs:label xml:lang="ja">愛と誠</rdfs:label>
+    <rdfs:label xml:lang="en">Ai to Makoto</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ikki_Kajiwara"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_&amp;_Katy">
+    <rdfs:label xml:lang="en">Anna &amp; Katy</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Anna_Crilly"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baigneuses_(Metzinger)">
+    <rdfs:label xml:lang="en">Baigneuses (Metzinger)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jean_Metzinger"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brave_Dan">
+    <rdfs:label xml:lang="en">Brave Dan</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Osamu_Tezuka"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cutting_the_Stone">
+    <rdfs:label xml:lang="pl">Leczenie głupoty</rdfs:label>
+    <rdfs:label xml:lang="en">Cutting the Stone</rdfs:label>
+    <rdfs:label xml:lang="ru">Извлечение камня глупости (картина Босха)</rdfs:label>
+    <rdfs:label xml:lang="it">Estrazione della pietra della follia</rdfs:label>
+    <rdfs:label xml:lang="fr">La Lithotomie</rdfs:label>
+    <rdfs:label xml:lang="nl">De keisnijding</rdfs:label>
+    <rdfs:label xml:lang="pt">A Extracção da Pedra da Loucura</rdfs:label>
+    <rdfs:label xml:lang="es">Extracción de la piedra de la locura (El Bosco)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Hieronymus_Bosch"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Freedom_from_Want_(painting)">
+    <rdfs:label xml:lang="nl">Freedom from Want</rdfs:label>
+    <rdfs:label xml:lang="en">Freedom from Want (painting)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Norman_Rockwell"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gou-dere_Sora_Nagihara">
+    <rdfs:label xml:lang="en">Gou-dere Sora Nagihara</rdfs:label>
+    <rdfs:label xml:lang="ja">豪デレ美少女 凪原そら</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Suu_Minazuki"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hadleigh_Castle_(painting)">
+    <rdfs:label xml:lang="en">Hadleigh Castle (painting)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/John_Constable"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medusa_(Bernini)">
+    <rdfs:label xml:lang="pt">Medusa (Bernini)</rdfs:label>
+    <rdfs:label xml:lang="en">Medusa (Bernini)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gian_Lorenzo_Bernini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oath_of_the_Horatii">
+    <rdfs:label xml:lang="en">Oath of the Horatii</rdfs:label>
+    <rdfs:label xml:lang="ja">ホラティウス兄弟の誓い</rdfs:label>
+    <rdfs:label xml:lang="zh">荷拉斯兄弟之誓</rdfs:label>
+    <rdfs:label xml:lang="fr">Le Serment des Horaces</rdfs:label>
+    <rdfs:label xml:lang="it">Il giuramento degli Orazi</rdfs:label>
+    <rdfs:label xml:lang="de">Der Schwur der Horatier</rdfs:label>
+    <rdfs:label xml:lang="pl">Przysięga Horacjuszy</rdfs:label>
+    <rdfs:label xml:lang="es">Juramento de los Horacios</rdfs:label>
+    <rdfs:label xml:lang="pt">O Juramento dos Horácios</rdfs:label>
+    <rdfs:label xml:lang="nl">De eed van de Horatii</rdfs:label>
+    <rdfs:label xml:lang="ru">Клятва Горациев</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jacques-Louis_David"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ohhh...Alright...">
+    <rdfs:label xml:lang="en">Ohhh...Alright...</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Roy_Lichtenstein"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Juan_de_Pareja">
+    <rdfs:label xml:lang="es">Juan de Pareja</rdfs:label>
+    <rdfs:label xml:lang="de">Porträt des Juan de Pareja</rdfs:label>
+    <rdfs:label xml:lang="en">Portrait of Juan de Pareja</rdfs:label>
+    <rdfs:label xml:lang="fr">Juan de Pareja (Vélasquez)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Diego_Velázquez"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_a_Cardinal_(Raphael)">
+    <rdfs:label xml:lang="es">Retrato de cardenal (Rafael)</rdfs:label>
+    <rdfs:label xml:lang="it">Ritratto di cardinale (Raffaello)</rdfs:label>
+    <rdfs:label xml:lang="fr">Portrait d'un cardinal</rdfs:label>
+    <rdfs:label xml:lang="en">Portrait of a Cardinal (Raphael)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Raphael"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saints_Christopher,_Jerome_and_Louis_of_Toulouse">
+    <rdfs:label xml:lang="pl">Święty Krzysztof, Hieronim i Ludwik</rdfs:label>
+    <rdfs:label xml:lang="en">Saints Christopher, Jerome and Louis of Toulouse</rdfs:label>
+    <rdfs:label xml:lang="it">Santi Cristoforo, Girolamo e Ludovico di Tolosa</rdfs:label>
+    <rdfs:label xml:lang="nl">Altaarstuk van San Giovanni Crisostomo</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Giovanni_Bellini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tabernacle_of_the_Linaioli">
+    <rdfs:label xml:lang="en">Tabernacle of the Linaioli</rdfs:label>
+    <rdfs:label xml:lang="it">Tabernacolo dei Linaioli</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Lorenzo_Ghiberti"/>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Fra_Angelico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Adventures_of_Chuck_and_Friends">
+    <rdfs:label xml:lang="en">The Adventures of Chuck and Friends</rdfs:label>
+    <rdfs:label xml:lang="pl">Chuck i przyjaciele</rdfs:label>
+    <rdfs:label xml:lang="it">Le avventure di Chuck &amp; Friends</rdfs:label>
+    <rdfs:label xml:lang="pt">The Adventures of Chuck and Friends</rdfs:label>
+    <rdfs:label xml:lang="es">Las aventuras de Chuck y sus amigos</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Adam_Beechen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Elder_Sister">
+    <rdfs:label xml:lang="en">The Elder Sister</rdfs:label>
+    <rdfs:label xml:lang="it">La sorella maggiore (Bouguereau, 1869)</rdfs:label>
+    <rdfs:label xml:lang="fr">La Sœur aînée</rdfs:label>
+    <rdfs:label xml:lang="ru">Старшая сестра (картина Бугро, 1869)</rdfs:label>
+    <rdfs:label xml:lang="de">Die ältere Schwester</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/William-Adolphe_Bouguereau"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Genius_of_Victory">
+    <rdfs:label xml:lang="ru">Дух победы (Микеланджело)</rdfs:label>
+    <rdfs:label xml:lang="fr">Génie de la Victoire</rdfs:label>
+    <rdfs:label xml:lang="it">Genio della Vittoria</rdfs:label>
+    <rdfs:label xml:lang="en">The Genius of Victory</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Michelangelo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Snowman_and_the_Snowdog">
+    <rdfs:label xml:lang="en">The Snowman and the Snowdog</rdfs:label>
+    <rdfs:label xml:lang="ru">Снеговик и Снежный пёс</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Raymond_Briggs"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theft_of_The_Weeping_Woman_from_the_National_Gallery_of_Victoria">
+    <rdfs:label xml:lang="en">Theft of The Weeping Woman from the National Gallery of Victoria</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_the_Tiny_Horse">
+    <rdfs:label xml:lang="en">Tim the Tiny Horse</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Harry_Hill"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tribuna_of_the_Uffizi_(painting)">
+    <rdfs:label xml:lang="en">Tribuna of the Uffizi (painting)</rdfs:label>
+    <rdfs:label xml:lang="fr">La Tribune des Offices</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Johann_Zoffany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wolf_in_White_Van">
+    <rdfs:label xml:lang="en">Wolf in White Van</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/John_Darnielle"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lunch_(Velázquez)">
+    <rdfs:label xml:lang="es">El almuerzo (Velázquez)</rdfs:label>
+    <rdfs:label xml:lang="it">Pranzo (Velázquez)</rdfs:label>
+    <rdfs:label xml:lang="fr">Trois hommes à table, le déjeuner</rdfs:label>
+    <rdfs:label xml:lang="en">The Lunch (Velázquez)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Diego_Velázquez"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1982_(book)">
+    <rdfs:label xml:lang="en">1982 (book)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jian_Ghomeshi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Backstage_Passes_and_Backstabbing_Bastards">
+    <rdfs:label xml:lang="en">Backstage Passes and Backstabbing Bastards</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Al_Kooper"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beet_the_Vandel_Buster">
+    <rdfs:label xml:lang="en">Beet the Vandel Buster</rdfs:label>
+    <rdfs:label xml:lang="it">Beet the Vandel Buster</rdfs:label>
+    <rdfs:label xml:lang="zh">冒險王比特</rdfs:label>
+    <rdfs:label xml:lang="ja">冒険王ビィト</rdfs:label>
+    <rdfs:label xml:lang="es">Bōken Ō Beet</rdfs:label>
+    <rdfs:label xml:lang="fr">Beet the Vandel Buster</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Riku_Sanjo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/By_the_Beautiful_Sea_(musical)">
+    <rdfs:label xml:lang="en">By the Beautiful Sea (musical)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Dorothy_Fields"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chor_Lau-heung_(1979_TV_series)">
+    <rdfs:label xml:lang="en">Chor Lau-heung (1979 TV series)</rdfs:label>
+    <rdfs:label xml:lang="zh">楚留香 (電視劇)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Wong_Jing"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christ_at_the_Column_(Antonello_da_Messina)">
+    <rdfs:label xml:lang="en">Christ at the Column (Antonello da Messina)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Antonello_da_Messina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Death_of_the_Virgin_(Mantegna)">
+    <rdfs:label xml:lang="en">Death of the Virgin (Mantegna)</rdfs:label>
+    <rdfs:label xml:lang="es">Tránsito de la Virgen (Mantegna)</rdfs:label>
+    <rdfs:label xml:lang="fr">La Mort de la Vierge (Mantegna)</rdfs:label>
+    <rdfs:label xml:lang="pl">Zaśnięcie Matki Boskiej</rdfs:label>
+    <rdfs:label xml:lang="it">Morte della Vergine (Mantegna)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Andrea_Mantegna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drawbridge_in_Nieuw-Amsterdam">
+    <rdfs:label xml:lang="en">Drawbridge in Nieuw-Amsterdam</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extras_(TV_series)">
+    <rdfs:label xml:lang="nl">Extras</rdfs:label>
+    <rdfs:label xml:lang="pt">Extras</rdfs:label>
+    <rdfs:label xml:lang="pl">Statyści (serial telewizyjny)</rdfs:label>
+    <rdfs:label xml:lang="fr">Extras (série télévisée)</rdfs:label>
+    <rdfs:label xml:lang="ja">エキストラ:スターに近づけ!</rdfs:label>
+    <rdfs:label xml:lang="de">Extras</rdfs:label>
+    <rdfs:label xml:lang="en">Extras (TV series)</rdfs:label>
+    <rdfs:label xml:lang="it">Extras (serie televisiva)</rdfs:label>
+    <rdfs:label xml:lang="es">Extras</rdfs:label>
+    <rdfs:label xml:lang="ru">Массовка (телесериал)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ricky_Gervais"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hatsukoi_Scandal">
+    <rdfs:label xml:lang="ja">初恋スキャンダル</rdfs:label>
+    <rdfs:label xml:lang="en">Hatsukoi Scandal</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Akira_Oze"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L'Oiseau_bleu_(Metzinger)">
+    <rdfs:label xml:lang="en">L'Oiseau bleu (Metzinger)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jean_Metzinger"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leaving_Home:_A_Collection_of_Lake_Wobegon_Stories">
+    <rdfs:label xml:lang="en">Leaving Home: A Collection of Lake Wobegon Stories</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Garrison_Keillor"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Light_Up_(sculpture)">
+    <rdfs:label xml:lang="en">Light Up (sculpture)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Tony_Smith_(sculptor)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Man_Down_(TV_series)">
+    <rdfs:label xml:lang="en">Man Down (TV series)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Richard_Herring"/>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Greg_Davies"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Man_and_Woman_(Fernand_Léger)">
+    <rdfs:label xml:lang="en">Man and Woman (Fernand Léger)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Fernand_Léger"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mandola_(painting)">
+    <rdfs:label xml:lang="en">Mandola (painting)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Georges_Braque"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Over_Here!">
+    <rdfs:label xml:lang="en">Over Here!</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Will_Holt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reaching_(sculpture)">
+    <rdfs:label xml:lang="en">Reaching (sculpture)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Zenos_Frudakis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sare_Jahan_se_Accha_(drawing)">
+    <rdfs:label xml:lang="en">Sare Jahan se Accha (drawing)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Pramod_Kamble"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Apotheosis_of_Homer_(Ingres)">
+    <rdfs:label xml:lang="fr">L'Apothéose d'Homère</rdfs:label>
+    <rdfs:label xml:lang="en">The Apotheosis of Homer (Ingres)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jean-Auguste-Dominique_Ingres"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Crossing_of_the_Red_Sea_(Sistine_Chapel)">
+    <rdfs:label xml:lang="pt">Travessia do Mar Vermelho (Capela Sistina)</rdfs:label>
+    <rdfs:label xml:lang="en">The Crossing of the Red Sea (Sistine Chapel)</rdfs:label>
+    <rdfs:label xml:lang="it">Passaggio del Mar Rosso (Sistina)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Domenico_Ghirlandaio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Death_of_Major_Peirson,_6_January_1781">
+    <rdfs:label xml:lang="en">The Death of Major Peirson, 6 January 1781</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/John_Singleton_Copley"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Hedgehog_and_the_Fox_(sculpture)">
+    <rdfs:label xml:lang="en">The Hedgehog and the Fox (sculpture)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Richard_Serra"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Palace_at_4_a.m.">
+    <rdfs:label xml:lang="en">The Palace at 4 a.m.</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Alberto_Giacometti"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Upstart_(sculpture)">
+    <rdfs:label xml:lang="en">Upstart (sculpture)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Clement_Meadmore"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/What_Remains_(book)">
+    <rdfs:label xml:lang="en">What Remains (book)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Sally_Mann"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alone_in_the_World_(Bouguereau)">
+    <rdfs:label xml:lang="es">Sola en el mundo</rdfs:label>
+    <rdfs:label xml:lang="fr">Seule au monde</rdfs:label>
+    <rdfs:label xml:lang="zh">孤独于世</rdfs:label>
+    <rdfs:label xml:lang="en">Alone in the World (Bouguereau)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/William-Adolphe_Bouguereau"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Entry_of_Christ_into_Jerusalem_(van_Dyck)">
+    <rdfs:label xml:lang="en">Entry of Christ into Jerusalem (van Dyck)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Anthony_van_Dyck"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_a_Man_(Antonello_da_Messina,_Berlin)">
+    <rdfs:label xml:lang="en">Portrait of a Man (Antonello da Messina, Berlin)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Antonello_da_Messina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_a_Man_(Antonello_da_Messina,_London)">
+    <rdfs:label xml:lang="es">Retrato de hombre (Antonello da Messina)</rdfs:label>
+    <rdfs:label xml:lang="en">Portrait of a Man (Antonello da Messina, London)</rdfs:label>
+    <rdfs:label xml:lang="it">Ritratto d'uomo (Antonello da Messina Londra)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Antonello_da_Messina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_a_Man_(Antonello_da_Messina,_Madrid)">
+    <rdfs:label xml:lang="en">Portrait of a Man (Antonello da Messina, Madrid)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Antonello_da_Messina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_a_Man_(Antonello_da_Messina,_Pavia)">
+    <rdfs:label xml:lang="en">Portrait of a Man (Antonello da Messina, Pavia)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Antonello_da_Messina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_a_Man_(Antonello_da_Messina,_Turin)">
+    <rdfs:label xml:lang="en">Portrait of a Man (Antonello da Messina, Turin)</rdfs:label>
+    <rdfs:label xml:lang="it">Ritratto Trivulzio</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Antonello_da_Messina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_a_Man_(Raphael)">
+    <rdfs:label xml:lang="en">Portrait of a Man (Raphael)</rdfs:label>
+    <rdfs:label xml:lang="fr">Portrait d'homme (Raphaël, 1503-1504)</rdfs:label>
+    <rdfs:label xml:lang="it">Ritratto virile (Raffaello Galleria Borghese)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Raphael"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Feast_of_the_Gods">
+    <rdfs:label xml:lang="es">El festín de los dioses (Bellini)</rdfs:label>
+    <rdfs:label xml:lang="it">Festino degli dei</rdfs:label>
+    <rdfs:label xml:lang="ru">Пир богов</rdfs:label>
+    <rdfs:label xml:lang="en">The Feast of the Gods</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Giovanni_Bellini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chain_of_Pearls">
+    <rdfs:label xml:lang="en">Chain of Pearls</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Kanan_Minami"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gardner_(Cassatt)_Held_by_His_Mother">
+    <rdfs:label xml:lang="en">Gardner (Cassatt) Held by His Mother</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Mary_Cassatt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Denial_of_Saint_Peter_(Hendrick_ter_Brugghen)">
+    <rdfs:label xml:lang="en">The Denial of Saint Peter (Hendrick ter Brugghen)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Hendrick_ter_Brugghen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Jurist_(painting)">
+    <rdfs:label xml:lang="de">Der Jurist</rdfs:label>
+    <rdfs:label xml:lang="ru">Юрист (картина)</rdfs:label>
+    <rdfs:label xml:lang="fr">Le Juriste</rdfs:label>
+    <rdfs:label xml:lang="es">El jurista</rdfs:label>
+    <rdfs:label xml:lang="en">The Jurist (painting)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Giuseppe_Arcimboldo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Old_Miao_Myth">
+    <rdfs:label xml:lang="zh">老洞</rdfs:label>
+    <rdfs:label xml:lang="en">The Old Miao Myth</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Wai_Ka-fai"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Lady_and_Gentleman_in_Black">
+    <rdfs:label xml:lang="en">A Lady and Gentleman in Black</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Rembrandt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bust_of_Giovanni_Vigevano">
+    <rdfs:label xml:lang="en">Bust of Giovanni Vigevano</rdfs:label>
+    <rdfs:label xml:lang="pt">Busto de Giovanni Vigevano</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gian_Lorenzo_Bernini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cellini_Salt_Cellar">
+    <rdfs:label xml:lang="ru">Сальера</rdfs:label>
+    <rdfs:label xml:lang="de">Saliera</rdfs:label>
+    <rdfs:label xml:lang="es">Salero de Francisco I de Francia</rdfs:label>
+    <rdfs:label xml:lang="en">Cellini Salt Cellar</rdfs:label>
+    <rdfs:label xml:lang="pl">Saliera</rdfs:label>
+    <rdfs:label xml:lang="it">Saliera di Francesco I di Francia</rdfs:label>
+    <rdfs:label xml:lang="fr">Salière de Cellini</rdfs:label>
+    <rdfs:label xml:lang="zh">鹽罐</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Benvenuto_Cellini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Combat_of_Love_and_Chastity">
+    <rdfs:label xml:lang="it">Lotta tra Amore e Castità</rdfs:label>
+    <rdfs:label xml:lang="fr">Le Combat de l'Amour et de la Chasteté</rdfs:label>
+    <rdfs:label xml:lang="en">Combat of Love and Chastity</rdfs:label>
+    <rdfs:label xml:lang="nl">Strijd tussen Liefde en Kuisheid</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Pietro_Perugino"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enclosed_Field_with_Peasant">
+    <rdfs:label xml:lang="en">Enclosed Field with Peasant</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Game_of_Bowls">
+    <rdfs:label xml:lang="en">Game of Bowls</rdfs:label>
+    <rdfs:label xml:lang="nl">De jeu-de-boulesspelers</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Henri_Matisse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McOndo_(book)">
+    <rdfs:label xml:lang="en">McOndo (book)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Sergio_Gómez"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prophet_Isaiah_(Michelangelo)">
+    <rdfs:label xml:lang="en">Prophet Isaiah (Michelangelo)</rdfs:label>
+    <rdfs:label xml:lang="it">Isaia (Michelangelo)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Michelangelo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision">
+    <rdfs:label xml:lang="en">Sir Nicholas Serota Makes an Acquisitions Decision</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Charles_Thomson_(artist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strange_Messenger">
+    <rdfs:label xml:lang="en">Strange Messenger</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Patti_Smith"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Last_Weekend_(TV_series)">
+    <rdfs:label xml:lang="en">The Last Weekend (TV series)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Mick_Ford"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Sorrows_of_the_King">
+    <rdfs:label xml:lang="fr">La Tristesse du roi</rdfs:label>
+    <rdfs:label xml:lang="en">The Sorrows of the King</rdfs:label>
+    <rdfs:label xml:lang="it">Tristezza (Matisse)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Henri_Matisse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bust_of_Antonio_Barberini_(Bernini)">
+    <rdfs:label xml:lang="en">Bust of Antonio Barberini (Bernini)</rdfs:label>
+    <rdfs:label xml:lang="es">Busto de Antonio Barberini</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gian_Lorenzo_Bernini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dog_Bowl">
+    <rdfs:label xml:lang="en">Dog Bowl</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/William_Wegman_(photographer)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kero_Kero_Chime">
+    <rdfs:label xml:lang="ja">ケロケロちゃいむ</rdfs:label>
+    <rdfs:label xml:lang="en">Kero Kero Chime</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Maguro_Fujita"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarah_Siddons_as_the_Tragic_Muse">
+    <rdfs:label xml:lang="en">Sarah Siddons as the Tragic Muse</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Joshua_Reynolds"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sky_and_Water_I">
+    <rdfs:label xml:lang="en">Sky and Water I</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/M._C._Escher"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Open_Window">
+    <rdfs:label xml:lang="de">Offenes Fenster in Collioure</rdfs:label>
+    <rdfs:label xml:lang="it">Finestra aperta</rdfs:label>
+    <rdfs:label xml:lang="en">The Open Window</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Henri_Matisse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Threatened_Swan">
+    <rdfs:label xml:lang="nl">De bedreigde zwaan</rdfs:label>
+    <rdfs:label xml:lang="en">The Threatened Swan</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jan_Asselijn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Lady_with_a_Squirrel_and_a_Starling">
+    <rdfs:label xml:lang="en">A Lady with a Squirrel and a Starling</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Hans_Holbein_the_Younger"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boy_Leading_a_Horse">
+    <rdfs:label xml:lang="pt">Jeune homme et cheval</rdfs:label>
+    <rdfs:label xml:lang="it">Ragazzo che conduce un cavallo</rdfs:label>
+    <rdfs:label xml:lang="en">Boy Leading a Horse</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dancing_Fairies">
+    <rdfs:label xml:lang="en">Dancing Fairies</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/August_Malmström"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Death_of_the_Reprobate">
+    <rdfs:label xml:lang="en">Death of the Reprobate</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Hieronymus_Bosch"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hello_Sunshine_(book)">
+    <rdfs:label xml:lang="en">Hello Sunshine (book)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ryan_Adams"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Pope_Pius_VII">
+    <rdfs:label xml:lang="es">Retrato de Pío VII</rdfs:label>
+    <rdfs:label xml:lang="en">Portrait of Pope Pius VII</rdfs:label>
+    <rdfs:label xml:lang="fr">Portrait du pape Pie VII</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jacques-Louis_David"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Songs_by_George_Harrison">
+    <rdfs:label xml:lang="en">Songs by George Harrison</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/George_Harrison"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Benny_Hill_Show">
+    <rdfs:label xml:lang="ja">ベニー・ヒル・ショー</rdfs:label>
+    <rdfs:label xml:lang="ru">Шоу Бенни Хилла</rdfs:label>
+    <rdfs:label xml:lang="it">Benny Hill Show</rdfs:label>
+    <rdfs:label xml:lang="zh">不文山鬼馬表演</rdfs:label>
+    <rdfs:label xml:lang="en">The Benny Hill Show</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Benny_Hill"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fall_of_New_Amsterdam">
+    <rdfs:label xml:lang="en">The Fall of New Amsterdam</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jean_Leon_Gerome_Ferris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Giant_Garden_of_Oz">
+    <rdfs:label xml:lang="en">The Giant Garden of Oz</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Eric_Shanower"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Millinery_Shop">
+    <rdfs:label xml:lang="en">The Millinery Shop</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Edgar_Degas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Young_Sailor_II">
+    <rdfs:label xml:lang="en">The Young Sailor II</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Henri_Matisse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madonna_of_Palazzo_Medici-Riccardi">
+    <rdfs:label xml:lang="en">Madonna of Palazzo Medici-Riccardi</rdfs:label>
+    <rdfs:label xml:lang="it">Madonna di palazzo Medici-Riccardi</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Filippo_Lippi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Luca_Altarpiece">
+    <rdfs:label xml:lang="it">Polittico di san Luca</rdfs:label>
+    <rdfs:label xml:lang="fr">Retable de saint Luc</rdfs:label>
+    <rdfs:label xml:lang="en">San Luca Altarpiece</rdfs:label>
+    <rdfs:label xml:lang="pl">Poliptyk ze św. Łukaszem</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Andrea_Mantegna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunshine_Sketches_(TV_series)">
+    <rdfs:label xml:lang="en">Sunshine Sketches (TV series)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Don_Harron"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vocation_of_the_Apostles">
+    <rdfs:label xml:lang="en">Vocation of the Apostles</rdfs:label>
+    <rdfs:label xml:lang="it">Vocazione dei primi apostoli</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Domenico_Ghirlandaio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/7000_Oaks">
+    <rdfs:label xml:lang="de">7000 Eichen</rdfs:label>
+    <rdfs:label xml:lang="en">7000 Oaks</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Joseph_Beuys"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broken_Walrus_I">
+    <rdfs:label xml:lang="en">Broken Walrus I</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gary_Freeman_(sculptor)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chief_Kno-Tah">
+    <rdfs:label xml:lang="en">Chief Kno-Tah</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_Wolf_Toth"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frédéric_Chopin_monument_in_Żelazowa_Wola">
+    <rdfs:label xml:lang="de">Frédéric-Chopin-Denkmal in Żelazowa Wola</rdfs:label>
+    <rdfs:label xml:lang="en">Frédéric Chopin monument in Żelazowa Wola</rdfs:label>
+    <rdfs:label xml:lang="es">Monumento a Frédéric Chopin en Żelazowa Wola</rdfs:label>
+    <rdfs:label xml:lang="pl">Pomnik Fryderyka Chopina w Żelazowej Woli</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Józef_Gosławski_(sculptor)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Her_Secret_Is_Patience">
+    <rdfs:label xml:lang="en">Her Secret Is Patience</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Janet_Echelman"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_J._Drexel_(Ezekiel)">
+    <rdfs:label xml:lang="en">Anthony J. Drexel (Ezekiel)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Moses_Jacob_Ezekiel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bust_of_Louis_XIV_(Bernini)">
+    <rdfs:label xml:lang="en">Bust of Louis XIV (Bernini)</rdfs:label>
+    <rdfs:label xml:lang="fr">Buste de Louis XIV (Le Bernin)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gian_Lorenzo_Bernini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chair_Transformation_Number_20B">
+    <rdfs:label xml:lang="en">Chair Transformation Number 20B</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Lucas_Samaras"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clothespin_(Oldenburg)">
+    <rdfs:label xml:lang="en">Clothespin (Oldenburg)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Claes_Oldenburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elephant_and_Obelisk">
+    <rdfs:label xml:lang="de">Obelisco della Minerva</rdfs:label>
+    <rdfs:label xml:lang="fr">Obélisque de la piazza della Minerva</rdfs:label>
+    <rdfs:label xml:lang="pt">Obelisco do Elefante</rdfs:label>
+    <rdfs:label xml:lang="es">Obelisco de la Piazza della Minerva</rdfs:label>
+    <rdfs:label xml:lang="it">Obelisco della Minerva</rdfs:label>
+    <rdfs:label xml:lang="nl">Olifantje van Bernini</rdfs:label>
+    <rdfs:label xml:lang="en">Elephant and Obelisk</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gian_Lorenzo_Bernini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indianapolis_Island">
+    <rdfs:label xml:lang="en">Indianapolis Island</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Andrea_Zittel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LaFayette_Fountain">
+    <rdfs:label xml:lang="en">LaFayette Fountain</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Lorado_Taft"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martyrdom_of_Saint_Lawrence">
+    <rdfs:label xml:lang="en">Martyrdom of Saint Lawrence</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gian_Lorenzo_Bernini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Park_of_Laments">
+    <rdfs:label xml:lang="en">Park of Laments</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Alfredo_Jaar"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prussian_Homage_(painting)">
+    <rdfs:label xml:lang="ru">Прусская дань (картина)</rdfs:label>
+    <rdfs:label xml:lang="de">Preußische Huldigung (Gemälde)</rdfs:label>
+    <rdfs:label xml:lang="it">Omaggio prussiano (dipinto)</rdfs:label>
+    <rdfs:label xml:lang="pl">Hołd pruski (obraz Jana Matejki)</rdfs:label>
+    <rdfs:label xml:lang="en">Prussian Homage (painting)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jan_Matejko"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomb_of_Pope_Alexander_VII">
+    <rdfs:label xml:lang="en">Tomb of Pope Alexander VII</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gian_Lorenzo_Bernini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Two_Busts_of_Cardinal_Scipione_Borghese">
+    <rdfs:label xml:lang="it">Busto di Scipione Borghese</rdfs:label>
+    <rdfs:label xml:lang="en">Two Busts of Cardinal Scipione Borghese</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gian_Lorenzo_Bernini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/125_Years">
+    <rdfs:label xml:lang="en">125 Years</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jenny_Holzer"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Slice_of_Reality">
+    <rdfs:label xml:lang="en">A Slice of Reality</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Richard_Wilson_(sculptor)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aero_Memorial_(Manship)">
+    <rdfs:label xml:lang="en">Aero Memorial (Manship)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Paul_Manship"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Gallatin_(Fraser)">
+    <rdfs:label xml:lang="en">Albert Gallatin (Fraser)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/James_Earle_Fraser_(sculptor)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/America's_Response_Monument">
+    <rdfs:label xml:lang="es">America's Response Monument</rdfs:label>
+    <rdfs:label xml:lang="en">America's Response Monument</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Douwe_Blumberg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arbre_Serpents">
+    <rdfs:label xml:lang="en">Arbre Serpents</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Niki_de_Saint_Phalle"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bench_Around_the_Lake">
+    <rdfs:label xml:lang="en">Bench Around the Lake</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jeppe_Hein"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bust_of_Cardinal_Richelieu">
+    <rdfs:label xml:lang="it">Busto del cardinale Richelieu</rdfs:label>
+    <rdfs:label xml:lang="es">Busto del cardenal Richelieu (Bernini)</rdfs:label>
+    <rdfs:label xml:lang="en">Bust of Cardinal Richelieu</rdfs:label>
+    <rdfs:label xml:lang="pt">Busto do Cardeal Richilieu</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gian_Lorenzo_Bernini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bust_of_Costanza_Bonarelli">
+    <rdfs:label xml:lang="it">Busto di Costanza Bonarelli</rdfs:label>
+    <rdfs:label xml:lang="en">Bust of Costanza Bonarelli</rdfs:label>
+    <rdfs:label xml:lang="pt">Busto de Costanza Bonarelli</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gian_Lorenzo_Bernini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bust_of_Giovanni_Battista_Santoni">
+    <rdfs:label xml:lang="pt">Busto de Giovanni Battista Santoni</rdfs:label>
+    <rdfs:label xml:lang="en">Bust of Giovanni Battista Santoni</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gian_Lorenzo_Bernini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Confluence_(sculpture)">
+    <rdfs:label xml:lang="en">Confluence (sculpture)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Robert_Stackhouse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dona_i_Ocell">
+    <rdfs:label xml:lang="fr">Dona i ocell</rdfs:label>
+    <rdfs:label xml:lang="es">Mujer y Pájaro</rdfs:label>
+    <rdfs:label xml:lang="ru">Женщина и птица</rdfs:label>
+    <rdfs:label xml:lang="pt">Mulher e Pássaro</rdfs:label>
+    <rdfs:label xml:lang="nl">Dona i Ocell</rdfs:label>
+    <rdfs:label xml:lang="it">Dona i ocell</rdfs:label>
+    <rdfs:label xml:lang="en">Dona i Ocell</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Joan_Miró"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Equestrian_Statue_of_Theodore_Roosevelt">
+    <rdfs:label xml:lang="en">Equestrian Statue of Theodore Roosevelt</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/James_Earle_Fraser_(sculptor)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ex_Stasis_(sculpture)">
+    <rdfs:label xml:lang="en">Ex Stasis (sculpture)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Richard_Lippold"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goethe–Schiller_Monument_(Syracuse)">
+    <rdfs:label xml:lang="en">Goethe–Schiller Monument (Syracuse)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ernst_Friedrich_August_Rietschel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iroquois_(di_Suvero)">
+    <rdfs:label xml:lang="en">Iroquois (di Suvero)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Mark_di_Suvero"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Garfield_Memorial,_Philadelphia">
+    <rdfs:label xml:lang="en">James Garfield Memorial, Philadelphia</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Augustus_Saint-Gaudens"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Zingarella">
+    <rdfs:label xml:lang="en">La Zingarella</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Nicolas_Cordier"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lipstick_(Ascending)_on_Caterpillar_Tracks">
+    <rdfs:label xml:lang="en">Lipstick (Ascending) on Caterpillar Tracks</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Claes_Oldenburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Memorial_to_Maria_Raggi">
+    <rdfs:label xml:lang="en">Memorial to Maria Raggi</rdfs:label>
+    <rdfs:label xml:lang="pt">Memorial de Maria Raggi</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gian_Lorenzo_Bernini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monsoon_Drift">
+    <rdfs:label xml:lang="en">Monsoon Drift</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Anthony_Caro"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Number_23_Basketball_Player">
+    <rdfs:label xml:lang="en">Number 23 Basketball Player</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Niki_de_Saint_Phalle"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peel_Memorial,_Bury">
+    <rdfs:label xml:lang="en">Peel Memorial, Bury</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Edward_Hodges_Baily"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_John_(sculpture)">
+    <rdfs:label xml:lang="en">Peter John (sculpture)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/John_Raimondi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_B._Taney_(sculpture)">
+    <rdfs:label xml:lang="en">Roger B. Taney (sculpture)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/William_Henry_Rinehart"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Six_Number_Two">
+    <rdfs:label xml:lang="en">Six Number Two</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Kenneth_Snelson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Skull_of_a_Skeleton_with_Burning_Cigarette">
+    <rdfs:label xml:lang="en">Skull of a Skeleton with Burning Cigarette</rdfs:label>
+    <rdfs:label xml:lang="pl">Czaszka z palącym się papierosem</rdfs:label>
+    <rdfs:label xml:lang="pt">Caveira com Cigarro Aceso</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Jerome_the_Priest_(Meštrović)">
+    <rdfs:label xml:lang="en">St. Jerome the Priest (Meštrović)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ivan_Meštrović"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Statue_of_Charles_Rolls,_Monmouth">
+    <rdfs:label xml:lang="en">Statue of Charles Rolls, Monmouth</rdfs:label>
+    <rdfs:label xml:lang="es">Estatua de Charles Rolls</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Goscombe_John"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stone_Age_in_America">
+    <rdfs:label xml:lang="en">Stone Age in America</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/John_J._Boyle"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/T.A._Chapman_Memorial">
+    <rdfs:label xml:lang="en">T.A. Chapman Memorial</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Daniel_Chester_French"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Caress_of_a_Bird">
+    <rdfs:label xml:lang="ru">Ласки птицы</rdfs:label>
+    <rdfs:label xml:lang="en">The Caress of a Bird</rdfs:label>
+    <rdfs:label xml:lang="de">La carícia d’un ocell</rdfs:label>
+    <rdfs:label xml:lang="fr">La Caresse d'un oiseau</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Joan_Miró"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Drummer_(Flanagan)">
+    <rdfs:label xml:lang="en">The Drummer (Flanagan)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Barry_Flanagan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Ideal_Scout_(Milwaukee)">
+    <rdfs:label xml:lang="en">The Ideal Scout (Milwaukee)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/R._Tait_McKenzie"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Urban_Light">
+    <rdfs:label xml:lang="en">Urban Light</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Chris_Burden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pietà_or_Revolution_by_Night">
+    <rdfs:label xml:lang="en">Pietà or Revolution by Night</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Max_Ernst"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Daughters_of_Edward_Darley_Boit">
+    <rdfs:label xml:lang="de">Die Töchter des Edward Darley Boit</rdfs:label>
+    <rdfs:label xml:lang="zh">爱德华·达里·博伊特的女儿</rdfs:label>
+    <rdfs:label xml:lang="ja">エドワード・D・ボイトの娘たち</rdfs:label>
+    <rdfs:label xml:lang="en">The Daughters of Edward Darley Boit</rdfs:label>
+    <rdfs:label xml:lang="fr">Filles d'Edward Darley Boit</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/John_Singer_Sargent"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoho_Ahoy">
+    <rdfs:label xml:lang="en">Yoho Ahoy</rdfs:label>
+    <rdfs:label xml:lang="ja">Yoho ahoY</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Stan_Cullimore"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Young_Virgin_Auto-Sodomized_by_the_Horns_of_Her_Own_Chastity">
+    <rdfs:label xml:lang="en">Young Virgin Auto-Sodomized by the Horns of Her Own Chastity</rdfs:label>
+    <rdfs:label xml:lang="ru">Содомское самоудовлетворение невинной девы</rdfs:label>
+    <rdfs:label xml:lang="fr">Jeune Vierge autosodomisée par les cornes de sa propre chasteté</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Salvador_Dalí"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/He's_Your_Dog,_Charlie_Brown">
+    <rdfs:label xml:lang="es">He's Your Dog, Charlie Brown</rdfs:label>
+    <rdfs:label xml:lang="pt">He's Your Dog, Charlie Brown</rdfs:label>
+    <rdfs:label xml:lang="en">He's Your Dog, Charlie Brown</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Charles_M._Schulz"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You're_Not_Elected,_Charlie_Brown">
+    <rdfs:label xml:lang="en">You're Not Elected, Charlie Brown</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Charles_M._Schulz"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Charlie_Brown_Celebration">
+    <rdfs:label xml:lang="es">A Charlie Brown Celebration</rdfs:label>
+    <rdfs:label xml:lang="en">A Charlie Brown Celebration</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Charles_M._Schulz"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ai_Shite_Knight">
+    <rdfs:label xml:lang="de">Rock ’n’ Roll Kids</rdfs:label>
+    <rdfs:label xml:lang="it">Kiss Me Licia</rdfs:label>
+    <rdfs:label xml:lang="en">Ai Shite Knight</rdfs:label>
+    <rdfs:label xml:lang="pt">Ai Shite Knight</rdfs:label>
+    <rdfs:label xml:lang="ja">愛してナイト</rdfs:label>
+    <rdfs:label xml:lang="es">Ai Shite Night</rdfs:label>
+    <rdfs:label xml:lang="ru">Ai Shite Knight</rdfs:label>
+    <rdfs:label xml:lang="fr">Embrasse-moi Lucile</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Kaoru_Tada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crocodile_Shoes">
+    <rdfs:label xml:lang="en">Crocodile Shoes</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jimmy_Nail"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gray_Tree">
+    <rdfs:label xml:lang="en">Gray Tree</rdfs:label>
+    <rdfs:label xml:lang="fr">Arbre argenté</rdfs:label>
+    <rdfs:label xml:lang="pt">A Árvore Cinzenta</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Piet_Mondrian"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Happy_New_Year,_Charlie_Brown!">
+    <rdfs:label xml:lang="en">Happy New Year, Charlie Brown!</rdfs:label>
+    <rdfs:label xml:lang="es">Happy New Year, Charlie Brown!</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Charles_M._Schulz"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/It's_an_Adventure,_Charlie_Brown">
+    <rdfs:label xml:lang="en">It's an Adventure, Charlie Brown</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Charles_M._Schulz"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Itsumo_Misora">
+    <rdfs:label xml:lang="fr">Itsumo Misora</rdfs:label>
+    <rdfs:label xml:lang="it">Misora per sempre</rdfs:label>
+    <rdfs:label xml:lang="ja">いつも美空</rdfs:label>
+    <rdfs:label xml:lang="zh">美眉美空</rdfs:label>
+    <rdfs:label xml:lang="en">Itsumo Misora</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Mitsuru_Adachi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madonna_dell'Impannata">
+    <rdfs:label xml:lang="fr">La Vierge de l'Impannata</rdfs:label>
+    <rdfs:label xml:lang="en">Madonna dell'Impannata</rdfs:label>
+    <rdfs:label xml:lang="it">Madonna dell'Impannata</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Raphael"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madonna_of_Foligno">
+    <rdfs:label xml:lang="it">Madonna di Foligno</rdfs:label>
+    <rdfs:label xml:lang="de">Madonna von Foligno</rdfs:label>
+    <rdfs:label xml:lang="pl">Madonna di Foligno</rdfs:label>
+    <rdfs:label xml:lang="en">Madonna of Foligno</rdfs:label>
+    <rdfs:label xml:lang="fr">La Vierge de Foligno</rdfs:label>
+    <rdfs:label xml:lang="es">Madona de Foligno</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Raphael"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monkey_Trousers">
+    <rdfs:label xml:lang="en">Monkey Trousers</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vic_Reeves"/>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Bob_Mortimer"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nine_(manga)">
+    <rdfs:label xml:lang="it">Nine (manga)</rdfs:label>
+    <rdfs:label xml:lang="ja">ナイン (漫画)</rdfs:label>
+    <rdfs:label xml:lang="ru">Nine</rdfs:label>
+    <rdfs:label xml:lang="en">Nine (manga)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Mitsuru_Adachi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Bindo_Altoviti">
+    <rdfs:label xml:lang="nl">Portret van Bindo Altoviti</rdfs:label>
+    <rdfs:label xml:lang="fr">Portrait de Bindo Altoviti</rdfs:label>
+    <rdfs:label xml:lang="it">Ritratto di Bindo Altoviti</rdfs:label>
+    <rdfs:label xml:lang="en">Portrait of Bindo Altoviti</rdfs:label>
+    <rdfs:label xml:lang="es">Retrato de Bindo Altoviti</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Raphael"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Masaccio)">
+    <rdfs:label xml:lang="es">Retrato de un joven de perfil (Masaccio)</rdfs:label>
+    <rdfs:label xml:lang="en">Portrait of a Young Man (Masaccio)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Masaccio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Paul_(Masaccio)">
+    <rdfs:label xml:lang="en">Saint Paul (Masaccio)</rdfs:label>
+    <rdfs:label xml:lang="es">San Pablo (Masaccio)</rdfs:label>
+    <rdfs:label xml:lang="it">San Paolo (Masaccio)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Masaccio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samurai_Executioner">
+    <rdfs:label xml:lang="en">Samurai Executioner</rdfs:label>
+    <rdfs:label xml:lang="ja">首斬り朝</rdfs:label>
+    <rdfs:label xml:lang="pt">Kubikiri Asa</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Kazuo_Koike"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Snoopy's_Getting_Married,_Charlie_Brown">
+    <rdfs:label xml:lang="en">Snoopy's Getting Married, Charlie Brown</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Charles_M._Schulz"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Harlem_Globetrotters_Popcorn_Machine">
+    <rdfs:label xml:lang="en">The Harlem Globetrotters Popcorn Machine</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jack_Burns"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Silver_Mistress">
+    <rdfs:label xml:lang="en">The Silver Mistress</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_O'Donnell"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Why,_Charlie_Brown,_Why%3F">
+    <rdfs:label xml:lang="en">Why, Charlie Brown, Why?</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Charles_M._Schulz"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_Miniature_of_Margaret_Roper">
+    <rdfs:label xml:lang="en">Portrait Miniature of Margaret Roper</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Hans_Holbein_the_Younger"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woman_in_Blue_Reading_a_Letter">
+    <rdfs:label xml:lang="en">Woman in Blue Reading a Letter</rdfs:label>
+    <rdfs:label xml:lang="it">Donna in azzurro che legge una lettera</rdfs:label>
+    <rdfs:label xml:lang="de">Briefleserin in Blau</rdfs:label>
+    <rdfs:label xml:lang="nl">Brieflezende vrouw in het blauw</rdfs:label>
+    <rdfs:label xml:lang="ja">青衣の女</rdfs:label>
+    <rdfs:label xml:lang="es">Mujer leyendo una carta (Vermeer)</rdfs:label>
+    <rdfs:label xml:lang="fr">La Femme en bleu lisant une lettre</rdfs:label>
+    <rdfs:label xml:lang="pl">Kobieta w błękitnej sukni</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Johannes_Vermeer"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Session_of_the_Painting_Jury">
+    <rdfs:label xml:lang="en">A Session of the Painting Jury</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Henri_Gervex"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allegory_of_Virtue_and_Vice_(Lotto)">
+    <rdfs:label xml:lang="fr">Allégorie du Vice et de la Vertu (Lotto)</rdfs:label>
+    <rdfs:label xml:lang="it">Allegoria della Virtù e del Vizio</rdfs:label>
+    <rdfs:label xml:lang="es">Alegoría del vicio y la virtud</rdfs:label>
+    <rdfs:label xml:lang="en">Allegory of Virtue and Vice (Lotto)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Lorenzo_Lotto"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_Girl">
+    <rdfs:label xml:lang="fr">Jeune Chinoise</rdfs:label>
+    <rdfs:label xml:lang="en">Chinese Girl</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vladimir_Tretchikoff"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gods'_Man">
+    <rdfs:label xml:lang="en">Gods' Man</rdfs:label>
+    <rdfs:label xml:lang="ar">رجل الآلهة</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Lynd_Ward"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Dork">
+    <rdfs:label xml:lang="en">King Dork</rdfs:label>
+    <rdfs:label xml:lang="es">King Dork</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Frank_Portman"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madonna_of_the_Red_Cherubims">
+    <rdfs:label xml:lang="nl">Madonna met de rode cherubijnen</rdfs:label>
+    <rdfs:label xml:lang="it">Madonna dai Cherubini rossi</rdfs:label>
+    <rdfs:label xml:lang="en">Madonna of the Red Cherubims</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Giovanni_Bellini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Never_War">
+    <rdfs:label xml:lang="es">Monumento &quot;Guerra nunca más&quot; en Luboń</rdfs:label>
+    <rdfs:label xml:lang="pl">Pomnik &quot;Nigdy wojny&quot;</rdfs:label>
+    <rdfs:label xml:lang="en">Never War</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Józef_Gosławski_(sculptor)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Jacques_Nayral">
+    <rdfs:label xml:lang="en">Portrait of Jacques Nayral</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Albert_Gleizes"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Death_of_Nelson_(Maclise_painting)">
+    <rdfs:label xml:lang="fr">La Mort de Nelson</rdfs:label>
+    <rdfs:label xml:lang="en">The Death of Nelson (Maclise painting)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Daniel_Maclise"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fog_Warning">
+    <rdfs:label xml:lang="en">The Fog Warning</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Winslow_Homer"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Utter_Glory_of_Morrissey_Hall">
+    <rdfs:label xml:lang="en">The Utter Glory of Morrissey Hall</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Clark_Gesner"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_and_the_Boingers_Bootleg">
+    <rdfs:label xml:lang="en">Billy and the Boingers Bootleg</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Berkeley_Breathed"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erasistratus_Discovering_the_Cause_of_Antiochus'_Disease">
+    <rdfs:label xml:lang="en">Erasistratus Discovering the Cause of Antiochus' Disease</rdfs:label>
+    <rdfs:label xml:lang="fr">Érasistrate découvrant la cause de la maladie d'Antiochius</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jacques-Louis_David"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabrielle_Cot">
+    <rdfs:label xml:lang="en">Gabrielle Cot</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/William-Adolphe_Bouguereau"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Girl_in_a_Blue_Dress">
+    <rdfs:label xml:lang="en">Girl in a Blue Dress</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Johannes_Cornelisz_Verspronck"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_Vasas_intåg_i_Stockholm_1523">
+    <rdfs:label xml:lang="en">Gustav Vasas intåg i Stockholm 1523</rdfs:label>
+    <rdfs:label xml:lang="ja">グスタヴ・ヴァーサのストックホルム入城</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Carl_Larsson"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Infinity_Blues">
+    <rdfs:label xml:lang="en">Infinity Blues</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ryan_Adams"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kakukaku_Shikajika">
+    <rdfs:label xml:lang="pt">Kakukaku Shikajika</rdfs:label>
+    <rdfs:label xml:lang="en">Kakukaku Shikajika</rdfs:label>
+    <rdfs:label xml:lang="ja">かくかくしかじか (漫画)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Akiko_Higashimura"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odalisque_with_Slave">
+    <rdfs:label xml:lang="fr">L'Odalisque à l'esclave</rdfs:label>
+    <rdfs:label xml:lang="en">Odalisque with Slave</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jean-Auguste-Dominique_Ingres"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Bishop_Bernardo_de'_Rossi">
+    <rdfs:label xml:lang="fr">Portrait de l'évêque Bernardo de' Rossi (Lotto)</rdfs:label>
+    <rdfs:label xml:lang="en">Portrait of Bishop Bernardo de' Rossi</rdfs:label>
+    <rdfs:label xml:lang="it">Ritratto del vescovo Bernardo de' Rossi</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Lorenzo_Lotto"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Skaters_in_the_Bois_de_Boulogne">
+    <rdfs:label xml:lang="fr">Les Patineurs à Longchamp</rdfs:label>
+    <rdfs:label xml:lang="en">Skaters in the Bois de Boulogne</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Pierre-Auguste_Renoir"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Face_of_War">
+    <rdfs:label xml:lang="fr">Le Visage de la guerre</rdfs:label>
+    <rdfs:label xml:lang="ru">Лицо войны</rdfs:label>
+    <rdfs:label xml:lang="pt">A Face da Guerra</rdfs:label>
+    <rdfs:label xml:lang="en">The Face of War</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Salvador_Dalí"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Holy_Family_of_Francis_I_(Raphael)">
+    <rdfs:label xml:lang="it">Sacra Famiglia di Francesco I</rdfs:label>
+    <rdfs:label xml:lang="en">The Holy Family of Francis I (Raphael)</rdfs:label>
+    <rdfs:label xml:lang="fr">La Sainte Famille de François Ier</rdfs:label>
+    <rdfs:label xml:lang="pl">Święta Rodzina Franciszka I</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Raphael"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Jonathan_Winters_Show">
+    <rdfs:label xml:lang="en">The Jonathan Winters Show</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jonathan_Winters"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gay_Liberation_Monument">
+    <rdfs:label xml:lang="en">Gay Liberation Monument</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/George_Segal_(artist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ireland:_Landscapes_of_God's_Peace">
+    <rdfs:label xml:lang="en">Ireland: Landscapes of God's Peace</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Moya_Brennan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madonna_del_Padiglione_(Botticelli)">
+    <rdfs:label xml:lang="fr">La Madone du pavillon</rdfs:label>
+    <rdfs:label xml:lang="es">Virgen del pabellón</rdfs:label>
+    <rdfs:label xml:lang="en">Madonna del Padiglione (Botticelli)</rdfs:label>
+    <rdfs:label xml:lang="it">Madonna del Padiglione</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Sandro_Botticelli"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rome,_From_Mount_Aventine">
+    <rdfs:label xml:lang="en">Rome, From Mount Aventine</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/J._M._W._Turner"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rotten:_No_Irish,_No_Blacks,_No_Dogs">
+    <rdfs:label xml:lang="ru">Rotten: No Irish, No Blacks, No Dogs</rdfs:label>
+    <rdfs:label xml:lang="en">Rotten: No Irish, No Blacks, No Dogs</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/John_Lydon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Statue_of_Pope_Urban_VIII">
+    <rdfs:label xml:lang="en">Statue of Pope Urban VIII</rdfs:label>
+    <rdfs:label xml:lang="pt">Túmulo do Papa Urbano VIII</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Gian_Lorenzo_Bernini"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fifer">
+    <rdfs:label xml:lang="it">Il pifferaio</rdfs:label>
+    <rdfs:label xml:lang="ja">笛を吹く少年</rdfs:label>
+    <rdfs:label xml:lang="pl">Flecista (Manet)</rdfs:label>
+    <rdfs:label xml:lang="es">El pífano</rdfs:label>
+    <rdfs:label xml:lang="zh">吹笛子的少年</rdfs:label>
+    <rdfs:label xml:lang="nl">De fluitspeler</rdfs:label>
+    <rdfs:label xml:lang="en">The Fifer</rdfs:label>
+    <rdfs:label xml:lang="fr">Le Joueur de fifre</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Édouard_Manet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgin_of_Quito">
+    <rdfs:label xml:lang="es">Virgen de Quito</rdfs:label>
+    <rdfs:label xml:lang="en">Virgin of Quito</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Bernardo_de_Legarda"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/At_a_Window_in_the_Artist's_Studio">
+    <rdfs:label xml:lang="en">At a Window in the Artist's Studio</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Christoffer_Wilhelm_Eckersberg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Holy_Family_with_Saint_John_the_Baptist">
+    <rdfs:label xml:lang="en">The Holy Family with Saint John the Baptist</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Nosadella"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shadow_Moon_(novel)">
+    <rdfs:label xml:lang="en">Shadow Moon (novel)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Chris_Claremont"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Something_for_the_Boys">
+    <rdfs:label xml:lang="en">Something for the Boys</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Dorothy_Fields"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Weeping_Woman">
+    <rdfs:label xml:lang="it">Donna che piange</rdfs:label>
+    <rdfs:label xml:lang="zh">哭泣的女人</rdfs:label>
+    <rdfs:label xml:lang="fr">La Femme qui pleure (Picasso)</rdfs:label>
+    <rdfs:label xml:lang="ja">泣く女</rdfs:label>
+    <rdfs:label xml:lang="en">The Weeping Woman</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Pablo_Picasso"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cleopatra_and_Caesar_(painting)">
+    <rdfs:label xml:lang="en">Cleopatra and Caesar (painting)</rdfs:label>
+    <rdfs:label xml:lang="ru">Клеопатра и Цезарь (картина)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jean-Léon_Gérôme"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Communion_of_the_Apostles_(Barocci)">
+    <rdfs:label xml:lang="en">Communion of the Apostles (Barocci)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Federico_Barocci"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ex-Voto_de_1662">
+    <rdfs:label xml:lang="en">Ex-Voto de 1662</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Philippe_de_Champaigne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hi_Izuru_Tokoro_no_Tenshi">
+    <rdfs:label xml:lang="en">Hi Izuru Tokoro no Tenshi</rdfs:label>
+    <rdfs:label xml:lang="ru">Hi Izuru Tokoro no Tenshi</rdfs:label>
+    <rdfs:label xml:lang="ja">日出処の天子</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ryoko_Yamagishi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lying_Cow">
+    <rdfs:label xml:lang="en">Lying Cow</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sugar_Princess">
+    <rdfs:label xml:lang="en">Sugar Princess</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Hisaya_Nakajo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Basket_of_Apples">
+    <rdfs:label xml:lang="zh">蘋果籃</rdfs:label>
+    <rdfs:label xml:lang="es">Cesto de manzanas</rdfs:label>
+    <rdfs:label xml:lang="nl">Mand met appelen</rdfs:label>
+    <rdfs:label xml:lang="en">The Basket of Apples</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Paul_Cézanne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Triumph_of_Bacchus">
+    <rdfs:label xml:lang="fr">Le Triomphe de Bacchus (Vélasquez)</rdfs:label>
+    <rdfs:label xml:lang="es">El triunfo de Baco (Velázquez)</rdfs:label>
+    <rdfs:label xml:lang="it">Trionfo di Bacco (Velázquez)</rdfs:label>
+    <rdfs:label xml:lang="pt">O Triunfo de Baco</rdfs:label>
+    <rdfs:label xml:lang="en">The Triumph of Bacchus</rdfs:label>
+    <rdfs:label xml:lang="pl">Triumf Bachusa</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Diego_Velázquez"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tonda_Couple">
+    <rdfs:label xml:lang="fr">The Terrible Couple</rdfs:label>
+    <rdfs:label xml:lang="en">Tonda Couple</rdfs:label>
+    <rdfs:label xml:lang="ja">翔んだカップル</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Kimio_Yanagisawa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Village_Lost_and_Found">
+    <rdfs:label xml:lang="en">A Village Lost and Found</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Brian_May"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Woman_Walking_in_a_Garden">
+    <rdfs:label xml:lang="en">A Woman Walking in a Garden</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vincent_van_Gogh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Conan_the_Destroyer_(painting)">
+    <rdfs:label xml:lang="en">Conan the Destroyer (painting)</rdfs:label>
+    <rdfs:label xml:lang="ru">The Destroyer</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Frank_Frazetta"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Courre_Merlan_(Whiting_Chase)">
+    <rdfs:label xml:lang="en">Courre Merlan (Whiting Chase)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jean_Dubuffet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Footballer_(Nolan)">
+    <rdfs:label xml:lang="en">Footballer (Nolan)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Sidney_Nolan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Attention_Please">
+    <rdfs:label xml:lang="es">Attention Please</rdfs:label>
+    <rdfs:label xml:lang="zh">Attention Please</rdfs:label>
+    <rdfs:label xml:lang="it">Attention Please (manga)</rdfs:label>
+    <rdfs:label xml:lang="en">Attention Please</rdfs:label>
+    <rdfs:label xml:lang="ja">アテンションプリーズ</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Chieko_Hosokawa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heading_Out">
+    <rdfs:label xml:lang="en">Heading Out</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Sue_Perkins"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Prodigal_Son_in_the_Brothel">
+    <rdfs:label xml:lang="pl">Autoportret z Saskią</rdfs:label>
+    <rdfs:label xml:lang="en">The Prodigal Son in the Brothel</rdfs:label>
+    <rdfs:label xml:lang="ru">Блудный сын в таверне</rdfs:label>
+    <rdfs:label xml:lang="it">Allegra coppia</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Rembrandt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ville_d'Avray_(painting)">
+    <rdfs:label xml:lang="en">Ville d'Avray (painting)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jean-Baptiste-Camille_Corot"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiepenkerl">
+    <rdfs:label xml:lang="en">Kiepenkerl</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jeff_Koons"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Le_vieillard_(Pourtau)">
+    <rdfs:label xml:lang="en">Le vieillard (Pourtau)</rdfs:label>
+    <rdfs:label xml:lang="es">El anciano (Léon Pourtau)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Léon_Pourtau"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madonna_della_Vittoria">
+    <rdfs:label xml:lang="en">Madonna della Vittoria</rdfs:label>
+    <rdfs:label xml:lang="it">Madonna della Vittoria</rdfs:label>
+    <rdfs:label xml:lang="pl">Matka Boska Zwycięska</rdfs:label>
+    <rdfs:label xml:lang="fr">La Vierge de la Victoire</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Andrea_Mantegna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mago_Hermano_(Brother_Wizard_or_Magician)">
+    <rdfs:label xml:lang="en">Mago Hermano (Brother Wizard or Magician)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Alejandro_Colunga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Man_with_Red_Hat">
+    <rdfs:label xml:lang="en">Man with Red Hat</rdfs:label>
+    <rdfs:label xml:lang="it">Uomo col berretto rosso</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vittore_Carpaccio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miracle_of_the_Relic_of_the_Cross_at_the_Ponte_di_Rialto">
+    <rdfs:label xml:lang="en">Miracle of the Relic of the Cross at the Ponte di Rialto</rdfs:label>
+    <rdfs:label xml:lang="es">Milagro de la reliquia de la Cruz en el Puente del Rialto</rdfs:label>
+    <rdfs:label xml:lang="it">Miracolo della Croce a Rialto</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vittore_Carpaccio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mono-ha">
+    <rdfs:label xml:lang="fr">Mono-ha</rdfs:label>
+    <rdfs:label xml:lang="ja">もの派</rdfs:label>
+    <rdfs:label xml:lang="en">Mono-ha</rdfs:label>
+    <rdfs:label xml:lang="it">Mono-Ha</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Nobuo_Sekine"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peasant_with_a_Wheelbarrow">
+    <rdfs:label xml:lang="en">Peasant with a Wheelbarrow</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jean-François_Millet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1530_in_art">
+    <rdfs:label xml:lang="en">1530 in art</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Antonio_da_Correggio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prophet_Joel_(Michelangelo)">
+    <rdfs:label xml:lang="en">Prophet Joel (Michelangelo)</rdfs:label>
+    <rdfs:label xml:lang="it">Gioele (Michelangelo)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Michelangelo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Battle_of_the_Amazons_(Rubens)">
+    <rdfs:label xml:lang="it">Battaglia delle Amazzoni</rdfs:label>
+    <rdfs:label xml:lang="ru">Битва греков с амазонками</rdfs:label>
+    <rdfs:label xml:lang="en">The Battle of the Amazons (Rubens)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Anthony_van_Dyck"/>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_Paul_Rubens"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Census_at_Bethlehem">
+    <rdfs:label xml:lang="it">Censimento di Betlemme</rdfs:label>
+    <rdfs:label xml:lang="es">Censo en Belén</rdfs:label>
+    <rdfs:label xml:lang="fr">Le Dénombrement de Bethléem</rdfs:label>
+    <rdfs:label xml:lang="pl">Spis ludności w Betlejem</rdfs:label>
+    <rdfs:label xml:lang="de">Die Volkszählung zu Bethlehem</rdfs:label>
+    <rdfs:label xml:lang="en">The Census at Bethlehem</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Pieter_Bruegel_the_Elder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Drover's_Wife">
+    <rdfs:label xml:lang="en">The Drover's Wife</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Russell_Drysdale"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Babylon_5:_Legions_of_Fire_–_Armies_of_Light_and_Dark">
+    <rdfs:label xml:lang="en">Babylon 5: Legions of Fire – Armies of Light and Dark</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_David"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgil_Finlay:_An_Astrology_Sketchbook">
+    <rdfs:label xml:lang="en">Virgil Finlay: An Astrology Sketchbook</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Virgil_Finlay"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cloud_Boy">
+    <rdfs:label xml:lang="en">Cloud Boy</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Rhode_Montijo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deposition_of_Christ_(Fra_Angelico)">
+    <rdfs:label xml:lang="en">Deposition of Christ (Fra Angelico)</rdfs:label>
+    <rdfs:label xml:lang="es">Descendimiento de la Cruz (Fra Angélico)</rdfs:label>
+    <rdfs:label xml:lang="pl">Zdjęcie z krzyża (obraz Fra Angelica)</rdfs:label>
+    <rdfs:label xml:lang="fr">La Descente de Croix (Fra Angelico)</rdfs:label>
+    <rdfs:label xml:lang="pt">Deposição de Cristo (Fra Angelico)</rdfs:label>
+    <rdfs:label xml:lang="it">Deposizione (Angelico)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Fra_Angelico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flying_Dragon_(Calder)">
+    <rdfs:label xml:lang="en">Flying Dragon (Calder)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Alexander_Calder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hey,_Hey,_It's_the_Monkees">
+    <rdfs:label xml:lang="en">Hey, Hey, It's the Monkees</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Michael_Nesmith"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maestà_(Duccio)">
+    <rdfs:label xml:lang="es">Maestà de la catedral de Siena</rdfs:label>
+    <rdfs:label xml:lang="it">Maestà del Duomo di Siena</rdfs:label>
+    <rdfs:label xml:lang="pl">Maestà (poliptyk Duccia)</rdfs:label>
+    <rdfs:label xml:lang="fr">La Maestà (Duccio)</rdfs:label>
+    <rdfs:label xml:lang="ru">Маэста (картина Дуччо)</rdfs:label>
+    <rdfs:label xml:lang="de">Maestà (Duccio)</rdfs:label>
+    <rdfs:label xml:lang="en">Maestà (Duccio)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Duccio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Netherlandish_Proverbs">
+    <rdfs:label xml:lang="pl">Przysłowia niderlandzkie</rdfs:label>
+    <rdfs:label xml:lang="fr">Les Proverbes flamands</rdfs:label>
+    <rdfs:label xml:lang="de">Die niederländischen Sprichwörter</rdfs:label>
+    <rdfs:label xml:lang="en">Netherlandish Proverbs</rdfs:label>
+    <rdfs:label xml:lang="pt">Provérbios Neerlandeses</rdfs:label>
+    <rdfs:label xml:lang="it">Proverbi fiamminghi</rdfs:label>
+    <rdfs:label xml:lang="nl">Nederlandse Spreekwoorden</rdfs:label>
+    <rdfs:label xml:lang="es">Los proverbios flamencos</rdfs:label>
+    <rdfs:label xml:lang="ru">Фламандские пословицы</rdfs:label>
+    <rdfs:label xml:lang="zh">尼德兰箴言</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Pieter_Bruegel_the_Elder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Professor_Benjamin_H._Rand">
+    <rdfs:label xml:lang="en">Portrait of Professor Benjamin H. Rand</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Thomas_Eakins"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saturday_Night_Fever_(musical)">
+    <rdfs:label xml:lang="ru">Лихорадка субботнего вечера (мюзикл)</rdfs:label>
+    <rdfs:label xml:lang="nl">Saturday Night Fever (musical)</rdfs:label>
+    <rdfs:label xml:lang="de">Saturday Night Fever (Musical)</rdfs:label>
+    <rdfs:label xml:lang="es">Fiebre del sábado noche (musical)</rdfs:label>
+    <rdfs:label xml:lang="en">Saturday Night Fever (musical)</rdfs:label>
+    <rdfs:label xml:lang="ja">サタデー・ナイト・フィーバー (ミュージカル)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Paul_Nicholas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spirit_of_Communication">
+    <rdfs:label xml:lang="en">Spirit of Communication</rdfs:label>
+    <rdfs:label xml:lang="de">Golden Boy (AT&amp;T)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Evelyn_Beatrice_Longman"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Conversion_of_Saul_(Michelangelo)">
+    <rdfs:label xml:lang="ru">Обращение Савла (Микеланджело)</rdfs:label>
+    <rdfs:label xml:lang="en">The Conversion of Saul (Michelangelo)</rdfs:label>
+    <rdfs:label xml:lang="fr">Conversion de saint Paul (Michel-Ange)</rdfs:label>
+    <rdfs:label xml:lang="nl">De bekering van Paulus (Michelangelo)</rdfs:label>
+    <rdfs:label xml:lang="es">La conversión de San Pablo (Miguel Ángel)</rdfs:label>
+    <rdfs:label xml:lang="it">Conversione di Saulo (Michelangelo)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Michelangelo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Engineer's_Lover">
+    <rdfs:label xml:lang="en">The Engineer's Lover</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Carlo_Carrà"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Enigma_of_the_Hour">
+    <rdfs:label xml:lang="es">El enigma de la hora</rdfs:label>
+    <rdfs:label xml:lang="en">The Enigma of the Hour</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Giorgio_de_Chirico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Feast_of_Saint_Nicholas">
+    <rdfs:label xml:lang="nl">Het Sint Nicolaasfeest</rdfs:label>
+    <rdfs:label xml:lang="en">The Feast of Saint Nicholas</rdfs:label>
+    <rdfs:label xml:lang="pl">Dzień św. Mikołaja</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jan_Steen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Joke's_Over">
+    <rdfs:label xml:lang="en">The Joke's Over</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ralph_Steadman"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Magpie_on_the_Gallows">
+    <rdfs:label xml:lang="es">La urraca sobre el cadalso</rdfs:label>
+    <rdfs:label xml:lang="ru">Сорока на виселице</rdfs:label>
+    <rdfs:label xml:lang="nl">De ekster op de galg (schilderij)</rdfs:label>
+    <rdfs:label xml:lang="it">Gazza sulla forca</rdfs:label>
+    <rdfs:label xml:lang="en">The Magpie on the Gallows</rdfs:label>
+    <rdfs:label xml:lang="fr">La Pie sur le gibet</rdfs:label>
+    <rdfs:label xml:lang="de">Die Elster auf dem Galgen</rdfs:label>
+    <rdfs:label xml:lang="pl">Pejzaż z szubienicą</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Pieter_Bruegel_the_Elder"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venise,_La_Piazetta">
+    <rdfs:label xml:lang="en">Venise, La Piazetta</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jean-Baptiste-Camille_Corot"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vixens">
+    <rdfs:label xml:lang="es">Vixens</rdfs:label>
+    <rdfs:label xml:lang="en">Vixens</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/U-Jin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/One_Hundred_Famous_Views_of_Edo">
+    <rdfs:label xml:lang="zh">名所江戶百景</rdfs:label>
+    <rdfs:label xml:lang="fr">Cent vues d'Edo</rdfs:label>
+    <rdfs:label xml:lang="pt">Cem vistas de Edo</rdfs:label>
+    <rdfs:label xml:lang="de">100 berühmte Ansichten von Edo</rdfs:label>
+    <rdfs:label xml:lang="en">One Hundred Famous Views of Edo</rdfs:label>
+    <rdfs:label xml:lang="es">Cien famosas vistas de Edo</rdfs:label>
+    <rdfs:label xml:lang="ru">Сто знаменитых видов Эдо</rdfs:label>
+    <rdfs:label xml:lang="ja">名所江戸百景</rdfs:label>
+    <rdfs:label xml:lang="it">Cento vedute famose di Edo</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Hiroshige"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Young_Men">
+    <rdfs:label xml:lang="fr">Les Vacances de Jésus et Bouddha</rdfs:label>
+    <rdfs:label xml:lang="zh">聖哥傳</rdfs:label>
+    <rdfs:label xml:lang="ja">聖☆おにいさん</rdfs:label>
+    <rdfs:label xml:lang="it">Saint Young Men</rdfs:label>
+    <rdfs:label xml:lang="de">Saint Young Men</rdfs:label>
+    <rdfs:label xml:lang="ru">Saint Onii-san</rdfs:label>
+    <rdfs:label xml:lang="en">Saint Young Men</rdfs:label>
+    <rdfs:label xml:lang="es">Saint Young Men</rdfs:label>
+    <rdfs:label xml:lang="pt">Saint Onii-san</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Hikaru_Nakamura_(artist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allegory_(Filippino_Lippi)">
+    <rdfs:label xml:lang="en">Allegory (Filippino Lippi)</rdfs:label>
+    <rdfs:label xml:lang="it">Allegoria (Uffizi)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Filippino_Lippi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/45_(book)">
+    <rdfs:label xml:lang="en">45 (book)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Bill_Drummond"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Thousand_Acres">
+    <rdfs:label xml:lang="en">A Thousand Acres</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jane_Smiley"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alien_Bodies">
+    <rdfs:label xml:lang="en">Alien Bodies</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Lawrence_Miles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/And_the_Ass_Saw_the_Angel">
+    <rdfs:label xml:lang="it">E l'asina vide l'angelo</rdfs:label>
+    <rdfs:label xml:lang="ru">И узре ослица Ангела Божия</rdfs:label>
+    <rdfs:label xml:lang="fr">Et l'âne vit l'ange</rdfs:label>
+    <rdfs:label xml:lang="en">And the Ass Saw the Angel</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Nick_Cave"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atom_Bomb_Blues">
+    <rdfs:label xml:lang="en">Atom Bomb Blues</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Andrew_Cartmel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cat's_Cradle:_Warhead">
+    <rdfs:label xml:lang="en">Cat's Cradle: Warhead</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Andrew_Cartmel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christmas_on_a_Rational_Planet">
+    <rdfs:label xml:lang="en">Christmas on a Rational Planet</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Lawrence_Miles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cobra_Trap">
+    <rdfs:label xml:lang="en">Cobra Trap</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_O'Donnell"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daddy's_Roommate">
+    <rdfs:label xml:lang="es">Daddy's Roommate</rdfs:label>
+    <rdfs:label xml:lang="en">Daddy's Roommate</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Michael_Willhoite"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dead_Man's_Handle">
+    <rdfs:label xml:lang="en">Dead Man's Handle</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_O'Donnell"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dead_Romance">
+    <rdfs:label xml:lang="en">Dead Romance</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Lawrence_Miles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dragon's_Claw">
+    <rdfs:label xml:lang="en">Dragon's Claw</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_O'Donnell"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ethel_and_Ernest">
+    <rdfs:label xml:lang="en">Ethel and Ernest</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Raymond_Briggs"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eyes_of_the_Storm">
+    <rdfs:label xml:lang="en">Eyes of the Storm</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jeff_Smith_(cartoonist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flanimals_of_the_Deep">
+    <rdfs:label xml:lang="pt">Flanimals of the Deep</rdfs:label>
+    <rdfs:label xml:lang="en">Flanimals of the Deep</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ricky_Gervais"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Foreign_Devils">
+    <rdfs:label xml:lang="en">Foreign Devils</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Andrew_Cartmel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghost_Circles">
+    <rdfs:label xml:lang="en">Ghost Circles</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jeff_Smith_(cartoonist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Half-Life_(novel)">
+    <rdfs:label xml:lang="en">Half-Life (novel)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Aaron_Krach"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heart_Full_of_Soul:_An_Inspirational_Memoir_About_Finding_Your_Voice_and_Finding_Your_Way">
+    <rdfs:label xml:lang="en">Heart Full of Soul: An Inspirational Memoir About Finding Your Voice and Finding Your Way</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Taylor_Hicks"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Knight_Life">
+    <rdfs:label xml:lang="en">Knight Life</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_David"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Last_Day_in_Limbo">
+    <rdfs:label xml:lang="en">Last Day in Limbo</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_O'Donnell"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_T_Learns_to_Share">
+    <rdfs:label xml:lang="en">Little T Learns to Share</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Courtney_Parker"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mix_Tape:_The_Art_of_Cassette_Culture">
+    <rdfs:label xml:lang="en">Mix Tape: The Art of Cassette Culture</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Thurston_Moore"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Old_Man's_Cave">
+    <rdfs:label xml:lang="en">Old Man's Cave</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jeff_Smith_(cartoonist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Out_from_Boneville">
+    <rdfs:label xml:lang="en">Out from Boneville</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jeff_Smith_(cartoonist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Q-Squared">
+    <rdfs:label xml:lang="en">Q-Squared</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_David"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rise_of_the_Ogre">
+    <rdfs:label xml:lang="nl">Rise of the Ogre</rdfs:label>
+    <rdfs:label xml:lang="ar">الغوريلا نهوض الغول</rdfs:label>
+    <rdfs:label xml:lang="en">Rise of the Ogre</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Cass_Browne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rock_Jaw:_Master_of_the_Eastern_Border">
+    <rdfs:label xml:lang="en">Rock Jaw: Master of the Eastern Border</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jeff_Smith_(cartoonist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scar_Tissue_(book)">
+    <rdfs:label xml:lang="it">Scar Tissue (autobiografia)</rdfs:label>
+    <rdfs:label xml:lang="es">Scar Tissue (libro)</rdfs:label>
+    <rdfs:label xml:lang="en">Scar Tissue (book)</rdfs:label>
+    <rdfs:label xml:lang="pt">Scar Tissue (livro)</rdfs:label>
+    <rdfs:label xml:lang="pl">Blizna (autobiografia)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Anthony_Kiedis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_Shadows_of_the_Empire">
+    <rdfs:label xml:lang="fr">Les Ombres de l'Empire</rdfs:label>
+    <rdfs:label xml:lang="es">Star Wars: Sombras del Imperio</rdfs:label>
+    <rdfs:label xml:lang="pt">Shadows of the Empire</rdfs:label>
+    <rdfs:label xml:lang="nl">Star Wars: Shadows of the Empire</rdfs:label>
+    <rdfs:label xml:lang="en">Star Wars: Shadows of the Empire</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/John_Wagner"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Adventuress_of_Henrietta_Street">
+    <rdfs:label xml:lang="en">The Adventuress of Henrietta Street</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Lawrence_Miles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Convent_of_Hell">
+    <rdfs:label xml:lang="en">The Convent of Hell</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ricardo_Barreiro"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Crystal_Star">
+    <rdfs:label xml:lang="fr">L'Étoile de cristal</rdfs:label>
+    <rdfs:label xml:lang="en">The Crystal Star</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vonda_N._McIntyre"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dragonslayer">
+    <rdfs:label xml:lang="en">The Dragonslayer</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jeff_Smith_(cartoonist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Favourite_Game">
+    <rdfs:label xml:lang="it">Il gioco favorito</rdfs:label>
+    <rdfs:label xml:lang="en">The Favourite Game</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Leonard_Cohen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Great_Cow_Race">
+    <rdfs:label xml:lang="en">The Great Cow Race</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jeff_Smith_(cartoonist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Manual">
+    <rdfs:label xml:lang="en">The Manual</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jimmy_Cauty"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Megalithic_European">
+    <rdfs:label xml:lang="en">The Megalithic European</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Julian_Cope"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Modern_Antiquarian">
+    <rdfs:label xml:lang="en">The Modern Antiquarian</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Julian_Cope"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Pleasure_of_My_Company">
+    <rdfs:label xml:lang="en">The Pleasure of My Company</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Steve_Martin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Way_Things_Work">
+    <rdfs:label xml:lang="en">The Way Things Work</rdfs:label>
+    <rdfs:label xml:lang="es">Cómo funcionan las cosas</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Neil_Ardley"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Wu-Tang_Manual">
+    <rdfs:label xml:lang="en">The Wu-Tang Manual</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/RZA"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Xanadu_Talisman">
+    <rdfs:label xml:lang="en">The Xanadu Talisman</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_O'Donnell"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/This_Town_Will_Never_Let_Us_Go">
+    <rdfs:label xml:lang="en">This Town Will Never Let Us Go</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Lawrence_Miles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Treasure_Hunters_(book)">
+    <rdfs:label xml:lang="en">Treasure Hunters (book)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jeff_Smith_(cartoonist)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wigfield">
+    <rdfs:label xml:lang="en">Wigfield</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Stephen_Colbert"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You're_the_Voice:_40_More_Days_with_God">
+    <rdfs:label xml:lang="en">You're the Voice: 40 More Days with God</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Rebecca_St._James"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Cassiano_Altarpiece">
+    <rdfs:label xml:lang="pl">Ołtarz z San Cassiano</rdfs:label>
+    <rdfs:label xml:lang="it">Pala di San Cassiano</rdfs:label>
+    <rdfs:label xml:lang="fr">Retable de San Cassiano</rdfs:label>
+    <rdfs:label xml:lang="en">San Cassiano Altarpiece</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Antonello_da_Messina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Juan_Martínez_Montañés">
+    <rdfs:label xml:lang="en">Portrait of Juan Martínez Montañés</rdfs:label>
+    <rdfs:label xml:lang="es">Retrato de Juan Martínez Montañés</rdfs:label>
+    <rdfs:label xml:lang="fr">Portrait de Juan Martínez Montañés</rdfs:label>
+    <rdfs:label xml:lang="it">Ritratto di scultore</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Diego_Velázquez"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Una_Mestiza">
+    <rdfs:label xml:lang="en">Una Mestiza</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Juan_Luna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/City_Reflections">
+    <rdfs:label xml:lang="en">City Reflections</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Patti_Warashina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F_Is_for_Family">
+    <rdfs:label xml:lang="en">F Is for Family</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Bill_Burr"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mars_Being_Disarmed_by_Venus">
+    <rdfs:label xml:lang="fr">Mars désarmé par Vénus</rdfs:label>
+    <rdfs:label xml:lang="es">Marte desarmado por Venus y las Gracias</rdfs:label>
+    <rdfs:label xml:lang="en">Mars Being Disarmed by Venus</rdfs:label>
+    <rdfs:label xml:lang="nl">Mars ontwapend door Venus</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jacques-Louis_David"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Merry_Trio">
+    <rdfs:label xml:lang="en">Merry Trio</rdfs:label>
+    <rdfs:label xml:lang="ru">Весёлое трио</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Judith_Leyster"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Napoleon_Crossing_the_Alps">
+    <rdfs:label xml:lang="ru">Наполеон на перевале Сен-Бернар</rdfs:label>
+    <rdfs:label xml:lang="fr">Bonaparte franchissant le Grand-Saint-Bernard</rdfs:label>
+    <rdfs:label xml:lang="ja">ベルナール峠からアルプスを越えるボナパルト</rdfs:label>
+    <rdfs:label xml:lang="ar">نابليون عابرا جبال الألب (لوحة)</rdfs:label>
+    <rdfs:label xml:lang="pt">Napoleão cruzando os Alpes</rdfs:label>
+    <rdfs:label xml:lang="es">Napoleón cruzando los Alpes</rdfs:label>
+    <rdfs:label xml:lang="de">Bonaparte beim Überschreiten der Alpen am Großen Sankt Bernhard</rdfs:label>
+    <rdfs:label xml:lang="en">Napoleon Crossing the Alps</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Jacques-Louis_David"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plum_Park_in_Kameido">
+    <rdfs:label xml:lang="en">Plum Park in Kameido</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Hiroshige"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Resurrection_of_Christ_(Raphael)">
+    <rdfs:label xml:lang="es">La resurrección de Cristo (Rafael)</rdfs:label>
+    <rdfs:label xml:lang="fr">La Résurrection du Christ (Raphaël)</rdfs:label>
+    <rdfs:label xml:lang="pt">Ressurreição de Cristo (Rafael)</rdfs:label>
+    <rdfs:label xml:lang="en">Resurrection of Christ (Raphael)</rdfs:label>
+    <rdfs:label xml:lang="it">Resurrezione di Cristo (Raffaello)</rdfs:label>
+    <rdfs:label xml:lang="pl">Zmartwychwstanie Chrystusa (obraz Rafaela)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Raphael"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/That_Peter_Kay_Thing">
+    <rdfs:label xml:lang="en">That Peter Kay Thing</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Dave_Spikey"/>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Peter_Kay"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weymouth_Bay:_Bowleaze_Cove_and_Jordon_Hill">
+    <rdfs:label xml:lang="en">Weymouth Bay: Bowleaze Cove and Jordon Hill</rdfs:label>
+    <rdfs:label xml:lang="es">La bahía de Weymouth</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/John_Constable"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/700_Sundays">
+    <rdfs:label xml:lang="en">700 Sundays</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Billy_Crystal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assumption_of_the_Virgin_(Correggio)">
+    <rdfs:label xml:lang="fr">Assomption de la Vierge (Le Corrège)</rdfs:label>
+    <rdfs:label xml:lang="it">Assunzione della Vergine (Correggio)</rdfs:label>
+    <rdfs:label xml:lang="en">Assumption of the Virgin (Correggio)</rdfs:label>
+    <rdfs:label xml:lang="es">La Asunción de la Virgen (Correggio)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Antonio_da_Correggio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barbary_(novel)">
+    <rdfs:label xml:lang="en">Barbary (novel)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Vonda_N._McIntyre"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beach_in_Pourville">
+    <rdfs:label xml:lang="en">Beach in Pourville</rdfs:label>
+    <rdfs:label xml:lang="pl">Plaża w Pourville</rdfs:label>
+    <rdfs:label xml:lang="ru">Пляж в Пурвиле</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Claude_Monet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cubi_XXVI">
+    <rdfs:label xml:lang="en">Cubi XXVI</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/David_Smith_(sculptor)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dorothy_(Chase)">
+    <rdfs:label xml:lang="en">Dorothy (Chase)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/William_Merritt_Chase"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flagellation_of_Christ_(Piero_della_Francesca)">
+    <rdfs:label xml:lang="es">La flagelación (Piero della Francesca)</rdfs:label>
+    <rdfs:label xml:lang="de">Die Geißelung Christi (Piero della Francesca)</rdfs:label>
+    <rdfs:label xml:lang="it">Flagellazione di Cristo (Piero della Francesca)</rdfs:label>
+    <rdfs:label xml:lang="en">Flagellation of Christ (Piero della Francesca)</rdfs:label>
+    <rdfs:label xml:lang="pl">Sen św. Hieronima</rdfs:label>
+    <rdfs:label xml:lang="fr">La Flagellation du Christ (Piero della Francesca)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Piero_della_Francesca"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Girl_in_Mirror">
+    <rdfs:label xml:lang="en">Girl in Mirror</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Roy_Lichtenstein"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaput_and_Zösky">
+    <rdfs:label xml:lang="fr">Kaput &amp; Zösky</rdfs:label>
+    <rdfs:label xml:lang="en">Kaput and Zösky</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Lewis_Trondheim"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Music_(Matisse)">
+    <rdfs:label xml:lang="en">Music (Matisse)</rdfs:label>
+    <rdfs:label xml:lang="ru">Музыка (картина Матисса)</rdfs:label>
+    <rdfs:label xml:lang="nl">Muziek (Matisse)</rdfs:label>
+    <rdfs:label xml:lang="it">Musica (Matisse)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Henri_Matisse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Napoleon_as_Mars_the_Peacemaker">
+    <rdfs:label xml:lang="it">Napoleone Bonaparte come Marte pacificatore</rdfs:label>
+    <rdfs:label xml:lang="en">Napoleon as Mars the Peacemaker</rdfs:label>
+    <rdfs:label xml:lang="fr">Napoléon en Mars désarmé et pacificateur</rdfs:label>
+    <rdfs:label xml:lang="es">Napoleón como Marte pacificador</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Antonio_Canova"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Pietro_Bembo_(Raphael)">
+    <rdfs:label xml:lang="fr">Portrait de jeune homme (Raphaël, Budapest)</rdfs:label>
+    <rdfs:label xml:lang="it">Ritratto di giovane (Raffaello)</rdfs:label>
+    <rdfs:label xml:lang="en">Portrait of Pietro Bembo (Raphael)</rdfs:label>
+    <rdfs:label xml:lang="pl">Portret młodzieńca (obraz Rafaela)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Raphael"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RocKwiz">
+    <rdfs:label xml:lang="en">RocKwiz</rdfs:label>
+    <rdfs:label xml:lang="fr">RocKwiz</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Brian_Nankervis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spoliarium">
+    <rdfs:label xml:lang="en">Spoliarium</rdfs:label>
+    <rdfs:label xml:lang="fr">Spoliarium</rdfs:label>
+    <rdfs:label xml:lang="nl">Spoliarium</rdfs:label>
+    <rdfs:label xml:lang="es">Spoliarium</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Juan_Luna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stormy_Sea_in_Étretat">
+    <rdfs:label xml:lang="en">Stormy Sea in Étretat</rdfs:label>
+    <rdfs:label xml:lang="fr">Mer agitée à Étretat</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Claude_Monet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Parasol">
+    <rdfs:label xml:lang="en">The Parasol</rdfs:label>
+    <rdfs:label xml:lang="fr">El quitasol</rdfs:label>
+    <rdfs:label xml:lang="pl">Parasolka (obraz Goi)</rdfs:label>
+    <rdfs:label xml:lang="es">El quitasol</rdfs:label>
+    <rdfs:label xml:lang="pt">O guarda-sol</rdfs:label>
+    <rdfs:label xml:lang="it">Il parasole</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Francisco_Goya"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Rescue_(statue)">
+    <rdfs:label xml:lang="en">The Rescue (statue)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Horatio_Greenough"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/X-Ray_(book)">
+    <rdfs:label xml:lang="en">X-Ray (book)</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Ray_Davies"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_of_Green_Gables:_The_Musical">
+    <rdfs:label xml:lang="en">Anne of Green Gables: The Musical</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Don_Harron"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Appleseed_(manga)">
+    <rdfs:label xml:lang="pl">Appleseed</rdfs:label>
+    <rdfs:label xml:lang="en">Appleseed (manga)</rdfs:label>
+    <rdfs:label xml:lang="zh">蘋果核戰</rdfs:label>
+    <rdfs:label xml:lang="ja">アップルシード</rdfs:label>
+    <rdfs:label xml:lang="pt">Appleseed</rdfs:label>
+    <rdfs:label xml:lang="fr">Appleseed</rdfs:label>
+    <rdfs:label xml:lang="ru">Яблочное зёрнышко</rdfs:label>
+    <rdfs:label xml:lang="de">Appleseed</rdfs:label>
+    <rdfs:label xml:lang="it">Appleseed</rdfs:label>
+    <ns0:author rdf:resource="http://dbpedia.org/resource/Masamune_Shirow"/>
+  </rdf:Description>
+
+</rdf:RDF>

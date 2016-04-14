@@ -1,0 +1,34 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PRefix ex: <http://example.org/>
+CONSTRUCT 
+{
+  ?art dbo:influenced ?sub.
+  ?ar2 dbo:influencedBy ?sub.
+  ?ar2 dbp:name ?name2.
+  ?ar2 rdfs:label ?rdfslabel2.
+  ?ar2 foaf:name ?foafname2.
+  ?art dbp:name ?name.
+  ?art rdfs:label ?rdfslabel.
+  ?art foaf:name ?foafname.
+}
+WHERE {
+  ?sub rdf:type dbo:Artist.
+  ?art dbo:influenced ?sub.
+  ?ar2 dbo:influencedBy ?sub.
+  
+  OPTIONAL {?ar2 dbp:name ?name2.}
+  OPTIONAL { ?ar2 rdfs:label ?rdfslabel2.}  
+  OPTIONAL { ?ar2 foaf:name ?foafname2.}
+  OPTIONAL { ?art dbp:name ?name.}
+  OPTIONAL {?art rdfs:label ?rdfslabel.} 
+  OPTIONAL {  ?art foaf:name ?foafname.}
+ 
+ 
+ 
+  
+
+} 

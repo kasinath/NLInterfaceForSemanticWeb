@@ -1,0 +1,25 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+CONSTRUCT 
+{
+  ?sub rdf:type dbo:Artist.
+  ?sub dbp:name ?name.
+  ?sub rdfs:label ?rdfslabel.
+  ?sub foaf:name ?foafname.
+  ?sub dbp:nationality ?n.
+  ?sub dbo:birthDate ?bDate.
+  ?sub dbo:deathDate ?dDate. 
+
+}
+WHERE {
+  ?sub rdf:type dbo:Artist.
+  ?sub dbp:name ?name.
+  ?sub rdfs:label ?rdfslabel.
+  ?sub foaf:name ?foafname.
+  ?sub dbp:nationality ?n.
+  ?sub dbo:birthDate ?bDate.
+  ?sub dbo:deathDate ?dDate.  
+} 

@@ -1,0 +1,4220 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://dbpedia.org/ontology/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Rozelaar_Green">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daina_Skadmane">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Riga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando_Carcupino">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Milan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hrachya_Melikyan">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Yerevan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jo_Hanson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Francisco"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niels-Henning_Ørsted_Pedersen_discography">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ishøj"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Mejía_Contreras">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mexico_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolina_Benedicks-Bruce">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Visby"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sherman_Chaddlesone">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Anadarko,_Oklahoma"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Blair_Bruce">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Boisseau">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Montreal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Gvajc">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Brežice"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barbarito_Díez">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Havana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bea_Orpen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Drogheda"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlo_Mazza">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bologna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Reder">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crosbie_Garstin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Salcombe"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Devon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cyril_Preedy">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Worthing"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dairine_Vanston">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Enniskerry"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Larwill">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Coober_Pedy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Sleet">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elmer_Wachtel">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Guadalajara"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emilis_Melngailis">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Riga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enevold_Thømt">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Oslo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Wilson_(artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Sydney"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Gutekunst">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gertrude_Bleiberg">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Palo_Alto,_California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Henry">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hannah_Maynard">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Victoria,_British_Columbia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Mabel_Trevor">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juliusz_Wyrzykowski">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Warsaw"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_Bridle">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bellanaleck"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_Cox">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Godwin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Sudbury,_Suffolk"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marian_Dawson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Scarborough,_North_Yorkshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Alment">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Blackrock,_Dublin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Manning">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mauritz_Hugo">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maziar_(Singer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Karaj"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Alborz_Province"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohamed_Sulayman_Tubeec">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Munich"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruth_Brandt">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophia_St_John_Whitty">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teddy_Reig">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Teaneck,_New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vilhelm_Petersen_(painter)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Copenhagen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vittoria_Cocito">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Turin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Achille_D'Orsi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Naples"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adriano_Gajoni">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adrien_Étienne_Gaudez">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Neuilly-sur-Seine"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aghabala_Aghasadighoghlu">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Baku"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Barye">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Astrid_Bodin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm_County"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Azer_Bülbül">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Antalya"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boguslaw_Szwacz">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Warsaw"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bruno_Zach">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Vienna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caleb_Ginyard">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Basel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carmelo_Larrea">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Madrid"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dorothy_Blackham">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Donaghadee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Felix_Maria_Diogg">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rapperswil"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flora_Batson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Pigott">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Sledge_Smith">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Kars">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Geneva"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gil_Bernal">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Glendale,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Agostino_Perotti">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Venice"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Graham_Armitage">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Johannesburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greta_Dale">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Toronto"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harriet_Osborne_O'Hagan">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hazel_Larson_Archer">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tucson,_Arizona"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Arizona"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ida_Lansky">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Texas"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dallas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Jacques_Delbo">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nice"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerome_Caja">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Francisco"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Jameson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ardmore,_County_Waterford"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Braden_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathleen_Fox">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Milltown,_Dublin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Mahoney">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stoughton,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lilian_Davidson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyne_Chardonnet">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Enghien-les-Bains"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mabel_Young">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/County_Wicklow"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madeleine_Caudel">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercy_Hunter">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dungannon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moyra_Barry">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natalia_Strelchenko">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Manchester"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pancho_Quinto">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Havana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-Antoine_Patel">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_Leon_Bagley">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Winter_Park,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rolf_Botvid">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Benidorm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarada_Ukil">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Delhi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarah_Anne_Bright">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bristol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarai_Sherman">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiv_Singh">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chandigarh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solomon_Nunes_Carvalho">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pleasantville,_New_York"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/South_Carolina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonia_Lewitska">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sylvie_Joly">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Synval_Silva">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rio_de_Janeiro"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamara_Musakhanova">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Haifa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teri_Harangozó">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Budapest"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theyre_Lee-Elliott">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chelsea,_London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tommy_Jackson_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nashville,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valeriu_Pantazi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bucharest"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yvonne_Jammet">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lowell,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Émile-Coriolan_Guillemin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Đorđe_Lobačev">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adelaide">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Springs">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beijing">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/China"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belgrade">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Serbia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bellevue_Hill,_New_South_Wales">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Białystok">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Poland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brisbane">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canberra">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chōfu,_Tokyo">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Japan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Durban">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/South_Africa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Perth,_Western_Australia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eltham,_Victoria">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gove_Peninsula">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greenwich,_New_South_Wales">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hawthorn,_Victoria">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hobart">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Java">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Indonesia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuala_Lumpur">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Malaysia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyzyl">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Russia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lüshunkou_District">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/China"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malabe">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Sri_Lanka"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malvern,_Victoria">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margao">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Melbourne">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mosman,_New_South_Wales">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mrčajevci">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Serbia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mumbai">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murrumbeena,_Victoria">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nagano_Prefecture">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Japan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nałęczów">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Poland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Delhi">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Guinea">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Indonesia"/>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Papua_New_Guinea"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olinda,_Victoria">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paddington,_New_South_Wales">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quiapo,_Manila">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Philippines"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rochester,_Victoria">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roseville,_New_South_Wales">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanmore,_New_South_Wales">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sydney">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ubud">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Indonesia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Voždovac">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Serbia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wentworth_Falls,_New_South_Wales">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Western_Province,_Sri_Lanka">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ProvincesOfSriLanka"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/State108654360"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <foaf:name xml:lang="en">Western Province</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yass,_New_South_Wales">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malá_Skála">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Czech_Republic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Fernando_de_Apure">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Venezuela"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sibaté">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Colombia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abbott_Handerson_Thayer">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin,_New_Hampshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adriaen_Brouwer">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Antwerp"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmad_Kasravi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tehran"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_Viola">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alberta_Hunter">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Roosevelt_Island"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alec_Wilder">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Gainesville,_Florida"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Roslin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Philippe_Roll">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alistair_Taylor">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chesterfield"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Derbyshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anders_Ek">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anni_Albers">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Orange,_Connecticut"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonietta_Brandeis">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florence"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/António_Carvalho_de_Silva_Porto">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Porto"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lisbon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnold_Newman">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Conley">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ruurlo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Lyman">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Honolulu"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canyon_Country,_Santa_Clarita,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barnett_Newman">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ben_Pollack">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Palm_Springs,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernhard_Bleeker">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Munich"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Mama_Thornton">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Foster_(perfomer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Santa_Monica,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Murray_(singer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bin_Uehara">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Guinea"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blossom_Dearie">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brenda_Wootton">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Penzance"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Cornwall"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Danbury,_Wisconsin">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buck_Owens">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bakersfield,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deming,_New_Mexico">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Calvin_Woolsey">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Missouri"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Braymer,_Missouri"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dutch_Flat,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cat_Anderson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Norwalk,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chet_Powers">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Santa_Rosa,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Perry_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Margao"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Rohlfs">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hagen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claire_Falkenstein">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clare_Fischer">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coco_Chanel">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coco_Robicheaux">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Orleans"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Louisiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cootie_Williams">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gladwyne,_Pennsylvania">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Dee">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kingston_upon_Thames"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_%22Fathead%22_Newman">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kingston,_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Smith_(sculptor)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/South_Shaftsbury,_Vermont"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Delfín_Chamorro">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Asunción"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denham_Town">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Simcoe">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Honiton"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Devon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugène_Delacroix">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evert_Taube">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_Brokoff">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Prague"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kunkletown,_Pennsylvania">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesca_Woodman">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Potenza">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Hammersley">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Mexico"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Albuquerque,_New_Mexico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G._N._Balasubramaniam">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chennai"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geeta_Dutt">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mumbai"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Adams_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Price_(cartoonist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Englewood,_New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Mathieu">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Boulogne-Billancourt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gianni_Versace">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florida"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Miami_Beach,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loleta,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gino_Vanelli">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Monza"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grover_Washington,_Jr.">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guido_Reni">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bologna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gus_Kahn">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Beverly_Hills,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minneapolis">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harriet_Powers">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Clarke_County,_Georgia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hazel_Dickens">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Washington,_D.C."/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Bol">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/'s-Hertogenbosch"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hieronymus_Cock">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Antwerp"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroyuki_Nagato">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Arkley">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Melbourne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hunter_(rapper)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Western_Australia"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Perth"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Stuart_Donaldson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Derbyshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ida_Bagus_Made">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bali"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ubud"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ike_Quebec">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irving_Amen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Coconut_Creek,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Lob">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Château-Thierry"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Martin_(comics)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Orbe"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Stella">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Dewar_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Glasgow"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paisley"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Ensor">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ostend"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Grant_(artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stinson_Beach,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Johnson_(artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bath,_Somerset"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Kelly_(abstract_expressionist_artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Hall_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Marshall_(businessman)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Milton_Keynes"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jimmy_Dawkins">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Bell_Jr.">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Arkansas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Carter_(jazz_musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Inglewood,_California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Counsell_(theatre_director)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Windsor,_Berkshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Gibson_(sculptor)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Hanson_(singer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Shepperton"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Paul_(actor)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Buckinghamshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Penrose_(actor)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Ryan_(cartoonist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rye,_East_Sussex"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnnie_Johnson_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/St._Louis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph-Nicolas_Robert-Fleury">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Stella">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kay_Nielsen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kees_Bol">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Heusden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Albers">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Simi_Valley,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Brown_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Essex"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitty_Lange_Kielland">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Oslo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kobayashi_Kiyochika">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kokomo_Arnold">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leo_Wright">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Vienna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lester_W._Bentley">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Madison,_Wisconsin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lester_Young">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Linda_Lovelace">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Colorado"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Denver"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lionel_Newman">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lorenzo_Lotto">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Loreto,_Marche"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucifer_(1970s_rock_band)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mill_Hill"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucy_Qinnuayuak">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Cape_Dorset"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luis_Ortiz_Monasterio">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mexico_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lux_Interior">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Glendale,_California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manji_Khan">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mumbai"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcin_Zaleski">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Warsaw"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Missy_(actress)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Valencia,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montreal">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Munir_Bashir">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Budapest"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nan_Phelps">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hamilton,_Ohio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nora_Bayes">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Brooklyn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Hetherington">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Greenwich,_New_South_Wales"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osmar_Schindler">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dresden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Gray_(American_musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Urbandale,_Iowa"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Johnston,_Iowa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paulus_Potter">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Percy_Sledge">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Baton_Rouge,_Louisiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippé_Wynne">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Oakland,_California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phyllis_Wiener">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Minnesota"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Minneapolis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piero_della_Francesca">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Sansepolcro"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Puvis_de_Chavannes">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pietro_Vinci">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Piazza_Armerina"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nicosia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Preston_Powers">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florence"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Randy_Rhoads">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Leesburg,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Dragon_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kingston,_Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Eilenberg">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Berlin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Gordon_(photographer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Berkeley,_California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Wilson_(painter)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Llanferres"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Wright_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Brown_(cartoonist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Olympia_Fields,_Illinois"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Marcellus">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Evanston,_Illinois"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Illinois"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_Williams_(pianist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Encino,_Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_Wolfe_Kahn">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ron_%22Pigpen%22_McKernan">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Corte_Madera,_California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roy_Campbell,_Jr.">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/The_Bronx"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rubén_González_(pianist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Havana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shankar_Jaikishan">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Maharashtra"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mumbai"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shire_of_Wyndham-East_Kimberley">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanton_Macdonald-Wright">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pacific_Palisades,_Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stewart_%22Dirk%22_Fischer">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Valencia,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sultan_Khan_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Maharashtra"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mumbai"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Svea_Holst">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syreeta_Wright">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tabu_Ley_Rochereau">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Brussels"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thé_Lau">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Martin_(American_singer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulf_Palme">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ingarö"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Umm_Kulthum">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Cairo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Vysotsky">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Moscow"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Donaldson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Santa_Monica,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Murray_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshio_Inaba">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zoot_Sims">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alphaeus_Philemon_Cole">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alvin_D._Loving">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ascanio_Trombetti">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bologna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Augusto_Barcia">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Santiago"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Avis_Bunnage">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Essex"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Thorpe_Bay"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Southend-on-Sea"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bennie_Benjamin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Booker_Little">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burhânettin_Deran">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Istanbul"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burt_Glinn">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Southampton_(village),_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlo_Crivelli">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ascoli_Piceno"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Marche"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Bordes">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Toulon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_von_Schneidau">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Orange,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clay_Hammond">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Houston"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clyfford_Still">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Baltimore"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Robbins_(art_historian)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lebanon,_New_Hampshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edouard_Wah">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Port-au-Prince"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eileen_Barton">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/West_Hollywood,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/El_Hachemi_Guerouabi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Zéralda"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emily_Sartain">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugene_J._Martin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lafayette,_Louisiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fabrizia_Ramondino">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Gaeta"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frances_Day">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Windsor,_Berkshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Dupont">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Le_Vésinet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Garner">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Girolamo_Genga">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Urbino"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Brisker">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Cincinnati"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ohio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guillaume_Geefs">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Brussels"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Mollison">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Savenko">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Altink">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Groningen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Lievens">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Savitt">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Sacramento,_California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerrold_Robertshaw">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Duffey">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Virginia"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Arlington_County,_Virginia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_%22Big_Moose%22_Walker">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Illinois"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanae_Yamamoto_(artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nagano_Prefecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karibasavaiah">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bangalore"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khan_Shushinski">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Baku"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lothar_Brühne">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Munich"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_Merwart">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Vienna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Modlin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Madrid"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Gilks">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tooting"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Johnson_Heade">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/St._Augustine,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Dahl">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otis_%22Big_Smokey%22_Smothers">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Illinois"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pieter_van_Laer">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Haarlem"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Curtis_Smith">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Illinois"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryan_Dallas_Cook">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Orange_County,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanley_Boxer">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pittsfield,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Caparne">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Martin,_Guernsey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gertrude_Morgan">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Orleans"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kråkstad">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Norway"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophie_Gengembre_Anderson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Falmouth,_Cornwall"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Cahun">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Helier"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_Neck,_Queens">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Antonio_Laveglia">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Asti"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valeriu_Sterian">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bucharest"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Allinson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Buckinghamshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vera_Cuningham">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hampstead"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vilhelm_Kyhn">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Frederiksberg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_Wilson_(singer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Fontana,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Stieglitz">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Odum">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mobile,_Alabama"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernie_McGann">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Sydney"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Nick_Nicholas">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Queens"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Sheeler">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dobbs_Ferry,_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Stanley_Reinhart">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Thorson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Vancouver"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chen_Lin_(singer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Beijing"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Conroy_Maddox">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dottie_Rambo">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mount_Vernon,_Missouri"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Missouri"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eck_Robertson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Borger,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/El_Hadj_M'Hamed_El_Anka">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Algiers"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_Josephson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fanny_Crosby">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bridgeport,_Connecticut"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Conroy_(actor)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paramus,_New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Goodall">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabino_Ezeiza">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Córdoba_Province,_Argentina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Godefroy_Engelmann">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mulhouse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hannah_Wilke">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Arthur_McArdle">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Antonio"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Sharples">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jessy_Dixon">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jud_Strunk">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Maine"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Carrabassett_Valley,_Maine"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kathie_Kay">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Largs"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuo_Hasegawa">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kelly_Johnson_(guitarist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Konstantin_Makovsky">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lisa_Morpurgo">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Milan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lou_Levy_(pianist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dana_Point,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marie_Bracquemond">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Sèvres"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pasquale_Rizzoli">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Emilia-Romagna"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bologna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrice_O'Neal">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Englewood,_New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Infante">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mérida,_Yucatán"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pery_Ribeiro">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rio_de_Janeiro"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raul_Seixas">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/São_Paulo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Mitchell_(organist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Sharples">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Arnold_(composer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sid_Phillips_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chertsey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simon_Elwes">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Amberley,_West_Sussex"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinești,_Ialomița">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Romania"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Foley_(drummer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Minnesota"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Minneapolis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sudirman_Arshad">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bangsar"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kuala_Lumpur"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sébastien_Leclerc_(1637–1714)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrone_Davis">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Illinois"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abastenia_St._Leger_Eberle">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adriana_Basile">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfonso_Cela">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Madrid"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ana_Mendieta">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andy_Palacio">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Belize_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arieh_Lubin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tel_Aviv"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Crudup">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Northampton_County,_Virginia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asai_Chū">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kyoto"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battistello_Caracciolo">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Naples"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benny_Davis">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Miami"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bijan_(designer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Beverly_Hills,_California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blind_Willie_Johnson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Beaumont,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Burns_(drummer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Cartersville,_Georgia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bud_Cockrell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hinds_County,_Mississippi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buddy_Emmons">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nashville,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Ragland_Bunnell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Colorado"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlie_Mariano">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Cologne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charmion_Von_Wiegand">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cheb_i_Sabbah">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Francisco"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Michie">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Marin_County,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clarence_White">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Palmdale,_California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornell_Capa">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cousin_Joe">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Orleans"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Louisiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_McWilliams_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ballycastle,_County_Antrim"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Michie">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Edinburgh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Wallin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Davorin_Popović">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Sarajevo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dean_Cornwell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deodat_del_Monte">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Antwerp"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Watkins_(trumpeter)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Claygate"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_Briel">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/The_Hague"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dickie_Goodman">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/North_Carolina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Marlette">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Marshall_County,_Mississippi"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mississippi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dragan_Malešević_Tapi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Belgrade"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dušan_Džamonja">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Zagreb"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwin_Holgate">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Montreal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elsie_Driggs">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erik_Rhodes_(pornographic_actor)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chelsea,_Manhattan"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernesto_Basile">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Palermo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_Zacharias_Platner">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ettore_Ferrari">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evie_Hone">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rathfarnham"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/County_Dublin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Moore_(performance_artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Berkeley,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frans-Andries_Durlet">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Antwerp"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Wohlfahrt_(composer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Leipzig"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_August_Wenderoth">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Hart_(sculptor)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Maryland"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Baltimore"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gar_Samuelson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Clewer"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Orange_City,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Ault">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Woodstock,_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Rickey">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Paul,_Minnesota"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgie_Auld">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Palm_Springs,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerardo_Gandini">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Buenos_Aires"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gertrud_Arndt">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Darmstadt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gidget_Gein">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Burbank,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Battista_Ferrandini">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Munich"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Battista_Foggini">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florence"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Battista_Gaulli">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Battista_Guadagnini">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Turin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Battista_Viotti">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Evangelista_Draghi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Piacenza"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Girolamo_da_Treviso">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Boulogne-sur-Mer"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gleb_Ilyin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Sebastopol,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grant_McLennan">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Brisbane"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gulumbu_Yunupingu">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Gove_Peninsula"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Northern_Territory"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hasil_Adkins">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/West_Virginia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heimrad_Prem">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Munich"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helen_Farnsworth_Mears">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Greenwich_Village"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helmut_Kolle">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chantilly,_Oise"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_MacManus">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dalkey"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Moore">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Much_Hadham"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hertfordshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ignacio_Figueredo">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Fernando_de_Apure"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Igor_Sorin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Moscow"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Marshall_(composer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Newport_Beach,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacky_June">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Braine-l'Alleud"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Orrock">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Shepperton"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jemima_Blackburn">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Roshven"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jimmy_Smith_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Scottsdale,_Arizona"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_B._Mauldin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nashville,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Raposo">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bronxville,_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joey_Stefano">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johann_Wolfgang_Baumgartner">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Augsburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Loder_(sound_engineer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Paul_Jones_(artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ashland,_Oregon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joni_T._Johnson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Indianapolis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Morewood_Staniforth">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Cardiff"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/José_Luis_Appleyard">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Asunción"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juan_de_Valdés_Leal">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Seville"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julia_Lee_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Diego"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kelly_Harrell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Virginia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Larry_Knechtel">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Yakima,_Washington"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lazzaro_Baldi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Le_Grand_Kallé">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lea_Gottlieb">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tel_Aviv"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Dorman">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Laguna_Niguel,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lloyd_Jacquet">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Little_Neck,_Queens"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Cottrell,_Jr.">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Orleans"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludovico_Mazzanti">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Viterbo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luisa_Roldán">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Madrid"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marc-Aurèle_Fortin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Macamic,_Quebec"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marija_Lucija_Stupica">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ljubljana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marshall_Lytle">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Port_Richey,_Florida"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martha_Joy_Gottfried">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Coyoacán"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Fierro_(saxophonist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Marin_County,_California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Lewis_(English_actor)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kent"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matthijs_Naiveu">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Bowen_(artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miguel_Gallardo_(singer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Madrid"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikayil_Abdullayev">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Baku"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Hazlewood">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florence"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikel_Laboa">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Sebastián"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammed_Wardi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Khartoum"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nanno_de_Groot">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Provincetown,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norrie_Paramor">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chipping_Barnet"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omar_Khorshid">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Giza"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pancho_Prin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Caracas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Appleyard">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Guelph/Eramosa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phineas_Newborn,_Jr.">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Memphis,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rafael_Yela_Günther">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Guatemala_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ray_Eberle">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Douglasville,_Georgia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Long_(singer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Antwerp"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Schimmel">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Scottsdale,_Arizona"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sabah_(singer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Beirut"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sam_Wagstaff">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonny_Criss">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonny_Stitt">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Washington,_D.C."/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonny_Terry">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mineola,_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spain_Rodriguez">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Francisco"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanley_Marsh_3">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Texas"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Amarillo,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teo_Macero">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tite_Curet_Alonso">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Baltimore"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tongai_Moyo">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Harare"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Traian_Trestioreanu">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Doicești"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Velva_Darnell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hudson,_Florida"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Scotto">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Shade">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Memphis,_Tennessee"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_Breuker">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_Pieterszoon_Buytewech">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rotterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_Sandberg">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_de_Kooning">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/East_Hampton_(town),_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_B._T._Trego">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/North_Wales,_Pennsylvania"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_H._Mosby">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Wilmette,_Illinois"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willy_DeVille">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yaroslav_Krestovsky">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zainul_Abedin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dhaka"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Eckstine">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pittsburgh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kerim_Tekin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Sandıklı"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boz_Burrell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Marbella"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dodo_Marmarosa">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pittsburgh"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Brockhurst">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Franklin_Lakes,_New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Pepper">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minnie_Riperton">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Pettiford">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Copenhagen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Lynott">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Salisbury"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blind_Boy_Fuller">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/North_Carolina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Delkash">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tehran"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Spero">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sol_LeWitt">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._L._Lloyd">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Greenwich"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Angus_MacLise">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kathmandu"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ann_Ronell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_Scandello">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dresden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arkhip_Kuindzhi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baby_Huey_(singer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Illinois"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bukka_White">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Memphis,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_Leigh">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domenichino">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Naples"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erskine_Hawkins">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Willingboro_Township,_New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fritha_Goodey">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Notting_Hill"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Cesari">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helene_Schjerfbeck">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saltsjöbaden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homer_Watson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kitchener,_Ontario"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Kramskoi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Smybert">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Boston"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jules_Dalou">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_McGarrigle">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Montreal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawren_Harris">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Vancouver"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leroy_Vinnegar">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Oregon"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Portland,_Oregon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Quentin_de_La_Tour">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint-Quentin,_Aisne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minor_White">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Boston"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Reutersvärd">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lund"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Muehl">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Moncarapacho"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Taylor_Kramer">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sadegh_Hedayat">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanisław_Wyspiański">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kraków"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tina_Modotti">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mexico_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_McGregor_Paxton">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Newton,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wolfgang_Paalen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Taxco"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wols">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xu_Beihong">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Beijing"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Shmidt">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Herbert_Richardson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/West_Yorkshire"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Halifax,_West_Yorkshire"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hipperholme"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Bollinger">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billie_Jo_Spears">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Vidor,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edoardo_Raimondi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Reggio_Emilia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eduardo_Serrano">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Caracas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Firoz_Dastur">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mumbai"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanns_Bolz">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Munich"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harcharan_Garewal">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ludhiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helena_Pickard">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Oxfordshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Hackaert">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Bruce">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Central_Coast_(New_South_Wales)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Copnall">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Elfström">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm_County"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Täby"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Täby_Municipality"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Takawira">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Harare"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_Alf">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Santo_André,_São_Paulo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Allworthy">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julien-Honoré-Germain_d'Aubuisson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Toulouse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lajos_Tihanyi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luc_De_Vos">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ghent"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patience_Wright">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Plunkett">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Faivre">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pietro_Pajetta">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Padua"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Puttaraj_Gawai">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Gadag-Betageri"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Karnataka"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salim_Halali">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Antibes"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saverio_Dalla_Rosa">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Verona"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Singh_Kaur">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Maui"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hawaii"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tito_Lara">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Houston"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Helmersen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Republic_of_Karelia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Rothenstein">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zohra_Al_Fassiya">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ashkelon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bertholet_Flemalle">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Liège"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camillo_Rama">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Brescia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecil_Kennedy">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/St_Albans"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emilio_Bigi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Cristóbal,_Táchira"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Izudin_Čavrković">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Belgrade"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riccardo_Broschi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Madrid"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vince_Taylor">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lutry"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herman_Riley">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jackie_Washington_(blues_musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hamilton,_Ontario"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karol_Mikuli">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lviv"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Scott_(artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolph_Gottlieb">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adrien-François_Servais">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Halle,_Belgium"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alex_Bradford">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Newark,_New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ciro_Alegría">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chaclacayo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_%22Snaker%22_Ray">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Minneapolis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_John_Gregory">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Great_Marlow"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Greenfield">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Brangwyn">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ditchling"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Wunder">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Milford,_Connecticut"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_Stickley">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Syracuse,_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Siddons_Mowbray">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Washington,_Connecticut"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Reid">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Orillia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Cleveland">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Culver_City,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jon_Lee_(drummer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florida"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Miami"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julita_Ross">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Toa_Baja,_Puerto_Rico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Józef_Brandt">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Radom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K._L._Saigal">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Jalandhar"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiryat_Tiv'on">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Israel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luther_Henderson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maksimilijan_Vanka">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Puerto_Vallarta"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Münir_Nurettin_Selçuk">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Istanbul"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pannalal_Ghosh">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Delhi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Mennin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rory_Storm">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lancashire"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Broadgreen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rose_Maddox">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ashland,_Oregon"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Oregon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russ_Conway">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Eastbourne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Dirksz_van_Hoogstraten">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dordrecht"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shobha_Gurtu">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mumbai"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Wesselmann">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wong_Ka_Kui">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ángel_Mislan">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Sebastián,_Puerto_Rico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Weston_(guitarist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Brent_Cross"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grandpa_Jones">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nashville,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Einstein">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Sample">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Texas"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Houston"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Rubens_Smith">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sylvia_Fine">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Manhattan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allen_Collins">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Jacksonville,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bai_Konte">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Brikama"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Powell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Orange_Park,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caziel">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Somerset"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_Barbour">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_C.">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Taylor,_Michigan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doc_Guidry">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lafayette,_Louisiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keith_Barrow">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mo-Do">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Udine"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aert_Mijtens">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alf_Robertson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Frillesås"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlton_Barrett">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kingston,_Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolina_Slim">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Newark,_New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Casey_Anderson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Altadena,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecil_Dick">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Oklahoma"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chuck_Ruff_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Francisco"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Davina_Craig">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Opotiki"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_Ket">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bennekom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_William_Christmas">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Honolulu"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Errol_Le_Cain">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bristol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Antonio_Pistocchi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bologna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Spratt">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Jose,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Pleis">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Palm_Springs,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jo_Jo_Benson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Columbus,_Georgia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Glass">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Essex"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōhei_Miyauchi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_Duschenes">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Montreal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_Fantini">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florence"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Van_Dyck">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Brussels"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olav_Riégo">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Troger">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Vienna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rodrigo_Gil_de_Hontañón">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Segovia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roža_Piščanec">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ljubljana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruth_Tarvydas">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/East_Perth,_Western_Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Corona">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tucson,_Arizona"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Arizona"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Brock_(singer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Richmond,_California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alf_Bigden">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Holland-on-Sea"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfredo_Ricci">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alighiero_Boetti">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bedriye_Hoşgör">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Istanbul"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blanche_Lazzell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Massachusetts"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bourne,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Dorman_Robinson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Rafael,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Kleibacker">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Columbus,_Ohio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dorsey_Dixon">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Plant_City,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ephraim_Lewis">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Butcher">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evgeny_Chuprun">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flora_Martirosian">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gus_Bivona">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heinrich_Krippel">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Vienna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lenny_Hambro">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Somers_Point,_New_Jersey"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Tussaud">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hendon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manoel_da_Costa_Ataíde">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mariana,_Minas_Gerais"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcus_Larson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippa_Gail">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dorset"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roy_Stewart">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvatore_Postiglione">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Naples"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheila_Raynor">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Suffolk"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barbara_Randolph">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Encino,_Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bobby_Gregg">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Las_Vegas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Clench">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Montreal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michelangelo_Cinganelli">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florence"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Mukho">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Gérald">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Levallois-Perret"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Craig">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Sewanee,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Olesen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Palm_City,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hermione_Hammond">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maddalena_Fagandini">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Malden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madeleine_Renaud">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Île-de-France"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Neuilly-sur-Seine"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hauts-de-Seine"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rushton_Moreve">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Girolamo_da_Santacroce">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Venice"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andy_Hallett">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Betty_Curtis">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lecco"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bobby_Russell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nicholasville,_Kentucky"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clive_Morton">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Locke">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hart_Pease_Danks">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Post">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hackensack,_New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugo_Leichtentritt">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Cambridge,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Collier">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Rieley">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Berlin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Glascock">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juan_Tizol">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Inglewood,_California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laura_Wheeler_Waring">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marjorie_Rhodes">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hove"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raúl_Anguiano">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mexico_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Howard_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nashville,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bobby_LaKind">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Félix_Resurrección_Hidalgo">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Barcelona"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herschel_McCoy">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Wooland">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Staplehurst"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-Francisque_Caroubel">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abel_Decaux">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Dorne">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armando_Molero">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Maracaibo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ben_Enwonwu">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ikoyi"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lagos"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clarence_Hudson_White">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mexico_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curtis_Lee">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Yuma,_Arizona"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ed_Shaughnessy">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Calabasas,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edith_Bliss">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Sydney"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elaine_Hamilton-O'Neal">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Woodstock,_Maryland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fyodor_Bruni">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haydain_Neale">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Toronto"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Ferguson_Weir">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Providence,_Rhode_Island"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rex_Nelon">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ricardo_Bellver">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Madrid"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_%22Pistol%22_Allen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Michigan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_DiPreta">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Greenwich,_Connecticut"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uriel_Jones">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dearborn,_Michigan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duke_Jordan">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Copenhagen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaylord_DuBois">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Orange_City,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anga_Díaz">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Barcelona"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carolyn_George">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Wilbert_White">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Featherstone_(artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Fitchburg,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Arroyo">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Barranquilla"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Atlántico_Department"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/János_Tornyai">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hódmezővásárhely"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Prang">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marko_Murat">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dubrovnik"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Hayvoronsky">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Speckled_Red">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/St._Louis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bobo_Jenkins">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Michigan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Djanira_da_Motta_e_Silva">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rio_de_Janeiro"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rio_de_Janeiro_(state)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Battista_Borghesi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Parma"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luigi_Rosa">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morgan_Andersson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Ashton">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mosman,_New_South_Wales"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aubrey_Mather">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Harrow,_London"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Audrey_Arno">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Las_Vegas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Hutcheson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Berkshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denis_Payton">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dorset"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domingo_de_Andrade">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Santiago_de_Compostela"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erline_Harris">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nevada"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Las_Vegas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_Kulmer">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Zagreb"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Atkinson_(actor)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pinner"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Dufrénoy">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Salles-Arbuissonnas-en-Beaujolais"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rhône_(department)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gevork_Kotiantz">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ginger_Johnson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lagos"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Brewster">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Howth"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_Wilhelm_Palm">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Arthur_O'Connor">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Brompton,_London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jenő_Medveczky">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Budapest"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Lacasse">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katie_Crippen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lafayette_Thomas">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Brisbane,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludovico_Passini">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Venice"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philipp_Christfeld">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Munich"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_Eugene_Meatyard">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lexington,_Kentucky"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Selden_Connor_Gile">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Rafael,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sidney_Vivian">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hertfordshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Wellington">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Maywood,_Illinois"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vilhelms_Bokslafs">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Poznań"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuri_Morozov_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zefiryn_Ćwikliński">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Zakopane"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Lujan">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Mexico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Semionov">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexei_Eriomin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexis_Joseph_Depaulis">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boris_Petrov">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Mattia_Borgnis">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Ernback">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hughie_Charles">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Eastbourne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leroy_Lamis">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Austin,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Jouve">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jnan_Prakash_Ghosh">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kolkata"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoff_Workman">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Aurora,_Colorado"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ben_Warriss">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Twickenham"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homer_Banks">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Memphis,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lila_Leslie">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_Hat_Jones">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Naples,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mildred_Anne_Butler">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Thomastown"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/County_Kilkenny"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oley_Speaks">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roosevelt_Jamison">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Memphis,_Tennessee"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rudolf_Dellinger">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saxony"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dresden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zavel_Kwartin">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexey_Ekimyan">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Moscow"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Dehodencq">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antoine_%22T.C.D.%22_Lundy">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/East_Stroudsburg,_Pennsylvania"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Whetsol">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Central_Islip,_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/B._B._Watson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pasadena,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brad_Robinson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Melbourne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buddy_Morrow">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Maitland,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Fracé">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nashville,_Tennessee"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deborahe_Glasgow">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Wandsworth"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Oppenheim">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dezso_d’Antalffy">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Jersey"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Denville_Township,_New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/El_Carrao_de_Palmarito">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Barinas,_Barinas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Sandback">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Vargas">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mexico_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Duprè">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florence"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gregorio_Vasquez_de_Arce_y_Ceballos">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bogotá"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Pène_du_Bois">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Massachusetts"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Boston"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbie_Phillips">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nevada"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Las_Vegas_Valley"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ingvar_Wixell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Malmö"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Mane_Jarnović">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johann_Baptist_von_Lampi_the_Elder">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Vienna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Klaus_Nordling">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ridgefield,_Connecticut"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marg_Osburne">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rockland,_Ontario"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myra_English">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hawaii"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Honolulu"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Hondrogen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Amherst,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Fendi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Vienna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-Jules_Mêne">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sadeq_Chubak">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Berkeley,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samm_Schwartz">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Miami"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamburi_Ali_Efendi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/İzmir"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Winslow">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Albany,_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/VL_Mike">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_Orleans"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Louisiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Jorgensen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/West_Linn,_Oregon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allan_Reuss">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/North_Hollywood,_Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denzil_Best">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elsa_Wiezell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Asunción"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriele_Castagnola">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florence"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Clayton">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Sydenham"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R._Guy_Cowan">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tucson,_Arizona"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shadow_Wilson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adam_Kossowski">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Lance">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Colomars"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Nicholas">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Basel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armand_Gautier">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barry_Galbraith">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bennington,_Vermont"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Borah_Bergman">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Campbell_Cooper">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Santa_Barbara,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elisa_Gabbai">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gene_Severens">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Worcester,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leo_Marchutz">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Aix-en-Provence"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mac_Curtis">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Weatherford,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ricky_Lawson">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Long_Beach,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Telemachos_Kanthos">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nicosia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Fruscella">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alec_Seward">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archie_Edwards">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Seat_Pleasant,_Maryland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_Hack">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Oakland,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivar_Kåge">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Henry_Beard">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Flushing,_Queens"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/José_Júlio_de_Souza_Pinto">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pont-Scorff"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juan_Bertoli_Calderoni">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ponce,_Puerto_Rico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lesley_Brook">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Odiham"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lidy_Prati">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Buenos_Aires"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_A._McCall,_Sr.">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stone_Mountain,_Georgia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luciano_Cilio">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Milan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M.A._Yewdale">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Burnaby"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manon_Cleary">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Washington,_D.C."/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sagar_Sen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kolkata"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sebastiano_Vini">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Pistoia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Terry_Black">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kamloops"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aart_Jansz_Druyvesteyn">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Haarlem"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Bogen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tel_Aviv"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benedikt_Beckenkamp">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Cologne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edgar_Meyer_(painter)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Aldrans"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edith_Soterius_von_Sachsenheim">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Boott">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Florence"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faiz_Mohammad_Faizok">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Quetta"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fred_Schwab">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_Nordqvist">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Janusz_Kruk">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Warsaw"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Walter">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bristol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juan_Formell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Havana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiana_Brown">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Melbourne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolph_Artz">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/The_Hague"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Richards_(artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Gennep"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amado_de_la_Cueva">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Guadalajara"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Engel_von_der_Rabenau">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rödelheim"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Costantino_Sereno">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Turin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_McClure_(artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dundee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elena_Volkova_(painter)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Moscow"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Felix_Wurman">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hillsborough,_North_Carolina"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/North_Carolina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hal_Willis_(singer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Nashville,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Payne_(bandleader)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tonbridge"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jerry_Byrne_(singer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Morgan_City,_Louisiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johannes_van_Bronckhorst">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Hoorn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lev_Bogomolets">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marius_Müller_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Oslo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michiel_van_Musscher">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obren_Pjevović">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mrčajevci"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ross_Parker_(songwriter)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Kent"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sam_Butera">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Las_Vegas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolph_Jentsch">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Windhoek"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Munnings">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dedham,_Essex"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anaïs_Perrière-Pilte">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrei_Mylnikov">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Annibale_Mazzuoli">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arno_Babajanian">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Moscow"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Booth_(cartoonist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dublin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bert_Andrews_(photographer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Greenberg">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Gregory_(comics)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bobby_Bryant_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boyukagha_Mirzazade">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Baku"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brasse_Brännström">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Rungius">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chico_O'Farrill">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Woods_(musician)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cristoforo_Dall'Acqua">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Vicenza"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Everett_(artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Roxbury,_Boston"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ercole_dell'Abate">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Modena"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Thoen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Folke_Sundquist">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Malmö"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/François_Duquesnoy">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Livorno"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_Finneran">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Van_Nuys,_Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_Burnand">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Chelmsford"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Essex"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georg_Hilker">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Copenhagen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Khoury_(record_producer)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Lake_Charles,_Louisiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glenn_Henry_(band_leader)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Santa_Barbara,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gotthard_Graubner">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Neuss"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Guidry">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Fairview,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanns_Georgi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Dresden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Attal">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Cucq"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Héctor_Campos_Parsi">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Ponce,_Puerto_Rico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jay_Migliori">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Mission_Viejo,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jimmy_Lewis_(bassist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Farrell">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Nightingale_(actor)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Greenwich"/>
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_Jordaan">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Zaritsky">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Tel_Aviv"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jovita_Idár">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/San_Antonio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Storck">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Bucharest"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laurie_Walker_(artist)">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Montreal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawrence_Walker">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Rayne,_Louisiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leendert_van_der_Cooghen">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Haarlem"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leslie_Harvey">
+    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Swansea"/>
+  </rdf:Description>
+
+</rdf:RDF>

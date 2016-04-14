@@ -1,1 +1,10 @@
-edu\nii\sesame\App.class
+edu\nii\sesame\syntacticParsing\TemplateCreation.class
+edu\nii\sesame\syntacticParsing\SPARQLTemplate.class
+edu\nii\sesame\cli\Test.class
+edu\nii\sesame\syntacticParsing\Domain.class
+edu\nii\sesame\utils\Util.class
+edu\nii\sesame\utils\Constant.class
+edu\nii\sesame\semanticStore\SemanticModelling.class
+edu\nii\sesame\semanticStore\Gazeteer.class
+edu\nii\sesame\semanticStore\PopulateTripleStore.class
+edu\nii\sesame\syntacticParsing\Triple.class

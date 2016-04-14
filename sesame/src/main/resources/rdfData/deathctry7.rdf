@@ -1,0 +1,3244 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:ns0="http://dbpedia.org/ontology/">
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Africa">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanCountries"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheCommonwealthOfNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheAfricanUnion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1910"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesOfTheIndianOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheAtlanticOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">South Africa</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Korea">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EastAsianCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1948"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DividedRegions"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">South Korea</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spain">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Spanish-speakingCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheEuropeanUnion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfNATO"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnionForTheMediterranean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EuropeanCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BicontinentalCountries"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheAtlanticOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesOfTheMediterraneanSea"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">Spain</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sri_Lanka">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheCommonwealthOfNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheSouthAsianAssociationForRegionalCooperation"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tamil-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesOfTheIndianOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialistStates"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1948"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Island109316454"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IslandsOfTheIndianOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Land109334396"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IslandCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SouthAsianCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">Sri Lanka</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sudan">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FederalCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheArabLeague"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheAfricanUnion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheOrganisationOfIslamicCooperation"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Arabic-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesOfTheIndianOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheRedSea"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1956"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MiddleEasternCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LeastDevelopedCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IslamicStates"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">Sudan</foaf:name>
+    <foaf:name xml:lang="en">Jumhūrīyat as-Sūdān</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweden">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnionForTheMediterranean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheEuropeanUnion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EuropeanCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheBalticSea"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheAtlanticOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NordicCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">Sweden</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Switzerland">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FederalCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/French-speakingCountries"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfLaFrancophonie"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EuropeanCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlpineCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1291"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LandlockedCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Italian-speakingCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/German-speakingCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">font-size:88%;</foaf:name>
+    <foaf:name xml:lang="en">Switzerland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syria">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WesternAsianCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EasternMediterraneanCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnionForTheMediterranean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheOrganisationOfIslamicCooperation"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheArabLeague"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NearEasternCountries"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Arabic-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialistStates"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesOfTheMediterraneanSea"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1946"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MiddleEasternCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">Syria</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taiwan">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Island"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EastAsianCountries"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FormerMemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Chinese-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingThePacificOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1912"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheSouthChinaSea"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingThePhilippineSea"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UnrecognizedOrLargelyUnrecognizedStates"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IslandCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">Zhōnghuá Mínguó</foaf:name>
+    <foaf:name xml:lang="en">Taiwan</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tanzania">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Swahili-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheAfricanUnion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheCommonwealthOfNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanCountries"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesOfTheIndianOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1964"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BantuCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LeastDevelopedCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">Tanzania</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thailand">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheAssociationOfSoutheastAsianNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesOfTheIndianOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheSouthChinaSea"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SoutheastAsianCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">Thailand</foaf:name>
+    <foaf:name xml:lang="en">Ratcha-anachak Thai</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tunisia">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/French-speakingCountries"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SouthernMediterraneanCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnionForTheMediterranean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheOrganisationOfIslamicCooperation"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheAfricanUnion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheArabLeague"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfLaFrancophonie"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanCountries"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Arabic-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesOfTheMediterraneanSea"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1956"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">Tunisia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turkey">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <foaf:name xml:lang="en">Turkey</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ukraine">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EuropeanCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BlackSeaCountries"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SlavicCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ukrainian-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1991"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Area108497294"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AreasOfTraditionalSpreadOfUkrainiansAndUkrainianLanguage"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Russian-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">Україна</foaf:name>
+    <foaf:name xml:lang="en">Ukraine</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnionForTheMediterranean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfNATO"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheEuropeanUnion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheCouncilOfEurope"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheCommonwealthOfNations"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EuropeanCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheAtlanticOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IslandCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">United Kingdom</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FederalCountries"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NorthernAmericanCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfNATO"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BicontinentalCountries"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1776"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingThePacificOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheArcticOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheAtlanticOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UnitedStates"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">the United States</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uruguay">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Spanish-speakingCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnionOfSouthAmericanNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfMercosur"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheAtlanticOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1825"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SouthAmericanCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">Uruguay</foaf:name>
+    <foaf:name xml:lang="en">''</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venezuela">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FederalCountries"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Spanish-speakingCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfOPEC"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnionOfSouthAmericanNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CaribbeanCountries"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1811"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SouthAmericanCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">font-size:88%;</foaf:name>
+    <foaf:name xml:lang="en">Venezuela</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vietnam">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheAssociationOfSoutheastAsianNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Single-partyStates"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommunistStates"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheSouthChinaSea"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1976"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialistStates"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SoutheastAsianCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">Vietnam</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zimbabwe">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheAfricanUnion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Happening107283608"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EconomicDisasters"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LandlockedCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BantuCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Misfortune107304852"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LeastDevelopedCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Calamity107314838"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Trouble107289014"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100"/>
+    <foaf:name xml:lang="en">Zimbabwe</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dhaka">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Bangladesh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kolkata">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Republic_of_Ireland">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheAtlanticOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IslandCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheEuropeanUnion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheCouncilOfEurope"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1922"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EuropeanUnionMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EuropeanCountries"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NUTS1StatisticalRegionsOfTheEuropeanUnion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <foaf:name xml:lang="en">Ireland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Gambia">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CountriesBorderingTheAtlanticOcean"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanUnionMemberEconomies"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AfricanCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheUnitedNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheOrganisationOfIslamicCooperation"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheCommonwealthOfNations"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MemberStatesOfTheAfricanUnion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1965"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldTradeOrganizationMemberEconomies"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LeastDevelopedCountries"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <foaf:name xml:lang="en">The Gambia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Algarve">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Portugal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bavaria">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Berlin">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darmstadt">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dresden">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Groningen">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamburg">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanover">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karlsruhe">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lazio">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leipzig">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lisbon">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Portugal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lombardy">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marche">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saxony">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sicily">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stuttgart">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Utrecht">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chantilly,_Oise">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clichy,_Hauts-de-Seine">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colomars">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monthyon">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neuville-Saint-Vaast">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sceaux,_Hauts-de-Seine">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaclacayo">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Peru"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clewer">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ridgewood,_Queens">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosettenville">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/South_Africa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Nicosia">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Center108523483"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/City"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Site108651247"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Seat108647945"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CapitalsInAsia"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CapitalsInEurope"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Capital108518505"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tract108673395"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Area108497294"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PopulatedPlacesInNorthernCyprus"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q515"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/City"/>
+    <foaf:name xml:lang="en">North Nicosia</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bowie,_Maryland">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bradfield,_Berkshire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brionne">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Châtenay-Malabry">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fairview,_Tennessee">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lowestoft">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Suffolk"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mound,_Minnesota">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raymond,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dubois,_Wyoming">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beaumont,_Texas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dooms,_Virginia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Stroudsburg,_Pennsylvania">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gig_Harbor,_Washington">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glenside,_Pennsylvania">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henrico_County,_Virginia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hereford,_Texas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Independence,_Virginia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McKinney,_Texas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Wales,_Pennsylvania">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plymouth_Meeting,_Pennsylvania">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portsmouth,_Rhode_Island">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sewanee,_Tennessee">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smyrna,_Tennessee">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Shaftsbury,_Vermont">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Clair_County,_Illinois">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Temple,_Texas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triadelphia,_West_Virginia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidor,_Texas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coinsins">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Switzerland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Le_Boulvé">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malgrate">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marsac-sur-l'Isle">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muralto">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Switzerland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Algiers">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Algeria"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andalusia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Spain"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Austin,_Texas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belfast">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Berkeley,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bohemia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Czech_Republic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bordeaux">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cambridge,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <ns0:Place rdf:about="http://dbpedia.org/resource/Channel_Islands">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q23442"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ChannelIslands"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Island"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Island109316454"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Land109334396"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <foaf:name xml:lang="en">Channel Islands</foaf:name>
+    <foaf:name xml:lang="en">Îles d'la Manche (Norman)</foaf:name>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Guernsey"/>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Jersey"/>
+  </ns0:Place>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chicago">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cleveland">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Columbus,_Ohio">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Davenport,_Iowa">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dayton,_Ohio">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emsworth">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugene,_Oregon">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary,_Indiana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghent">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Belgium"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gothenburg">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Sweden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greenwich_Village">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guatemala_City">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Guatemala"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hawaii">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hawick">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hertfordshire">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Non-metropolitanCounties"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/County108546183"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <foaf:name xml:lang="en">Hertfordshire</foaf:name>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holland">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Houston">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kansas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kansas_City,_Missouri">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mexico_City">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Mexico"/>
+  </rdf:Description>
+
+  <ns0:Country rdf:about="http://dbpedia.org/resource/Myanmar">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <foaf:name xml:lang="en">Pyidaunzu Thanmăda Myăma Nainngandaw</foaf:name>
+    <foaf:name xml:lang="en">Myanmar</foaf:name>
+  </ns0:Country>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nashville,_Tennessee">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Malden">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pittsburgh">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portland,_Oregon">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poznań">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Poland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rome">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santa_Monica,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Louis">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Albans">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Hertfordshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syracuse,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Bronx">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sri_Muktsar_Sahib">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marylebone">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gadag-Betageri">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abha">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Saudi_Arabia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashkelon">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Israel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Athens">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Greece"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beirut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Lebanon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bistrița">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Romania"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ciprian_Porumbescu,_Suceava">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Romania"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Foça">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Turkey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heraklion">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Greece"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hódmezővásárhely">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Hungary"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inčukalns">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Latvia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Russia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishapur">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Iran"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ramat_Gan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Israel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Petersburg">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Russia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sandıklı">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Turkey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timișoara">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Romania"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tinos">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Greece"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tver">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Russia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Voronezh">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Russia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Addison,_Maine">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aix-en-Provence">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albuquerque,_New_Mexico">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Altadena,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amherst,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amityville,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anadarko,_Oklahoma">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Samoa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apple_Valley,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arcadia,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arcata,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashby,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashland,_Oregon">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atkinson,_New_Hampshire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aurora,_Colorado">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Avignon">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bakersfield,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballycastle,_County_Antrim">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barnes,_London">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battersea">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bay_Harbor_Islands,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bayswater">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bellingham,_Washington">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beverly_Hills,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birmingham,_Alabama">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bishop,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blackheath,_London">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bloomington,_Illinois">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bloomington,_Indiana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boca_Raton,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boulder_City,_Nevada">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boulogne-sur-Mer">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Braymer,_Missouri">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brisbane,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bronxville,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brooklyn">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buford,_Georgia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burbank,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Calabasas,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Califon,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camarillo,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cannes">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canterbury">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Kent"/>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Captiva,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carbondale,_Illinois">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlsbad,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carmel-by-the-Sea,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrabassett_Valley,_Maine">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carson,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Central_Islip,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cherbourg-Octeville">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chișinău">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Moldova"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Château-Thierry">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clapham">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claremont,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clarion,_Iowa">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clermont,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coconut_Creek,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Columbia,_South_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Columbus,_Georgia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Concord,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Concord,_North_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corte_Madera,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cotati,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Covington,_Kentucky">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crawford,_Colorado">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Croton-on-Hudson,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crowley,_Louisiana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crystal_River,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crystal_Springs,_Mississippi">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Culver_City,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dana_Point,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dartmouth,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Davie,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Davos">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Switzerland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/DeKalb,_Illinois">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dearborn,_Michigan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Decatur,_Georgia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Del_Mar,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denville_Township,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dijon">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dobbs_Ferry,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Douglasville,_Georgia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Kent"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dover,_New_Hampshire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drogheda">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dublin,_New_Hampshire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edison,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eisenach">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/El_Cerrito,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elyria,_Ohio">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Encinitas,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Englewood,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enid,_Oklahoma">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evanston,_Illinois">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evansville,_Indiana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Falmouth,_Cornwall">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fitchburg,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flint,_Michigan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fontana,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fort_Deposit,_Alabama">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fort_Worth,_Texas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fountain_Valley,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franklin_Lakes,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franklin_Square,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fremont,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fullerton,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gainesville,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gainesville,_Georgia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gettysburg,_Pennsylvania">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glasgow,_Kentucky">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glen_Ridge,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glendale,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gonzales,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gouda,_South_Holland">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greenville,_Mississippi">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greenville,_North_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greenwich,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grenoble">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guildford">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Surrey"/>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haines_City,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamilton,_Ohio">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hammonton,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hampstead">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hancock,_New_Hampshire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Havana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Cuba"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Healdsburg,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hemet,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henderson,_Nevada">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hendon">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henley-on-Thames">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Oxfordshire"/>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hillsborough,_North_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hollywood,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holmfirth">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hoosick_Falls,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hope,_Arkansas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Horatio,_Arkansas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hudson,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Huntsville,_Alabama">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indianapolis">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inglewood,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iowa_City,_Iowa">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ipswich">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jackson,_Louisiana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacksonville,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jersey_City,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnston,_Iowa">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenner,_Louisiana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kent,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kidderminster">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Worcestershire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingston,_Jamaica">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Knightsbridge">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Crescenta-Montrose,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Mesa,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Rochelle">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lafayette,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laguna_Beach,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laguna_Niguel,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lagunitas-Forest_Knolls,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lake_Charles,_Louisiana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lancaster,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Langhorne,_Pennsylvania">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Las_Vegas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lebanon,_New_Hampshire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leesburg,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lenoir,_North_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lexington,_Kentucky">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Livermore,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Locust_Valley,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Long_Beach,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louisville,_Kentucky">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lowell,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macon,_Georgia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madison,_Wisconsin">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maitland,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malibu,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manchester_Township,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manhattan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maplewood,_Missouri">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maplewood,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mayfair">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maywood,_Illinois">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mechanicsburg,_Ohio">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medway,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Memphis,_Alabama">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Memphis,_Tennessee">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mesa,_Arizona">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mesquite,_Nevada">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miami_Beach,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mill_Hill">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mill_Valley,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mineola,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mission_Viejo,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monroe,_Louisiana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montclair,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montebello,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montecito,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montreux">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Switzerland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morgan_City,_Louisiana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morristown,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Pleasant,_Michigan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Vernon,_Missouri">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Vernon,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nantes">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naples">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Albany,_Indiana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Brunswick,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Canaan,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_City,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_London,_New_Hampshire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Orleans">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Port_Richey,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Rochelle,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Smyrna_Beach,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newark,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newbury,_Berkshire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newcastle,_Maine">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newport_Beach,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newton,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholasville,_Kentucky">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northolt">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norwalk,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oakland,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ojai,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympia_Fields,_Illinois">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omaha,_Nebraska">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orange,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orange_City,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orange_Park,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orlando,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paddington">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palm_Beach_Gardens,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palm_City,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palm_Desert,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palmdale,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palo_Alto,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paradise,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paradise,_Nevada">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paramus,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pasadena,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pecos,_New_Mexico">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petaluma,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phoenix,_Arizona">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pine_Bluff,_Arkansas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pinner">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pittsfield,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plainfield,_New_Hampshire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plainfield,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plant_City,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plaucheville,_Louisiana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pleasantville,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pompano_Beach,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Port_St._Lucie,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Princeton,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Provincetown,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Putney">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quartzsite,_Arizona">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quincy,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ravalli,_Montana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rayne,_Louisiana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Redding,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richmond,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rochester,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rogers,_Arkansas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roosevelt_Island">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Oak,_Michigan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Paul,_Minnesota">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salisbury">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Anselmo,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Antonio">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Dimas,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Jose,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Rafael,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sandy_Springs,_Georgia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanford,_North_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santa_Ana,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santa_Maria,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santa_Rosa,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santo_Domingo">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Dominican_Republic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sausalito,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sayville,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scottsdale,_Arizona">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seat_Pleasant,_Maryland">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sebastopol,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Selma,_North_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seville">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Spain"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shandaken,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shutesbury,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silver_Springs,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smithfield,_North_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Snettisham">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Norfolk"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Somaliland">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Arabic-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesOfSomalia"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DividedRegions"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1991"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UnrecognizedOrLargelyUnrecognizedStates"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/English-speakingCountriesAndTerritories"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <foaf:name xml:lang="en">Republic of Somaliland</foaf:name>
+    <foaf:name xml:lang="en">Somaliland</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soquel,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spring_Hill,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Springfield,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Augustine,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Staten_Island">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stinson_Beach,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stockwell">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stone_Mountain,_Georgia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stoughton,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sudbury,_Suffolk">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Suffolk"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sun_City_West,_Arizona">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sydenham">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tahiti">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tahlequah,_Oklahoma">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tallahassee,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tarpon_Springs,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taylor,_Michigan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teaneck,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tempe,_Arizona">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tenafly,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thamesmead">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Hague">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomasville,_Georgia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thousand_Oaks,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Titusville,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tooting">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tracy,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trenton,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trinidad,_Colorado">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Troy,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tucson,_Arizona">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turtle_River,_Minnesota">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tustin,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Twickenham">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Upper_Marlboro,_Maryland">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Urbana,_Illinois">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Urbandale,_Iowa">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Utica,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valhalla,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vallejo,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Van_Buren,_Arkansas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Van_Nuys,_Los_Angeles">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venice">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Versailles_(city)">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vicksburg,_Mississippi">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Visby">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Sweden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Washington,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Washington,_D.C.">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wembley">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Hollywood,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Linn,_Oregon">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Nyack,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wheaton,_Illinois">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/White_Plains,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willingboro_Township,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilmette,_Illinois">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilmington,_North_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilton,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wimbledon,_London">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winchester">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston-Salem,_North_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winter_Park,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woburn,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woodbury,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wrocław">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Poland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zakopane">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Poland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zwickau">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Thomas'_Hospital">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tendring">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheba_Medical_Center">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Israel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Westhumble">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Surrey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ystrad_Rhondda">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trebanog">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sant'Abbondio">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Switzerland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wadakkancherry">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hilton_Head_Island,_South_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lewisburg,_Tennessee">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Livingston,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norwalk,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ridgefield,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Somers_Point,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waverly,_Virginia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Warwick,_Rhode_Island">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adjala–Tosorontio">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allentown,_Pennsylvania">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arlington,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bridgeport,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camden,_Tennessee">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Central_Coast_(New_South_Wales)">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chelsea,_Manhattan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darien,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derby,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flushing,_Queens">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Barrington,_Massachusetts">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hendersonville,_Tennessee">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hot_Springs,_Virginia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jamaica,_Queens">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingston,_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Records">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luxembourg_City">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Luxembourg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murfreesboro,_Tennessee">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naples,_Texas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Milford,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York_City">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orange,_Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pasadena,_Texas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Thomas_Parish,_Jamaica">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scranton,_Pennsylvania">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southampton_(village),_New_York">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Springfield,_Missouri">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Upton_Lovell">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vancouver,_Washington">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Westmoreland_Parish">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chevy_Chase,_Maryland">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cincinnati">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gallatin,_Tennessee">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woodstock,_Maryland">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antioquia_Department">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Colombia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arcadia,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atuona">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cartersville,_Georgia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Delray_Beach,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dripping_Springs,_Texas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Los_Mochis">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Mexico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marquesas_Islands">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ponte_Vedra_Beach,_Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salles-Arbuissonnas-en-Beaujolais">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schönenberg,_Baden-Württemberg">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thorpe_Bay">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadgreen">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alborz_Province">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Iran"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boo,_Sweden">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Sweden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ingarö">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Sweden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Massamá">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Portugal"/>
+  </rdf:Description>
+
+</rdf:RDF>

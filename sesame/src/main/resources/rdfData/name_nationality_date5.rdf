@@ -1,0 +1,2339 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://dbpedia.org/ontology/"
+         xmlns:ns1="http://dbpedia.org/property/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Steichen">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1973-03-25</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1879-03-27</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="nl">Edward Steichen</rdfs:label>
+    <rdfs:label xml:lang="ja">エドワード・スタイケン</rdfs:label>
+    <rdfs:label xml:lang="de">Edward Steichen</rdfs:label>
+    <rdfs:label xml:lang="ru">Стайхен, Эдвард</rdfs:label>
+    <rdfs:label xml:lang="pl">Edward Steichen</rdfs:label>
+    <rdfs:label xml:lang="it">Edward Steichen</rdfs:label>
+    <rdfs:label xml:lang="pt">Edward Steichen</rdfs:label>
+    <rdfs:label xml:lang="fr">Edward Steichen</rdfs:label>
+    <rdfs:label xml:lang="en">Edward Steichen</rdfs:label>
+    <rdfs:label xml:lang="es">Edward Steichen</rdfs:label>
+    <rdfs:label xml:lang="zh">愛德華·史泰欽</rdfs:label>
+    <foaf:name xml:lang="en">Edward Steichen</foaf:name>
+    <foaf:name xml:lang="en">Steichen, Edward Jean</foaf:name>
+    <foaf:name xml:lang="en">Edward Jean Steichen</foaf:name>
+    <ns1:name xml:lang="en">Edward Steichen</ns1:name>
+    <ns1:name xml:lang="en">Steichen, Edward Jean</ns1:name>
+  </rdf:Description>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Emmanuel_Frémiet">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-09-10</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1824-12-06</ns0:birthDate>
+    <ns1:nationality xml:lang="en">French</ns1:nationality>
+    <rdfs:label xml:lang="fr">Emmanuel Fremiet</rdfs:label>
+    <rdfs:label xml:lang="de">Emmanuel Frémiet</rdfs:label>
+    <rdfs:label xml:lang="es">Emmanuel Fremiet</rdfs:label>
+    <rdfs:label xml:lang="ru">Фремье, Эмманюэль</rdfs:label>
+    <rdfs:label xml:lang="pl">Emmanuel Fremiet</rdfs:label>
+    <rdfs:label xml:lang="en">Emmanuel Frémiet</rdfs:label>
+    <rdfs:label xml:lang="it">Emmanuel Fremiet</rdfs:label>
+    <foaf:name xml:lang="en">Fremiet, Emmanuel</foaf:name>
+    <foaf:name xml:lang="en">Emmanuel Fremiet</foaf:name>
+    <foaf:name xml:lang="en">Emmanuel Frémiet</foaf:name>
+    <ns1:name xml:lang="en">Fremiet, Emmanuel</ns1:name>
+    <ns1:name xml:lang="en">Emmanuel Frémiet</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Eric_Hebborn">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-01-11</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1934-03-20</ns0:birthDate>
+    <ns1:nationality xml:lang="en">British</ns1:nationality>
+    <rdfs:label xml:lang="de">Eric Hebborn</rdfs:label>
+    <rdfs:label xml:lang="en">Eric Hebborn</rdfs:label>
+    <foaf:name xml:lang="en">Eric Hebborn</foaf:name>
+    <foaf:name xml:lang="en">Hebborn, Eric</foaf:name>
+    <ns1:name xml:lang="en">Hebborn, Eric</ns1:name>
+    <ns1:name xml:lang="en">Eric Hebborn</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Fairfield_Porter">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1975-09-18</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1907-06-10</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="en">Fairfield Porter</rdfs:label>
+    <foaf:name xml:lang="en">Fairfield Porter</foaf:name>
+    <foaf:name xml:lang="en">Porter, Fairfield</foaf:name>
+    <ns1:name xml:lang="en">Fairfield Porter</ns1:name>
+    <ns1:name xml:lang="en">Porter, Fairfield</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Flora_Twort">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1985</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1893-06-24</ns0:birthDate>
+    <ns1:nationality xml:lang="en">English</ns1:nationality>
+    <rdfs:label xml:lang="en">Flora Twort</rdfs:label>
+    <foaf:name xml:lang="en">Twort, Flora</foaf:name>
+    <foaf:name xml:lang="en">Flora C. Twort</foaf:name>
+    <foaf:name xml:lang="en">Flora Twort</foaf:name>
+    <ns1:name xml:lang="en">Flora C. Twort</ns1:name>
+    <ns1:name xml:lang="en">Twort, Flora</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Francisco_Solano_López_(comics)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-12</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1928-10-26</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Argentine</ns1:nationality>
+    <rdfs:label xml:lang="it">Francisco Solano López (fumettista)</rdfs:label>
+    <rdfs:label xml:lang="fr">Francisco Solano López (dessinateur)</rdfs:label>
+    <rdfs:label xml:lang="en">Francisco Solano López (comics)</rdfs:label>
+    <rdfs:label xml:lang="es">Francisco Solano López (historietista)</rdfs:label>
+    <foaf:name xml:lang="en">Francisco Solano López</foaf:name>
+    <foaf:name xml:lang="en">Lopez, Francisco Solano</foaf:name>
+    <foaf:name xml:lang="en">Francisco Solano Lopez</foaf:name>
+    <ns1:name xml:lang="en">Francisco Solano López</ns1:name>
+    <ns1:name xml:lang="en">Lopez, Francisco Solano</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Frank_Frazetta">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-05-10</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1928-02-09</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="zh">法蘭克·法拉捷特</rdfs:label>
+    <rdfs:label xml:lang="ja">フランク・フラゼッタ</rdfs:label>
+    <rdfs:label xml:lang="en">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="fr">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="pl">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="it">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="es">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="nl">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="ru">Фразетта, Фрэнк</rdfs:label>
+    <rdfs:label xml:lang="pt">Frank Frazetta</rdfs:label>
+    <rdfs:label xml:lang="de">Frank Frazetta</rdfs:label>
+    <foaf:name xml:lang="en">Frazetta, Frank</foaf:name>
+    <foaf:name xml:lang="en">Frank Frazetta</foaf:name>
+    <ns1:name xml:lang="en">Frank Frazetta</ns1:name>
+    <ns1:name xml:lang="en">Frazetta, Frank</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Gene_Bilbrew">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1974-05-01</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1923-06-29</ns0:birthDate>
+    <ns1:nationality xml:lang="en">United States</ns1:nationality>
+    <rdfs:label xml:lang="de">Gene Bilbrew</rdfs:label>
+    <rdfs:label xml:lang="fr">Gene Bilbrew</rdfs:label>
+    <rdfs:label xml:lang="en">Gene Bilbrew</rdfs:label>
+    <rdfs:label xml:lang="it">Gene Bilbrew</rdfs:label>
+    <foaf:name xml:lang="en">Gene Bilbrew</foaf:name>
+    <foaf:name xml:lang="en">Bilbrew, Gene</foaf:name>
+    <ns1:name xml:lang="en">Bilbrew, Gene</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Honoré_Daumier">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1879-02-10</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1808-02-26</ns0:birthDate>
+    <ns1:nationality xml:lang="en">French</ns1:nationality>
+    <rdfs:label xml:lang="nl">Honoré Daumier</rdfs:label>
+    <rdfs:label xml:lang="es">Honoré Daumier</rdfs:label>
+    <rdfs:label xml:lang="zh">奥诺雷·杜米埃</rdfs:label>
+    <rdfs:label xml:lang="en">Honoré Daumier</rdfs:label>
+    <rdfs:label xml:lang="pt">Honoré Daumier</rdfs:label>
+    <rdfs:label xml:lang="ja">オノレ・ドーミエ</rdfs:label>
+    <rdfs:label xml:lang="it">Honoré Daumier</rdfs:label>
+    <rdfs:label xml:lang="ru">Домье, Оноре</rdfs:label>
+    <rdfs:label xml:lang="pl">Honoré Daumier</rdfs:label>
+    <rdfs:label xml:lang="de">Honoré Daumier</rdfs:label>
+    <rdfs:label xml:lang="fr">Honoré Daumier</rdfs:label>
+    <foaf:name xml:lang="en">Honoré Daumier</foaf:name>
+    <foaf:name xml:lang="en">Daumier, Honore</foaf:name>
+    <foaf:name xml:lang="en">Honore Daumier</foaf:name>
+    <ns1:name xml:lang="en">Daumier, Honore</ns1:name>
+    <ns1:name xml:lang="en">Honoré Daumier</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/James_Pryde">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1941</ns0:deathDate>
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1941-02-24</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1866-03-30</ns0:birthDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1866</ns0:birthDate>
+    <ns1:nationality xml:lang="en">British</ns1:nationality>
+    <rdfs:label xml:lang="fr">James Pryde</rdfs:label>
+    <rdfs:label xml:lang="en">James Pryde</rdfs:label>
+    <rdfs:label xml:lang="es">James Pryde</rdfs:label>
+    <foaf:name xml:lang="en">James Pryde</foaf:name>
+    <foaf:name xml:lang="en">Pryde, James</foaf:name>
+    <ns1:name xml:lang="en">James Pryde</ns1:name>
+    <ns1:name xml:lang="en">Pryde, James</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/John_Henry_Twachtman">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1902-08-08</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1853-08-04</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="it">John Henry Twachtman</rdfs:label>
+    <rdfs:label xml:lang="en">John Henry Twachtman</rdfs:label>
+    <rdfs:label xml:lang="es">John Henry Twachtman</rdfs:label>
+    <rdfs:label xml:lang="fr">John Henry Twachtman</rdfs:label>
+    <rdfs:label xml:lang="de">John Henry Twachtman</rdfs:label>
+    <rdfs:label xml:lang="pl">John Henry Twachtman</rdfs:label>
+    <rdfs:label xml:lang="ru">Твахтман, Джон Генри</rdfs:label>
+    <rdfs:label xml:lang="nl">John Henry Twachtman</rdfs:label>
+    <foaf:name xml:lang="en">Twachtman, John Henry</foaf:name>
+    <foaf:name xml:lang="en">John Henry Twachtman</foaf:name>
+    <ns1:name xml:lang="en">Twachtman, John Henry</ns1:name>
+    <ns1:name xml:lang="en">John Henry Twachtman</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Milton_Avery">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-01-03</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-03-07</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="ru">Эвери, Мильтон Кларк</rdfs:label>
+    <rdfs:label xml:lang="es">Milton Avery</rdfs:label>
+    <rdfs:label xml:lang="it">Milton Avery</rdfs:label>
+    <rdfs:label xml:lang="en">Milton Avery</rdfs:label>
+    <rdfs:label xml:lang="fr">Milton Clark Avery</rdfs:label>
+    <rdfs:label xml:lang="de">Milton Avery</rdfs:label>
+    <foaf:name xml:lang="en">Avery, Milton</foaf:name>
+    <foaf:name xml:lang="en">Milton Avery</foaf:name>
+    <ns1:name xml:lang="en">Avery, Milton</ns1:name>
+    <ns1:name xml:lang="en">Milton Avery</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Noor_Jehan">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-12-23</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-09-21</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Pakistani</ns1:nationality>
+    <rdfs:label xml:lang="de">Noor Jehan</rdfs:label>
+    <rdfs:label xml:lang="en">Noor Jehan</rdfs:label>
+    <rdfs:label xml:lang="fr">Noor Jehan</rdfs:label>
+    <foaf:name xml:lang="en">Noor Jehan</foaf:name>
+    <foaf:name xml:lang="en">Jehan, Noor</foaf:name>
+    <ns1:name xml:lang="en">Noor Jehan</ns1:name>
+    <ns1:name xml:lang="en">Jehan, Noor</ns1:name>
+    <ns1:name xml:lang="en">Noor Jehan Biography</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Pierre_Granche">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1997</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1948</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Canada"/>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/French_Canadian"/>
+    <rdfs:label xml:lang="es">Pierre Granche</rdfs:label>
+    <rdfs:label xml:lang="fr">Pierre Granche</rdfs:label>
+    <rdfs:label xml:lang="en">Pierre Granche</rdfs:label>
+    <foaf:name xml:lang="en">Granche, Pierre</foaf:name>
+    <foaf:name xml:lang="en">Pierre Granche</foaf:name>
+    <ns1:name xml:lang="en">Granche, Pierre</ns1:name>
+    <ns1:name xml:lang="en">Pierre Granche</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Willy_Pogany">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1955-07-30</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1882</ns0:birthDate>
+    <ns1:nationality xml:lang="en">United States</ns1:nationality>
+    <rdfs:label xml:lang="fr">Willy Pogány</rdfs:label>
+    <rdfs:label xml:lang="en">Willy Pogany</rdfs:label>
+    <foaf:name xml:lang="en">Willy Pogany</foaf:name>
+    <foaf:name xml:lang="en">Pogany, Willy</foaf:name>
+    <ns1:name xml:lang="en">Pogany, Willy</ns1:name>
+    <ns1:name xml:lang="en">Willy Pogany</ns1:name>
+    <ns1:name xml:lang="en">Willy Pogány</ns1:name>
+    <ns1:name xml:lang="en">The Adventures of Odysseus and The Tales of Troy</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Édouard_Vuillard">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-06-21</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1868-11-11</ns0:birthDate>
+    <ns1:nationality xml:lang="en">French</ns1:nationality>
+    <rdfs:label xml:lang="es">Édouard Vuillard</rdfs:label>
+    <rdfs:label xml:lang="nl">Édouard Vuillard</rdfs:label>
+    <rdfs:label xml:lang="ja">エドゥアール・ヴュイヤール</rdfs:label>
+    <rdfs:label xml:lang="it">Édouard Vuillard</rdfs:label>
+    <rdfs:label xml:lang="zh">爱德华·维亚尔</rdfs:label>
+    <rdfs:label xml:lang="pt">Édouard Vuillard</rdfs:label>
+    <rdfs:label xml:lang="pl">Édouard Vuillard</rdfs:label>
+    <rdfs:label xml:lang="en">Édouard Vuillard</rdfs:label>
+    <rdfs:label xml:lang="ru">Вюйар, Эдуар</rdfs:label>
+    <rdfs:label xml:lang="fr">Édouard Vuillard</rdfs:label>
+    <rdfs:label xml:lang="de">Édouard Vuillard</rdfs:label>
+    <foaf:name xml:lang="en">Édouard Vuillard</foaf:name>
+    <foaf:name xml:lang="en">Vuillard, Edouard</foaf:name>
+    <foaf:name xml:lang="en">Edouard Vuillard</foaf:name>
+    <ns1:name xml:lang="en">Vuillard, Edouard</ns1:name>
+    <ns1:name xml:lang="en">Édouard Vuillard</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Albert_Joseph_Moore">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1893-09-25</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1841-09-04</ns0:birthDate>
+    <ns1:nationality xml:lang="en">British</ns1:nationality>
+    <rdfs:label xml:lang="en">Albert Joseph Moore</rdfs:label>
+    <rdfs:label xml:lang="es">Albert Joseph Moore</rdfs:label>
+    <rdfs:label xml:lang="ja">アルバート・ムーア</rdfs:label>
+    <rdfs:label xml:lang="de">Albert Joseph Moore</rdfs:label>
+    <rdfs:label xml:lang="nl">Albert Moore</rdfs:label>
+    <rdfs:label xml:lang="pl">Albert Joseph Moore</rdfs:label>
+    <foaf:name xml:lang="en">Albert Joseph Moore</foaf:name>
+    <foaf:name xml:lang="en">Moore, Albert Joseph</foaf:name>
+    <ns1:name xml:lang="en">Albert Joseph Moore</ns1:name>
+    <ns1:name xml:lang="en">Moore, Albert Joseph</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Charles_Biro">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1972-03-04</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-05-12</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">Charles Biro</rdfs:label>
+    <rdfs:label xml:lang="fr">Charles Biro</rdfs:label>
+    <foaf:name xml:lang="en">Charles Biro</foaf:name>
+    <foaf:name xml:lang="en">Biro, Charles</foaf:name>
+    <ns1:name xml:lang="en">Biro, Charles</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Franz_Xaver_Winterhalter">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1873-07-08</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1805-04-20</ns0:birthDate>
+    <ns1:nationality xml:lang="en">German</ns1:nationality>
+    <rdfs:label xml:lang="fr">Franz Xaver Winterhalter</rdfs:label>
+    <rdfs:label xml:lang="pl">Franz Xaver Winterhalter</rdfs:label>
+    <rdfs:label xml:lang="it">Franz Xaver Winterhalter</rdfs:label>
+    <rdfs:label xml:lang="es">Franz Xaver Winterhalter</rdfs:label>
+    <rdfs:label xml:lang="de">Franz Xaver Winterhalter</rdfs:label>
+    <rdfs:label xml:lang="pt">Franz Xaver Winterhalter</rdfs:label>
+    <rdfs:label xml:lang="ru">Винтерхальтер, Франц Ксавер</rdfs:label>
+    <rdfs:label xml:lang="nl">Franz Xaver Winterhalter</rdfs:label>
+    <rdfs:label xml:lang="ja">フランツ・ヴィンターハルター</rdfs:label>
+    <rdfs:label xml:lang="zh">弗朗兹·克萨韦尔·温德尔哈尔特</rdfs:label>
+    <rdfs:label xml:lang="en">Franz Xaver Winterhalter</rdfs:label>
+    <foaf:name xml:lang="en">Winterhalter, Franz Xaver</foaf:name>
+    <foaf:name xml:lang="en">Franz  Xaver Winterhalter</foaf:name>
+    <foaf:name xml:lang="en">Franz Xaver Winterhalter</foaf:name>
+    <ns1:name xml:lang="en">Winterhalter, Franz Xaver</ns1:name>
+    <ns1:name xml:lang="en">Franz  Xaver Winterhalter</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Georg_Schafer">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-01-11</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-03-25</ns0:birthDate>
+    <ns1:nationality xml:lang="en">German/American</ns1:nationality>
+    <rdfs:label xml:lang="en">Georg Schafer</rdfs:label>
+    <rdfs:label xml:lang="de">Georg Schaefer</rdfs:label>
+    <foaf:name xml:lang="en">Georg Schäfer</foaf:name>
+    <foaf:name xml:lang="en">Georg Schafer</foaf:name>
+    <foaf:name xml:lang="en">Schafer, Georg</foaf:name>
+    <ns1:name xml:lang="en">Georg Schäfer</ns1:name>
+    <ns1:name xml:lang="en">Schafer, Georg</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/George_Blackall_Simonds">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1929-12-16</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1843-10-06</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/English_people"/>
+    <rdfs:label xml:lang="en">George Blackall Simonds</rdfs:label>
+    <foaf:name xml:lang="en">George Blackall Simonds</foaf:name>
+    <foaf:name xml:lang="en">Simonds, George Blackall</foaf:name>
+    <ns1:name xml:lang="en">George Blackall Simonds</ns1:name>
+    <ns1:name xml:lang="en">Simonds, George Blackall</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Govert_van_der_Leeuw">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1688-07-03</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1645-11-11</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+    <rdfs:label xml:lang="nl">Govert van der Leeuw</rdfs:label>
+    <rdfs:label xml:lang="en">Govert van der Leeuw</rdfs:label>
+    <foaf:name xml:lang="en">Leeuw, Govert Van Der</foaf:name>
+    <foaf:name xml:lang="en">Govert Van Der Leeuw</foaf:name>
+    <foaf:name xml:lang="en">Govert van der Leeuw</foaf:name>
+    <ns1:name xml:lang="en">Leeuw, Govert Van Der</ns1:name>
+    <ns1:name xml:lang="en">Govert van der Leeuw</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/H._R._Millar">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1940</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1869</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Scottish</ns1:nationality>
+    <rdfs:label xml:lang="it">Harold Robert Millar</rdfs:label>
+    <rdfs:label xml:lang="ja">ハロルド・ロバート・ミラー</rdfs:label>
+    <rdfs:label xml:lang="en">H. R. Millar</rdfs:label>
+    <foaf:name xml:lang="en">Millar, H. R.</foaf:name>
+    <foaf:name xml:lang="en">H. R. Millar</foaf:name>
+    <ns1:name xml:lang="en">Millar, H. R.</ns1:name>
+    <ns1:name xml:lang="en">H. R. Millar</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Henry_Chapman_Mercer">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1930-03-09</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1856-06-24</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="de">Henry Chapman Mercer</rdfs:label>
+    <rdfs:label xml:lang="en">Henry Chapman Mercer</rdfs:label>
+    <foaf:name xml:lang="en">Mercer, Henry Chapman</foaf:name>
+    <foaf:name xml:lang="en">Henry Chapman Mercer</foaf:name>
+    <ns1:name xml:lang="en">Mercer, Henry Chapman</ns1:name>
+    <ns1:name xml:lang="en">Henry Chapman Mercer</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Hermann_Winterhalter">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1891-02-24</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1808-09-23</ns0:birthDate>
+    <ns1:nationality xml:lang="en">German</ns1:nationality>
+    <rdfs:label xml:lang="ru">Винтерхальтер, Герман</rdfs:label>
+    <rdfs:label xml:lang="en">Hermann Winterhalter</rdfs:label>
+    <rdfs:label xml:lang="de">Hermann Winterhalter</rdfs:label>
+    <foaf:name xml:lang="en">Hermann Winterhalter</foaf:name>
+    <foaf:name xml:lang="en">Winterhalter, Hermann</foaf:name>
+    <ns1:name xml:lang="en">Hermann Winterhalter</ns1:name>
+    <ns1:name xml:lang="en">Winterhalter, Hermann</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Jean-Baptiste_Stahl">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1932-01-31</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1869-06-20</ns0:birthDate>
+    <ns1:nationality xml:lang="en">german</ns1:nationality>
+    <rdfs:label xml:lang="en">Jean-Baptiste Stahl</rdfs:label>
+    <rdfs:label xml:lang="de">Johann Baptist Stahl</rdfs:label>
+    <foaf:name xml:lang="en">Jean-Baptiste Stahl</foaf:name>
+    <foaf:name xml:lang="en">Stahl, Jean-Baptiste</foaf:name>
+    <ns1:name xml:lang="en">Jean-Baptiste Stahl</ns1:name>
+    <ns1:name xml:lang="en">Stahl, Jean-Baptiste</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/John_Noble_(painter)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1934</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1874</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">John Noble (painter)</rdfs:label>
+    <foaf:name xml:lang="en">Noble, John</foaf:name>
+    <foaf:name xml:lang="en">John Noble</foaf:name>
+    <ns1:name xml:lang="en">Noble, John</ns1:name>
+    <ns1:name xml:lang="en">John Noble</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Józef_Gosławski_(sculptor)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1963-01-23</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1908-04-24</ns0:birthDate>
+    <ns1:nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:nationality>
+    <rdfs:label xml:lang="pl">Józef Gosławski</rdfs:label>
+    <rdfs:label xml:lang="zh">约瑟夫·高斯瓦夫斯基</rdfs:label>
+    <rdfs:label xml:lang="ru">Гославский, Юзеф</rdfs:label>
+    <rdfs:label xml:lang="pt">Józef Gosławski</rdfs:label>
+    <rdfs:label xml:lang="es">Józef Gosławski</rdfs:label>
+    <rdfs:label xml:lang="en">Józef Gosławski (sculptor)</rdfs:label>
+    <rdfs:label xml:lang="de">Józef Gosławski</rdfs:label>
+    <rdfs:label xml:lang="nl">Józef Gosławski</rdfs:label>
+    <rdfs:label xml:lang="it">Józef Gosławski</rdfs:label>
+    <rdfs:label xml:lang="fr">Józef Gosławski</rdfs:label>
+    <foaf:name xml:lang="en">Józef Gosławski</foaf:name>
+    <foaf:name xml:lang="en">Jozef Goslawski</foaf:name>
+    <foaf:name xml:lang="en">Goslawski, Jozef</foaf:name>
+    <ns1:name xml:lang="en">Józef Gosławski</ns1:name>
+    <ns1:name xml:lang="en">Goslawski, Jozef</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Marc_Swayze">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-10-14</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1913-07-17</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">Marc Swayze</rdfs:label>
+    <foaf:name xml:lang="en">Marcus Desha &quot;Marc&quot; Swayze</foaf:name>
+    <foaf:name xml:lang="en">Swayze, Marcus Desha</foaf:name>
+    <foaf:name xml:lang="en">Marcus Desha Swayze</foaf:name>
+    <ns1:name xml:lang="en">Marcus Desha &quot;Marc&quot; Swayze</ns1:name>
+    <ns1:name xml:lang="en">Swayze, Marcus Desha</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Mel_Lindquist">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-11-24</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-07-05</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="en">Mel Lindquist</rdfs:label>
+    <foaf:name xml:lang="en">Mel Lindquist</foaf:name>
+    <foaf:name xml:lang="en">Lindquist, Mel</foaf:name>
+    <ns1:name xml:lang="en">Mel Lindquist</ns1:name>
+    <ns1:name xml:lang="en">Lindquist, Mel</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Michael_Ford_(artist)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-06-16</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-07-28</ns0:birthDate>
+    <ns1:nationality xml:lang="en">British</ns1:nationality>
+    <rdfs:label xml:lang="en">Michael Ford (artist)</rdfs:label>
+    <foaf:name xml:lang="en">Ford, Michael</foaf:name>
+    <foaf:name xml:lang="en">Michael Ford</foaf:name>
+    <ns1:name xml:lang="en">Michael Ford</ns1:name>
+    <ns1:name xml:lang="en">Ford, Michael</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Philippe_Honoré_(cartoonist)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-07</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1941-11-25</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/France"/>
+    <rdfs:label xml:lang="es">Philippe Honoré</rdfs:label>
+    <rdfs:label xml:lang="ru">Оноре, Филипп</rdfs:label>
+    <rdfs:label xml:lang="en">Philippe Honoré (cartoonist)</rdfs:label>
+    <rdfs:label xml:lang="pl">Philippe Honoré</rdfs:label>
+    <rdfs:label xml:lang="fr">Philippe Honoré</rdfs:label>
+    <rdfs:label xml:lang="nl">Philippe Honoré</rdfs:label>
+    <rdfs:label xml:lang="de">Philippe Honoré (Cartoonist)</rdfs:label>
+    <rdfs:label xml:lang="it">Philippe Honoré</rdfs:label>
+    <rdfs:label xml:lang="ar">فيليب أونوريه</rdfs:label>
+    <rdfs:label xml:lang="pt">Philippe Honoré</rdfs:label>
+    <foaf:name xml:lang="en">Honoré, Philippe</foaf:name>
+    <foaf:name xml:lang="en">Philippe Honoré</foaf:name>
+    <ns1:name xml:lang="en">Philippe Honoré</ns1:name>
+    <ns1:name xml:lang="en">Honoré, Philippe</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/R._A._Chandrasena">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-03-01</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1924-08-27</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Sri Lankan</ns1:nationality>
+    <rdfs:label xml:lang="en">R. A. Chandrasena</rdfs:label>
+    <foaf:name xml:lang="en">Ranasinghe Arachchige Chandrasena</foaf:name>
+    <foaf:name xml:lang="en">R.A. Chandrasena</foaf:name>
+    <foaf:name xml:lang="en">ආර්. ඒ. චන්ද්‍රසේන</foaf:name>
+    <foaf:name xml:lang="en">Chandrasena, Ranasinghe Arachchige</foaf:name>
+    <ns1:name xml:lang="en">R.A. Chandrasena</ns1:name>
+    <ns1:name xml:lang="en">ආර්. ඒ. චන්ද්‍රසේන</ns1:name>
+    <ns1:name xml:lang="en">Chandrasena, Ranasinghe Arachchige</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/William_Allan_(painter)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1850-02-23</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1782</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Scottish</ns1:nationality>
+    <rdfs:label xml:lang="ru">Аллан, Вильям</rdfs:label>
+    <rdfs:label xml:lang="fr">William Allan (peintre)</rdfs:label>
+    <rdfs:label xml:lang="de">William Allan</rdfs:label>
+    <rdfs:label xml:lang="en">William Allan (painter)</rdfs:label>
+    <rdfs:label xml:lang="pt">William Allan</rdfs:label>
+    <rdfs:label xml:lang="it">William Allan</rdfs:label>
+    <rdfs:label xml:lang="pl">William Allan</rdfs:label>
+    <foaf:name xml:lang="en">Allan, William</foaf:name>
+    <foaf:name xml:lang="en">William Allan</foaf:name>
+    <foaf:name xml:lang="en">Sir William Allan</foaf:name>
+    <ns1:name xml:lang="en">Allan, William</ns1:name>
+    <ns1:name xml:lang="en">Sir William Allan</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Adriaen_Hanneman">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1671</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1603</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+    <rdfs:label xml:lang="nl">Adriaen Hanneman</rdfs:label>
+    <rdfs:label xml:lang="it">Adriaen Hanneman</rdfs:label>
+    <rdfs:label xml:lang="zh">阿德里安·汉内曼</rdfs:label>
+    <rdfs:label xml:lang="fr">Adriaen Hanneman</rdfs:label>
+    <rdfs:label xml:lang="de">Adriaen Hanneman</rdfs:label>
+    <rdfs:label xml:lang="en">Adriaen Hanneman</rdfs:label>
+    <foaf:name xml:lang="en">Adriaen Hanneman</foaf:name>
+    <foaf:name xml:lang="en">Hanneman, Adriaen</foaf:name>
+    <ns1:name xml:lang="en">Adriaen Hanneman</ns1:name>
+    <ns1:name xml:lang="en">Hanneman, Adriaen</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Albert_Marquet">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1947-06-14</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1875-03-27</ns0:birthDate>
+    <ns1:nationality xml:lang="en">French</ns1:nationality>
+    <rdfs:label xml:lang="fr">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="pl">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="de">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="nl">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="ja">アルベール・マルケ</rdfs:label>
+    <rdfs:label xml:lang="pt">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="it">Pierre-Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="es">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="en">Albert Marquet</rdfs:label>
+    <rdfs:label xml:lang="ru">Марке, Альбер</rdfs:label>
+    <foaf:name xml:lang="en">Marquet, Albert</foaf:name>
+    <foaf:name xml:lang="en">Albert Marquet</foaf:name>
+    <ns1:name xml:lang="en">Albert Marquet</ns1:name>
+    <ns1:name xml:lang="en">Marquet, Albert</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Alexander_Naumov">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-31</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1935-12-28</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Russians"/>
+    <rdfs:label xml:lang="ru">Наумов, Александр Александрович</rdfs:label>
+    <rdfs:label xml:lang="en">Alexander Naumov</rdfs:label>
+    <foaf:name xml:lang="en">Alexander Naumov</foaf:name>
+    <foaf:name xml:lang="en">Naumov, Alexander</foaf:name>
+    <ns1:name xml:lang="en">Naumov, Alexander</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Anna_Claypoole_Peale">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1878-12-25</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1791-03-06</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">Anna Claypoole Peale</rdfs:label>
+    <foaf:name xml:lang="en">Peale, Anna Claypoole</foaf:name>
+    <foaf:name xml:lang="en">Anna Claypoole Peale</foaf:name>
+    <ns1:name xml:lang="en">Peale, Anna Claypoole</ns1:name>
+    <ns1:name xml:lang="en">Anna Claypoole Peale</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Antonio_Balestra">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1740-04-21</ns0:deathDate>
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1740-05-21</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1666-08-12</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Italy"/>
+    <rdfs:label xml:lang="fr">Antonio Balestra</rdfs:label>
+    <rdfs:label xml:lang="en">Antonio Balestra</rdfs:label>
+    <rdfs:label xml:lang="ru">Балестра, Антонио</rdfs:label>
+    <rdfs:label xml:lang="it">Antonio Balestra</rdfs:label>
+    <rdfs:label xml:lang="pl">Antonio Balestra</rdfs:label>
+    <rdfs:label xml:lang="de">Antonio Balestra</rdfs:label>
+    <foaf:name xml:lang="en">Balestra, Antonio</foaf:name>
+    <foaf:name xml:lang="en">Antonio Balestra</foaf:name>
+    <ns1:name xml:lang="en">Balestra, Antonio</ns1:name>
+    <ns1:name xml:lang="en">Antonio Balestra</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Antonio_Bellucci">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1726</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1654</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Italy"/>
+    <rdfs:label xml:lang="it">Antonio Bellucci</rdfs:label>
+    <rdfs:label xml:lang="fr">Antonio Bellucci</rdfs:label>
+    <rdfs:label xml:lang="en">Antonio Bellucci</rdfs:label>
+    <rdfs:label xml:lang="de">Antonio Bellucci</rdfs:label>
+    <foaf:name xml:lang="en">Antonio Belluci</foaf:name>
+    <foaf:name xml:lang="en">Antonio Bellucci</foaf:name>
+    <foaf:name xml:lang="en">Belluci, Antonio</foaf:name>
+    <ns1:name xml:lang="en">Antonio Bellucci</ns1:name>
+    <ns1:name xml:lang="en">Belluci, Antonio</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Artie_Simek">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1975</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1916-01-06</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">Artie Simek</rdfs:label>
+    <foaf:name xml:lang="en">Simek, Artie</foaf:name>
+    <foaf:name xml:lang="en">Artie Simek</foaf:name>
+    <ns1:name xml:lang="en">Simek, Artie</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Benedetto_Luti">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1724-06-17</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1666-11-17</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Italy"/>
+    <rdfs:label xml:lang="ru">Лути, Бенедетто</rdfs:label>
+    <rdfs:label xml:lang="it">Benedetto Luti</rdfs:label>
+    <rdfs:label xml:lang="nl">Benedetto Luti</rdfs:label>
+    <rdfs:label xml:lang="fr">Benedetto Luti</rdfs:label>
+    <rdfs:label xml:lang="en">Benedetto Luti</rdfs:label>
+    <rdfs:label xml:lang="es">Benedetto Luti</rdfs:label>
+    <rdfs:label xml:lang="pl">Benedetto Luti</rdfs:label>
+    <rdfs:label xml:lang="de">Benedetto Luti</rdfs:label>
+    <foaf:name xml:lang="en">Luti, Benedetto</foaf:name>
+    <foaf:name xml:lang="en">Benedetto Luti</foaf:name>
+    <ns1:name xml:lang="en">Luti, Benedetto</ns1:name>
+    <ns1:name xml:lang="en">Benedetto Luti</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Bice_Lazzari">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1981-11-13</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1900-11-15</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Italians"/>
+    <rdfs:label xml:lang="en">Bice Lazzari</rdfs:label>
+    <rdfs:label xml:lang="it">Bice Lazzari</rdfs:label>
+    <foaf:name xml:lang="en">Lazzari, Bice</foaf:name>
+    <foaf:name xml:lang="en">Bice Lazzari</foaf:name>
+    <ns1:name xml:lang="en">Lazzari, Bice</ns1:name>
+    <ns1:name xml:lang="en">Bice Lazzari</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/C._David_Breeden">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2006</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1938-05-29</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="en">C. David Breeden</rdfs:label>
+    <foaf:name xml:lang="en">Breeden, C. David</foaf:name>
+    <foaf:name xml:lang="en">C. David Breeden</foaf:name>
+    <ns1:name xml:lang="en">Breeden, C. David</ns1:name>
+    <ns1:name xml:lang="en">C. David Breeden</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Carmine_Infantino">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-04-04</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1925-05-24</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="fr">Carmine Infantino</rdfs:label>
+    <rdfs:label xml:lang="it">Carmine Infantino</rdfs:label>
+    <rdfs:label xml:lang="es">Carmine Infantino</rdfs:label>
+    <rdfs:label xml:lang="ru">Инфантино, Кармайн</rdfs:label>
+    <rdfs:label xml:lang="de">Carmine Infantino</rdfs:label>
+    <rdfs:label xml:lang="en">Carmine Infantino</rdfs:label>
+    <rdfs:label xml:lang="zh">卡迈恩·因凡蒂诺</rdfs:label>
+    <rdfs:label xml:lang="nl">Carmine Infantino</rdfs:label>
+    <rdfs:label xml:lang="pt">Carmine Infantino</rdfs:label>
+    <foaf:name xml:lang="en">Carmine Infantino</foaf:name>
+    <foaf:name xml:lang="en">Infantino, Carmine</foaf:name>
+    <ns1:name xml:lang="en">Infantino, Carmine</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Charles_Banks_Wilson">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-05-02</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-08-06</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="en">Charles Banks Wilson</rdfs:label>
+    <foaf:name xml:lang="en">Wilson, Charles Banks</foaf:name>
+    <foaf:name xml:lang="en">Charles Banks Wilson</foaf:name>
+    <ns1:name xml:lang="en">Wilson, Charles Banks</ns1:name>
+    <ns1:name xml:lang="en">Charles Banks Wilson</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Charles_Courtney_Curran">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1942</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1861</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="en">Charles Courtney Curran</rdfs:label>
+    <rdfs:label xml:lang="de">Charles Courtney Curran</rdfs:label>
+    <rdfs:label xml:lang="fr">Charles Courtney Curran</rdfs:label>
+    <rdfs:label xml:lang="nl">Charles Courtney Curran</rdfs:label>
+    <rdfs:label xml:lang="es">Charles Courtney Curran</rdfs:label>
+    <foaf:name xml:lang="en">Charles Courtney Curran</foaf:name>
+    <foaf:name xml:lang="en">Curran, Charles Courtney</foaf:name>
+    <ns1:name xml:lang="en">Charles Courtney Curran</ns1:name>
+    <ns1:name xml:lang="en">Curran, Charles Courtney</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Christopher_R._W._Nevinson">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1946</ns0:deathDate>
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1946-10-07</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1889-08-13</ns0:birthDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1889</ns0:birthDate>
+    <ns1:nationality xml:lang="en">British</ns1:nationality>
+    <rdfs:label xml:lang="de">Christopher Nevinson</rdfs:label>
+    <rdfs:label xml:lang="fr">Christopher Nevinson</rdfs:label>
+    <rdfs:label xml:lang="en">Christopher R. W. Nevinson</rdfs:label>
+    <rdfs:label xml:lang="ru">Невинсон, Кристофер</rdfs:label>
+    <rdfs:label xml:lang="it">Christopher R.W. Nevinson</rdfs:label>
+    <foaf:name xml:lang="en">Nevinson, Christopher R. W.</foaf:name>
+    <foaf:name xml:lang="en">CRW Nevinson</foaf:name>
+    <foaf:name xml:lang="en">Christopher R. W. Nevinson</foaf:name>
+    <ns1:name xml:lang="en">Nevinson, Christopher R. W.</ns1:name>
+    <ns1:name xml:lang="en">CRW Nevinson</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Cyril_Parfitt">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-10-30</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1914-02-06</ns0:birthDate>
+    <ns1:nationality xml:lang="en">British</ns1:nationality>
+    <rdfs:label xml:lang="en">Cyril Parfitt</rdfs:label>
+    <foaf:name xml:lang="en">Parfitt, Cyril</foaf:name>
+    <foaf:name xml:lang="en">Cyril Parfitt</foaf:name>
+    <ns1:name xml:lang="en">Cyril Parfitt</ns1:name>
+    <ns1:name xml:lang="en">Parfitt, Cyril</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Daniel_Branca">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-01-28</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-12-07</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Argentina"/>
+    <rdfs:label xml:lang="nl">Daniel Branca</rdfs:label>
+    <rdfs:label xml:lang="es">Daniel Branca</rdfs:label>
+    <rdfs:label xml:lang="de">Daniel Branca</rdfs:label>
+    <rdfs:label xml:lang="en">Daniel Branca</rdfs:label>
+    <rdfs:label xml:lang="fr">Daniel Branca</rdfs:label>
+    <rdfs:label xml:lang="it">Daniel Branca</rdfs:label>
+    <rdfs:label xml:lang="pl">Daniel Branca</rdfs:label>
+    <foaf:name xml:lang="en">Daniel Branca</foaf:name>
+    <foaf:name xml:lang="en">Branca, Daniel</foaf:name>
+    <ns1:name xml:lang="en">Branca, Daniel</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Duncan_Macpherson">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-05-03</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1924-09-20</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Canadian</ns1:nationality>
+    <rdfs:label xml:lang="en">Duncan Macpherson</rdfs:label>
+    <foaf:name xml:lang="en">Duncan Macpherson</foaf:name>
+    <foaf:name xml:lang="en">Macpherson, Duncan</foaf:name>
+    <ns1:name xml:lang="en">Duncan Macpherson</ns1:name>
+    <ns1:name xml:lang="en">Macpherson, Duncan</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Eero_Nelimarkka">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1977-01-27</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1891-10-10</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Finnish</ns1:nationality>
+    <rdfs:label xml:lang="en">Eero Nelimarkka</rdfs:label>
+    <rdfs:label xml:lang="fr">Eero Nelimarkka</rdfs:label>
+    <foaf:name xml:lang="en">Eero Nelimarkka</foaf:name>
+    <foaf:name xml:lang="en">Eero Alexander Nelimarkka</foaf:name>
+    <foaf:name xml:lang="en">Nelimarkka, Eero</foaf:name>
+    <ns1:name xml:lang="en">Eero Alexander Nelimarkka</ns1:name>
+    <ns1:name xml:lang="en">Nelimarkka, Eero</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Erté">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-04-21</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1892-11-23</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Russian</ns1:nationality>
+    <rdfs:label xml:lang="ru">Тыртов, Роман Петрович</rdfs:label>
+    <rdfs:label xml:lang="pl">Erté</rdfs:label>
+    <rdfs:label xml:lang="nl">Erté</rdfs:label>
+    <rdfs:label xml:lang="de">Erté</rdfs:label>
+    <rdfs:label xml:lang="it">Romain de Tirtoff</rdfs:label>
+    <rdfs:label xml:lang="es">Erté</rdfs:label>
+    <rdfs:label xml:lang="en">Erté</rdfs:label>
+    <rdfs:label xml:lang="fr">Erté</rdfs:label>
+    <foaf:name xml:lang="en">Erté</foaf:name>
+    <foaf:name xml:lang="en">Erte</foaf:name>
+    <ns1:name xml:lang="en">Erté</ns1:name>
+    <ns1:name xml:lang="en">Erte</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Eugène_Boch">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1941-01-03</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1855-09-01</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Belgian</ns1:nationality>
+    <rdfs:label xml:lang="nl">Eugène Boch</rdfs:label>
+    <rdfs:label xml:lang="pl">Eugène Boch</rdfs:label>
+    <rdfs:label xml:lang="fr">Eugène Boch</rdfs:label>
+    <rdfs:label xml:lang="ru">Бош, Эжен</rdfs:label>
+    <rdfs:label xml:lang="ja">ウジェーヌ・ボック</rdfs:label>
+    <rdfs:label xml:lang="de">Eugène Boch</rdfs:label>
+    <rdfs:label xml:lang="it">Eugène Boch</rdfs:label>
+    <rdfs:label xml:lang="en">Eugène Boch</rdfs:label>
+    <foaf:name xml:lang="en">Eugène Boch</foaf:name>
+    <foaf:name xml:lang="en">Eugene Boch</foaf:name>
+    <foaf:name xml:lang="en">Boch, Eugene</foaf:name>
+    <ns1:name xml:lang="en">Eugène Boch</ns1:name>
+    <ns1:name xml:lang="en">Boch, Eugene</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Frank_King_(cartoonist)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1969-06-24</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1883-04-09</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="fr">Frank King</rdfs:label>
+    <rdfs:label xml:lang="en">Frank King (cartoonist)</rdfs:label>
+    <rdfs:label xml:lang="de">Frank O. King</rdfs:label>
+    <foaf:name xml:lang="en">Frank King</foaf:name>
+    <foaf:name xml:lang="en">King, Frank</foaf:name>
+    <ns1:name xml:lang="en">Frank King</ns1:name>
+    <ns1:name xml:lang="en">King, Frank</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Frank_Rinehart">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1928-12-17</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1861-02-12</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="nl">Frank Rinehart</rdfs:label>
+    <rdfs:label xml:lang="en">Frank Rinehart</rdfs:label>
+    <rdfs:label xml:lang="fr">Frank Rinehart</rdfs:label>
+    <foaf:name xml:lang="en">Frank Rinehart</foaf:name>
+    <foaf:name xml:lang="en">Rinehart, Frank</foaf:name>
+    <ns1:name xml:lang="en">Rinehart, Frank</ns1:name>
+    <ns1:name xml:lang="en">Frank Rinehart</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Frederik_de_Moucheron">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1686</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1633</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+    <rdfs:label xml:lang="pl">Frederik de Moucheron</rdfs:label>
+    <rdfs:label xml:lang="en">Frederik de Moucheron</rdfs:label>
+    <rdfs:label xml:lang="it">Frederik de Moucheron</rdfs:label>
+    <rdfs:label xml:lang="fr">Frederik de Moucheron</rdfs:label>
+    <rdfs:label xml:lang="ru">Мушерон, Фредерик де</rdfs:label>
+    <rdfs:label xml:lang="de">Frederik de Moucheron</rdfs:label>
+    <rdfs:label xml:lang="nl">Frederik de Moucheron</rdfs:label>
+    <foaf:name xml:lang="en">Frederik de Moucheron</foaf:name>
+    <foaf:name xml:lang="en">Moucheron, Frederik De</foaf:name>
+    <foaf:name xml:lang="en">Frederik De Moucheron</foaf:name>
+    <ns1:name xml:lang="en">Frederik de Moucheron</ns1:name>
+    <ns1:name xml:lang="en">Moucheron, Frederik De</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Giovanni_Benedetto_Castiglione">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1664</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1609-03-23</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Italy"/>
+    <rdfs:label xml:lang="pt">Giovanni Benedetto Castiglione</rdfs:label>
+    <rdfs:label xml:lang="it">Giovanni Benedetto Castiglione</rdfs:label>
+    <rdfs:label xml:lang="en">Giovanni Benedetto Castiglione</rdfs:label>
+    <rdfs:label xml:lang="pl">Giovanni Benedetto Castiglione</rdfs:label>
+    <rdfs:label xml:lang="es">Giovanni Benedetto Castiglione</rdfs:label>
+    <rdfs:label xml:lang="de">Giovanni Benedetto Castiglione</rdfs:label>
+    <rdfs:label xml:lang="ru">Кастильоне, Джованни</rdfs:label>
+    <rdfs:label xml:lang="fr">Giovanni Benedetto Castiglione</rdfs:label>
+    <rdfs:label xml:lang="nl">Giovanni Benedetto Castiglione</rdfs:label>
+    <foaf:name xml:lang="en">Castiglione</foaf:name>
+    <foaf:name xml:lang="en">Giovanni Benedetto Castiglione</foaf:name>
+    <ns1:name xml:lang="en">Castiglione</ns1:name>
+    <ns1:name xml:lang="en">Giovanni Benedetto Castiglione</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Glenn_Thompson_(publisher)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-09-07</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-09-24</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Americans"/>
+    <rdfs:label xml:lang="en">Glenn Thompson (publisher)</rdfs:label>
+    <foaf:name xml:lang="en">Glenn Thompson</foaf:name>
+    <foaf:name xml:lang="en">Thompson, Glenn</foaf:name>
+    <ns1:name xml:lang="en">Glenn Thompson</ns1:name>
+    <ns1:name xml:lang="en">Thompson, Glenn</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Hank_Ketcham">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-06-01</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-03-14</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="fr">Hank Ketcham</rdfs:label>
+    <rdfs:label xml:lang="es">Hank Ketcham</rdfs:label>
+    <rdfs:label xml:lang="pt">Hank Ketcham</rdfs:label>
+    <rdfs:label xml:lang="de">Hank Ketcham</rdfs:label>
+    <rdfs:label xml:lang="en">Hank Ketcham</rdfs:label>
+    <foaf:name xml:lang="en">Ketcham, Hank</foaf:name>
+    <foaf:name xml:lang="en">Hank Ketcham</foaf:name>
+    <ns1:name xml:lang="en">Ketcham, Hank</ns1:name>
+    <ns1:name xml:lang="en">Hank Ketcham</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Herbert_Ryman">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1989-02-10</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-06-28</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="fr">Herbert Ryman</rdfs:label>
+    <rdfs:label xml:lang="en">Herbert Ryman</rdfs:label>
+    <foaf:name xml:lang="en">Ryman, Herbert Dickens</foaf:name>
+    <foaf:name xml:lang="en">Herbert Dickens Ryman</foaf:name>
+    <foaf:name xml:lang="en">Herbert D. Ryman</foaf:name>
+    <ns1:name xml:lang="en">Ryman, Herbert Dickens</ns1:name>
+    <ns1:name xml:lang="en">Herbert D. Ryman</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Jacob_van_Ruisdael">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1682-03-10</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1628</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+    <rdfs:label xml:lang="pl">Jacob van Ruisdael</rdfs:label>
+    <rdfs:label xml:lang="de">Jacob Isaacksz. van Ruisdael</rdfs:label>
+    <rdfs:label xml:lang="es">Jacob van Ruisdael</rdfs:label>
+    <rdfs:label xml:lang="pt">Jacob van Ruisdael</rdfs:label>
+    <rdfs:label xml:lang="ja">ヤーコプ・ファン・ロイスダール</rdfs:label>
+    <rdfs:label xml:lang="it">Jacob van Ruisdael</rdfs:label>
+    <rdfs:label xml:lang="fr">Jacob van Ruisdael</rdfs:label>
+    <rdfs:label xml:lang="nl">Jacob van Ruisdael</rdfs:label>
+    <rdfs:label xml:lang="en">Jacob van Ruisdael</rdfs:label>
+    <rdfs:label xml:lang="zh">雅各布·伊萨克松·范勒伊斯达尔</rdfs:label>
+    <rdfs:label xml:lang="ru">Рёйсдал, Якоб ван</rdfs:label>
+    <foaf:name xml:lang="en">Jacob van Ruisdael</foaf:name>
+    <foaf:name xml:lang="en">Ruisdael, Jacob van</foaf:name>
+    <ns1:name xml:lang="en">Ruisdael, Jacob van</ns1:name>
+    <ns1:name xml:lang="en">Jacob van Ruisdael</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/James_Heath_(engraver)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1834-11-15</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1757-04-19</ns0:birthDate>
+    <ns1:nationality xml:lang="en">English</ns1:nationality>
+    <rdfs:label xml:lang="en">James Heath (engraver)</rdfs:label>
+    <foaf:name xml:lang="en">James Heath</foaf:name>
+    <foaf:name xml:lang="en">Heath, James</foaf:name>
+    <ns1:name xml:lang="en">James Heath</ns1:name>
+    <ns1:name xml:lang="en">Heath, James</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/James_Paterson_(painter)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1932-01-25</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-08-21</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Scottish</ns1:nationality>
+    <rdfs:label xml:lang="es">James Paterson</rdfs:label>
+    <rdfs:label xml:lang="en">James Paterson (painter)</rdfs:label>
+    <rdfs:label xml:lang="de">James Paterson</rdfs:label>
+    <rdfs:label xml:lang="ru">Патерсон, Джеймс</rdfs:label>
+    <foaf:name xml:lang="en">James Paterson</foaf:name>
+    <foaf:name xml:lang="en">Paterson, James</foaf:name>
+    <ns1:name xml:lang="en">James Paterson</ns1:name>
+    <ns1:name xml:lang="en">Paterson, James</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/James_Peale">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1831-05-24</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1749</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="pl">James Peale</rdfs:label>
+    <rdfs:label xml:lang="fr">James Peale</rdfs:label>
+    <rdfs:label xml:lang="en">James Peale</rdfs:label>
+    <foaf:name xml:lang="en">Peale, James</foaf:name>
+    <foaf:name xml:lang="en">James Peale</foaf:name>
+    <ns1:name xml:lang="en">Peale, James</ns1:name>
+    <ns1:name xml:lang="en">James Peale</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/James_Whitney_(filmmaker)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1982-04-08</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1921-12-27</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">James Whitney (filmmaker)</rdfs:label>
+    <foaf:name xml:lang="en">James Whitney</foaf:name>
+    <foaf:name xml:lang="en">Whitney, James</foaf:name>
+    <ns1:name xml:lang="en">James Whitney</ns1:name>
+    <ns1:name xml:lang="en">Whitney, James</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Jane_Frank">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1986-05-31</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-07-25</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="fr">Jane Frank</rdfs:label>
+    <rdfs:label xml:lang="en">Jane Frank</rdfs:label>
+    <foaf:name xml:lang="en">Frank, Jane</foaf:name>
+    <foaf:name xml:lang="en">Jane Frank</foaf:name>
+    <ns1:name xml:lang="en">Frank, Jane</ns1:name>
+    <ns1:name xml:lang="en">Jane Frank</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/John_Button_(artist)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1982</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1929</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">John Button (artist)</rdfs:label>
+    <foaf:name xml:lang="en">Button, John</foaf:name>
+    <foaf:name xml:lang="en">John Button</foaf:name>
+    <ns1:name xml:lang="en">John Button</ns1:name>
+    <ns1:name xml:lang="en">Button, John</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Joseph_Carlier">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1927-04-11</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1849-01-03</ns0:birthDate>
+    <ns1:nationality xml:lang="en">French</ns1:nationality>
+    <rdfs:label xml:lang="es">Émile Joseph Nestor Carlier</rdfs:label>
+    <rdfs:label xml:lang="en">Joseph Carlier</rdfs:label>
+    <rdfs:label xml:lang="fr">Joseph Carlier (sculpteur)</rdfs:label>
+    <foaf:name xml:lang="en">Émile Nestor Joseph Carlier</foaf:name>
+    <foaf:name xml:lang="en">Carlier, Joseph</foaf:name>
+    <foaf:name xml:lang="en">Joseph Carlier</foaf:name>
+    <ns1:name xml:lang="en">Émile Nestor Joseph Carlier</ns1:name>
+    <ns1:name xml:lang="en">Carlier, Joseph</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Joseph_Duplessis">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1802-04-01</ns0:deathDate>
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1801-04-01</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1725-09-22</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/France"/>
+    <rdfs:label xml:lang="de">Joseph Siffred Duplessis</rdfs:label>
+    <rdfs:label xml:lang="ja">ジョゼフ・デュプレシ</rdfs:label>
+    <rdfs:label xml:lang="pt">Joseph Duplessis</rdfs:label>
+    <rdfs:label xml:lang="pl">Joseph Duplessis</rdfs:label>
+    <rdfs:label xml:lang="fr">Joseph-Siffrein Duplessis</rdfs:label>
+    <rdfs:label xml:lang="ru">Дюплесси, Жозеф</rdfs:label>
+    <rdfs:label xml:lang="it">Joseph Duplessis</rdfs:label>
+    <rdfs:label xml:lang="en">Joseph Duplessis</rdfs:label>
+    <rdfs:label xml:lang="es">Joseph Duplessis</rdfs:label>
+    <foaf:name xml:lang="en">Duplessis, Joseph</foaf:name>
+    <foaf:name xml:lang="en">Joseph Duplessis</foaf:name>
+    <ns1:name xml:lang="en">Duplessis, Joseph</ns1:name>
+    <ns1:name xml:lang="en">Joseph Duplessis</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Joseph_Henderson_(artist)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1908</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1832-10-06</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Scottish_people"/>
+    <rdfs:label xml:lang="en">Joseph Henderson (artist)</rdfs:label>
+    <foaf:name xml:lang="en">Henderson, Joseph</foaf:name>
+    <foaf:name xml:lang="en">Joseph Henderson</foaf:name>
+    <ns1:name xml:lang="en">Henderson, Joseph</ns1:name>
+    <ns1:name xml:lang="en">Joseph Henderson</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Jules_Breton">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1906-07-05</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1827-05-01</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/French_people"/>
+    <rdfs:label xml:lang="nl">Jules Breton</rdfs:label>
+    <rdfs:label xml:lang="en">Jules Breton</rdfs:label>
+    <rdfs:label xml:lang="fr">Jules Breton</rdfs:label>
+    <rdfs:label xml:lang="es">Jules Breton</rdfs:label>
+    <rdfs:label xml:lang="ru">Бретон, Жюль</rdfs:label>
+    <rdfs:label xml:lang="it">Jules Breton</rdfs:label>
+    <rdfs:label xml:lang="pl">Jules Breton</rdfs:label>
+    <rdfs:label xml:lang="de">Jules Breton</rdfs:label>
+    <foaf:name xml:lang="en">Breton, Jules</foaf:name>
+    <foaf:name xml:lang="en">Jules Breton</foaf:name>
+    <ns1:name xml:lang="en">Breton, Jules</ns1:name>
+    <ns1:name xml:lang="en">Jules Breton</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Lilla_Cabot_Perry">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1933-02-28</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1848-01-13</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="fr">Lilla Cabot Perry</rdfs:label>
+    <rdfs:label xml:lang="nl">Lilla Cabot Perry</rdfs:label>
+    <rdfs:label xml:lang="pl">Lilla Cabot Perry</rdfs:label>
+    <rdfs:label xml:lang="it">Lilla Cabot Perry</rdfs:label>
+    <rdfs:label xml:lang="de">Lilla Cabot Perry</rdfs:label>
+    <rdfs:label xml:lang="en">Lilla Cabot Perry</rdfs:label>
+    <rdfs:label xml:lang="es">Lilla Cabot Perry</rdfs:label>
+    <rdfs:label xml:lang="ru">Перри, Лила Кэбот</rdfs:label>
+    <foaf:name xml:lang="en">Lilla Cabot Perry</foaf:name>
+    <foaf:name xml:lang="en">Perry, Lilla Cabot</foaf:name>
+    <ns1:name xml:lang="en">Perry, Lilla Cabot</ns1:name>
+    <ns1:name xml:lang="en">Lilla Cabot Perry</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Mikhail_Larionov">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1964-05-10</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-06-03</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Russian</ns1:nationality>
+    <rdfs:label xml:lang="pt">Mikhail Larionov</rdfs:label>
+    <rdfs:label xml:lang="pl">Michaił Łarionow</rdfs:label>
+    <rdfs:label xml:lang="nl">Michail Larionov</rdfs:label>
+    <rdfs:label xml:lang="es">Mijaíl Lariónov</rdfs:label>
+    <rdfs:label xml:lang="de">Michail Fjodorowitsch Larionow</rdfs:label>
+    <rdfs:label xml:lang="it">Michail Fëdorovič Larionov</rdfs:label>
+    <rdfs:label xml:lang="fr">Michel Larionov</rdfs:label>
+    <rdfs:label xml:lang="en">Mikhail Larionov</rdfs:label>
+    <rdfs:label xml:lang="ru">Ларионов, Михаил Фёдорович</rdfs:label>
+    <rdfs:label xml:lang="ja">ミハイル・ラリオーノフ</rdfs:label>
+    <foaf:name xml:lang="en">Mikhail Larionov</foaf:name>
+    <foaf:name xml:lang="en">Larionov,Mikhail</foaf:name>
+    <ns1:name xml:lang="en">Larionov,Mikhail</ns1:name>
+    <ns1:name xml:lang="en">Mikhail Larionov</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Norris_Embry">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1981-02-17</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1921-01-14</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="en">Norris Embry</rdfs:label>
+    <rdfs:label xml:lang="fr">Norris Embry</rdfs:label>
+    <foaf:name xml:lang="en">Embry, Norris</foaf:name>
+    <foaf:name xml:lang="en">Norris Embry</foaf:name>
+    <ns1:name xml:lang="en">Embry, Norris</ns1:name>
+    <ns1:name xml:lang="en">Norris Embry</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Raimundo_de_Madrazo_y_Garreta">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1920</ns0:deathDate>
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-09-15</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1841</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Spain"/>
+    <rdfs:label xml:lang="en">Raimundo de Madrazo y Garreta</rdfs:label>
+    <rdfs:label xml:lang="fr">Raimundo de Madrazo y Garreta</rdfs:label>
+    <rdfs:label xml:lang="pt">Raimundo de Madrazo y Garreta</rdfs:label>
+    <rdfs:label xml:lang="nl">Raimundo Madrazo</rdfs:label>
+    <rdfs:label xml:lang="pl">Raimundo de Madrazo y Garreta</rdfs:label>
+    <rdfs:label xml:lang="es">Raimundo Madrazo</rdfs:label>
+    <rdfs:label xml:lang="ru">Мадрасо, Раймундо</rdfs:label>
+    <rdfs:label xml:lang="it">Raimundo de Madrazo</rdfs:label>
+    <foaf:name xml:lang="en">Raimundo de Madrazo y Garreta</foaf:name>
+    <foaf:name xml:lang="en">Madrazo y Garreta, Raimundo de</foaf:name>
+    <foaf:name xml:lang="en">Raimundo de Madrazo</foaf:name>
+    <ns1:name xml:lang="en">Madrazo y Garreta, Raimundo de</ns1:name>
+    <ns1:name xml:lang="en">Raimundo de Madrazo</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Ralph_Beyer">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-02-13</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1921-04-06</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Germans"/>
+    <rdfs:label xml:lang="en">Ralph Beyer</rdfs:label>
+    <foaf:name xml:lang="en">Ralph Beyer</foaf:name>
+    <foaf:name xml:lang="en">Beyer, Ralph</foaf:name>
+    <ns1:name xml:lang="en">Ralph Beyer</ns1:name>
+    <ns1:name xml:lang="en">Beyer, Ralph</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/René_de_Girardin">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1808</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1735-02-25</ns0:birthDate>
+    <ns1:nationality xml:lang="en">French</ns1:nationality>
+    <rdfs:label xml:lang="es">René de Girardin</rdfs:label>
+    <rdfs:label xml:lang="it">René-Louis de Girardin</rdfs:label>
+    <rdfs:label xml:lang="ru">Жирарден, Рене Луи де</rdfs:label>
+    <rdfs:label xml:lang="fr">René-Louis de Girardin</rdfs:label>
+    <rdfs:label xml:lang="en">René de Girardin</rdfs:label>
+    <rdfs:label xml:lang="de">René Louis de Girardin</rdfs:label>
+    <foaf:name xml:lang="en">Rene Louis de Girardin</foaf:name>
+    <foaf:name xml:lang="en">Girardin, Rene Louis de</foaf:name>
+    <ns1:name xml:lang="en">Girardin, Rene Louis de</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Richard_Beyer">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-04-09</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1925-07-26</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">Richard Beyer</rdfs:label>
+    <foaf:name xml:lang="en">Beyer, Richard</foaf:name>
+    <foaf:name xml:lang="en">Richard Beyer</foaf:name>
+    <ns1:name xml:lang="en">Beyer, Richard</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Robert_Bernstein_(comics)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-12-19</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1919-05-23</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">Robert Bernstein (comics)</rdfs:label>
+    <rdfs:label xml:lang="pt">Robert Bernstein</rdfs:label>
+    <foaf:name xml:lang="en">Bernstein, Robert</foaf:name>
+    <foaf:name xml:lang="en">Robert Bernstein</foaf:name>
+    <ns1:name xml:lang="en">Robert Bernstein</ns1:name>
+    <ns1:name xml:lang="en">Bernstein, Robert</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Robert_Bevan">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1925-07-08</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1865-08-05</ns0:birthDate>
+    <ns1:nationality xml:lang="en">British</ns1:nationality>
+    <rdfs:label xml:lang="en">Robert Bevan</rdfs:label>
+    <rdfs:label xml:lang="pl">Robert Bevan</rdfs:label>
+    <rdfs:label xml:lang="nl">Robert Bevan</rdfs:label>
+    <rdfs:label xml:lang="ru">Беван, Роберт</rdfs:label>
+    <foaf:name xml:lang="en">Robert Bevan</foaf:name>
+    <foaf:name xml:lang="en">Bevan, Robert</foaf:name>
+    <ns1:name xml:lang="en">Robert Bevan</ns1:name>
+    <ns1:name xml:lang="en">Bevan, Robert</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Robert_Delaunay">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1941-10-25</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-04-12</ns0:birthDate>
+    <ns1:nationality xml:lang="en">French</ns1:nationality>
+    <rdfs:label xml:lang="es">Robert Delaunay</rdfs:label>
+    <rdfs:label xml:lang="en">Robert Delaunay</rdfs:label>
+    <rdfs:label xml:lang="ru">Делоне, Робер</rdfs:label>
+    <rdfs:label xml:lang="ja">ロベール・ドローネー</rdfs:label>
+    <rdfs:label xml:lang="nl">Robert Delaunay</rdfs:label>
+    <rdfs:label xml:lang="de">Robert Delaunay</rdfs:label>
+    <rdfs:label xml:lang="fr">Robert Delaunay</rdfs:label>
+    <rdfs:label xml:lang="pt">Robert Delaunay</rdfs:label>
+    <rdfs:label xml:lang="ar">روبرت ديلوناي</rdfs:label>
+    <rdfs:label xml:lang="it">Robert Delaunay</rdfs:label>
+    <rdfs:label xml:lang="pl">Robert Delaunay</rdfs:label>
+    <foaf:name xml:lang="en">Robert Delaunay</foaf:name>
+    <foaf:name xml:lang="en">Delaunay, Robert</foaf:name>
+    <ns1:name xml:lang="en">Robert Delaunay</ns1:name>
+    <ns1:name xml:lang="en">Delaunay, Robert</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Robert_McGregor_(1847–1922)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1922</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1847</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Scottish_people"/>
+    <rdfs:label xml:lang="en">Robert McGregor (1847–1922)</rdfs:label>
+    <foaf:name xml:lang="en">McGregor, Robert</foaf:name>
+    <foaf:name xml:lang="en">Robert McGregor</foaf:name>
+    <ns1:name xml:lang="en">McGregor, Robert</ns1:name>
+    <ns1:name xml:lang="en">Robert McGregor</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Rodolfo_Escalera">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-01-25</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1929-06-01</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <ns1:nationality xml:lang="en">Mexican</ns1:nationality>
+    <rdfs:label xml:lang="en">Rodolfo Escalera</rdfs:label>
+    <foaf:name xml:lang="en">Escalera, Rodolfo</foaf:name>
+    <foaf:name xml:lang="en">Rodolfo Escalera</foaf:name>
+    <ns1:name xml:lang="en">Escalera, Rodolfo</ns1:name>
+    <ns1:name xml:lang="en">Rodolfo Escalera</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Roger_Slifer">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-03-30</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1954-11-11</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="de">Roger Slifer</rdfs:label>
+    <rdfs:label xml:lang="it">Roger Slifer</rdfs:label>
+    <rdfs:label xml:lang="pt">Roger Slifer</rdfs:label>
+    <rdfs:label xml:lang="en">Roger Slifer</rdfs:label>
+    <foaf:name xml:lang="en">Roger Slifer</foaf:name>
+    <foaf:name xml:lang="en">Slifer, Roger</foaf:name>
+    <ns1:name xml:lang="en">Slifer, Roger</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Rubens_Peale">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1865-07-17</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1784-05-04</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">Rubens Peale</rdfs:label>
+    <rdfs:label xml:lang="fr">Rubens Peale</rdfs:label>
+    <foaf:name xml:lang="en">Rubens Peale</foaf:name>
+    <foaf:name xml:lang="en">Peale, Rubens</foaf:name>
+    <ns1:name xml:lang="en">Rubens Peale</ns1:name>
+    <ns1:name xml:lang="en">Peale, Rubens</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Sarah_Miriam_Peale">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-02-19</ns0:deathDate>
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-02-04</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1800-05-19</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="de">Sarah Miriam Peale</rdfs:label>
+    <rdfs:label xml:lang="en">Sarah Miriam Peale</rdfs:label>
+    <rdfs:label xml:lang="es">Sarah Miriam Peale</rdfs:label>
+    <foaf:name xml:lang="en">Sarah Miriam Peale</foaf:name>
+    <foaf:name xml:lang="en">Peale, Sarah Miriam</foaf:name>
+    <ns1:name xml:lang="en">Sarah Miriam Peale</ns1:name>
+    <ns1:name xml:lang="en">Peale, Sarah Miriam</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Slava_Raškaj">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1906-03-29</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1877-01-02</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Croatian</ns1:nationality>
+    <rdfs:label xml:lang="ru">Рашкай, Слава</rdfs:label>
+    <rdfs:label xml:lang="fr">Slava Raškaj</rdfs:label>
+    <rdfs:label xml:lang="de">Slava Raškaj</rdfs:label>
+    <rdfs:label xml:lang="nl">Slava Raškaj</rdfs:label>
+    <rdfs:label xml:lang="en">Slava Raškaj</rdfs:label>
+    <foaf:name xml:lang="en">Raskaj, Slava</foaf:name>
+    <foaf:name xml:lang="en">Slava Raškaj</foaf:name>
+    <foaf:name xml:lang="en">Slava Raskaj</foaf:name>
+    <ns1:name xml:lang="en">Raskaj, Slava</ns1:name>
+    <ns1:name xml:lang="en">Slava Raškaj</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Sonia_Delaunay">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1979-12-05</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-11-14</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Russian, French</ns1:nationality>
+    <rdfs:label xml:lang="it">Sonia Terk Delaunay</rdfs:label>
+    <rdfs:label xml:lang="de">Sonia Delaunay-Terk</rdfs:label>
+    <rdfs:label xml:lang="nl">Sonia Delaunay-Terk</rdfs:label>
+    <rdfs:label xml:lang="fr">Sonia Delaunay</rdfs:label>
+    <rdfs:label xml:lang="ru">Делоне, Соня</rdfs:label>
+    <rdfs:label xml:lang="en">Sonia Delaunay</rdfs:label>
+    <rdfs:label xml:lang="es">Sonia Delaunay</rdfs:label>
+    <rdfs:label xml:lang="pt">Sonia Delaunay</rdfs:label>
+    <rdfs:label xml:lang="ar">سونيا ديلوناي</rdfs:label>
+    <foaf:name xml:lang="en">Delaunay, Sonia</foaf:name>
+    <foaf:name xml:lang="en">Sonia Delaunay</foaf:name>
+    <ns1:name xml:lang="en">Sonia Delaunay</ns1:name>
+    <ns1:name xml:lang="en">Delaunay, Sonia</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Steve_Moore_(comedian)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-05-24</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1954-06-15</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">Steve Moore (comedian)</rdfs:label>
+    <foaf:name xml:lang="en">Moore, Steve</foaf:name>
+    <foaf:name xml:lang="en">Steve Moore</foaf:name>
+    <ns1:name xml:lang="en">Moore, Steve</ns1:name>
+    <ns1:name xml:lang="en">Steve Moore</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Steve_Moore_(comics)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-16</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1949-06-11</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+    <rdfs:label xml:lang="fr">Steve Moore (scénariste de comics)</rdfs:label>
+    <rdfs:label xml:lang="en">Steve Moore (comics)</rdfs:label>
+    <foaf:name xml:lang="en">Moore, Steve</foaf:name>
+    <foaf:name xml:lang="en">Steve Moore</foaf:name>
+    <ns1:name xml:lang="en">Moore, Steve</ns1:name>
+    <ns1:name xml:lang="en">Steve Moore</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Svein_Finnerud">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-06-22</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-06-02</ns0:birthDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-09-02</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Norwegians"/>
+    <rdfs:label xml:lang="en">Svein Finnerud</rdfs:label>
+    <foaf:name xml:lang="en">Finnerud, Svein</foaf:name>
+    <foaf:name xml:lang="en">Svein Finnerud</foaf:name>
+    <ns1:name xml:lang="en">Svein Finnerud</ns1:name>
+    <ns1:name xml:lang="en">Finnerud, Svein</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Sōtarō_Yasui">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1955-12-14</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1888-05-17</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Japanese_people"/>
+    <rdfs:label xml:lang="ru">Ясуи, Сотаро</rdfs:label>
+    <rdfs:label xml:lang="zh">安井曾太郎</rdfs:label>
+    <rdfs:label xml:lang="de">Yasui Sōtarō</rdfs:label>
+    <rdfs:label xml:lang="fr">Sōtarō Yasui</rdfs:label>
+    <rdfs:label xml:lang="en">Sōtarō Yasui</rdfs:label>
+    <rdfs:label xml:lang="ja">安井曾太郎</rdfs:label>
+    <foaf:name xml:lang="en">Sōtarō Yasui</foaf:name>
+    <foaf:name xml:lang="en">Yasui, Sōtarō</foaf:name>
+    <ns1:name xml:lang="en">Sōtarō Yasui</ns1:name>
+    <ns1:name xml:lang="en">Yasui, Sōtarō</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Thomas_Prichard_Rossiter">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1871</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1818</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">Thomas Prichard Rossiter</rdfs:label>
+    <foaf:name xml:lang="en">Thomas Prichard Rossiter</foaf:name>
+    <foaf:name xml:lang="en">Rossiter, Thomas Prichard</foaf:name>
+    <ns1:name xml:lang="en">Rossiter, Thomas Prichard</ns1:name>
+    <ns1:name xml:lang="en">Thomas Prichard Rossiter</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Titian_Peale">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-03-13</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1799-11-02</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="it">Titian Peale</rdfs:label>
+    <rdfs:label xml:lang="es">Titian Peale</rdfs:label>
+    <rdfs:label xml:lang="fr">Titian Ramsay Peale</rdfs:label>
+    <rdfs:label xml:lang="en">Titian Peale</rdfs:label>
+    <foaf:name xml:lang="en">Titian Peale</foaf:name>
+    <foaf:name xml:lang="en">Peale, Titian</foaf:name>
+    <foaf:name xml:lang="en">Titian Ramsay Peale</foaf:name>
+    <ns1:name xml:lang="en">Peale, Titian</ns1:name>
+    <ns1:name xml:lang="en">Titian Ramsay Peale</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Tony_Smith_(sculptor)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-12-26</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1912-09-23</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="es">Tony Smith</rdfs:label>
+    <rdfs:label xml:lang="ja">トニー・スミス (美術家)</rdfs:label>
+    <rdfs:label xml:lang="fr">Tony Smith (sculpteur)</rdfs:label>
+    <rdfs:label xml:lang="de">Tony Smith</rdfs:label>
+    <rdfs:label xml:lang="nl">Tony Smith</rdfs:label>
+    <rdfs:label xml:lang="en">Tony Smith (sculptor)</rdfs:label>
+    <rdfs:label xml:lang="ru">Смит, Тони (скульптор)</rdfs:label>
+    <foaf:name xml:lang="en">Tony Smith</foaf:name>
+    <foaf:name xml:lang="en">Smith, Tony</foaf:name>
+    <ns1:name xml:lang="en">Tony Smith</ns1:name>
+    <ns1:name xml:lang="en">Smith, Tony</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Vlaho_Bukovac">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1922-04-23</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1855-07-05</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Croats"/>
+    <rdfs:label xml:lang="fr">Vlaho Bukovac</rdfs:label>
+    <rdfs:label xml:lang="nl">Vlaho Bukovac</rdfs:label>
+    <rdfs:label xml:lang="de">Vlaho Bukovac</rdfs:label>
+    <rdfs:label xml:lang="it">Vlaho Bukovac</rdfs:label>
+    <rdfs:label xml:lang="pl">Vlaho Bukovac</rdfs:label>
+    <rdfs:label xml:lang="ru">Влахо Буковац</rdfs:label>
+    <rdfs:label xml:lang="es">Vlaho Bukovac</rdfs:label>
+    <rdfs:label xml:lang="en">Vlaho Bukovac</rdfs:label>
+    <foaf:name xml:lang="en">Bukovac, Vlaho</foaf:name>
+    <foaf:name xml:lang="en">Vlaho Bukovac</foaf:name>
+    <ns1:name xml:lang="en">Bukovac, Vlaho</ns1:name>
+    <ns1:name xml:lang="en">Vlaho Bukovac</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Werner_Coninx">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-03-10</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-07-28</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Swiss</ns1:nationality>
+    <rdfs:label xml:lang="de">Werner Coninx</rdfs:label>
+    <rdfs:label xml:lang="en">Werner Coninx</rdfs:label>
+    <foaf:name xml:lang="en">Coninx, Werner</foaf:name>
+    <foaf:name xml:lang="en">Werner Coninx</foaf:name>
+    <ns1:name xml:lang="en">Werner Coninx</ns1:name>
+    <ns1:name xml:lang="en">Coninx, Werner</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/William_Beechey">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1839-01-28</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1753-12-12</ns0:birthDate>
+    <ns1:nationality xml:lang="en">British</ns1:nationality>
+    <rdfs:label xml:lang="pl">William Beechey</rdfs:label>
+    <rdfs:label xml:lang="fr">William Beechey</rdfs:label>
+    <rdfs:label xml:lang="pt">William Beechey</rdfs:label>
+    <rdfs:label xml:lang="it">William Beechey</rdfs:label>
+    <rdfs:label xml:lang="ru">Бичи, Уильям</rdfs:label>
+    <rdfs:label xml:lang="de">William Beechey</rdfs:label>
+    <rdfs:label xml:lang="nl">Henry William Beechey</rdfs:label>
+    <rdfs:label xml:lang="en">William Beechey</rdfs:label>
+    <foaf:name xml:lang="en">Beechey, William</foaf:name>
+    <foaf:name xml:lang="en">William Beechey</foaf:name>
+    <foaf:name xml:lang="en">Sir William Beechey</foaf:name>
+    <ns1:name xml:lang="en">Sir William Beechey</ns1:name>
+    <ns1:name xml:lang="en">Beechey, William</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/William_Henry_Rinehart">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1874-10-28</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1825-09-13</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="de">William Henry Rinehart</rdfs:label>
+    <rdfs:label xml:lang="en">William Henry Rinehart</rdfs:label>
+    <foaf:name xml:lang="en">Rinehart, William Henry</foaf:name>
+    <foaf:name xml:lang="en">William Henry Rinehart</foaf:name>
+    <ns1:name xml:lang="en">Rinehart, William Henry</ns1:name>
+    <ns1:name xml:lang="en">William Henry Rinehart</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/William_Kendall_(painter)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1938</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1869</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">William Kendall (painter)</rdfs:label>
+    <foaf:name xml:lang="en">William Kendall</foaf:name>
+    <foaf:name xml:lang="en">William Sergeant Kendall</foaf:name>
+    <foaf:name xml:lang="en">Kendall, William</foaf:name>
+    <ns1:name xml:lang="en">William Sergeant Kendall</ns1:name>
+    <ns1:name xml:lang="en">Kendall, William</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/William_Turner_(artist)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1862-08-07</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1789-11-12</ns0:birthDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1789-11-29</ns0:birthDate>
+    <ns1:nationality xml:lang="en">English/German</ns1:nationality>
+    <rdfs:label xml:lang="de">William Turner of Oxford</rdfs:label>
+    <rdfs:label xml:lang="en">William Turner (artist)</rdfs:label>
+    <foaf:name xml:lang="en">William Turner</foaf:name>
+    <foaf:name xml:lang="en">Turner, William</foaf:name>
+    <ns1:name xml:lang="en">William Turner</ns1:name>
+    <ns1:name xml:lang="en">Turner, William</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Yasuo_Kuniyoshi">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1953</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1893</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="ja">国吉康雄</rdfs:label>
+    <rdfs:label xml:lang="fr">Yasuo Kuniyoshi</rdfs:label>
+    <rdfs:label xml:lang="en">Yasuo Kuniyoshi</rdfs:label>
+    <rdfs:label xml:lang="ru">Куниёси, Ясуо</rdfs:label>
+    <foaf:name xml:lang="en">Kuniyoshi, Yasuo</foaf:name>
+    <foaf:name xml:lang="en">Yasuo Kuniyoshi</foaf:name>
+    <ns1:name xml:lang="en">Kuniyoshi, Yasuo</ns1:name>
+    <ns1:name xml:lang="en">Yasuo Kuniyoshi</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Albert_Küchler">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1886-02-16</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1803-05-02</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Denmark"/>
+    <rdfs:label xml:lang="en">Albert Küchler</rdfs:label>
+    <rdfs:label xml:lang="ru">Кюхлер, Альберт</rdfs:label>
+    <rdfs:label xml:lang="fr">Albert Küchler</rdfs:label>
+    <rdfs:label xml:lang="de">Albert Küchler</rdfs:label>
+    <rdfs:label xml:lang="it">Albert Küchler</rdfs:label>
+    <foaf:name xml:lang="en">Albert Küchler</foaf:name>
+    <foaf:name xml:lang="en">Kuchler, Albert</foaf:name>
+    <foaf:name xml:lang="en">Albert Kuchler</foaf:name>
+    <ns1:name xml:lang="en">Albert Küchler</ns1:name>
+    <ns1:name xml:lang="en">Kuchler, Albert</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Charles_Matton">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2008-11-19</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1931-09-13</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/France"/>
+    <rdfs:label xml:lang="de">Charles Matton</rdfs:label>
+    <rdfs:label xml:lang="en">Charles Matton</rdfs:label>
+    <rdfs:label xml:lang="fr">Charles Matton</rdfs:label>
+    <foaf:name xml:lang="en">Matton, Charles</foaf:name>
+    <foaf:name xml:lang="en">Charles Matton</foaf:name>
+    <ns1:name xml:lang="en">Matton, Charles</ns1:name>
+    <ns1:name xml:lang="en">Charles Matton</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Eddy_Paape">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-05-12</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-03-07</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Belgian</ns1:nationality>
+    <rdfs:label xml:lang="fr">Eddy Paape</rdfs:label>
+    <rdfs:label xml:lang="es">Eddy Paape</rdfs:label>
+    <rdfs:label xml:lang="it">Eddy Paape</rdfs:label>
+    <rdfs:label xml:lang="en">Eddy Paape</rdfs:label>
+    <rdfs:label xml:lang="de">Eddy Paape</rdfs:label>
+    <rdfs:label xml:lang="nl">Eddy Paape</rdfs:label>
+    <foaf:name xml:lang="en">Paape, Eddy</foaf:name>
+    <foaf:name xml:lang="en">Eddy Paape</foaf:name>
+    <ns1:name xml:lang="en">Paape, Eddy</ns1:name>
+    <ns1:name xml:lang="en">Eddy Paape</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Francis_Brerewood">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1791</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1694</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/British_people"/>
+    <rdfs:label xml:lang="en">Francis Brerewood</rdfs:label>
+    <foaf:name xml:lang="en">Francis Brerewood</foaf:name>
+    <foaf:name xml:lang="en">Brerewood, Francis</foaf:name>
+    <ns1:name xml:lang="en">Brerewood, Francis</ns1:name>
+    <ns1:name xml:lang="en">Francis Brerewood</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/George_Earl_(painter)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1908</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1824</ns0:birthDate>
+    <ns1:nationality xml:lang="en">English</ns1:nationality>
+    <rdfs:label xml:lang="en">George Earl (painter)</rdfs:label>
+    <foaf:name xml:lang="en">George Earl</foaf:name>
+    <foaf:name xml:lang="en">Earl, George</foaf:name>
+    <ns1:name xml:lang="en">George Earl</ns1:name>
+    <ns1:name xml:lang="en">Earl, George</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Gevorg_Bashinjaghian">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1925-10-04</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1857-09-16</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Armenian</ns1:nationality>
+    <rdfs:label xml:lang="ru">Башинджагян, Геворк Захарович</rdfs:label>
+    <rdfs:label xml:lang="en">Gevorg Bashinjaghian</rdfs:label>
+    <rdfs:label xml:lang="nl">Gevorg Basjinjagian</rdfs:label>
+    <rdfs:label xml:lang="fr">Gevork Bashindzhagian</rdfs:label>
+    <foaf:name xml:lang="en">Gevorg Bashinjaghian</foaf:name>
+    <foaf:name xml:lang="en">Bashinjaghian, Gevorg</foaf:name>
+    <ns1:name xml:lang="en">Gevorg Bashinjaghian</ns1:name>
+    <ns1:name xml:lang="en">Bashinjaghian, Gevorg</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Helen_Thomas_Dranga">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1940</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1866-12-28</ns0:birthDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1866</ns0:birthDate>
+    <ns1:nationality xml:lang="en">English-American</ns1:nationality>
+    <rdfs:label xml:lang="en">Helen Thomas Dranga</rdfs:label>
+    <rdfs:label xml:lang="ja">ヘレン・トマス・ドランガ</rdfs:label>
+    <foaf:name xml:lang="en">Dranga, Helen Thomas</foaf:name>
+    <foaf:name xml:lang="en">Helen Thomas Dranga</foaf:name>
+    <foaf:name xml:lang="en">Carrie Helen Thomas Dranga</foaf:name>
+    <ns1:name xml:lang="en">Carrie Helen Thomas Dranga</ns1:name>
+    <ns1:name xml:lang="en">Dranga, Helen Thomas</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Jan_Goossen">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-01-01</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-10-09</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Dutch</ns1:nationality>
+    <rdfs:label xml:lang="en">Jan Goossen</rdfs:label>
+    <rdfs:label xml:lang="nl">Jan Goossen</rdfs:label>
+    <foaf:name xml:lang="en">Jan Goossen</foaf:name>
+    <foaf:name xml:lang="en">Goossen, Jan</foaf:name>
+    <ns1:name xml:lang="en">Jan Goossen</ns1:name>
+    <ns1:name xml:lang="en">Goossen, Jan</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Jean-Claude_Fourneau">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1981-10-09</ns0:deathDate>
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1981</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1907</ns0:birthDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1907-03-28</ns0:birthDate>
+    <ns1:nationality xml:lang="en">French</ns1:nationality>
+    <rdfs:label xml:lang="fr">Jean-Claude Fourneau</rdfs:label>
+    <rdfs:label xml:lang="en">Jean-Claude Fourneau</rdfs:label>
+    <foaf:name xml:lang="en">Jean-Claude Fourneau</foaf:name>
+    <foaf:name xml:lang="en">Fourneau, Jean-Claude</foaf:name>
+    <ns1:name xml:lang="en">Jean-Claude Fourneau</ns1:name>
+    <ns1:name xml:lang="en">Fourneau, Jean-Claude</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Levi_Celerio">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-04-02</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-04-30</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Filipino</ns1:nationality>
+    <rdfs:label xml:lang="en">Levi Celerio</rdfs:label>
+    <rdfs:label xml:lang="nl">Levi Celerio</rdfs:label>
+    <foaf:name xml:lang="en">Levi Celerio</foaf:name>
+    <foaf:name xml:lang="en">Celerio, Levi</foaf:name>
+    <ns1:name xml:lang="en">Celerio, Levi</ns1:name>
+    <ns1:name xml:lang="en">Levi Celerio</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Linda_Wong_(actress)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-12-17</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-09-13</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">Linda Wong (actress)</rdfs:label>
+    <rdfs:label xml:lang="fr">Linda Wong</rdfs:label>
+    <foaf:name xml:lang="en">Wong, Linda</foaf:name>
+    <foaf:name xml:lang="en">Linda Wong</foaf:name>
+    <ns1:name xml:lang="en">Linda Wong</ns1:name>
+    <ns1:name xml:lang="en">Wong, Linda</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Ludwig_Fahrenkrog">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-10-27</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1867-10-20</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <rdfs:label xml:lang="es">Ludwig Fahrenkrog</rdfs:label>
+    <rdfs:label xml:lang="de">Ludwig Fahrenkrog</rdfs:label>
+    <rdfs:label xml:lang="en">Ludwig Fahrenkrog</rdfs:label>
+    <foaf:name xml:lang="en">Ludwig Fahrenkrog</foaf:name>
+    <foaf:name xml:lang="en">Fahrenkrog, Ludwig</foaf:name>
+    <ns1:name xml:lang="en">Ludwig Fahrenkrog</ns1:name>
+    <ns1:name xml:lang="en">Fahrenkrog, Ludwig</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Menci_Clement_Crnčić">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1930-11-09</ns0:deathDate>
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1930-01-20</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1865-04-03</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Croats"/>
+    <rdfs:label xml:lang="en">Menci Clement Crnčić</rdfs:label>
+    <foaf:name xml:lang="en">Menci Clement Crnčić</foaf:name>
+    <foaf:name xml:lang="en">Crnčić, Menci Clement</foaf:name>
+    <ns1:name xml:lang="en">Menci Clement Crnčić</ns1:name>
+    <ns1:name xml:lang="en">Crnčić, Menci Clement</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Nathan_Cooper_Branwhite">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1857-03-18</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1775</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/English_people"/>
+    <rdfs:label xml:lang="en">Nathan Cooper Branwhite</rdfs:label>
+    <foaf:name xml:lang="en">Nathan Cooper Branwhite</foaf:name>
+    <foaf:name xml:lang="en">Branwhite, Nathan Cooper</foaf:name>
+    <ns1:name xml:lang="en">Nathan Cooper Branwhite</ns1:name>
+    <ns1:name xml:lang="en">Branwhite, Nathan Cooper</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Thomas_Henry_(patron_of_the_arts)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1836-01-07</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1766-03-02</ns0:birthDate>
+    <ns1:nationality xml:lang="en">French</ns1:nationality>
+    <rdfs:label xml:lang="en">Thomas Henry (patron of the arts)</rdfs:label>
+    <rdfs:label xml:lang="fr">Thomas Henry</rdfs:label>
+    <foaf:name xml:lang="en">Henry, Thomas</foaf:name>
+    <foaf:name xml:lang="en">Thomas Henry</foaf:name>
+    <ns1:name xml:lang="en">Henry, Thomas</ns1:name>
+    <ns1:name xml:lang="en">Thomas Henry</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Trude_Sojka">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-03-18</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1909-12-09</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Czechs"/>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Ecuadorians"/>
+    <rdfs:label xml:lang="en">Trude Sojka</rdfs:label>
+    <rdfs:label xml:lang="es">Trude Sojka</rdfs:label>
+    <rdfs:label xml:lang="fr">Trude Sojka</rdfs:label>
+    <foaf:name xml:lang="en">Gertrud Sojka</foaf:name>
+    <foaf:name xml:lang="en">Trude Sojka</foaf:name>
+    <ns1:name xml:lang="en">Trude Sojka</ns1:name>
+    <ns1:name xml:lang="en">Gertrud Sojka</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Şeker_Ahmed_Pasha">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1907-05-05</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1841</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Ottoman</ns1:nationality>
+    <rdfs:label xml:lang="de">Şeker Ahmed Pascha</rdfs:label>
+    <rdfs:label xml:lang="es">Şeker Ahmet Paşa</rdfs:label>
+    <rdfs:label xml:lang="en">Şeker Ahmed Pasha</rdfs:label>
+    <foaf:name xml:lang="en">&quot;Şeker&quot; Ahmed Pasha</foaf:name>
+    <foaf:name xml:lang="en">Seker Ahmed Pasha</foaf:name>
+    <ns1:name xml:lang="en">&quot;Şeker&quot; Ahmed Pasha</ns1:name>
+    <ns1:name xml:lang="en">Seker Ahmed Pasha</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Ad_Snijders">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-02-25</ns0:deathDate>
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2010</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1929</ns0:birthDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1929-05-12</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Dutch</ns1:nationality>
+    <rdfs:label xml:lang="en">Ad Snijders</rdfs:label>
+    <foaf:name xml:lang="en">Ad Snijders</foaf:name>
+    <foaf:name xml:lang="en">Snijders, Ad</foaf:name>
+    <ns1:name xml:lang="en">Snijders, Ad</ns1:name>
+    <ns1:name xml:lang="en">Ad Snijders</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Adelaïde_Alsop_Robineau">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1929</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1865</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="en">Adelaïde Alsop Robineau</rdfs:label>
+    <foaf:name xml:lang="en">Robineau, Adelaide Alsop</foaf:name>
+    <foaf:name xml:lang="en">Adelaide Alsop Robineau</foaf:name>
+    <foaf:name xml:lang="en">Adelaïde Alsop Robineau</foaf:name>
+    <ns1:name xml:lang="en">Robineau, Adelaide Alsop</ns1:name>
+    <ns1:name xml:lang="en">Adelaïde Alsop Robineau</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Alexei_Pakhomov">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1973-04-14</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1900-10-02</ns0:birthDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1900</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Russian</ns1:nationality>
+    <rdfs:label xml:lang="en">Alexei Pakhomov</rdfs:label>
+    <rdfs:label xml:lang="fr">Alexeï Pakhomov</rdfs:label>
+    <rdfs:label xml:lang="ru">Пахомов, Алексей Фёдорович</rdfs:label>
+    <foaf:name xml:lang="en">Alexei Pakhomov</foaf:name>
+    <foaf:name xml:lang="en">Pakhomov, Alexei</foaf:name>
+    <ns1:name xml:lang="en">Pakhomov, Alexei</ns1:name>
+    <ns1:name xml:lang="en">Alexei Pakhomov</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Anita_Malfatti">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1964-11-06</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1889-12-02</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Brazilian</ns1:nationality>
+    <rdfs:label xml:lang="pt">Anita Malfatti</rdfs:label>
+    <rdfs:label xml:lang="de">Anita Malfatti</rdfs:label>
+    <rdfs:label xml:lang="es">Anita Malfatti</rdfs:label>
+    <rdfs:label xml:lang="fr">Anita Malfatti</rdfs:label>
+    <rdfs:label xml:lang="ru">Малфатти, Анита</rdfs:label>
+    <rdfs:label xml:lang="it">Anita Malfatti</rdfs:label>
+    <rdfs:label xml:lang="en">Anita Malfatti</rdfs:label>
+    <foaf:name xml:lang="en">Anita Catarina Malfatti</foaf:name>
+    <foaf:name xml:lang="en">Anita Malfatti</foaf:name>
+    <foaf:name xml:lang="en">Malfatti, Anita</foaf:name>
+    <ns1:name xml:lang="en">Anita Catarina Malfatti</ns1:name>
+    <ns1:name xml:lang="en">Malfatti, Anita</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Arthur_Streeton">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1943-09-01</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1867-04-08</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Australian</ns1:nationality>
+    <rdfs:label xml:lang="pl">Arthur Streeton</rdfs:label>
+    <rdfs:label xml:lang="ru">Стритон, Артур</rdfs:label>
+    <rdfs:label xml:lang="de">Arthur Ernest Streeton</rdfs:label>
+    <rdfs:label xml:lang="it">Arthur Streeton</rdfs:label>
+    <rdfs:label xml:lang="en">Arthur Streeton</rdfs:label>
+    <rdfs:label xml:lang="pt">Arthur Streeton</rdfs:label>
+    <rdfs:label xml:lang="fr">Arthur Streeton</rdfs:label>
+    <rdfs:label xml:lang="nl">Arthur Streeton</rdfs:label>
+    <rdfs:label xml:lang="es">Arthur Streeton</rdfs:label>
+    <foaf:name xml:lang="en">Arthur Streeton</foaf:name>
+    <foaf:name xml:lang="en">Streeton, Arthur</foaf:name>
+    <ns1:name xml:lang="en">Arthur Streeton</ns1:name>
+    <ns1:name xml:lang="en">Streeton, Arthur</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Barbara_Longhi">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1638-12-23</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1552-09-21</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Italian</ns1:nationality>
+    <rdfs:label xml:lang="ru">Лонги, Барбара</rdfs:label>
+    <rdfs:label xml:lang="de">Barbara Longhi</rdfs:label>
+    <rdfs:label xml:lang="it">Barbara Longhi</rdfs:label>
+    <rdfs:label xml:lang="en">Barbara Longhi</rdfs:label>
+    <rdfs:label xml:lang="fr">Barbara Longhi</rdfs:label>
+    <foaf:name xml:lang="en">Longhi, Barbara</foaf:name>
+    <foaf:name xml:lang="en">Barbara Longhi</foaf:name>
+    <ns1:name xml:lang="en">Barbara Longhi</ns1:name>
+    <ns1:name xml:lang="en">Longhi, Barbara</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Barend_Cornelis_Koekkoek">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1862-04-05</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1803-10-11</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+    <rdfs:label xml:lang="nl">Barend Cornelis Koekkoek</rdfs:label>
+    <rdfs:label xml:lang="de">Barend Cornelis Koekkoek</rdfs:label>
+    <rdfs:label xml:lang="en">Barend Cornelis Koekkoek</rdfs:label>
+    <rdfs:label xml:lang="ru">Куккук, Баренд Корнелис</rdfs:label>
+    <rdfs:label xml:lang="pl">Barend Cornelis Koekkoek</rdfs:label>
+    <rdfs:label xml:lang="fr">Barend Cornelis Koekkoek</rdfs:label>
+    <foaf:name xml:lang="en">Koekkoek, Barend Cornelis</foaf:name>
+    <foaf:name xml:lang="en">Barend Cornelis Koekkoek</foaf:name>
+    <ns1:name xml:lang="en">Koekkoek, Barend Cornelis</ns1:name>
+    <ns1:name xml:lang="en">Barend Cornelis Koekkoek</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Barthélemy_Menn">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1893-10-10</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1815-05-20</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Swiss</ns1:nationality>
+    <rdfs:label xml:lang="pl">Barthélemy Menn</rdfs:label>
+    <rdfs:label xml:lang="de">Barthélemy Menn</rdfs:label>
+    <rdfs:label xml:lang="en">Barthélemy Menn</rdfs:label>
+    <rdfs:label xml:lang="fr">Barthélemy Menn</rdfs:label>
+    <foaf:name xml:lang="en">Barthelemy Menn</foaf:name>
+    <foaf:name xml:lang="en">Menn, Barthelemy</foaf:name>
+    <foaf:name xml:lang="en">Barthélemy Menn</foaf:name>
+    <ns1:name xml:lang="en">Barthélemy Menn</ns1:name>
+    <ns1:name xml:lang="en">Menn, Barthelemy</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Benjamin_Champney">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1907-12-11</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1817-11-20</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="pl">Benjamin Champney</rdfs:label>
+    <rdfs:label xml:lang="it">Benjamin Champney</rdfs:label>
+    <rdfs:label xml:lang="en">Benjamin Champney</rdfs:label>
+    <foaf:name xml:lang="en">Champney, Benjamin</foaf:name>
+    <foaf:name xml:lang="en">Benjamin Champney</foaf:name>
+    <ns1:name xml:lang="en">Benjamin Champney</ns1:name>
+    <ns1:name xml:lang="en">Champney, Benjamin</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Berthold_Imhoff">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1939-12-14</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1868-01-14</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Americans"/>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Canadians"/>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Germans"/>
+    <rdfs:label xml:lang="en">Berthold Imhoff</rdfs:label>
+    <foaf:name xml:lang="en">Berthold von Imhoff</foaf:name>
+    <foaf:name xml:lang="en">Imhoff, Berthold</foaf:name>
+    <foaf:name xml:lang="en">Berthold Imhoff</foaf:name>
+    <ns1:name xml:lang="en">Berthold von Imhoff</ns1:name>
+    <ns1:name xml:lang="en">Imhoff, Berthold</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Cabu">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-07</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1938-01-13</ns0:birthDate>
+    <ns1:nationality xml:lang="en">French</ns1:nationality>
+    <rdfs:label xml:lang="nl">Cabu</rdfs:label>
+    <rdfs:label xml:lang="ar">جان كابو</rdfs:label>
+    <rdfs:label xml:lang="de">Jean Cabut</rdfs:label>
+    <rdfs:label xml:lang="es">Cabu</rdfs:label>
+    <rdfs:label xml:lang="ru">Кабю, Жан</rdfs:label>
+    <rdfs:label xml:lang="fr">Cabu</rdfs:label>
+    <rdfs:label xml:lang="en">Cabu</rdfs:label>
+    <rdfs:label xml:lang="pl">Cabu</rdfs:label>
+    <rdfs:label xml:lang="pt">Cabu</rdfs:label>
+    <rdfs:label xml:lang="it">Cabu</rdfs:label>
+    <foaf:name xml:lang="en">Cabu</foaf:name>
+    <ns1:name xml:lang="en">Cabu</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Calvert_Coggeshall">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-02-01</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1907-01-01</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="en">Calvert Coggeshall</rdfs:label>
+    <foaf:name xml:lang="en">Calvert Coggeshall</foaf:name>
+    <foaf:name xml:lang="en">Coggeshall, Calvert</foaf:name>
+    <ns1:name xml:lang="en">Calvert Coggeshall</ns1:name>
+    <ns1:name xml:lang="en">Coggeshall, Calvert</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Catherine_Dean_(artist)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1983-01-24</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1905-10-16</ns0:birthDate>
+    <ns1:nationality xml:lang="en">British</ns1:nationality>
+    <rdfs:label xml:lang="en">Catherine Dean (artist)</rdfs:label>
+    <foaf:name xml:lang="en">Catherine Dean</foaf:name>
+    <foaf:name xml:lang="en">Dean, Catherine</foaf:name>
+    <ns1:name xml:lang="en">Catherine Dean</ns1:name>
+    <ns1:name xml:lang="en">Dean, Catherine</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Christian_Krohg">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1925-10-16</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1852-08-13</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Norwegian</ns1:nationality>
+    <rdfs:label xml:lang="en">Christian Krohg</rdfs:label>
+    <rdfs:label xml:lang="de">Christian Krohg</rdfs:label>
+    <rdfs:label xml:lang="fr">Christian Krohg</rdfs:label>
+    <rdfs:label xml:lang="es">Christian Krohg</rdfs:label>
+    <rdfs:label xml:lang="nl">Christian Krohg</rdfs:label>
+    <rdfs:label xml:lang="pl">Christian Krohg</rdfs:label>
+    <rdfs:label xml:lang="ja">クリスチャン・クローグ</rdfs:label>
+    <rdfs:label xml:lang="it">Christian Krohg</rdfs:label>
+    <rdfs:label xml:lang="pt">Christian Krohg</rdfs:label>
+    <rdfs:label xml:lang="ru">Крог, Кристиан</rdfs:label>
+    <foaf:name xml:lang="en">Christian Krohg</foaf:name>
+    <ns1:name xml:lang="en">Christian Krohg</ns1:name>
+    <ns1:name xml:lang="en">Christian Krogh</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Coosje_van_Bruggen">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-01-10</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-06-06</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="en">Coosje van Bruggen</rdfs:label>
+    <rdfs:label xml:lang="de">Coosje van Bruggen</rdfs:label>
+    <rdfs:label xml:lang="nl">Coosje van Bruggen</rdfs:label>
+    <rdfs:label xml:lang="fr">Coosje Van Bruggen</rdfs:label>
+    <foaf:name xml:lang="en">Bruggen, Coosje van</foaf:name>
+    <foaf:name xml:lang="en">Coosje van Bruggen</foaf:name>
+    <ns1:name xml:lang="en">Coosje van Bruggen</ns1:name>
+    <ns1:name xml:lang="en">Bruggen, Coosje van</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Dale_DeArmond">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-11-12</ns0:deathDate>
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-11-21</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1914-07-02</ns0:birthDate>
+    <ns1:nationality xml:lang="en">America</ns1:nationality>
+    <rdfs:label xml:lang="en">Dale DeArmond</rdfs:label>
+    <foaf:name xml:lang="en">De Armond, Dale</foaf:name>
+    <foaf:name xml:lang="en">Dale DeArmond</foaf:name>
+    <foaf:name xml:lang="en">Dale De Armond</foaf:name>
+    <ns1:name xml:lang="en">De Armond, Dale</ns1:name>
+    <ns1:name xml:lang="en">Dale DeArmond</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/David_Park_(painter)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1960-09-20</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-03-17</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="fr">David Park</rdfs:label>
+    <rdfs:label xml:lang="en">David Park (painter)</rdfs:label>
+    <foaf:name xml:lang="en">Park, David</foaf:name>
+    <foaf:name xml:lang="en">David Park</foaf:name>
+    <ns1:name xml:lang="en">Park, David</ns1:name>
+    <ns1:name xml:lang="en">David Park</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/David_Paton_(artist)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1709</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1650</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Scottish</ns1:nationality>
+    <rdfs:label xml:lang="en">David Paton (artist)</rdfs:label>
+    <foaf:name xml:lang="en">Paton, David</foaf:name>
+    <foaf:name xml:lang="en">David Paton</foaf:name>
+    <ns1:name xml:lang="en">Paton, David</ns1:name>
+    <ns1:name xml:lang="en">David Paton</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Domenico_Fetti">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1623</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1589</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Italian</ns1:nationality>
+    <rdfs:label xml:lang="it">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="de">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="pl">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="pt">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="fr">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="en">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="es">Domenico Fetti</rdfs:label>
+    <rdfs:label xml:lang="ru">Фетти, Доменико</rdfs:label>
+    <foaf:name xml:lang="en">Domenico Fetti</foaf:name>
+    <foaf:name xml:lang="en">Fetti, Domenico</foaf:name>
+    <ns1:name xml:lang="en">Domenico Fetti</ns1:name>
+    <ns1:name xml:lang="en">Fetti, Domenico</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Edward_Biberman">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1986-01-27</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1904-10-23</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">Edward Biberman</rdfs:label>
+    <foaf:name xml:lang="en">Edward Biberman</foaf:name>
+    <foaf:name xml:lang="en">Biberman, Edward</foaf:name>
+    <ns1:name xml:lang="en">Edward Biberman</ns1:name>
+    <ns1:name xml:lang="en">Biberman, Edward</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Eline_Nygaard_Riisnæs">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-02-03</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1913-07-05</ns0:birthDate>
+    <ns1:nationality xml:lang="en">, Oslo</ns1:nationality>
+    <rdfs:label xml:lang="en">Eline Nygaard Riisnæs</rdfs:label>
+    <foaf:name xml:lang="en">Riisnaes, Eline Nygaard</foaf:name>
+    <foaf:name xml:lang="en">Eline Nygaard Riisnaes</foaf:name>
+    <foaf:name xml:lang="en">Eline Nygaard Riisnæs</foaf:name>
+    <ns1:name xml:lang="en">Riisnaes, Eline Nygaard</ns1:name>
+    <ns1:name xml:lang="en">Eline Nygaard Riisnæs</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Endre_Szász">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-08-18</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-01-07</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Hungary"/>
+    <rdfs:label xml:lang="en">Endre Szász</rdfs:label>
+    <foaf:name xml:lang="en">Endre Szasz</foaf:name>
+    <foaf:name xml:lang="en">Endre Szász</foaf:name>
+    <foaf:name xml:lang="en">Szasz, Endre</foaf:name>
+    <ns1:name xml:lang="en">Szasz, Endre</ns1:name>
+    <ns1:name xml:lang="en">Endre Szász</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Ernest_Crichlow">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-11-10</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1914-06-19</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/African_American"/>
+    <rdfs:label xml:lang="en">Ernest Crichlow</rdfs:label>
+    <foaf:name xml:lang="en">Ernest Crichlow</foaf:name>
+    <foaf:name xml:lang="en">Crichlow, Ernest</foaf:name>
+    <ns1:name xml:lang="en">Ernest Crichlow</ns1:name>
+    <ns1:name xml:lang="en">Crichlow, Ernest</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Eugène_Grasset">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1917-10-23</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1845-05-25</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Swiss</ns1:nationality>
+    <rdfs:label xml:lang="en">Eugène Grasset</rdfs:label>
+    <rdfs:label xml:lang="ru">Грассе, Эжен</rdfs:label>
+    <rdfs:label xml:lang="it">Eugène Grasset</rdfs:label>
+    <rdfs:label xml:lang="es">Eugène Grasset</rdfs:label>
+    <rdfs:label xml:lang="pl">Eugène Grasset</rdfs:label>
+    <rdfs:label xml:lang="ja">ウジェーヌ・グラッセ</rdfs:label>
+    <rdfs:label xml:lang="fr">Eugène Grasset</rdfs:label>
+    <rdfs:label xml:lang="de">Eugène Grasset</rdfs:label>
+    <rdfs:label xml:lang="nl">Eugène Grasset</rdfs:label>
+    <foaf:name xml:lang="en">Grasset, Eugène</foaf:name>
+    <foaf:name xml:lang="en">Eugène Samuel Grasset</foaf:name>
+    <foaf:name xml:lang="en">Eugène Grasset</foaf:name>
+    <ns1:name xml:lang="en">Grasset, Eugène</ns1:name>
+    <ns1:name xml:lang="en">Eugène Samuel Grasset</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Florence_Wyle">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1968-01-14</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-11-24</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American-Canadian</ns1:nationality>
+    <rdfs:label xml:lang="es">Florence Wyle</rdfs:label>
+    <rdfs:label xml:lang="en">Florence Wyle</rdfs:label>
+    <foaf:name xml:lang="en">Florence Wyle</foaf:name>
+    <foaf:name xml:lang="en">Florence Norma Wyle</foaf:name>
+    <foaf:name xml:lang="en">Wyle, Florence</foaf:name>
+    <ns1:name xml:lang="en">Wyle, Florence</ns1:name>
+    <ns1:name xml:lang="en">Florence Norma Wyle</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Francis_Alexander">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1880-03-27</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1800-02-03</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="pl">Francis Alexander</rdfs:label>
+    <rdfs:label xml:lang="en">Francis Alexander</rdfs:label>
+    <rdfs:label xml:lang="fr">Francis Alexander</rdfs:label>
+    <rdfs:label xml:lang="it">Francis Alexander</rdfs:label>
+    <rdfs:label xml:lang="ru">Александер, Фрэнсис</rdfs:label>
+    <rdfs:label xml:lang="pt">Francis Alexander</rdfs:label>
+    <foaf:name xml:lang="en">Alexander, Francis</foaf:name>
+    <foaf:name xml:lang="en">Francis Alexander</foaf:name>
+    <ns1:name xml:lang="en">Alexander, Francis</ns1:name>
+    <ns1:name xml:lang="en">Francis Alexander</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Francis_Dodd_(artist)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1949-03-07</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1874-11-29</ns0:birthDate>
+    <ns1:nationality xml:lang="en">British</ns1:nationality>
+    <rdfs:label xml:lang="en">Francis Dodd (artist)</rdfs:label>
+    <foaf:name xml:lang="en">Francis Dodd</foaf:name>
+    <foaf:name xml:lang="en">Francis Edgar Dodd</foaf:name>
+    <foaf:name xml:lang="en">Dodd, Francis</foaf:name>
+    <ns1:name xml:lang="en">Francis Edgar Dodd</ns1:name>
+    <ns1:name xml:lang="en">Dodd, Francis</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Frank_Borth">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-08-09</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1918-04-01</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Americans"/>
+    <rdfs:label xml:lang="en">Frank Borth</rdfs:label>
+    <foaf:name xml:lang="en">Borth, Frank M.</foaf:name>
+    <foaf:name xml:lang="en">Frank M. Borth</foaf:name>
+    <ns1:name xml:lang="en">Borth, Frank M.</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Frederic_Warde">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1939-07-31</ns0:deathDate>
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1939</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1894</ns0:birthDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1894-06-21</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <rdfs:label xml:lang="en">Frederic Warde</rdfs:label>
+    <foaf:name xml:lang="en">Warde, Frederic</foaf:name>
+    <foaf:name xml:lang="en">Frederic Warde</foaf:name>
+    <ns1:name xml:lang="en">Warde, Frederic</ns1:name>
+    <ns1:name xml:lang="en">Frederic Warde</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Frederick_Richard_Pickersgill">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1900-12-20</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1820-09-25</ns0:birthDate>
+    <ns1:nationality xml:lang="en">English</ns1:nationality>
+    <rdfs:label xml:lang="ru">Пикерсгилл, Фредерик Ричард</rdfs:label>
+    <rdfs:label xml:lang="en">Frederick Richard Pickersgill</rdfs:label>
+    <rdfs:label xml:lang="fr">Frederick Richard Pickersgill</rdfs:label>
+    <foaf:name xml:lang="en">Frederick Richard Pickersgill</foaf:name>
+    <foaf:name xml:lang="en">Pickersgill, Frederick Richard</foaf:name>
+    <ns1:name xml:lang="en">Frederick Richard Pickersgill</ns1:name>
+    <ns1:name xml:lang="en">Pickersgill, Frederick Richard</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Gabriël_Metsu">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1667-10-24</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1629</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+    <rdfs:label xml:lang="ar">غبرييل ميتسو</rdfs:label>
+    <rdfs:label xml:lang="ja">ハブリエル・メツー</rdfs:label>
+    <rdfs:label xml:lang="pt">Gabriël Metsu</rdfs:label>
+    <rdfs:label xml:lang="es">Gabriël Metsu</rdfs:label>
+    <rdfs:label xml:lang="it">Gabriel Metsu</rdfs:label>
+    <rdfs:label xml:lang="pl">Gabriel Metsu</rdfs:label>
+    <rdfs:label xml:lang="en">Gabriël Metsu</rdfs:label>
+    <rdfs:label xml:lang="fr">Gabriel Metsu</rdfs:label>
+    <rdfs:label xml:lang="de">Gabriel Metsu</rdfs:label>
+    <rdfs:label xml:lang="nl">Gabriël Metsu</rdfs:label>
+    <rdfs:label xml:lang="ru">Метсю, Габриель</rdfs:label>
+    <foaf:name xml:lang="en">Gabriel Metsu</foaf:name>
+    <foaf:name xml:lang="en">Gabriël Metsu</foaf:name>
+    <foaf:name xml:lang="en">Metsu, Gabriel</foaf:name>
+    <ns1:name xml:lang="en">Gabriël Metsu</ns1:name>
+    <ns1:name xml:lang="en">Metsu, Gabriel</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/George_Sherman_(comics)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1974-08-03</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1928-09-30</ns0:birthDate>
+    <ns1:nationality xml:lang="en">American</ns1:nationality>
+    <rdfs:label xml:lang="en">George Sherman (comics)</rdfs:label>
+    <foaf:name xml:lang="en">Sherman, George</foaf:name>
+    <foaf:name xml:lang="en">George Sherman</foaf:name>
+    <ns1:name xml:lang="en">Sherman, George</ns1:name>
+    <ns1:name xml:lang="en">George Sherman</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Giovanni_Antonio_Lappoli">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1552</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1492</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Tuscan</ns1:nationality>
+    <rdfs:label xml:lang="es">Giovanni Antonio Lappoli</rdfs:label>
+    <rdfs:label xml:lang="it">Giovanni Antonio Lappoli</rdfs:label>
+    <rdfs:label xml:lang="fr">Giovann'Antonio Lappoli</rdfs:label>
+    <rdfs:label xml:lang="en">Giovanni Antonio Lappoli</rdfs:label>
+    <foaf:name xml:lang="en">Giovanni Antonio Lappoli</foaf:name>
+    <ns1:name xml:lang="en">Giovanni Antonio Lappoli</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Harold_F._Clayton">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-05-26</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1954-05-09</ns0:birthDate>
+    <ns1:nationality xml:lang="en">USA</ns1:nationality>
+    <rdfs:label xml:lang="en">Harold F. Clayton</rdfs:label>
+    <foaf:name xml:lang="en">Harold F. Clayton</foaf:name>
+    <foaf:name xml:lang="en">Clayton, Harold F.</foaf:name>
+    <ns1:name xml:lang="en">Harold F. Clayton</ns1:name>
+    <ns1:name xml:lang="en">Clayton, Harold F.</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Harold_Harvey_(artist)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1941-05-19</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1874-05-20</ns0:birthDate>
+    <ns1:nationality xml:lang="en">British</ns1:nationality>
+    <rdfs:label xml:lang="en">Harold Harvey (artist)</rdfs:label>
+    <foaf:name xml:lang="en">Harvey, Howard</foaf:name>
+    <foaf:name xml:lang="en">Howard Harvey</foaf:name>
+    <foaf:name xml:lang="en">Harold Harvey</foaf:name>
+    <ns1:name xml:lang="en">Harold Harvey</ns1:name>
+    <ns1:name xml:lang="en">Harvey, Howard</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Hilda_Woolnough">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2007</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1934</ns0:birthDate>
+    <ns1:nationality xml:lang="en">British</ns1:nationality>
+    <rdfs:label xml:lang="en">Hilda Woolnough</rdfs:label>
+    <foaf:name xml:lang="en">Hilda Woolnough</foaf:name>
+    <foaf:name xml:lang="en">Woolnough, Hilda</foaf:name>
+    <ns1:name xml:lang="en">Woolnough, Hilda</ns1:name>
+    <ns1:name xml:lang="en">Hilda Woolnough</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Hugo_Kārlis_Grotuss">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1951-01-16</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1884-01-17</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Latvians"/>
+    <rdfs:label xml:lang="en">Hugo Kārlis Grotuss</rdfs:label>
+    <foaf:name xml:lang="en">Hugo Karlis Grotuss</foaf:name>
+    <foaf:name xml:lang="en">Grotuss, Hugo Karlis</foaf:name>
+    <foaf:name xml:lang="en">Hugo Grotuss</foaf:name>
+    <ns1:name xml:lang="en">Grotuss, Hugo Karlis</ns1:name>
+    <ns1:name xml:lang="en">Hugo Grotuss</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Ignat_Bednarik">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1963-03-11</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1882-03-08</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Romanian</ns1:nationality>
+    <rdfs:label xml:lang="en">Ignat Bednarik</rdfs:label>
+    <foaf:name xml:lang="en">Ignat Bednarik</foaf:name>
+    <foaf:name xml:lang="en">Bednarik, Ignat</foaf:name>
+    <ns1:name xml:lang="en">Ignat Bednarik</ns1:name>
+    <ns1:name xml:lang="en">Bednarik, Ignat</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Jacques_Herlin">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-06-07</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1927-08-17</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/French_people"/>
+    <rdfs:label xml:lang="de">Jacques Herlin</rdfs:label>
+    <rdfs:label xml:lang="it">Jacques Herlin</rdfs:label>
+    <rdfs:label xml:lang="en">Jacques Herlin</rdfs:label>
+    <rdfs:label xml:lang="fr">Jacques Herlin</rdfs:label>
+    <foaf:name xml:lang="en">Herlin, Jacques</foaf:name>
+    <foaf:name xml:lang="en">Jacques Herlin</foaf:name>
+    <ns1:name xml:lang="en">Herlin, Jacques</ns1:name>
+    <ns1:name xml:lang="en">Jacques Herlin</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/James_Kay_(artist)">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1942-09-26</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1858-10-22</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Scottish</ns1:nationality>
+    <rdfs:label xml:lang="en">James Kay (artist)</rdfs:label>
+    <foaf:name xml:lang="en">Kay, James</foaf:name>
+    <foaf:name xml:lang="en">James Kay</foaf:name>
+    <ns1:name xml:lang="en">Kay, James</ns1:name>
+    <ns1:name xml:lang="en">James Kay</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Jan_Ariens_Duif">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1649</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1617</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+    <rdfs:label xml:lang="nl">Jan Ariens Duif</rdfs:label>
+    <rdfs:label xml:lang="en">Jan Ariens Duif</rdfs:label>
+    <foaf:name xml:lang="en">Duif, Jan Ariens</foaf:name>
+    <foaf:name xml:lang="en">Jan Ariens Duif</foaf:name>
+    <ns1:name xml:lang="en">Jan Ariens Duif</ns1:name>
+    <ns1:name xml:lang="en">Duif, Jan Ariens</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Jan_Gregoor">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1982-05-20</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1914-04-09</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Dutch</ns1:nationality>
+    <rdfs:label xml:lang="nl">Jan Gregoor</rdfs:label>
+    <rdfs:label xml:lang="en">Jan Gregoor</rdfs:label>
+    <foaf:name xml:lang="en">Jan Gregoor</foaf:name>
+    <foaf:name xml:lang="en">Johannes Jacobus (Jan) Gregoor</foaf:name>
+    <foaf:name xml:lang="en">Gregoor, Johannes Jacobus (Jan)</foaf:name>
+    <ns1:name xml:lang="en">Gregoor, Johannes Jacobus</ns1:name>
+    <ns1:name xml:lang="en">Jan Gregoor</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Jan_de_Bisschop">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1671</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1628</ns0:birthDate>
+    <ns1:nationality rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+    <rdfs:label xml:lang="en">Jan de Bisschop</rdfs:label>
+    <rdfs:label xml:lang="pl">Jan de Bisschop</rdfs:label>
+    <foaf:name xml:lang="en">Bisschop, Jan De</foaf:name>
+    <foaf:name xml:lang="en">Jan de Bisschop</foaf:name>
+    <foaf:name xml:lang="en">Jan De Bisschop</foaf:name>
+    <ns1:name xml:lang="en">Bisschop, Jan De</ns1:name>
+    <ns1:name xml:lang="en">Jan de Bisschop</ns1:name>
+  </ns0:Artist>
+
+  <ns0:Artist rdf:about="http://dbpedia.org/resource/Jean_Béraud">
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1935-10-04</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1849-01-12</ns0:birthDate>
+    <ns1:nationality xml:lang="en">French</ns1:nationality>
+    <rdfs:label xml:lang="es">Jean Béraud</rdfs:label>
+    <rdfs:label xml:lang="de">Jean Béraud</rdfs:label>
+    <rdfs:label xml:lang="nl">Jean Béraud</rdfs:label>
+    <rdfs:label xml:lang="fr">Jean Béraud</rdfs:label>
+    <rdfs:label xml:lang="pl">Jean Béraud</rdfs:label>
+    <rdfs:label xml:lang="pt">Jean Béraud</rdfs:label>
+    <rdfs:label xml:lang="it">Jean Béraud</rdfs:label>
+    <rdfs:label xml:lang="ru">Беро, Жан</rdfs:label>
+    <rdfs:label xml:lang="en">Jean Béraud</rdfs:label>
+    <foaf:name xml:lang="en">Jean Béraud</foaf:name>
+    <foaf:name xml:lang="en">Beraud, Jean</foaf:name>
+    <foaf:name xml:lang="en">Jean Beraud</foaf:name>
+    <ns1:name xml:lang="en">Jean Béraud</ns1:name>
+  </ns0:Artist>
+
+</rdf:RDF>

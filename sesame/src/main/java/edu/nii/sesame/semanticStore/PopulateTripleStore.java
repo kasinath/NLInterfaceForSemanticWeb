@@ -21,8 +21,8 @@ public class PopulateTripleStore {
 
 	public  void populate(RepositoryConnection conn) throws RDFParseException, RepositoryException, IOException, MalformedQueryException, QueryEvaluationException
 	{
-		 File folder = new File(Constant.DATA_DIR);
-         for( File fileEntry : folder.listFiles())
+		File folder = new File(getClass().getClassLoader().getResource(Constant.DATA_DIR).getFile());
+        for( File fileEntry : folder.listFiles())
          {
          	if(fileEntry.isFile() && fileEntry.getName().endsWith(Constant.RDF_FILE_EXTN))
          	{

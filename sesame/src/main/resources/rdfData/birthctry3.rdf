@@ -1,0 +1,4337 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://dbpedia.org/ontology/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:schema="http://schema.org/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#">
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Gallardo">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Corpus_Christi,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Raposo">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Fall_River,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johann_Wolfgang_Baumgartner">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ebbs"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Abercrombie_(guitarist)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Port_Chester,_New_York"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Bischoff_(musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/San_Francisco"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Coghlan_(drummer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Dulwich"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Dolan_(artist)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Loder_(sound_engineer)">
+    <ns0:birthPlace>
+      <ns0:AdministrativeRegion rdf:about="http://dbpedia.org/resource/Devon">
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/County108546183"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+        <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+        <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+        <rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+        <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+        <rdf:type rdf:resource="http://schema.org/Place"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Region"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+        <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Non-metropolitanCounties"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/LocalGovernmentDistrictsOfSouthWestEngland"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+        <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+        <foaf:name xml:lang="en">Devon</foaf:name>
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </ns0:AdministrativeRegion>
+    </ns0:birthPlace>
+
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Newton_Abbot"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Oliver_(comedian)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Birmingham"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Paul_Jones_(artist)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Indianola,_Iowa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Pierce_(country_singer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Montana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joker_(musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bristol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Donahue">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kingston,_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Pugh">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Worcester"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joni_T._Johnson">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Swayzee,_Indiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Abboud">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Boston"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Rouleau">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Matane"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/José_Luis_Appleyard">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Asunción"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jozef_Peeters">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Antwerp">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Belgium"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juan_de_Valdés_Leal">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Seville"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jules_Dupré">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Nantes"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julia_Lee_(musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Boonville,_Missouri"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K_(Indian_composer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Nagapattinam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kagami_Yoshimizu">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Saitama_Prefecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kai_Althoff">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Cologne">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaka_(singer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Allerød_Municipality"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kalle_Mattson">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sault_Ste._Marie,_Ontario"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kalle_Randalu">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tallinn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Davydov">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kuldīga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kat_Edmonson">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Houston"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katerina_Stikoudi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Thessaloniki"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsutaro_Kouta">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kell_Osborne">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Birmingham,_Alabama"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Ascher">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Washington,_D.C."/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kent_Marcum">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Michigan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keren_Woodward">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bristol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Fagan_(cartoonist)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Inglewood,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Johnson_(singer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Rockhampton"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitana_Baker">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Anaheim,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kristyna_Myles">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Leicester"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurdt_Vanderhoof">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Washington_(state)"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Aberdeen,_Washington"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurt_Hugo_Schneider">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Baltimore"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Maryland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyoko_Ayana">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kanagawa_Prefecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōichi_Tōchika">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Osaka_Prefecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Grande_Sophie">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Thionville"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_(American_rapper)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Georgia_(U.S._state)"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Talbotton,_Georgia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_June">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Doncaster"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lange_Frans">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Larry_Blackmon">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Larry_Knechtel">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bell,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Larry_Rivers">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/The_Bronx"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Latimore_(musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Charleston,_Tennessee"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lavell_Crawford">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/St._Louis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lazzaro_Baldi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Pistoia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Le_Grand_Kallé">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Matadi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lea_Gottlieb">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sajószentpéter"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lebo_M.">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Soweto"/>
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Johannesburg">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/South_Africa"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Dorman">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/St._Louis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leiva_(singer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Madrid"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lena_Bergman">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leon_Kroll">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonid_Mikhailovich_Kharitonov">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Irkutsk"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lisa_Hannigan">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/County_Meath">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kilcloon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lisa_Tucker_(singer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Anaheim,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ljubomir_Popović">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tuzla"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Ahriman">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Luleå"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Cottrell,_Jr.">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_Orleans"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Köhler">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Braunschweig"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luciano_(DJ)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sainte-Croix,_Switzerland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucie_Bílá">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Otvovice"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucy_Orta">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sutton_Coldfield"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Warwickshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludovico_Mazzanti">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Orvieto"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludovico_Trasi">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Ascoli_Piceno">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luisa_Bradshaw-White">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Eastcote"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Greater_London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luisa_Roldán">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Seville"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luisa_Värk">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Elva,_Estonia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luís_Filipe_Teixeira">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Luanda"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MC_Layla">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Perth"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Western_Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maestro_(producer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Connecticut"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mafalda_Veiga">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Lisbon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maja_Nikolić">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Niš"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malini_Rajurkar">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Rajasthan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcia_Griffiths">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kingston,_Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Pia_De_Vito">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Naples"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariano_Mores">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Buenos_Aires"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marie_Ault">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Wigan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariette_Hansson">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Harplinge"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marija_Gluvakov">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Senta"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marija_Lucija_Stupica">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ljubljana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marija_Mitrović">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Leskovac">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Serbia"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marija_Ugrica">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Belgrade"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marija_Šerifović">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Kragujevac">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Serbia"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marshall_Lytle">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Old_Fort,_North_Carolina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martha_Joy_Gottfried">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Glendale,_Arizona"/>
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Arizona">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Lewis_(English_actor)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kent"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Blackheath,_London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matt_Sherrod">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matthijs_Naiveu">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Leiden">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Winnick">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Manchester"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Cooper_(electronica_musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Belfast"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Melita_Vovk">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bled">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Slovenia"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Bacon_(musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Bowen_(artist)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Beverly_Hills,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Demers">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Fort_Lauderdale,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Ellis_(producer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Panama_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_English_(singer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kenansville,_North_Carolina"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/North_Carolina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Stuart">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Willems">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Schiedam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Zilber">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Vancouver"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michiru_Yuimoto">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michiru_Ōshima">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Nagasaki"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mick_Cripps">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miguel_Gallardo_(singer)">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Granada">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Spain"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikayil_Abdullayev">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Baku">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Azerbaijan"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Hazlewood">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/West_Sussex"/>
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Cuckfield">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/West_Sussex"/>
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikel_Erentxun">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Caracas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikel_Laboa">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/San_Sebastián"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikelangelo_Loconte">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Cerignola">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milan_Nikolić_(musician)">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Jagodina">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Serbia"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mindy_White">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Houston"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miri_Aloni">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Givatayim"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miri_Ben-Ari">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ramat_Gan"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tel_Aviv"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miri_Hanai">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyoko_Asada">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Motti_Mizrachi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tel_Aviv"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mukesh_(singer)">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Delhi">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nana_Kitade">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Hokkaido"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naná_Vasconcelos">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Recife"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoko_Yamano">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Osaka_Prefecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Narciso_Figueroa">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Aguadilla,_Puerto_Rico">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Puerto_Rico"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nat_Stuckey">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Cass_County,_Texas">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nathan_Leigh_Jones">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Adelaide"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natsumi_Itsuki">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Kobe">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Japan"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Hyōgo_Prefecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nellie_Lutcher">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Lake_Charles,_Louisiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Harmer">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Landstuhl"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicola_Benedetti">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/West_Kilbride"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nigel_Olsson">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Wallasey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikki_Jayne">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Wigan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nocera_(singer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sicily"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norma_Jean_Wright">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Elyria,_Ohio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norrie_Paramor">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omar_Khorshid">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Cairo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pancho_Prin">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Cúa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Evans_(musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Queens"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Hanley_(musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Manchester"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Potts">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kingswood,_South_Gloucestershire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Percy_Jones_(musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Llandrindod_Wells"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Appleyard">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Cleethorpes"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Lincolnshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petra_Marklund">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phineas_Newborn,_Jr.">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Whiteville,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poppy_Morgan">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Kingston_upon_Hull">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rab_Noakes">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/St_Andrews"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rafael_Yela_Günther">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Guatemala_City"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Quetzaltenango"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raffaëla_Paton">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ramón_Nomar">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Caracas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ransome_Gillett_Holdridge">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/San_Francisco"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ray_Eberle">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Mechanicville,_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reiko_Oshida">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kyoto"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richie_Zito">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Brooklyn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rickey_Medlocke">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Jacksonville,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ricky_Valance">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Ynysddu">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rik_Fox">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Amityville,_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rik_Offenberger">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Norwalk,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rik_Waller">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Gillingham,_Kent"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Folk">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Grey_(musician)">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Leicestershire">
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/County108546183"/>
+        <rdf:type rdf:resource="http://schema.org/Place"/>
+        <rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+        <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Non-metropolitanCounties"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+        <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+        <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+        <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+        <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Region"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+        <foaf:name xml:lang="en">Leicestershire</foaf:name>
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Marefield"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Kirkman">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Richmond,_Kentucky"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Long_(singer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Utrecht"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Schimmel">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/The_Bronx"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rodrigo_Crespo">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Buenos_Aires"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_Penney">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Worcester,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rola_Saad_(producer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Beirut"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ron_%22Bumblefoot%22_Thal">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Brooklyn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ross_Childress">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Stockbridge,_Georgia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryan_Shore">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Toronto"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryan_Shuck">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Taft,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sabah_(singer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bdadoun"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sam_Rivers_(bassist)">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Edmonton">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sam_Wagstaff">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sami_Yusuf">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tehran"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sammy_Figueroa">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/The_Bronx"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanchez_(singer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kingston,_Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarah-Jane_Potts">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bradford"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/West_Yorkshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarah_Haskins_(comedian)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scott_H._Biram">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Lockhart,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scott_MacIntyre">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Redondo_Beach,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Screwdriver_(musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Saint_James_Parish,_Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seaman_Dan">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Queensland"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Thursday_Island,_Queensland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shanti_Wintergate">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shu_Chang_(actress)">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Baishan">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/China"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siku_(comics)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Leicester"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sol_Brodsky">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Brooklyn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonny_Greer">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_Jersey"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Long_Branch,_New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonny_Landreth">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Canton,_Mississippi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonny_Simmons">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Louisiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonny_Stitt">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Boston"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonny_Terry">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Greensboro,_Georgia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sonu_Nigam">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Faridabad">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Haryana">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophie_Hunger">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bern">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Switzerland"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanley_Marsh_3">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Texas"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Amarillo,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stefano_Langone">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kent,_Washington"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bellevue,_Washington"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stefano_Pilati">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Lombardy"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Milan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Shore">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Lawler">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Birmingham"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Mackey">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sheffield"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Weingart">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Dayton,_Ohio"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ohio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tanja_Mihhailova">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kaliningrad"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tara_Slone">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Montreal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tarra_White">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ostrava"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TeQuila">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Cuanza_Sul_Province">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Angola"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ted_Preuss">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Aurora,_Colorado"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teo_(singer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Khidry"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thanasis_Papakonstantinou">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tyrnavos"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Shaw_(sculptor)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Belfast"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Todd_Youth">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Angelripper">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Gelsenkirchen">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Taylor_(writer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Melbourne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ton_Koopman">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Zwolle"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tongai_Moyo">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Kwekwe">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Zimbabwe"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toni_Tennille">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Montgomery,_Alabama"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiko_Akiyoshi">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Liaoyang">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/China"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Traian_Trestioreanu">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ploiești"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tricky_Stewart">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Illinois"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trijntje_Oosterhuis">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trần_Thu_Hà">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Hanoi">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Vietnam"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsubasa_Otomiya">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ula_Ložar">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ljubljana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanna_(singer)">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Koprivnica">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Croatia"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Velva_Darnell">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Kentucky">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vince_Hill">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Coventry"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vince_White">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Scotto">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Marseille"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vinnie_Vincent">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bridgeport,_Connecticut"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vlado_Georgiev">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Dubrovnik">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Croatia"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Véronique_Béliveau">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Montreal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wanda_Koop">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Vancouver"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wendy_Whoppers">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/St._Louis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Shade">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Memphis,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_Breuker">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_Kalf">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Rotterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_Pieterszoon_Buytewech">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Rotterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_Sandberg">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Amersfoort">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willem_de_Kooning">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Rotterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_B._T._Trego">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Yardley,_Pennsylvania"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_H._Mosby">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sioux_City,_Iowa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Hart_(painter)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kilmarnock"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Reid_(musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/East_Kilbride"/>
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Glasgow">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xul_Solar">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/San_Fernando,_Buenos_Aires"/>
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Buenos_Aires_Province">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Argentina"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yaroslav_Krestovsky">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasmin_K.">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Soufrière,_Saint_Lucia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshino_Kimura">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yu_Shirota">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yung_Joc">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Georgia_(U.S._state)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yvette_Giraud">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zainul_Abedin">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Mymensingh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zazie">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Boulogne-Billancourt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zizi_Possi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/São_Paulo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zoltán_Mujahid">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Karachi">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Pakistan"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Åse_Kleveland">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_Corley">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Wichita,_Kansas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Eckstine">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Pittsburgh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bizzy_Bone">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Columbus,_Ohio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Hill">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/West_Bromwich"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kerim_Tekin">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Erzincan">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Turkey"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luckey_Roberts">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boz_Burrell">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Lincolnshire"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Holbeach"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dodo_Marmarosa">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Pittsburgh"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Brockhurst">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Birmingham"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gloria_Leonard">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/The_Bronx"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Dennis">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kettering"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Pepper">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Palestine,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minnie_Riperton">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Illinois"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Pettiford">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Oklahoma"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Okmulgee,_Oklahoma"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Lynott">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Staffordshire"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/West_Bromwich"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Birmingham"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Norman">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Stepney"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Hart">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Nevada"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Las_Vegas_Valley"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Will_Bradley">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Newton,_New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blind_Boy_Fuller">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/North_Carolina"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Wadesboro,_North_Carolina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Beauchard">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Nîmes"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Gedge">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bramley,_Leeds"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/West_Yorkshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Delkash">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Babol">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Iran"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Smiley">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jon_Fishman">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Philadelphia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lea_Vivot">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Šumperk"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leon_Golub">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Illinois"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nancy_Spero">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ohio"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Cleveland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pippa_Haywood">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Hatfield,_Hertfordshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sol_LeWitt">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Connecticut"/>
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Hartford,_Connecticut">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Super_Cat">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kingston,_Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tiffany_Million">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Richmond,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._L._Lloyd">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Wandsworth"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Stewart">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Kensington">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amanda_Marshall">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Toronto"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Angus_MacLise">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bridgeport,_Connecticut"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_Scandello">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bergamo">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arkhip_Kuindzhi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Mariupol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baby_Huey_(singer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Richmond,_Indiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Mantlo">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Brooklyn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Vera">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Riverside,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bukka_White">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Aberdeen,_Mississippi"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Houston,_Mississippi"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Mississippi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Simon_Clermont-Ganneau">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clay_Enos">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_the_Automator">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/San_Francisco"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domenichino">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bologna">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Bachardy">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emmanuel_Chabrier">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ambert"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Puy-de-Dôme"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erskine_Hawkins">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Birmingham,_Alabama"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fritha_Goodey">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Kingston_upon_Thames">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Surrey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Cesari">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homer_Watson">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Kitchener,_Ontario">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Padgham">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Amersham"/>
+    <ns0:birthPlace>
+      <ns0:PopulatedPlace rdf:about="http://dbpedia.org/resource/Buckinghamshire">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Region"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+        <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+        <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+        <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/County108546183"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+        <rdf:type rdf:resource="http://schema.org/Place"/>
+        <rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+        <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Non-metropolitanCounties"/>
+        <foaf:name xml:lang="en">Buckinghamshire</foaf:name>
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </ns0:PopulatedPlace>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Kramskoi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ostrogozhsk"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jay_Bentley">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Wichita,_Kansas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Smybert">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Edinburgh">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jules_Dalou">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kate_McGarrigle">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Montreal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kermit_Love">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Spring_Lake,_New_Jersey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Larry_Tee">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Washington_(state)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawren_Harris">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Brantford">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leroy_Vinnegar">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Indiana">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Minnesota"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Indianapolis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MC_Eiht">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Compton,_California"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manuel_Chabrera">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tarragona"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Quentin_de_La_Tour">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Saint-Quentin,_Aisne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minor_White">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Minneapolis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oscar_Reutersvärd">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Muehl">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Mariasdorf"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Manterola">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Mexico_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Bostaph">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Piché">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Montreal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Tobias">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Indianapolis"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petey_Pablo">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Greenville,_North_Carolina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rob_Dean">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Upper_Clapton"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryan_Idol">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Worcester,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sadegh_Hedayat">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tehran"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sally_Oldfield">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Dublin">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanisław_Wyspiański">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Kraków">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Poland"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Punt">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Rochford"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tina_Modotti">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Udine"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Wilson_(musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Hamilton,_Ontario"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_McGregor_Paxton">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Baltimore"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wolfgang_Paalen">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Vienna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wols">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Berlin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aar_Maanta">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Jijiga">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Ethiopia"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adalet_Shukurov">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sumqayit"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adam_Barry">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Worcester"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alex_Wiederin">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Feldkirch,_Vorarlberg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Aizenshtat">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Moscow"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Shmidt">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Rečyca"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Herbert_Richardson">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Birmingham"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Miyuki">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Hokkaido"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amanda_Wilkinson">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Belleville,_Ontario"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrés_Ciro_Martínez">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Buenos_Aires"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ant_Banks">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Oakland,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Bollinger">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Brooklyn"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billie_Jo_Spears">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Beaumont,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Gruen">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Brandt_(composer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sacramento,_California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Hansson">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Malmö"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Combs_(composer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Oklahoma"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dean_Alexander">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Nashville,_Tennessee"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diego_Jourdan">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Montevideo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dominick_Farinacci">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Cleveland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Jackson_(musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Texas"/>
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Dallas">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dowster">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Cwmbran"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edoardo_Raimondi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Parma"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eduardo_Serrano">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Caracas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elder_Roma_Wilson">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Hickory_Flat,_Mississippi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emily_Chu">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Firoz_Dastur">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Mumbai"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Taconet">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Mont-Saint-Aignan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gladys_Horton">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Gainesville,_Florida"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guy_Hovis">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tupelo,_Mississippi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HD_Schrader">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bad_Klosterlausnitz"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanns_Bolz">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Aachen">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hari_Tokeino">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Chiba_Prefecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helena_Pickard">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sheffield"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._Anthony_Brown">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Columbia,_South_Carolina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JAKAZiD">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Portsmouth"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jan_Hackaert">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Amsterdam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Bruce">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Surrey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joel_Chasnoff">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Chicago"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Copnall">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Slinfold"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Elfström">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ånge_Municipality"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Nzenze">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Muthurwa"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Nairobi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Takawira">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Chegutu">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Zimbabwe"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_Alf">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Rio_de_Janeiro"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathon_Morris">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Urmston"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Lancashire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Allworthy">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Pennsylvania"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juli_Ashton">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Colorado_Springs,_Colorado"/>
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Colorado">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julien-Honoré-Germain_d'Aubuisson">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Toulouse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Forbes">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Toronto"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Raleigh">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ohio"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Cleveland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurt_Lockwood">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Maryland"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Baltimore"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kåre_Thomsen">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bergen">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Norway"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lajos_Tihanyi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Budapest"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lou_Ann_Barton">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Fort_Worth,_Texas"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luc_De_Vos">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Evergem"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcus_Collins_(singer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Merseyside"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marianne_Csaky">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Budapest"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Wyldeck">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Warwickshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Hindley">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Cape_Town"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Melvil_Poupaud">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michele_Cortegiani">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sicily"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Palermo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Collins_(comics)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/West_Bromwich"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mona_Abou_Hamza">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Beirut"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mosè_Turri">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Milan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mr_Sufian">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tangier"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mrinal_Haque">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Rajshahi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natalie_Duncan">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Croydon">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nathaniel_Hitch">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Hertfordshire"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ware,_Hertfordshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Altobelli">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Fountain_Valley,_California"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odoardo_Toscani">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pablo_Reinoso_(designer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Buenos_Aires"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patience_Wright">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Oyster_Bay_(town),_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Plunkett">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Streatham"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Defossez">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Valenciennes"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Faivre">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Belfort"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petrit_Çeku">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Prizren"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pietro_Pajetta">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Vittorio_Veneto"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Görl">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Munich"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rowan_Gillespie">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ireland"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Blackrock,_Dublin"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roy_Forbes">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Dawson_Creek">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salim_Halali">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Annaba">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Algeria"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saverio_Dalla_Rosa">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Verona"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serabee">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kiln,_Mississippi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shaaban_Abdel_Rahim">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Cairo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shardé_Thomas">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Mississippi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/T._W._Wood">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Marylebone"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tahis">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Barcelona"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamás_Vastag">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Veszprém"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Real_Richie_Rich">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Harlem"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Pierce">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Albuquerque,_New_Mexico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomioka_Tessai">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kyoto"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_J.F._Huang">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Nantou_County"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vincent_Walker">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Washington_(state)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Rothenstein">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bradford"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoon_Doo-joon">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Goyang"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Seoul"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yves_Duval">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Etterbeek"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zohra_Al_Fassiya">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sefrou"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adriana_Maraž">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Ilirska_Bistrica">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Slovenia"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alvin_Fielder">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Meridian,_Mississippi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anaís">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Santo_Domingo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Crilly">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kent"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Pembury"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bertholet_Flemalle">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Liège"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bridget_Powers">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Idaho">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Boise,_Idaho"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Butterscotch_(performer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sacramento,_California"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camillo_Rama">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Brescia">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Candida_Royalle">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cecil_Kennedy">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Leyton"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eddie_Shu">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Fuller_(illustrator)">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Hastings,_New_Zealand">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/New_Zealand"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emilio_Bigi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Asunción"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gregory_William_Frux">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Brooklyn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Izudin_Čavrković">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tuzla"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Marcus">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_MacLeod">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcell_Jankovics">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Budapest"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mayu_Kotono">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monika_Absolonová">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Benešov">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Czech_Republic"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rene_Lopez">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/The_Bronx"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riccardo_Broschi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Naples"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ross_Eccles">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Blackburn">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spike_Cassidy">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sound_Beach,_New_York"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Sanderling">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Novosibirsk"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vince_Taylor">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Isleworth"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karashen">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Armenia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akira_Watase">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Cabrel">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Agen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hampton_Hawes">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herman_Riley">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Louisiana"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_Orleans"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jackie_Washington_(blues_musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Hamilton,_Ontario"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Darnielle">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bloomington,_Indiana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karol_Mikuli">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Chernivtsi">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Ukraine"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivia_Olson">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Los_Angeles"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/California"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Scott_(artist)">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/County_Cork">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kilbrittain"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abbie_Mitchell">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolph_Gottlieb">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adrien-François_Servais">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Halle,_Belgium">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Belgium"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_Jourgensen">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Havana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_Williamson">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alex_Bradford">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bessemer,_Alabama"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andy_Ward_(musician)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Surrey"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Epsom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Harold_Davis">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Amesbury,_Massachusetts"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Vrenna">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Erie,_Pennsylvania">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Auerbach">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Akron,_Ohio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dave_%22Snaker%22_Ray">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Saint_Paul,_Minnesota"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_Heckstall-Smith">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ludlow"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dónal_Lunny">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/County_Offaly">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ebenezer_Obey">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ogun_(state)"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_John_Gregory">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Southampton"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Ruscha">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Omaha,_Nebraska"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Ravilious">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/London"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Acton,_London"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flaco_Jiménez">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/San_Antonio"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Brangwyn">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Bruges">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Belgium"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaganendranath_Tagore">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kolkata"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Siddons_Mowbray">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandria">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Egypt"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joey_Wong">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Taipei"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jon_Lee_(drummer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Newport,_Wales"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Józef_Brandt">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Szczebrzeszyn"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K._L._Saigal">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Jammu">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Mavers">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Merseyside"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Lancashire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lounès_Matoub">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tizi_Ouzou_Province"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucien_Guitry">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Majek_Fashek">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Benin_City"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maksimilijan_Vanka">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Zagreb"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Dringenberg">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Laon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miwako_Okamura">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Münir_Nurettin_Selçuk">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sarıyer"/>
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Istanbul">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Turkey"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pannalal_Ghosh">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Barisal">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Bangladesh"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raymond_Macherot">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Verviers"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rory_Storm">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Lancashire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russ_Conway">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bristol"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Dirksz_van_Hoogstraten">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Dordrecht">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shobha_Gurtu">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Belgaum"/>
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Karnataka">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vija_Celmins">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Riga"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuen_Woo-ping">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Guangzhou"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yumi_Takada">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zoraida_Santiago">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Santurce,_San_Juan,_Puerto_Rico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/İbrahim_Tatlıses">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Şanlıurfa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akira_Kubo">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denise_Coffey">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Aldershot"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diane_Fletcher">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Derby">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Didier_Conrad">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Marseille"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julian_Bleach">
+    <ns0:birthPlace>
+      <ns0:PopulatedPlace rdf:about="http://dbpedia.org/resource/Dorset">
+        <rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+        <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+        <rdf:type rdf:resource="http://schema.org/Place"/>
+        <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/County108546183"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+        <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Non-metropolitanCounties"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+        <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Region"/>
+        <foaf:name xml:lang="en">Dorset</foaf:name>
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </ns0:PopulatedPlace>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenpachiro_Satsuma">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kagoshima_Prefecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pino_Donaggio">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Venice"/>
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Burano">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Schneider">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Cape_Town"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rowan_Atkinson">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/County_Durham">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yukiko_Kobayashi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tokyo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Würzel">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Gloucestershire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Rock">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Winnipeg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caziel">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sosnowiec"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Chapman">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Chevreuse"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_Serra_(writer)">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Alghero"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sardinia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marko_Albrecht">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Dorsten"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taïro">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aert_Mijtens">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Brussels"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agostino_Cornacchini">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Pescia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alf_Robertson">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Gothenburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Dubucand">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amir_El-Falaki">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Copenhagen">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Denmark"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bacchelli">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Barcelona"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barry_Howard">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Nottingham"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Nottinghamshire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Björn_Gedda">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Solna_Municipality"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carlton_Barrett">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kingston,_Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chen_Yunshang">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Guangzhou"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Marin">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Lyon"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_Ket">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Den_Helder">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enzo_Stuarti">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Rome"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_William_Christmas">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Yankalilla,_South_Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Antonio_Pistocchi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Palermo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giovanni_Lavezzari">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Venice"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Anastasi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Sicily"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Palermo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/He_Qun">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Beijing"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Castelli">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/São_Bernardo_do_Campo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hélène_Duc">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Bergerac,_Dordogne"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ida_Pinto-Sezzi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Florence"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishmeet_Singh">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ludhiana"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Punjab,_India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Glass">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kent"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karaikudi_Sambasiva_Iyer">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Tamil_Nadu"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Karaikudi"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Dempwolf">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Delmenhorst"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kong_Ngai">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Zhongshan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōhei_Miyauchi">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kagoshima_Prefecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lionelle_Howard">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Cirencester"/>
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Gloucestershire"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Makoto_Aida">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_Fantini">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Florence"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Van_Dyck">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Brussels"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Sadiq">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Ludhiana_district"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ocean_Hai">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Guangzhou"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Troger">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Welsberg-Taisten">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Kubelka">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Vienna"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piero_Golia">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Naples"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prasenjit_Mallick">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kolkata"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Von_White">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Kingston,_Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rodrigo_Gil_de_Hontañón">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Rascafría"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rolf_Sohlman">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Stockholm"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roža_Piščanec">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Lovrenc_na_Dravskem_Polju">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Slovenia"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruth_Tarvydas">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Kempten">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Corona">
+    <ns0:birthPlace>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Chihuahua_(state)">
+        <ns0:country rdf:resource="http://dbpedia.org/resource/Mexico"/>
+      </rdf:Description>
+    </ns0:birthPlace>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tracey_Lain">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Soest,_Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woodson_Michel">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Port-au-Prince"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuri_Belov">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Saint_Petersburg"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Étienne_Delaune">
+    <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/Orléans"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bátya">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Hungary"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Biscay">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Spain"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bog_Walk">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bugojno">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Bosnia_and_Herzegovina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burgohondo">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Spain"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chimalhuacán">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Mexico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doboj">
+    <ns0:country>
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Republika_Srpska">
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/FormerUnrecognizedCountries"/>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/StatesAndTerritoriesEstablishedIn1992"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+        <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+        <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+        <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+        <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+        <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+        <rdf:type rdf:resource="http://schema.org/Place"/>
+        <rdf:type rdf:resource="http://schema.org/Country"/>
+        <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+        <foaf:name xml:lang="en">Republika Srpska</foaf:name>
+      </rdf:Description>
+    </ns0:country>
+
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Bosnia_and_Herzegovina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dragalovci">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Bosnia_and_Herzegovina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jessheim">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Norway"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mavis_Bank">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/May_Pen">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oranjestad,_Aruba">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Aruba"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Betancourt">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Cuba"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Port_Antonio">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portland_Parish">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reggio_Emilia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Andrew_Parish,_Jamaica">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Catherine_Parish">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Jamaica"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santa_Clara,_Cuba">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Cuba"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanley,_Falkland_Islands">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Terceira_Island">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Portugal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turin">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tuxtla_Gutiérrez">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Mexico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boston">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solon_Township,_Leelanau_County,_Michigan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eunpyeong_District">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/South_Korea"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abbeville">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coburg,_Victoria">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fort_Lee,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fulton,_Maryland">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Knoxville,_Tennessee">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Notting_Hill">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odessa,_Texas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glace_Bay">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Coruña">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Spain"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aba,_Abia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Nigeria"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abadan,_Iran">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Iran"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Accra">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Ghana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Addis_Ababa">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Ethiopia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aden">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Yemen"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahvaz">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Iran"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aiken,_South_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alabama">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alamosa,_Colorado">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alaska">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amsterdam">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrews,_Texas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ankara">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Turkey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antigua">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Barbuda"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arequipa">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Peru"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ariquemes">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Brazil"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arkansas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnhem">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asiago">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assam">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asunción">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Paraguay"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Augsburg">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Badajoz">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Spain"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baden-Württemberg">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bagata,_Bandundu">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Democratic_Republic_of_the_Congo"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bali">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Indonesia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballarat">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baltimore">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bandung">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Indonesia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baone">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barcelona">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Spain"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barpeta">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Basque_Country_(autonomous_community)">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Spain"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bath,_Somerset">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baton_Rouge,_Louisiana">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belo_Horizonte">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Brazil"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bengbu">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/China"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Berbera">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Somaliland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bergen,_North_Holland">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Berkshire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bikaner">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bogotá">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Colombia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bonn">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boone_County,_West_Virginia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boorowa">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Australia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Borgonovo_Val_Tidone">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Borujerd">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Iran"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bottrop">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brampton">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bratislava">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Slovakia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Breda">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bridgend">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bristol">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bromley">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brussels">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Belgium"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bucharest">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Romania"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Budapest">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Hungary"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buenos_Aires">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Argentina"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Busan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/South_Korea"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Busto_Arsizio">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caerphilly">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cairo">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Egypt"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Calhoun_County,_Mississippi">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cambridge">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <schema:AdministrativeArea rdf:about="http://dbpedia.org/resource/Cambridgeshire">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Non-metropolitanCounties"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/County108546183"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <foaf:name xml:lang="en">Cambridgeshire</foaf:name>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </schema:AdministrativeArea>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camden,_New_Jersey">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caracas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Venezuela"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cardiff">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carmagnola">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carmarthen">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Castellammare_di_Stabia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catalonia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Spain"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catania">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Celle">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cento">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cesena">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Champaign,_Illinois">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charleston,_South_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlottesville,_Virginia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chennai">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cheshire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiapas">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Mexico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiayi_County">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Taiwan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chittagong">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Bangladesh"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chomutov">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Czech_Republic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clarke_County,_Georgia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colombo">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Sri_Lanka"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Connecticut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constantine,_Algeria">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Algeria"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Conwy">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Correggio,_Emilia-Romagna">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Dublin">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Kildare">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Tipperary">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Waterford">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/County_Wicklow">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Republic_of_Ireland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cremona">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crimea">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Russia"/>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Ukraine"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cumbria">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NUTS2StatisticalRegionsOfTheUnitedKingdom"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Non-metropolitanCounties"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/County108546183"/>
+    <foaf:name xml:lang="en">Cumbria</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Córdoba,_Andalusia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Spain"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dagestan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Russia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dakar">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Senegal"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Danderyd_Municipality">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Sweden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dar_es_Salaam">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Tanzania"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Delta_State">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Nigeria"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denver">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derbyshire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derry">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deventer">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dezful">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Iran"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doha">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Qatar"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dolbeau-Mistassini">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dumfries">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dundee">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dunedin">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/New_Zealand"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Durango">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Mexico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ealing">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_London,_Eastern_Cape">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/South_Africa"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Riding_of_Yorkshire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <ns0:Region rdf:about="http://dbpedia.org/resource/East_Sussex">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/County108546183"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Non-metropolitanCounties"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+    <foaf:name xml:lang="en">East Sussex</foaf:name>
+  </ns0:Region>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edo">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Japan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eindhoven">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emilia-Romagna">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eskilstuna">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Sweden"/>
+  </rdf:Description>
+
+  <ns0:AdministrativeRegion rdf:about="http://dbpedia.org/resource/Essex">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NUTS2StatisticalRegionsOfTheUnitedKingdom"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/County108546183"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Non-metropolitanCounties"/>
+    <foaf:name xml:lang="en">Essex</foaf:name>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </ns0:AdministrativeRegion>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faisalabad">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Pakistan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrara">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Florence">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Florida">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Foligno">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fontanetto_Po">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frankfurt">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Freetown">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Sierra_Leone"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fresno,_California">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujinomiya,_Shizuoka">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Japan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukuoka">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Japan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fulham">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galatina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geneva">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Switzerland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Genoa">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgia_(U.S._state)">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Getxo">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Spain"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giza">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Egypt"/>
+  </rdf:Description>
+
+  <owl:Thing rdf:about="http://dbpedia.org/resource/Gloucestershire">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Non-metropolitanCounties"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/County108546183"/>
+    <foaf:name xml:lang="en">Gloucestershire</foaf:name>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </owl:Thing>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Graz">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Austria"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greenville,_South_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greenwood,_South_Carolina">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guanajuato">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Mexico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guangzhou">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/China"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gubbio">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guelph">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guilin">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/China"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gujarat">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haarlem">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hadano,_Kanagawa">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Japan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haifa">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Israel"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hakodate,_Hokkaido">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Japan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamilton,_Ontario">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harare">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Zimbabwe"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hartlepool">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hellendoorn">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helmond">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helsingborg">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Sweden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henderson,_Kentucky">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herefordshire">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NUTS3StatisticalRegionsOfTheUnitedKingdom"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LocalGovernmentDistrictsOfTheWestMidlands(region)"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+    <foaf:name xml:lang="en">Herefordshire</foaf:name>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hermosillo">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Mexico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hilvarenbeek">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshima">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Japan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ho_Chi_Minh_City">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Vietnam"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holguín">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Cuba"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honolulu">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hopewell,_Virginia">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hoshiarpur">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Huila_Department">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Colombia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Huntingdon,_Pennsylvania">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyderabad">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Illinois">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indre-et-Loire">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/France"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Innisfil">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irapuato">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Mexico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isle_of_Wight">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Islington">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaipur">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jakarta">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Indonesia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jalandhar">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jamnagar">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaén,_Spain">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Spain"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jihlava">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Czech_Republic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jodhpur">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jokkmokk">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Sweden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jos">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Nigeria"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juiz_de_Fora">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Brazil"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kabul">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Afghanistan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kachin_State">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Myanmar"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kalamazoo,_Michigan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamloops">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kannur">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaohsiung">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Taiwan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karlovy_Vary">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Czech_Republic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karlstad">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Sweden"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kars_Province">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Turkey"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashan">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Iran"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keelung">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Taiwan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kelowna">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+  </rdf:Description>
+
+  <schema:AdministrativeArea rdf:about="http://dbpedia.org/resource/Kent">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/County108546183"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Non-metropolitanCounties"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <foaf:name xml:lang="en">Kent</foaf:name>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </schema:AdministrativeArea>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kerala">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kharkiv">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Ukraine"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khartoum">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Sudan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiev">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Ukraine"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kirkuk">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Iraq"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitsman">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Ukraine"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kollam">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/India"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Konya">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Turkey"/>
+  </rdf:Description>
+
+  <ns0:PopulatedPlace rdf:about="http://dbpedia.org/resource/Kosovo">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Economy108366753"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DisputedTerritoriesInEurope"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/System108435388"/>
+    <foaf:name xml:lang="en">font-size:88%;</foaf:name>
+    <foaf:name xml:lang="en">Kosovo</foaf:name>
+  </ns0:PopulatedPlace>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koszalin">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Poland"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kovel">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Ukraine"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Krasnoyarsk">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Russia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kristiansand">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Norway"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumasi">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Ghana"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyoto">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Japan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Paz,_Baja_California_Sur">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Mexico"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lagos">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Nigeria"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lagos_State">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Nigeria"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lambeth">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lamoille_County,_Vermont">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+  </rdf:Description>
+
+  <ns0:Place rdf:about="http://dbpedia.org/resource/Lancashire">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/County108546183"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Non-metropolitanCounties"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NUTS2StatisticalRegionsOfTheUnitedKingdom"/>
+    <foaf:name xml:lang="en">Lancashire</foaf:name>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </ns0:Place>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Landshut">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Germany"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Larne">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lecce">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leicester">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leiderdorp">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Netherlands"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leporano">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Italy"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Levice">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Slovakia"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lillooet">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Canada"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lima">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/Peru"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Limpopo">
+    <ns0:country rdf:resource="http://dbpedia.org/resource/South_Africa"/>
+  </rdf:Description>
+
+  <schema:AdministrativeArea rdf:about="http://dbpedia.org/resource/Lincolnshire">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+    <rdf:type rdf:resource="http://schema.org/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NUTS2StatisticalRegionsOfTheEuropeanUnion"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <foaf:name xml:lang="en">Lincolnshire</foaf:name>
+    <ns0:country rdf:resource="http://dbpedia.org/resource/United_Kingdom"/>
+  </schema:AdministrativeArea>
+
+</rdf:RDF>
