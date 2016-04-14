@@ -20,7 +20,8 @@ public class App
             PopulateTripleStore popTripleStore = new PopulateTripleStore();
             popTripleStore.populate(conn);
            
-            
+            Gazeteer gazeteer = new Gazeteer();
+            gazeteer.generateIndex(conn);
            
             Util.closeConn(conn);
 
