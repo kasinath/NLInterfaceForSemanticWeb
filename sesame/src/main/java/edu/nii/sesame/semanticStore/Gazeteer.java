@@ -18,8 +18,51 @@ import org.openrdf.repository.RepositoryException;
 
 public class Gazeteer {
 
-	private Map<String,String> index = new HashMap<String, String>();
+	public Map<String,String> index = new HashMap<String, String>();
+	public Map<String,String> properties = new HashMap<String, String>();
 	
+	
+	public void printProperties(RepositoryConnection conn) throws RepositoryException, MalformedQueryException, QueryEvaluationException
+	{
+		String prefix = "PREFIX rdfs:	<http://www.w3.org/2000/01/rdf-schema#>\n";
+		prefix += "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\n";
+		prefix += "PREFIX dbo: <http://dbpedia.org/ontology/>\n";
+		prefix += "PREFIX dbp: <http://dbpedia.org/property/>\n";
+		prefix += "PREFIX foaf: <http://xmlns.com/foaf/0.1/>\n";
+     	
+		ArrayList<String> queries = new ArrayList<String>();
+		queries.add("SELECT DISTINCT ?p WHERE {?s ?p ?o.}");
+		
+		int len=0;
+		for(String queryString : queries)
+		{
+			TupleQuery tupleQuery = conn.prepareTupleQuery(QueryLanguage.SPARQL, prefix + queryString);
+	     	TupleQueryResult  result =  tupleQuery.evaluate();
+	     	
+	     	while (result.hasNext()) 
+	     	{  
+	     		BindingSet bindingSet = result.next();
+	     		String valueOfX = bindingSet.getValue("p").toString();
+	     		
+	     		int indexHash  = valueOfX.lastIndexOf("#");
+	     		int index= valueOfX.lastIndexOf("/");
+	     		if(indexHash > index)
+	     				index = indexHash;
+	     		
+	     		
+	     		System.out.println(valueOfX.substring(index+1) + " :: " +valueOfX.toString() );
+	     		properties.put(valueOfX.substring(index), valueOfX.toString());
+	     		len++;
+
+	         }
+	     	
+
+		}
+		
+		System.out.println(len);
+		System.out.println(index.size());
+		
+	}
 	
 	public void generateIndex(RepositoryConnection conn) throws RepositoryException, MalformedQueryException, QueryEvaluationException
 	{
@@ -50,7 +93,7 @@ public class Gazeteer {
 		     		Matcher m = pat.matcher(valueOfY);
 		     		if(m.matches())
 		     			valueOfY = m.group(1);
-		     		System.out.println(valueOfX.toString() + "  :: " + valueOfY );
+		     		//System.out.println(valueOfX.toString() + "  :: " + valueOfY );
 		     		index.put(valueOfY.toString(), valueOfX.toString());
 		     		len++;
 
