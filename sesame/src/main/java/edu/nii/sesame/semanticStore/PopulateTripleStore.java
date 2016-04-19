@@ -26,7 +26,7 @@ public class PopulateTripleStore {
          {
          	if(fileEntry.isFile() && fileEntry.getName().endsWith(Constant.RDF_FILE_EXTN))
          	{
-         		System.out.println(fileEntry.getName());
+         		//System.out.println(fileEntry.getAbsolutePath());
          		conn.add(fileEntry, "file://" + fileEntry.getAbsolutePath(), RDFFormat.RDFXML);
          		
          	}

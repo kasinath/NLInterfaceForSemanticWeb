@@ -16,6 +16,20 @@
     <ns1:name xml:lang="en">Rozelaar Green, Alfred</ns1:name>
     <ns1:name xml:lang="en">Alfred Rozelaar Green</ns1:name>
   </rdf:Description>
+  
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raphael">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1483-03-28</ns0:deathDate>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1520-04-06</ns0:birthDate>
+    <ns1:nationality xml:lang="en">Italian</ns1:nationality>
+    <rdfs:label xml:lang="en">Raphael</rdfs:label>
+    <foaf:name xml:lang="en">Raphael</foaf:name>
+</rdf:Description>
+  
+    <ns0:Artist rdf:about="http://dbpedia.org/resource/Raphael">
+	<ns1:nationality xml:lang="en">Italian</ns1:nationality>
+   
+  </ns0:Artist>
 
   <ns0:Artist rdf:about="http://dbpedia.org/resource/Daina_Skadmane">
     <ns0:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-11-21</ns0:deathDate>

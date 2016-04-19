@@ -1,5 +1,6 @@
 package edu.nii.sesame.semanticStore;
 
+import edu.nii.sesame.utils.Util;
 import info.debatty.java.stringsimilarity.JaroWinkler;
 
 public class Similarity {
@@ -14,7 +15,7 @@ public class Similarity {
 		{
 			if(jw.similarity(y, s) > max)
 			{
-				max = jw.similarity(y, s);
+				max = jw.similarity(Util.normalize(y), Util.normalize(s));
 				match = y;
 			}
 		}

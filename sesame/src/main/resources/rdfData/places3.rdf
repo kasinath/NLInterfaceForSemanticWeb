@@ -1908,11 +1908,6 @@
     <ns0:birthPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
   </rdf:Description>
 
-  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingdom_of_France">
-    <foaf:name xml:lang="en">France</foaf:name>
-    <foaf:name xml:lang="en">Royaume de France</foaf:name>
-    <foaf:name xml:lang="en">Kingdom of France</foaf:name>
-  </rdf:Description>
 
   <rdf:Description rdf:about="http://dbpedia.org/resource/Kārlis_Padegs">
     <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Riga"/>

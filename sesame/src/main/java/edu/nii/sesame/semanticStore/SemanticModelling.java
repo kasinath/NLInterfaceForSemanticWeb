@@ -21,7 +21,7 @@ public class SemanticModelling
             popTripleStore.populate(conn);
            
             Gazeteer gazeteer = new Gazeteer();
-            gazeteer.generateIndex(conn);
+            gazeteer.preProcess(Util.getRepo(), Util.getConn());
            
             Util.closeConn(conn);
 

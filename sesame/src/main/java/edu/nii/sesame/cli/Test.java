@@ -23,25 +23,27 @@ public class Test {
     
 	public static void main(String[] args) throws RepositoryException, RDFParseException, MalformedQueryException, QueryEvaluationException, IOException {
 		
+		Util.initRepo();
 		 RepositoryConnection conn = Util.getConn();
          
          PopulateTripleStore popTripleStore = new PopulateTripleStore();
          popTripleStore.populate(conn);
         
+         gazeteer.preProcess(Util.getRepo(), Util.getConn());
         
-         gazeteer.generateIndex(conn);
-         gazeteer.printProperties(conn);
+
          
          
          
-		test_movement();
+		/*test_movement();
 		test_geography();
 		test_dates();
-		test_influence();
+		test_influence();*/
 		test_Artwork();
-	    
+		/*
+		*/
 	}
-	private static void test_Artwork()
+	private static void test_Artwork() throws RepositoryException, MalformedQueryException, QueryEvaluationException
 	{
 		List<String> questions = new ArrayList<String>();
 		questions.add( "Which artist had the most number of art works");
@@ -50,27 +52,27 @@ public class Test {
 
 		test(questions);				
 	}
-	private static void test_influence() {
+	private static void test_influence() throws RepositoryException, MalformedQueryException, QueryEvaluationException {
 		List<String> questions = new ArrayList<String>();
-		questions.add( "Which artists did Picasso influence/inspire?");
-		questions.add( "Which artists were influenced by Picasso?");
-		questions.add("Which artists were influenced by Picasso?");
+		questions.add( "Which artists did Raphael influence?");
+		questions.add( "Which artists were influenced by Raphael?");
+		questions.add("Which artists were influenced by Raphael?");
 
 		test(questions);		
 	}
-	private static void test_dates() {
+	private static void test_dates() throws RepositoryException, MalformedQueryException, QueryEvaluationException {
 		List<String> questions = new ArrayList<String>();
-		questions.add( "Which artists were born in the 15th century");
+		//questions.add( "Which artists were born in the 15th century");
 		questions.add( "Which artists were born in 1654");
 		questions.add("Which artists were born in 1650s");
 		questions.add("Which artists died in 1654");
 		questions.add("Which artists died in 1650s");
-		questions.add("When did Picasso die?");
+		questions.add("When did Raphael die?");
 		
 		test(questions);
 		
 	}
-	public static void test_geography()
+	public static void test_geography() throws RepositoryException, MalformedQueryException, QueryEvaluationException
 	{
 		
 		List<String> questions = new ArrayList<String>();
@@ -79,12 +81,12 @@ public class Test {
 		
 	//	questions.add( "Which artists came from Picasso's hometown");
 		questions.add("Where did Picasso die");
-		questions.add("Did Picasso die in Europe?");
+		questions.add("Did Picasso die in Japan?");
 		test(questions);
 		
 	}
 	
-	public static void test_movement()
+	public static void test_movement() throws RepositoryException, MalformedQueryException, QueryEvaluationException
 	{
 		
 		List<String> questions = new ArrayList<String>();
@@ -97,7 +99,7 @@ public class Test {
 		
 	}
 	
-	public static void test(List<String> questions)
+	public static void test(List<String> questions) throws RepositoryException, MalformedQueryException, QueryEvaluationException
 	{
 		for(String  question : questions)
 		{
@@ -107,9 +109,9 @@ public class Test {
 			// tc.selectTemplate();
 			tc.extractVPNPs();
 			tc.findURIs(gazeteer);
+			tc.createTemplate(Util.getRepo(),gazeteer);
 			
 		}
-		Similarity.semanticallyClosePicasso(gazeteer);
 		
 		
 	}

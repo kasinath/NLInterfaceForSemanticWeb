@@ -1,8 +1,13 @@
 edu/nii/sesame/semanticStore/SemanticModelling.class
+edu/nii/sesame/semanticStore/Similarity.class
 edu/nii/sesame/syntacticParsing/Domain.class
+edu/nii/sesame/utils/Constant$SPARQL_QUESTION_TYPE.class
 edu/nii/sesame/utils/Constant.class
 edu/nii/sesame/syntacticParsing/TemplateCreation.class
+edu/nii/sesame/syntacticParsing/Phrase.class
 edu/nii/sesame/utils/Util.class
+edu/nii/sesame/utils/Constant$QUESTION_TYPE.class
+edu/nii/sesame/utils/ParseTreeUtils.class
 edu/nii/sesame/semanticStore/PopulateTripleStore.class
 edu/nii/sesame/semanticStore/Gazeteer.class
 edu/nii/sesame/syntacticParsing/Triple.class

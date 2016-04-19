@@ -14,8 +14,18 @@ public class SPARQLTemplate {
 	Tree parse;
 	List<Phrase> phrases;
 	SPARQL_QUESTION_TYPE quesType ;
+	QUESTION_TYPE qType ;
 	
 	
+	public String toString()
+	{
+		String x = "";
+		for(Phrase p : phrases)
+		{
+			x += (p.toString() + "\n");
+		}
+		return x;
+	}
 	
 	
 	

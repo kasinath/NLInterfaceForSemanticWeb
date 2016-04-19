@@ -2234,7 +2234,7 @@
 
   <rdf:Description rdf:about="http://dbpedia.org/resource/Amedeo_Modigliani">
     <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/Paris"/>
-    <ns0:deathPlace rdf:resource="http://dbpedia.org/resource/French_Third_Republic"/>
+   
     <ns0:birthPlace>
       <rdf:Description rdf:about="http://dbpedia.org/resource/Livorno">
         <foaf:name xml:lang="en">Comune di Livorno</foaf:name>

@@ -1734,7 +1734,7 @@
 
   <rdf:Description rdf:about="http://dbpedia.org/resource/Librado_Net">
     <ns0:movement rdf:resource="http://dbpedia.org/resource/Pre-Raphaelite_Brotherhood"/>
-    <ns0:movement rdf:resource="http://dbpedia.org/resource/Raphael"/>
+   
   </rdf:Description>
 
   <rdf:Description rdf:about="http://dbpedia.org/resource/David_Boyd_(artist)">
