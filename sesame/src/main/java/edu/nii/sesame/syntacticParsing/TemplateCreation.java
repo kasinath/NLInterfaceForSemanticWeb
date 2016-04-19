@@ -387,11 +387,11 @@ public class TemplateCreation {
 			System.out.println("SELECT ?s COUNT(?o) \nWHERE\n{");
 		}
 		
-		for(int i=0;i<subjects.size();i++)
-			System.out.println( "\t" + subjects.get(i) + " dbo:author " + " ?o" + " .");
+		//for(int i=0;i<subjects.size();i++)
+			System.out.println( "\t ?s"  + " dbo:author " + " ?o" + " .");
 		
 		
-		System.out.println("}\n GROUP BY ?s");
+		System.out.println("}\nGROUP BY ?s");
 		if(limit!=null)
 			System.out.println(limit);
 		

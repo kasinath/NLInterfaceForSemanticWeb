@@ -35,13 +35,12 @@ public class Test {
          
          
          
-		/*test_movement();
-		test_geography();
+		test_movement();
+		//test_geography();
 		test_dates();
-		test_influence();*/
+		test_influence();
 		test_Artwork();
-		/*
-		*/
+		
 	}
 	private static void test_Artwork() throws RepositoryException, MalformedQueryException, QueryEvaluationException
 	{
